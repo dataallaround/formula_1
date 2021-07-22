@@ -1,0 +1,170 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Jackie","Stewart",12,"BRM","1",3,100,9,"2:33:10.500",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Lorenzo","Bandini",16,"Ferrari","2",5,100,6,"2:33:50.700","40.200","40.2000000476837","1:29.800",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Graham","Hill",11,"BRM","3",4,99,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Bob","Bondurant",19,"BRM","4",16,95,3,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Richie","Ginther",9,"Cooper Maserati","NC",9,80,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Guy","Ligier",21,"Cooper Maserati","NC",15,75,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Jo","Bonnier",18,"Cooper Maserati","NC",14,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Jim","Clark",4,"Lotus Climax","NC",1,60,0,NA,NA,NA,NA,NA,"1:29.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Jochen","Rindt",10,"Cooper Maserati","NC",7,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Jo","Siffert",14,"Brabham BRM","NC",13,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Mike","Spence",6,"Lotus BRM","NC",12,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Jack","Brabham",7,"Brabham Repco","NC",11,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","John","Surtees",17,"Ferrari","NC",2,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Denny","Hulme",8,"Brabham Climax","NC",6,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Bruce","McLaren",2,"McLaren Ford","NC",10,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1966,"22 May 1966","Bob","Anderson",15,"Brabham Climax","NC",8,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","John","Surtees",6,"Ferrari","1",1,28,9,"2:09:11.300",NA,NA,"4:18.700",NA,"3:38.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Jochen","Rindt",19,"Cooper Maserati","2",2,28,6,"2:09:53.399","42.100","42.0989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Lorenzo","Bandini",7,"Ferrari","3",5,27,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Jack","Brabham",3,"Brabham Repco","4",4,26,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Richie","Ginther",18,"Cooper Maserati","5",8,25,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Guy","Ligier",22,"Cooper Maserati","NC",12,24,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Dan","Gurney",27,"Eagle Climax","NC",15,23,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Bob","Bondurant",24,"BRM","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Jo","Bonnier",20,"Cooper Maserati","NC",6,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Jim","Clark",10,"Lotus Climax","NC",10,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Graham","Hill",14,"BRM","NC",9,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Denny","Hulme",4,"Brabham Climax","NC",13,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Jo","Siffert",21,"Cooper Maserati","NC",14,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Mike","Spence",16,"Lotus BRM","NC",7,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1966,"12 Jun 1966","Jackie","Stewart",15,"BRM","NC",3,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Jack","Brabham",12,"Brabham Repco","1",4,48,9,"1:48:31.300",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Mike","Parkes",22,"Ferrari","2",3,48,6,"1:48:40.799","9.500","9.49900007247925",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Denny","Hulme",14,"Brabham Repco","3",9,46,4,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Jochen","Rindt",6,"Cooper Maserati","4",5,46,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Dan","Gurney",26,"Eagle Climax","5",14,45,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","John","Taylor",44,"Brabham BRM","6",15,45,1,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Bob","Anderson",36,"Brabham Climax","7",12,44,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Chris","Amon",8,"Cooper Maserati","8",7,44,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Guy","Ligier",42,"Cooper Maserati","NC",11,42,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Pedro","Rodriguez",2,"Lotus Climax","NC",13,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Lorenzo","Bandini",20,"Ferrari","NC",1,37,0,"1","1","1","2:11.300",NA,"2:07.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Jo","Bonnier",30,"Brabham Climax","NC",17,32,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Graham","Hill",16,"BRM","NC",8,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Jo","Siffert",38,"Cooper Maserati","NC",6,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Mike","Spence",32,"Lotus BRM","NC",10,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","John","Surtees",10,"Cooper Maserati","NC",2,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1966,"03 Jul 1966","Peter","Arundell",4,"Lotus BRM","NC",16,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Jack","Brabham",5,"Brabham Repco","1",1,80,9,"2:13:13.400",NA,NA,"1:37.000",NA,"1:34.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Denny","Hulme",6,"Brabham Repco","2",2,80,6,"2:13:23.000","9.600","9.59999990463257",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Graham","Hill",3,"BRM","3",4,79,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Jim","Clark",1,"Lotus Climax","4",5,79,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Jochen","Rindt",11,"Cooper Maserati","5",7,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Bruce","McLaren",14,"McLaren Serenissima","6",13,78,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Chris","Irwin",7,"Brabham Climax","7",12,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","John","Taylor",22,"Brabham BRM","8",16,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Bob","Bondurant",25,"BRM","9",14,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Guy","Ligier",19,"Cooper Maserati","10",17,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Chris","Lawrence",24,"Cooper Ferrari","11",19,73,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Jo","Siffert",20,"Cooper Maserati","NC",11,70,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Bob","Anderson",21,"Brabham Climax","NC",10,70,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","John","Surtees",12,"Cooper Maserati","NC",6,67,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Jo","Bonnier",18,"Brabham Climax","NC",15,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Peter","Arundell",2,"Lotus BRM","NC",20,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Jackie","Stewart",4,"BRM","NC",8,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Mike","Spence",17,"Lotus BRM","NC",9,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Dan","Gurney",16,"Eagle Climax","NC",3,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1966,"16 Jul 1966","Trevor","Taylor",23,"Shannon Climax","NC",18,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Jack","Brabham",16,"Brabham Repco","1",1,90,9,"2:20:32.500",NA,NA,NA,NA,"1:28.100",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Graham","Hill",12,"BRM","2",7,89,6,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Jim","Clark",6,"Lotus Climax","3",3,88,4,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Jackie","Stewart",14,"BRM","4",8,88,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Mike","Spence",32,"Lotus BRM","5",12,87,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Lorenzo","Bandini",2,"Ferrari","6",9,87,1,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Jo","Bonnier",30,"Cooper Maserati","7",13,84,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","John","Taylor",38,"Brabham BRM","8",17,84,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Guy","Ligier",36,"Cooper Maserati","9",16,84,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Jo","Siffert",28,"Cooper Maserati","NC",11,79,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Bob","Anderson",34,"Brabham Climax","NC",14,73,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","John","Surtees",24,"Cooper Maserati","NC",10,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Denny","Hulme",18,"Brabham Repco","NC",2,37,0,NA,NA,NA,"1:30.600",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Peter","Arundell",8,"Lotus BRM","NC",15,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Dan","Gurney",10,"Eagle Climax","NC",4,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Mike","Parkes",4,"Ferrari","NC",5,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1966,"24 Jul 1966","Jochen","Rindt",26,"Cooper Maserati","NC",6,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Jack","Brabham",3,"Brabham Repco","1",5,15,9,"2:27:03.000",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","John","Surtees",7,"Cooper Maserati","2",2,15,6,"2:27:47.400","44.400","44.4000000953674","8:49.000",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Jochen","Rindt",8,"Cooper Maserati","3",9,15,4,"2:29:35.599","152.600","1.80331666469574",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Graham","Hill",5,"BRM","4",10,15,3,"2:33:44.400","401.400","4.14668333530426",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Jackie","Stewart",6,"BRM","5",3,15,2,"2:35:31.900","508.900","1.79166666666667",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Lorenzo","Bandini",9,"Ferrari","6",6,15,1,"2:37:59.400","656.400","2.45833333333333",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Dan","Gurney",12,"Eagle Climax","7",8,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Jean-Pierre","Beltoise",34,"null","8",18,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Hubert","Hahne",26,"Matra BRM","9",27,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Jo","Schlesser",33,"null","10",19,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Hans","Herrmann",28,"Brabham Repco","11",22,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Peter","Arundell",2,"null","12",17,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Mike","Spence",15,"Lotus BRM","NC",13,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Jim","Clark",1,"Lotus Climax","NC",1,11,0,NA,NA,NA,NA,NA,"8:16.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Chris","Lawrence",20,"Cooper Ferrari","NC",26,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Ludovico","Scarfiotti",11,"Ferrari","NC",4,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Mike","Parkes",10,"Ferrari","NC",7,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Denny","Hulme",4,"Brabham Repco","NC",15,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Pedro","Rodriguez",31,"Lotus BRM","NC",20,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Alan","Rees",29,"Brabham Climax","NC",24,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Jo","Bonnier",17,"Cooper Maserati","NC",12,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Piers","Courage",32,"Lotus BRM","NC",23,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Bob","Bondurant",14,"BRM","NC",11,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Kurt","Ahrens",25,"Brabham Climax","NC",21,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Bob","Anderson",19,"Brabham Climax","NC",14,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","Jacky","Ickx",27,"Matra Cosworth","NC",16,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1966,"07 Aug 1966","John","Taylor",16,"Brabham BRM","NC",25,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Ludovico","Scarfiotti",6,"Ferrari","1",2,68,9,"1:47:14.800",NA,NA,"1:32.400",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Mike","Parkes",4,"Ferrari","2",1,68,6,"1:47:20.599","5.800","5.79900002479553",NA,NA,"1:31.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Denny","Hulme",12,"Brabham Repco","3",10,68,4,"1:47:20.899","6.100","0.299999952316284",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Jochen","Rindt",16,"Cooper Maserati","4",8,67,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Mike","Spence",42,"Lotus BRM","5",14,67,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Bob","Anderson",40,"Brabham Climax","6",15,66,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Bob","Bondurant",48,"BRM","7",18,65,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Peter","Arundell",24,"Lotus BRM","8",13,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Giacomo","Russo",20,"Lotus Climax","9",20,63,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Giancarlo","Baghetti",44,"Ferrari","NC",16,59,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Jim","Clark",22,"Lotus BRM","NC",3,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Jo","Siffert",36,"Cooper Maserati","NC",17,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Lorenzo","Bandini",2,"Ferrari","NC",5,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","John","Surtees",14,"Cooper Maserati","NC",4,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Richie","Ginther",18,"Honda","NC",7,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Dan","Gurney",30,"Eagle Weslake","NC",19,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Jack","Brabham",10,"Brabham Repco","NC",6,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Jackie","Stewart",28,"BRM","NC",9,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Jo","Bonnier",38,"Cooper Maserati","NC",12,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1966,"04 Sep 1966","Graham","Hill",26,"BRM","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Jim","Clark",1,"Lotus BRM","1",2,108,9,"2:09:40.100",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Jochen","Rindt",8,"Cooper Maserati","2",9,107,6,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","John","Surtees",7,"Cooper Maserati","3",4,107,4,"1","1","1","1:09.670",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Jo","Siffert",19,"Cooper Maserati","4",13,105,3,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Bruce","McLaren",17,"McLaren Ford","5",11,105,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Peter","Arundell",2,"Lotus Climax","6",19,101,1,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Innes","Ireland",10,"BRM","NC",17,96,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Richie","Ginther",12,"Honda","NC",8,81,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Mike","Spence",18,"Lotus BRM","NC",12,74,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Ronnie","Bucknum",14,"Honda","NC",18,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Jo","Bonnier",22,"Cooper Maserati","NC",15,57,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Jack","Brabham",5,"Brabham Repco","NC",1,55,0,NA,NA,NA,NA,NA,"1:08.420",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Jackie","Stewart",4,"BRM","NC",6,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Graham","Hill",3,"BRM","NC",5,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Lorenzo","Bandini",9,"Ferrari","NC",3,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Denny","Hulme",6,"Brabham Repco","NC",7,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Dan","Gurney",15,"Eagle Weslake","NC",14,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Pedro","Rodriguez",11,"Lotus BRM","NC",10,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1966,"02 Oct 1966","Bob","Bondurant",16,"Eagle Weslake","DQ",16,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","John","Surtees",7,"Cooper Maserati","1",1,65,9,"2:06:35.340",NA,NA,NA,NA,"1:53.180",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Jack","Brabham",5,"Brabham Repco","2",4,65,6,"2:06:43.220","7.880","7.88000011444092",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Denny","Hulme",6,"Brabham Repco","3",6,64,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Richie","Ginther",12,"Honda","4",3,64,3,"1","1","1","1:53.750",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Dan","Gurney",15,"Eagle Climax","5",9,64,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Jo","Bonnier",22,"Cooper Maserati","6",12,63,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Peter","Arundell",2,"Lotus BRM","7",17,61,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Ronnie","Bucknum",14,"Honda","8",13,60,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Pedro","Rodriguez",11,"Lotus Climax","NC",8,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Bruce","McLaren",17,"McLaren Ford","NC",14,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Jo","Siffert",19,"Cooper Maserati","NC",11,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Jochen","Rindt",8,"Cooper Maserati","NC",5,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Innes","Ireland",10,"BRM","NC",16,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Jackie","Stewart",4,"BRM","NC",10,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Bob","Bondurant",16,"Eagle Weslake","NC",18,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Graham","Hill",3,"BRM","NC",7,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Moises","Solana",9,"Cooper Maserati","NC",15,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1966,"23 Oct 1966","Jim","Clark",1,"Lotus BRM","NC",2,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,363 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Jacques","Laffite",26,"Ligier Ford","1",1,53,9,"1:36:03.210",NA,NA,"1:46.910",NA,"1:44.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Carlos","Reutemann",2,"Lotus Ford","2",3,53,6,"1:36:18.150","14.940","14.9400000572205",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","John","Watson",7,"McLaren Ford","3",6,53,4,"1:37:32.019","88.810","1.23114999930064",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Patrick","Depailler",25,"Ligier Ford","4",2,53,3,"1:37:44.930","101.720","12.9110000133514",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Mario","Andretti",1,"Lotus Ford","5",7,52,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","6",11,52,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Elio","deAngelis",18,"Shadow Ford","7",16,52,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Jochen","Mass",30,"Arrows Ford","8",14,51,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Alan","Jones",27,"Williams Ford","9",15,51,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Clay","Regazzoni",28,"Williams Ford","10",17,51,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Derek","Daly",22,"Ensign Ford","11",24,51,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Gilles","Villeneuve",12,"Ferrari","12",10,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Hector","Rebaque",31,"Lotus Ford","NC",19,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Jan","Lammers",17,"Shadow Ford","NC",21,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","James","Hunt",20,"Wolf Ford","NC",18,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","NC",4,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Jean-Pierre","Jabouille",15,"Renault","NC",12,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Niki","Lauda",5,"Brabham Alfa Romeo","NC",23,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Rene","Arnoux",16,"Renault","NC",25,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Jody","Scheckter",11,"Ferrari","NC",5,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Didier","Pironi",3,"Tyrrell Ford","NC",8,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Patrick","Tambay",8,"McLaren Ford","NC",9,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","NC",20,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Arturo","Merzario",24,"Merzario Ford","NC",22,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Riccardo","Patrese",29,"Arrows Ford","NC",13,NA,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1979,"21 Jan 1979","Hans-Joachim","Stuck",9,"ATS Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Jacques","Laffite",26,"Ligier Ford","1",1,40,9,"1:40:09.640",NA,NA,"2:28.760",NA,"2:23.070",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Patrick","Depailler",25,"Ligier Ford","2",2,40,6,"1:40:14.920","5.280","5.27999997138977",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Carlos","Reutemann",2,"Lotus Ford","3",3,40,4,"1:40:53.780","44.140","38.8599998950958",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Didier","Pironi",3,"Tyrrell Ford","4",8,40,3,"1:41:35.520","85.880","41.7400000095367",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Gilles","Villeneuve",12,"Ferrari","5",5,39,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Jody","Scheckter",11,"Ferrari","6",6,39,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Jochen","Mass",30,"Arrows Ford","7",19,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","John","Watson",7,"McLaren Ford","8",14,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Riccardo","Patrese",29,"Arrows Ford","9",16,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Jean-Pierre","Jabouille",15,"Renault","10",7,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","11",9,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Elio","deAngelis",18,"Shadow Ford","12",20,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Derek","Daly",22,"Ensign Ford","13",23,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Jan","Lammers",17,"Shadow Ford","14",21,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Clay","Regazzoni",28,"Williams Ford","15",17,38,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Alan","Jones",27,"Williams Ford","NC",13,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Hans-Joachim","Stuck",9,"ATS Ford","NC",24,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Rene","Arnoux",16,"Renault","NC",11,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Patrick","Tambay",8,"McLaren Ford","NC",18,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","James","Hunt",20,"Wolf Ford","NC",10,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","NC",22,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Niki","Lauda",5,"Brabham Alfa Romeo","NC",12,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Mario","Andretti",1,"Lotus Ford","NC",4,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1979,"04 Feb 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","NC",15,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Gilles","Villeneuve",12,"Ferrari","1",3,78,9,"1:41:49.960",NA,NA,"1:14.412",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Jody","Scheckter",11,"Ferrari","2",2,78,6,"1:41:53.380","3.420","3.42000007629395",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","3",9,78,4,"1:42:12.069","22.110","18.6889998912811",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Mario","Andretti",1,"Lotus Ford","4",8,78,3,"1:42:17.840","27.880","5.77099990844727",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Carlos","Reutemann",2,"Lotus Ford","5",11,78,2,"1:42:56.930","66.970","39.0900001525879",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Niki","Lauda",5,"Brabham Alfa Romeo","6",4,77,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","7",12,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","James","Hunt",20,"Wolf Ford","8",13,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Clay","Regazzoni",28,"Williams Ford","9",22,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Patrick","Tambay",8,"McLaren Ford","10",17,75,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Riccardo","Patrese",29,"Arrows Ford","11",16,75,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Jochen","Mass",30,"Arrows Ford","12",20,74,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","13",18,74,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Hector","Rebaque",31,"Lotus Ford","14",23,71,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Rene","Arnoux",16,"Renault","NC",10,67,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Alan","Jones",27,"Williams Ford","NC",19,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","John","Watson",7,"McLaren Ford","NC",14,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Hans-Joachim","Stuck",9,"ATS Ford","NC",24,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Jean-Pierre","Jabouille",15,"Renault","NC",1,47,0,NA,NA,NA,NA,NA,"1:11.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Jacques","Laffite",26,"Ligier Ford","NC",6,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Didier","Pironi",3,"Tyrrell Ford","NC",7,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Elio","deAngelis",18,"Shadow Ford","NC",15,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Patrick","Depailler",25,"Ligier Ford","NC",5,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1979,"03 Mar 1979","Jan","Lammers",17,"Shadow Ford","NC",21,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Gilles","Villeneuve",12,"Ferrari","1",1,80,9,"1:50:25.400",NA,NA,"1:21.200",NA,"1:18.825",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Jody","Scheckter",11,"Ferrari","2",3,80,6,"1:50:54.780","29.380","29.3799998760223",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Alan","Jones",27,"Williams Ford","3",10,80,4,"1:51:25.090","59.690","30.3099999427795",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Mario","Andretti",1,"Lotus Ford","4",6,80,3,"1:51:29.730","64.330","4.64000010490417",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Patrick","Depailler",25,"Ligier Ford","5",4,80,2,"1:51:48.920","83.520","19.1900000572205",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","6",7,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Elio","deAngelis",18,"Shadow Ford","7",20,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","8",12,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Jochen","Mass",30,"Arrows Ford","9",13,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Didier","Pironi",3,"Tyrrell Ford","DQ",17,72,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Hector","Rebaque",31,"Lotus Ford","NC",23,71,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Derek","Daly",22,"Ensign Ford","NC",24,69,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","John","Watson",7,"McLaren Ford","NC",18,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Hans-Joachim","Stuck",9,"ATS Ford","DQ",21,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Clay","Regazzoni",28,"Williams Ford","NC",15,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Jan","Lammers",17,"Shadow Ford","NC",14,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Riccardo","Patrese",29,"Arrows Ford","NC",9,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Carlos","Reutemann",2,"Lotus Ford","NC",2,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",16,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Arturo","Merzario",24,"Merzario Ford","NC",22,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Jacques","Laffite",26,"Ligier Ford","NC",5,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","James","Hunt",20,"Wolf Ford","NC",8,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Niki","Lauda",5,"Brabham Alfa Romeo","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Patrick","Tambay",8,"McLaren Ford","NC",19,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Jean-Pierre","Jabouille",15,"Renault","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1979,"08 Apr 1979","Rene","Arnoux",16,"Renault","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Patrick","Depailler",25,"Ligier Ford","1",2,75,9,"1:39:11.840",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Carlos","Reutemann",2,"Lotus Ford","2",8,75,6,"1:39:32.779","20.940","20.9390001296997",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Mario","Andretti",1,"Lotus Ford","3",4,75,4,"1:39:39.149","27.310","6.36999988555908",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Jody","Scheckter",11,"Ferrari","4",5,75,3,"1:39:40.519","28.680","1.37000012397766",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","5",12,75,2,"1:39:42.230","30.390","1.71099996566772",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Didier","Pironi",3,"Tyrrell Ford","6",10,75,1,"1:40:00.269","48.430","18.0390000343323",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Gilles","Villeneuve",12,"Ferrari","7",3,75,0,"1:40:04.149","52.310","3.87999987602234","1:16.440",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Jochen","Mass",30,"Arrows Ford","8",17,75,0,"1:40:26.679","74.840","22.5299999713898",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Rene","Arnoux",16,"Renault","9",11,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Riccardo","Patrese",29,"Arrows Ford","10",16,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","11",19,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Jan","Lammers",17,"Shadow Ford","12",24,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Patrick","Tambay",8,"McLaren Ford","13",20,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Hans-Joachim","Stuck",9,"ATS Ford","14",21,69,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Niki","Lauda",5,"Brabham Alfa Romeo","NC",6,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Hector","Rebaque",31,"Lotus Ford","NC",23,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Alan","Jones",27,"Williams Ford","NC",13,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Elio","deAngelis",18,"Shadow Ford","NC",22,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Clay","Regazzoni",28,"Williams Ford","NC",14,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","James","Hunt",20,"Wolf Ford","NC",15,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","John","Watson",7,"McLaren Ford","NC",18,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Jean-Pierre","Jabouille",15,"Renault","NC",9,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Jacques","Laffite",26,"Ligier Ford","NC",1,15,0,NA,NA,NA,NA,NA,"1:14.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1979,"29 Apr 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","NC",7,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Jody","Scheckter",11,"Ferrari","1",7,70,9,"1:39:59.530",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Jacques","Laffite",26,"Ligier Ford","2",1,70,6,"1:40:14.889","15.360","15.3589999675751",NA,NA,"1:21.130",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Didier","Pironi",3,"Tyrrell Ford","3",12,70,4,"1:40:34.700","35.170","19.8110001087189",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Carlos","Reutemann",2,"Lotus Ford","4",10,70,3,"1:40:46.019","46.490","11.319000005722",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Riccardo","Patrese",29,"Arrows Ford","5",16,70,2,"1:41:03.839","64.310","17.8199999332428",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","John","Watson",7,"McLaren Ford","6",19,70,1,"1:41:05.379","65.850","1.53999996185303",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Gilles","Villeneuve",12,"Ferrari","7",6,69,0,NA,NA,NA,"1:23.090",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Hans-Joachim","Stuck",9,"ATS Ford","8",20,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","9",23,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Jan","Lammers",17,"Shadow Ford","10",21,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","11",11,67,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Patrick","Depailler",25,"Ligier Ford","NC",2,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","James","Hunt",20,"Wolf Ford","NC",9,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Alan","Jones",27,"Williams Ford","NC",4,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Mario","Andretti",1,"Lotus Ford","NC",5,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","NC",3,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Niki","Lauda",5,"Brabham Alfa Romeo","NC",13,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Rene","Arnoux",16,"Renault","NC",18,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Bruno","Giacomelli",35,"Alfa Romeo","NC",14,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Elio","deAngelis",18,"Shadow Ford","NC",24,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Jochen","Mass",30,"Arrows Ford","NC",22,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Hector","Rebaque",31,"Lotus Ford","NC",15,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Jean-Pierre","Jabouille",15,"Renault","NC",17,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1979,"13 May 1979","Clay","Regazzoni",28,"Williams Ford","NC",8,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Jody","Scheckter",11,"Ferrari","1",1,76,9,"1:55:22.480",NA,NA,NA,NA,"1:26.450",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Clay","Regazzoni",28,"Williams Ford","2",16,76,6,"1:55:22.920","0.440","0.440000057220459",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Carlos","Reutemann",2,"Lotus Ford","3",11,76,4,"1:55:31.049","8.570","8.12899994850159",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","John","Watson",7,"McLaren Ford","4",14,76,3,"1:56:03.789","41.310","32.7400000095367",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Patrick","Depailler",25,"Ligier Ford","5",3,74,2,NA,NA,NA,"1:28.820",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Jochen","Mass",30,"Arrows Ford","6",8,69,1,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","7",18,68,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Jean-Pierre","Jabouille",15,"Renault","8",20,68,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Jacques","Laffite",26,"Ligier Ford","NC",5,55,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Gilles","Villeneuve",12,"Ferrari","NC",2,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Alan","Jones",27,"Williams Ford","NC",9,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","NC",6,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Hans-Joachim","Stuck",9,"ATS Ford","NC",12,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Niki","Lauda",5,"Brabham Alfa Romeo","NC",4,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Didier","Pironi",3,"Tyrrell Ford","NC",7,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Mario","Andretti",1,"Lotus Ford","NC",13,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",17,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Rene","Arnoux",16,"Renault","NC",19,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","James","Hunt",20,"Wolf Ford","NC",10,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1979,"27 May 1979","Riccardo","Patrese",29,"Arrows Ford","NC",15,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Jean-Pierre","Jabouille",15,"Renault","1",1,80,9,"1:35:20.420",NA,NA,NA,NA,"1:07.190",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Gilles","Villeneuve",12,"Ferrari","2",3,80,6,"1:35:35.009","14.590","14.5889999866486",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Rene","Arnoux",16,"Renault","3",2,80,4,"1:35:35.250","14.830","0.240999937057495","1:09.160",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Alan","Jones",27,"Williams Ford","4",7,80,3,"1:35:57.029","36.610","21.779000043869",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","5",10,80,2,"1:36:24.930","64.510","27.9010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Clay","Regazzoni",28,"Williams Ford","6",9,80,1,"1:36:25.930","65.510","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Jody","Scheckter",11,"Ferrari","7",5,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Jacques","Laffite",26,"Ligier Ford","8",8,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Keke","Rosberg",20,"Wolf Ford","9",16,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Patrick","Tambay",8,"McLaren Ford","10",20,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","John","Watson",7,"McLaren Ford","11",15,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Hector","Rebaque",31,"Lotus Ford","12",23,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Carlos","Reutemann",2,"Lotus Ford","13",13,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Riccardo","Patrese",29,"Arrows Ford","14",19,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Jochen","Mass",30,"Arrows Ford","15",22,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Elio","deAngelis",18,"Shadow Ford","16",24,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Bruno","Giacomelli",35,"Alfa Romeo","17",17,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Jan","Lammers",17,"Shadow Ford","18",21,73,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Didier","Pironi",3,"Tyrrell Ford","NC",11,71,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",18,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","NC",4,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Mario","Andretti",1,"Lotus Ford","NC",12,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Jacky","Ickx",25,"Ligier Ford","NC",14,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Niki","Lauda",5,"Brabham Alfa Romeo","NC",6,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1979,"01 Jul 1979","Hans-Joachim","Stuck",9,"ATS Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Clay","Regazzoni",28,"Williams Ford","1",4,68,9,"1:26:11.170",NA,NA,"1:14.400",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Rene","Arnoux",16,"Renault","2",5,68,6,"1:26:35.450","24.280","24.2799999713898",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","3",16,67,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","John","Watson",7,"McLaren Ford","4",7,67,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Jody","Scheckter",11,"Ferrari","5",11,67,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Jacky","Ickx",25,"Ligier Ford","6",17,67,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Patrick","Tambay",8,"McLaren Ford","7",18,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Carlos","Reutemann",2,"Lotus Ford","8",8,66,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Hector","Rebaque",31,"Lotus Ford","9",24,66,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Didier","Pironi",3,"Tyrrell Ford","10",15,66,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Jan","Lammers",17,"Shadow Ford","11",21,65,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Elio","deAngelis",18,"Shadow Ford","12",12,65,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Patrick","Gaillard",22,"Ensign Ford","13",23,65,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Gilles","Villeneuve",12,"Ferrari","14",13,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Riccardo","Patrese",29,"Arrows Ford","NC",19,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Keke","Rosberg",20,"Wolf Ford","NC",14,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Jacques","Laffite",26,"Ligier Ford","NC",10,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Alan","Jones",27,"Williams Ford","NC",1,38,0,NA,NA,NA,NA,NA,"1:11.880",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Jochen","Mass",30,"Arrows Ford","NC",20,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",22,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Jean-Pierre","Jabouille",15,"Renault","NC",2,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Niki","Lauda",5,"Brabham Alfa Romeo","NC",6,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Mario","Andretti",1,"Lotus Ford","NC",9,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1979,"14 Jul 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","NC",3,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Alan","Jones",27,"Williams Ford","1",2,45,9,"1:24:48.830",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Clay","Regazzoni",28,"Williams Ford","2",6,45,6,"1:24:51.740","2.910","2.91000008583069",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Jacques","Laffite",26,"Ligier Ford","3",3,45,4,"1:25:07.220","18.390","15.4800000190735",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Jody","Scheckter",11,"Ferrari","4",5,45,3,"1:25:20.029","31.200","12.8090000152588",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","John","Watson",7,"McLaren Ford","5",12,45,2,"1:26:26.629","97.800","1.10999999841054",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Jochen","Mass",30,"Arrows Ford","6",18,44,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Geoff","Lees",4,"Tyrrell Ford","7",16,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Gilles","Villeneuve",12,"Ferrari","8",9,44,0,"1","1","1","1:51.890",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Didier","Pironi",3,"Tyrrell Ford","9",8,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Jan","Lammers",17,"Shadow Ford","10",20,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Elio","deAngelis",18,"Shadow Ford","11",21,43,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","12",4,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Riccardo","Patrese",29,"Arrows Ford","NC",19,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Patrick","Tambay",8,"McLaren Ford","NC",15,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Keke","Rosberg",20,"Wolf Ford","NC",17,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Niki","Lauda",5,"Brabham Alfa Romeo","NC",7,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Jacky","Ickx",25,"Ligier Ford","NC",14,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Hector","Rebaque",31,"Lotus Ford","NC",24,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Mario","Andretti",1,"Lotus Ford","NC",11,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Rene","Arnoux",16,"Renault","NC",10,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Jean-Pierre","Jabouille",15,"Renault","NC",1,7,0,NA,NA,NA,NA,NA,"1:48.480",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",22,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Carlos","Reutemann",2,"Lotus Ford","NC",13,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1979,"29 Jul 1979","Hans-Joachim","Stuck",9,"ATS Ford","NC",23,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Alan","Jones",27,"Williams Ford","1",2,54,9,"1:27:38.010",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Gilles","Villeneuve",12,"Ferrari","2",5,54,6,"1:28:14.059","36.050","36.0490000247955",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Jacques","Laffite",26,"Ligier Ford","3",8,54,4,"1:28:24.779","46.770","10.7200000286102",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Jody","Scheckter",11,"Ferrari","4",9,54,3,"1:28:25.220","47.210","0.440999984741211",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Clay","Regazzoni",28,"Williams Ford","5",6,54,2,"1:28:26.930","48.920","1.71000003814697",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Rene","Arnoux",16,"Renault","6",1,53,1,"1","1","1","1:35.770",NA,"1:34.070",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Didier","Pironi",3,"Tyrrell Ford","7",10,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Derek","Daly",4,"Tyrrell Ford","8",11,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","John","Watson",7,"McLaren Ford","9",16,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Patrick","Tambay",8,"McLaren Ford","10",14,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Niki","Lauda",5,"Brabham Alfa Romeo","NC",4,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Patrick","Gaillard",22,"Ensign Ford","NC",24,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Elio","deAngelis",18,"Shadow Ford","NC",22,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Riccardo","Patrese",29,"Arrows Ford","NC",13,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","NC",7,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Hans-Joachim","Stuck",9,"ATS Ford","NC",18,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Jacky","Ickx",25,"Ligier Ford","NC",21,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Carlos","Reutemann",2,"Lotus Ford","NC",17,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Jean-Pierre","Jabouille",15,"Renault","NC",3,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",19,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Keke","Rosberg",20,"Wolf Ford","NC",12,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Jan","Lammers",17,"Shadow Ford","NC",23,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Jochen","Mass",30,"Arrows Ford","NC",20,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1979,"12 Aug 1979","Mario","Andretti",1,"Lotus Ford","NC",15,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Alan","Jones",27,"Williams Ford","1",2,75,9,"1:41:19.775",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Jody","Scheckter",11,"Ferrari","2",5,75,6,"1:41:41.558","21.783","21.7829999923706",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Jacques","Laffite",26,"Ligier Ford","3",7,75,4,"1:42:23.028","63.253","41.4700000286102",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","4",11,74,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Jacky","Ickx",25,"Ligier Ford","5",20,74,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Jochen","Mass",30,"Arrows Ford","6",18,73,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Hector","Rebaque",31,"Lotus Ford","7",24,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Didier","Pironi",3,"Tyrrell Ford","NC",10,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Gilles","Villeneuve",12,"Ferrari","NC",6,49,0,NA,NA,NA,"1:19.438",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Elio","deAngelis",18,"Shadow Ford","NC",22,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Keke","Rosberg",20,"Wolf Ford","NC",8,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Jean-Pierre","Jabouille",15,"Renault","NC",4,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","John","Watson",7,"McLaren Ford","NC",12,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","NC",16,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Hans-Joachim","Stuck",9,"ATS Ford","NC",15,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Jan","Lammers",17,"Shadow Ford","NC",23,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Mario","Andretti",1,"Lotus Ford","NC",17,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Riccardo","Patrese",29,"Arrows Ford","NC",19,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Patrick","Tambay",8,"McLaren Ford","NC",14,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Niki","Lauda",5,"Brabham Alfa Romeo","NC",9,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",21,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Carlos","Reutemann",2,"Lotus Ford","NC",13,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Rene","Arnoux",16,"Renault","NC",1,1,0,NA,NA,NA,NA,NA,"1:15.461",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1979,"26 Aug 1979","Clay","Regazzoni",28,"Williams Ford","NC",3,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Jody","Scheckter",11,"Ferrari","1",3,50,9,"1:22:00.220",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Gilles","Villeneuve",12,"Ferrari","2",5,50,6,"1:22:00.680","0.460","0.460000038146973",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Clay","Regazzoni",28,"Williams Ford","3",6,50,4,"1:22:05.000","4.780","4.3199999332428","1:35.600",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Niki","Lauda",5,"Brabham Alfa Romeo","4",9,50,3,"1:22:54.620","54.400","49.6199998855591",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Mario","Andretti",1,"Lotus Ford","5",10,50,2,"1:22:59.920","59.700","5.30000019073486",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","6",16,50,1,"1:23:01.769","61.550","1.84899997711182",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Carlos","Reutemann",2,"Lotus Ford","7",13,50,0,"1:23:24.360","84.140","22.5909998416901",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","8",20,49,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Alan","Jones",27,"Williams Ford","9",4,49,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Didier","Pironi",3,"Tyrrell Ford","10",12,49,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Hans-Joachim","Stuck",9,"ATS Ford","11",15,49,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Vittorio","Brambilla",36,"Alfa Romeo","12",22,49,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Riccardo","Patrese",29,"Arrows Ford","13",17,47,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Jean-Pierre","Jabouille",15,"Renault","14",1,45,0,NA,NA,NA,NA,NA,"1:34.580",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Jacques","Laffite",26,"Ligier Ford","NC",7,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Keke","Rosberg",20,"Wolf Ford","NC",23,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Jacky","Ickx",25,"Ligier Ford","NC",11,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Elio","deAngelis",18,"Shadow Ford","NC",24,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Bruno","Giacomelli",35,"Alfa Romeo","NC",18,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","John","Watson",7,"McLaren Ford","NC",19,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Rene","Arnoux",16,"Renault","NC",2,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Patrick","Tambay",8,"McLaren Ford","NC",14,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Jochen","Mass",30,"Arrows Ford","NC",21,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1979,"09 Sep 1979","Nelson","Piquet",6,"Brabham Alfa Romeo","NC",8,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Alan","Jones",27,"Williams Ford","1",1,72,9,"1:52:06.892",NA,NA,"1:31.272",NA,"1:29.892",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Gilles","Villeneuve",12,"Ferrari","2",2,72,6,"1:52:07.971","1.080","1.0789999961853",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Clay","Regazzoni",28,"Williams Ford","3",3,72,4,"1:53:20.547","73.656","1.20959999958674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Jody","Scheckter",11,"Ferrari","4",9,71,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Didier","Pironi",3,"Tyrrell Ford","5",6,71,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","John","Watson",7,"McLaren Ford","6",17,70,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Ricardo","Zunino",5,"Brabham Ford","7",19,68,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","8",15,67,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Jan","Lammers",17,"Shadow Ford","9",21,67,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Mario","Andretti",1,"Lotus Ford","10",10,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Nelson","Piquet",6,"Brabham Ford","NC",4,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Vittorio","Brambilla",36,"Alfa Romeo","NC",18,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Jacky","Ickx",25,"Ligier Ford","NC",16,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","NC",13,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Derek","Daly",33,"Tyrrell Ford","NC",24,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Hector","Rebaque",31,"Rebaque Ford","NC",22,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Elio","deAngelis",18,"Shadow Ford","NC",23,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Jean-Pierre","Jabouille",15,"Renault","NC",7,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Carlos","Reutemann",2,"Lotus Ford","NC",11,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Riccardo","Patrese",29,"Arrows Ford","NC",14,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Patrick","Tambay",8,"McLaren Ford","NC",20,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Rene","Arnoux",16,"Renault","NC",8,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Hans-Joachim","Stuck",9,"ATS Ford","NC",12,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1979,"30 Sep 1979","Jacques","Laffite",26,"Ligier Ford","NC",5,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Gilles","Villeneuve",12,"Ferrari","1",3,59,9,"1:52:17.734",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Rene","Arnoux",16,"Renault","2",7,59,6,"1:53:06.520","48.787","48.7860000133514",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Didier","Pironi",3,"Tyrrell Ford","3",10,59,4,"1:53:10.932","53.199","4.41199994087219",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Elio","deAngelis",18,"Shadow Ford","4",20,59,3,"1:53:48.246","90.512","37.3140001296997",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Hans-Joachim","Stuck",9,"ATS Ford","5",14,59,2,"1:53:58.993","101.259","10.7469999790192",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","John","Watson",7,"McLaren Ford","6",13,58,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Emerson","Fittipaldi",14,"Fittipaldi Ford","7",23,54,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Nelson","Piquet",6,"Brabham Ford","8",2,53,0,NA,NA,NA,"1:40.054",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Derek","Daly",33,"Tyrrell Ford","NC",NA,52,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Jody","Scheckter",11,"Ferrari","NC",16,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Riccardo","Patrese",29,"Arrows Ford","NC",19,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Alan","Jones",27,"Williams Ford","NC",1,36,0,NA,NA,NA,NA,NA,"1:35.615",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Marc","Surer",22,"Ensign Ford","NC",21,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Clay","Regazzoni",28,"Williams Ford","NC",5,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Ricardo","Zunino",5,"Brabham Ford","NC",9,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Jean-Pierre","Jabouille",15,"Renault","NC",8,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Patrick","Tambay",8,"McLaren Ford","NC",22,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Keke","Rosberg",20,"Wolf Ford","NC",12,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","NC",11,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Jean-Pierre","Jarier",4,"Tyrrell Ford","NC",15,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Mario","Andretti",1,"Lotus Ford","NC",17,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Carlos","Reutemann",2,"Lotus Ford","NC",6,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Jacques","Laffite",26,"Ligier Ford","NC",4,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Jacky","Ickx",25,"Ligier Ford","NC",24,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1979,"07 Oct 1979","Bruno","Giacomelli",35,"Alfa Romeo","NC",18,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

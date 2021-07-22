@@ -1,0 +1,406 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Jody","Scheckter",20,"Wolf Ford","1",11,53,9,"1:40:11.190",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Carlos","Pace",8,"Brabham Alfa Romeo","2",6,53,6,"1:40:54.430","43.240","43.2400000095367",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Carlos","Reutemann",12,"Ferrari","3",7,53,4,"1:40:57.210","46.020","2.77999997138977",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","4",16,53,3,"1:41:06.670","55.480","9.46000003814697",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Mario","Andretti",5,"Lotus Ford","5",8,51,2,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Clay","Regazzoni",22,"Ensign Ford","6",12,51,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Vittorio","Brambilla",19,"Surtees Ford","7",13,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Ian","Scheckter",10,"March Ford","NC",17,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Tom","Pryce",16,"Shadow Ford","NC",9,45,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","John","Watson",7,"Brabham Alfa Romeo","NC",2,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Alex","Ribeiro",9,"March Ford","NC",20,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Jacques","Laffite",26,"Ligier Matra","NC",15,37,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Patrick","Depailler",4,"Tyrrell Ford","NC",3,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","James","Hunt",1,"McLaren Ford","NC",1,31,0,NA,NA,NA,"1:51.060",NA,"1:48.680",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Jochen","Mass",2,"McLaren Ford","NC",5,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Ronnie","Peterson",3,"Tyrrell Ford","NC",14,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Ingo","Hoffman",29,"Fittipaldi Ford","NC",19,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Niki","Lauda",11,"Ferrari","NC",4,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Hans","Binder",18,"Surtees Ford","NC",18,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1977,"09 Jan 1977","Renzo","Zorzi",17,"Shadow Ford","NC",21,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Carlos","Reutemann",12,"Ferrari","1",2,40,9,"1:45:07.720",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","James","Hunt",1,"McLaren Ford","2",1,40,6,"1:45:18.430","10.710","10.710000038147","2:34.550",NA,"2:30.110",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Niki","Lauda",11,"Ferrari","3",13,40,4,"1:46:55.230","107.510","1.6133333325386",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","4",16,39,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Gunnar","Nilsson",6,"Lotus Ford","5",10,39,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Renzo","Zorzi",17,"Shadow Ford","6",18,39,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Ingo","Hoffman",29,"Fittipaldi Ford","7",19,38,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Tom","Pryce",16,"Shadow Ford","NC",12,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Carlos","Pace",8,"Brabham Alfa Romeo","NC",5,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Hans","Binder",18,"Surtees Ford","NC",20,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","John","Watson",7,"Brabham Alfa Romeo","NC",7,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Jacques","Laffite",26,"Ligier Matra","NC",14,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Patrick","Depailler",4,"Tyrrell Ford","NC",6,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Mario","Andretti",5,"Lotus Ford","NC",3,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Alex","Ribeiro",9,"March Ford","NC",21,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Jochen","Mass",2,"McLaren Ford","NC",4,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Clay","Regazzoni",22,"Ensign Ford","NC",9,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Ronnie","Peterson",3,"Tyrrell Ford","NC",8,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Jody","Scheckter",20,"Wolf Ford","NC",15,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Vittorio","Brambilla",19,"Surtees Ford","NC",11,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Ian","Scheckter",10,"March Ford","NC",17,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1977,"23 Jan 1977","Larry","Perkins",14,"BRM","NC",22,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Niki","Lauda",11,"Ferrari","1",3,78,9,"1:42:21.600",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Jody","Scheckter",20,"Wolf Ford","2",5,78,6,"1:42:26.799","5.200","5.19900012016296",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Patrick","Depailler",4,"Tyrrell Ford","3",4,78,4,"1:42:27.299","5.700","0.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","James","Hunt",1,"McLaren Ford","4",1,78,3,"1:42:31.099","9.500","3.79999995231628",NA,NA,"1:15.960",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Jochen","Mass",2,"McLaren Ford","5",13,78,2,"1:42:41.500","19.900","10.4010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","John","Watson",7,"Brabham Alfa Romeo","6",11,78,1,"1:42:41.799","20.200","0.299000024795532","1:17.630",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Vittorio","Brambilla",19,"Surtees Ford","7",14,78,0,"1:42:45.199","23.600","3.39999985694885",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Carlos","Reutemann",12,"Ferrari","8",8,78,0,"1:42:48.299","26.700","3.10000014305115",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Clay","Regazzoni",22,"Ensign Ford","9",16,78,0,"1:43:07.799","46.200","19.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","10",9,78,0,"1:43:33.299","71.700","25.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Hans","Binder",18,"Surtees Ford","11",19,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Gunnar","Nilsson",6,"Lotus Ford","12",10,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Carlos","Pace",8,"Brabham Alfa Romeo","13",2,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Brett","Lunger",30,"March Ford","14",23,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Larry","Perkins",14,"BRM","15",22,73,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Alex","Ribeiro",9,"March Ford","NC",17,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Hans-Joachim","Stuck",10,"March Ford","NC",18,55,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Mario","Andretti",5,"Lotus Ford","NC",6,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Boy","Hayje",33,"March Ford","NC",21,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Tom","Pryce",16,"Shadow Ford","NC",15,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Jacques","Laffite",26,"Ligier Matra","NC",12,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Renzo","Zorzi",17,"Shadow Ford","NC",20,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1977,"05 Mar 1977","Ronnie","Peterson",3,"Tyrrell Ford","NC",7,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Mario","Andretti",5,"Lotus Ford","1",2,80,9,"1:51:35.470",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Niki","Lauda",11,"Ferrari","2",1,80,6,"1:51:36.243","0.773","0.773000001907349","1:22.753",NA,"1:21.650",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Jody","Scheckter",20,"Wolf Ford","3",3,80,4,"1:51:40.327","4.857","4.08399987220764",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Patrick","Depailler",4,"Tyrrell Ford","4",12,80,3,"1:52:49.957","74.487","1.16050000190735",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","5",7,80,2,"1:52:56.378","80.908","6.4210000038147",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Jean-Pierre","Jarier",34,"Penske Ford","6",9,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","James","Hunt",1,"McLaren Ford","7",8,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Gunnar","Nilsson",6,"Lotus Ford","8",16,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Jacques","Laffite",26,"Ligier Matra","9",5,78,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Brian","Henton",10,"March Ford","10",18,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Hans","Binder",18,"Surtees Ford","11",19,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Ronnie","Peterson",3,"Tyrrell Ford","NC",10,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Clay","Regazzoni",22,"Ensign Ford","NC",13,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","NC",17,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Alan","Jones",17,"Shadow Ford","NC",14,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Jochen","Mass",2,"McLaren Ford","NC",15,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","John","Watson",7,"Brabham Alfa Romeo","DQ",6,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Renzo","Zorzi",16,"Shadow Ford","NC",20,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Alex","Ribeiro",9,"March Ford","NC",22,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Carlos","Reutemann",12,"Ferrari","NC",4,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Brett","Lunger",30,"March Ford","NC",21,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1977,"03 Apr 1977","Vittorio","Brambilla",19,"Surtees Ford","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Mario","Andretti",5,"Lotus Ford","1",1,75,9,"1:42:52.220",NA,NA,NA,NA,"1:18.700",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Carlos","Reutemann",12,"Ferrari","2",4,75,6,"1:43:08.069","15.850","15.8489999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Jody","Scheckter",20,"Wolf Ford","3",5,75,4,"1:43:16.730","24.510","8.66100001335144",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Jochen","Mass",2,"McLaren Ford","4",9,75,3,"1:43:17.089","24.870","0.358999967575073",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Gunnar","Nilsson",6,"Lotus Ford","5",12,75,2,"1:43:58.049","65.830","40.960000038147",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","6",13,74,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Jacques","Laffite",26,"Ligier Matra","7",2,74,0,"1","1","1","1:20.810",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Ronnie","Peterson",3,"Tyrrell Ford","8",15,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Hans","Binder",18,"Surtees Ford","9",20,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Brett","Lunger",30,"March Ford","10",25,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Ian","Scheckter",10,"March Ford","11",17,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Patrick","Neve",27,"March Ford","12",22,71,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Emilio","deVillota",36,"McLaren Ford","13",23,70,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","14",19,70,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","John","Watson",7,"Brabham Alfa Romeo","NC",6,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Alan","Jones",17,"Shadow Ford","NC",14,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Rupert","Keegan",24,"Hesketh Ford","NC",16,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Harald","Ertl",25,"Hesketh Ford","NC",18,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Renzo","Zorzi",16,"Shadow Ford","NC",24,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Arturo","Merzario",37,"March Ford","NC",21,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Patrick","Depailler",4,"Tyrrell Ford","NC",10,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","James","Hunt",1,"McLaren Ford","NC",7,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Clay","Regazzoni",22,"Ensign Ford","NC",8,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1977,"08 May 1977","Vittorio","Brambilla",19,"Surtees Ford","NC",11,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Jody","Scheckter",20,"Wolf Ford","1",2,76,9,"1:57:52.770",NA,NA,"1:31.070",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Niki","Lauda",11,"Ferrari","2",6,76,6,"1:57:53.658","0.889","0.888000011444092",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Carlos","Reutemann",12,"Ferrari","3",3,76,4,"1:58:25.569","32.800","31.9110000133514",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Jochen","Mass",2,"McLaren Ford","4",9,76,3,"1:58:27.369","34.600","1.79999995231628",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Mario","Andretti",5,"Lotus Ford","5",10,76,2,"1:58:28.319","35.550","0.950000047683716",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Alan","Jones",17,"Shadow Ford","6",11,76,1,"1:58:29.379","36.610","1.05999994277954",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Jacques","Laffite",26,"Ligier Matra","7",16,76,0,"1:58:57.210","64.440","27.8310000896454",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Vittorio","Brambilla",19,"Surtees Ford","8",14,76,0,"1:59:01.410","68.640","4.20000004768372",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Riccardo","Patrese",16,"Shadow Ford","9",15,75,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Jacky","Ickx",22,"Ensign Ford","10",17,75,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Jean-Pierre","Jarier",34,"Penske Ford","11",12,74,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Rupert","Keegan",24,"Hesketh Ford","12",20,73,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Gunnar","Nilsson",6,"Lotus Ford","NC",13,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","John","Watson",7,"Brabham Alfa Romeo","NC",1,48,0,NA,NA,NA,NA,NA,"1:29.860",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Patrick","Depailler",4,"Tyrrell Ford","NC",8,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Hans","Binder",18,"Surtees Ford","NC",19,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","NC",18,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","James","Hunt",1,"McLaren Ford","NC",7,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","NC",5,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1977,"22 May 1977","Ronnie","Peterson",3,"Tyrrell Ford","NC",4,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Gunnar","Nilsson",6,"Lotus Ford","1",3,70,9,"1:55:05.710",NA,NA,"1:27.540",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Niki","Lauda",11,"Ferrari","2",11,70,6,"1:55:19.900","14.190","14.1900000572205",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Ronnie","Peterson",3,"Tyrrell Ford","3",8,70,4,"1:55:25.660","19.950","5.75999999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Vittorio","Brambilla",19,"Surtees Ford","4",12,70,3,"1:55:30.690","24.980","5.02999997138977",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Alan","Jones",17,"Shadow Ford","5",17,70,2,"1:56:21.180","75.470","50.4900000095367",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","6",18,69,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","James","Hunt",1,"McLaren Ford","7",9,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Patrick","Depailler",4,"Tyrrell Ford","8",5,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Harald","Ertl",25,"Hesketh Ford","9",25,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Patrick","Neve",27,"March Ford","10",24,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Jean-Pierre","Jarier",34,"Penske Ford","11",26,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Larry","Perkins",18,"Surtees Ford","12",23,67,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","David","Purley",31,"LEC Ford","13",20,67,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Arturo","Merzario",37,"March Ford","14",14,65,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Boy","Hayje",33,"March Ford","15",27,63,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Jody","Scheckter",20,"Wolf Ford","NC",4,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Jochen","Mass",2,"McLaren Ford","NC",6,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Jacques","Laffite",26,"Ligier Matra","NC",10,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Clay","Regazzoni",22,"Ensign Ford","NC",13,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Rupert","Keegan",24,"Hesketh Ford","NC",19,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Carlos","Reutemann",12,"Ferrari","NC",7,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Riccardo","Patrese",16,"Shadow Ford","NC",15,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Ian","Scheckter",10,"March Ford","NC",21,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","NC",16,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","Mario","Andretti",5,"Lotus Ford","NC",1,0,0,NA,NA,NA,NA,NA,"1:24.640",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1977,"05 Jun 1977","John","Watson",7,"Brabham Alfa Romeo","NC",2,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Jacques","Laffite",26,"Ligier Matra","1",8,72,9,"1:46:55.520",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Jochen","Mass",2,"McLaren Ford","2",9,72,6,"1:47:03.968","8.449","8.44799995422363",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Carlos","Reutemann",12,"Ferrari","3",12,72,4,"1:47:09.887","14.367","5.91900014877319",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Patrick","Depailler",4,"Tyrrell Ford","4",6,72,3,"1:47:11.828","16.308","1.94099998474121",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","John","Watson",7,"Brabham Alfa Romeo","5",2,72,2,"1:47:14.254","18.735","2.42599987983704",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Mario","Andretti",5,"Lotus Ford","6",1,72,1,"1:47:20.796","25.277","6.54200005531311","1:27.607",NA,"1:25.404",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Clay","Regazzoni",22,"Ensign Ford","7",14,72,0,"1:47:26.786","31.266","5.99000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Jean-Pierre","Jarier",34,"Penske Ford","8",17,72,0,"1:48:00.086","64.567","33.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Jackie","Oliver",16,"Shadow Ford","9",16,72,0,"1:48:17.999","82.479","17.9130001068115",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","10",5,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Brett","Lunger",30,"McLaren Ford","11",22,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","James","Hunt",1,"McLaren Ford","12",3,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Rupert","Keegan",24,"Hesketh Ford","13",24,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","David","Purley",31,"LEC Ford","14",19,70,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Patrick","Neve",27,"March Ford","15",20,69,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Harald","Ertl",25,"Hesketh Ford","16",23,68,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Alan","Jones",17,"Shadow Ford","17",11,67,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","18",18,66,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Gunnar","Nilsson",6,"Lotus Ford","19",7,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Ian","Scheckter",10,"March Ford","NC",21,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Vittorio","Brambilla",19,"Surtees Ford","NC",13,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Niki","Lauda",11,"Ferrari","NC",15,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Jody","Scheckter",20,"Wolf Ford","NC",4,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1977,"19 Jun 1977","Ronnie","Peterson",3,"Tyrrell Ford","NC",10,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Mario","Andretti",5,"Lotus Ford","1",1,80,9,"1:39:40.130",NA,NA,"1:13.750",NA,"1:12.210",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","John","Watson",7,"Brabham Alfa Romeo","2",4,80,6,"1:39:41.680","1.550","1.54999995231628",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","James","Hunt",1,"McLaren Ford","3",2,80,4,"1:40:14.000","33.870","32.3199999332428",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Gunnar","Nilsson",6,"Lotus Ford","4",3,80,3,"1:40:51.210","71.080","37.210000038147",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Niki","Lauda",11,"Ferrari","5",9,80,2,"1:40:54.580","74.450","3.36999988555908",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Carlos","Reutemann",12,"Ferrari","6",6,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Clay","Regazzoni",22,"Ensign Ford","7",16,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Jacques","Laffite",26,"Ligier Matra","8",5,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Jochen","Mass",2,"McLaren Ford","9",7,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Rupert","Keegan",24,"Hesketh Ford","10",14,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","11",22,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Ronnie","Peterson",3,"Tyrrell Ford","12",17,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Vittorio","Brambilla",19,"Surtees Ford","13",11,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Ian","Scheckter",10,"March Ford","NC",20,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Jody","Scheckter",20,"Wolf Ford","NC",8,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","NC",13,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Alan","Jones",17,"Shadow Ford","NC",10,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Arturo","Merzario",37,"March Ford","NC",18,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Patrick","Depailler",4,"Tyrrell Ford","NC",12,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Riccardo","Patrese",16,"Shadow Ford","NC",15,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","David","Purley",31,"LEC Ford","NC",21,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1977,"03 Jul 1977","Jean-Pierre","Jarier",34,"Penske Ford","NC",19,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","James","Hunt",1,"McLaren Ford","1",1,68,9,"1:31:46.060",NA,NA,"1:19.600",NA,"1:18.490",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Niki","Lauda",11,"Ferrari","2",3,68,6,"1:32:04.369","18.310","18.3090000152588",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Gunnar","Nilsson",6,"Lotus Ford","3",5,68,4,"1:32:05.629","19.570","1.25999999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Jochen","Mass",2,"McLaren Ford","4",11,68,3,"1:32:33.819","47.760","28.1900000572205",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","5",7,68,2,"1:32:57.789","71.730","23.9700000286102",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Jacques","Laffite",26,"Ligier Matra","6",15,67,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Alan","Jones",17,"Shadow Ford","7",12,67,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Vittorio","Brambilla",19,"Surtees Ford","8",8,67,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Jean-Pierre","Jarier",34,"Penske Ford","9",20,67,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Patrick","Neve",27,"March Ford","10",26,66,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Gilles","Villeneuve",40,"McLaren Ford","11",9,66,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Vern","Schuppan",18,"Surtees Ford","12",23,66,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Brett","Lunger",30,"McLaren Ford","13",19,64,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Mario","Andretti",5,"Lotus Ford","14",6,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Carlos","Reutemann",12,"Ferrari","15",14,62,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","John","Watson",7,"Brabham Alfa Romeo","NC",2,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Jody","Scheckter",20,"Wolf Ford","NC",4,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","NC",22,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Arturo","Merzario",37,"March Ford","NC",17,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Riccardo","Patrese",16,"Shadow Ford","NC",25,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Patrick","Depailler",4,"Tyrrell Ford","NC",18,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Jean-Pierre","Jabouille",15,"Renault","NC",21,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Ian","Scheckter",10,"March Ford","NC",24,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Patrick","Tambay",23,"Ensign Ford","NC",16,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Ronnie","Peterson",3,"Tyrrell Ford","NC",10,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1977,"16 Jul 1977","Rupert","Keegan",24,"Hesketh Ford","NC",13,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Niki","Lauda",11,"Ferrari","1",3,47,9,"1:31:48.620",NA,NA,"1:55.990",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Jody","Scheckter",20,"Wolf Ford","2",1,47,6,"1:32:02.949","14.330","14.3289999961853",NA,NA,"1:53.070",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","3",5,47,4,"1:32:09.519","20.900","6.57000017166138",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Carlos","Reutemann",12,"Ferrari","4",8,47,3,"1:32:48.889","60.270","39.3699998855591",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Vittorio","Brambilla",19,"Surtees Ford","5",10,47,2,"1:33:15.989","87.370","27.1000001430511",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Patrick","Tambay",23,"Ensign Ford","6",11,47,1,"1:33:18.429","89.810","2.43999981880188",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Vern","Schuppan",18,"Surtees Ford","7",19,46,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Alex","Ribeiro",9,"March Ford","8",20,46,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Ronnie","Peterson",3,"Tyrrell Ford","9",14,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Riccardo","Patrese",16,"Shadow Ford","10",16,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Rupert","Keegan",24,"Hesketh Ford","NC",23,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Mario","Andretti",5,"Lotus Ford","NC",7,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","James","Hunt",1,"McLaren Ford","NC",4,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Gunnar","Nilsson",6,"Lotus Ford","NC",9,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Jochen","Mass",2,"McLaren Ford","NC",13,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Patrick","Depailler",4,"Tyrrell Ford","NC",15,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Jacques","Laffite",26,"Ligier Matra","NC",6,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Hector","Rebaque",25,"Hesketh Ford","NC",24,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Brett","Lunger",30,"McLaren Ford","NC",21,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Ian","Scheckter",10,"March Ford","NC",18,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Hans","Heyer",35,"Penske Ford","NC",25,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","John","Watson",7,"Brabham Alfa Romeo","NC",2,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Jean-Pierre","Jarier",34,"Penske Ford","NC",12,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Alan","Jones",17,"Shadow Ford","NC",17,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1977,"31 Jul 1977","Clay","Regazzoni",22,"Ensign Ford","NC",22,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Alan","Jones",17,"Shadow Ford","1",14,54,9,"1:37:16.490",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Niki","Lauda",11,"Ferrari","2",1,54,6,"1:37:36.620","20.130","20.1299998760223",NA,NA,"1:39.320",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","3",4,54,4,"1:37:50.990","34.500","14.3700001239777",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Carlos","Reutemann",12,"Ferrari","4",5,54,3,"1:37:51.240","34.750","0.25",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Ronnie","Peterson",3,"Tyrrell Ford","5",15,54,2,"1:38:18.579","62.090","27.3389999866486",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Jochen","Mass",2,"McLaren Ford","6",9,53,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Rupert","Keegan",24,"Hesketh Ford","7",20,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","John","Watson",7,"Brabham Alfa Romeo","8",12,53,0,"1","1","1","1:40.960",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Patrick","Neve",27,"March Ford","9",22,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Brett","Lunger",30,"McLaren Ford","10",17,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","11",23,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Hans","Binder",33,"Penske Ford","12",NA,53,0,"1","1","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Patrick","Depailler",4,"Tyrrell Ford","13",10,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Jean-Pierre","Jarier",34,"Penske Ford","14",18,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Vittorio","Brambilla",19,"Surtees Ford","15",13,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Vern","Schuppan",18,"Surtees Ford","16",19,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Vern","Schuppan",18,"Surtees Ford","16",25,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Emilio","deVillota",36,"McLaren Ford","17",26,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Jody","Scheckter",20,"Wolf Ford","NC",8,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","James","Hunt",1,"McLaren Ford","NC",2,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Patrick","Tambay",23,"Ensign Ford","NC",7,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Gunnar","Nilsson",6,"Lotus Ford","NC",16,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Arturo","Merzario",16,"Shadow Ford","NC",21,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Jacques","Laffite",26,"Ligier Matra","NC",6,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Mario","Andretti",5,"Lotus Ford","NC",3,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Ian","Scheckter",10,"March Ford","NC",24,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1977,"14 Aug 1977","Clay","Regazzoni",22,"Ensign Ford","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Niki","Lauda",11,"Ferrari","1",4,75,9,"1:41:45.930",NA,NA,"1:19.990",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Jacques","Laffite",26,"Ligier Matra","2",2,75,6,"1:41:47.820","1.890","1.8899998664856",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Jody","Scheckter",20,"Wolf Ford","3",15,74,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","4",17,74,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Patrick","Tambay",23,"Ensign Ford","5",12,73,2,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Carlos","Reutemann",12,"Ferrari","6",6,73,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","7",19,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Hans","Binder",35,"Penske Ford","8",18,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Brett","Lunger",30,"McLaren Ford","9",20,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Ian","Scheckter",10,"March Ford","10",25,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Alex","Ribeiro",9,"March Ford","11",24,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Vittorio","Brambilla",19,"Surtees Ford","12",22,67,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Riccardo","Patrese",16,"Shadow Ford","13",16,67,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Brian","Henton",38,"Boro Ford","DQ",23,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Jean-Pierre","Jabouille",15,"Renault","NC",10,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Gunnar","Nilsson",6,"Lotus Ford","NC",5,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Alan","Jones",17,"Shadow Ford","NC",13,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Patrick","Depailler",4,"Tyrrell Ford","NC",11,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Ronnie","Peterson",3,"Tyrrell Ford","NC",7,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Clay","Regazzoni",22,"Ensign Ford","NC",9,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Mario","Andretti",5,"Lotus Ford","NC",1,14,0,NA,NA,NA,NA,NA,"1:18.650",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Rupert","Keegan",24,"Hesketh Ford","NC",26,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","James","Hunt",1,"McLaren Ford","NC",3,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Jean-Pierre","Jarier",34,"Penske Ford","NC",21,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","John","Watson",7,"Brabham Alfa Romeo","NC",8,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1977,"28 Aug 1977","Jochen","Mass",2,"McLaren Ford","NC",14,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Mario","Andretti",5,"Lotus Ford","1",4,52,9,"1:27:50.300",NA,NA,"1:39.100",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Niki","Lauda",11,"Ferrari","2",5,52,6,"1:28:07.259","16.960","16.9590001106262",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Alan","Jones",17,"Shadow Ford","3",16,52,4,"1:28:13.930","23.630","6.6710000038147",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Jochen","Mass",2,"McLaren Ford","4",9,52,3,"1:28:18.779","28.480","4.84899997711182",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Clay","Regazzoni",22,"Ensign Ford","5",7,52,2,"1:28:21.409","31.110","2.62999987602234",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Ronnie","Peterson",3,"Tyrrell Ford","6",12,52,1,"1:29:09.519","79.220","48.1100001335144",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Patrick","Neve",27,"March Ford","7",24,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Jacques","Laffite",26,"Ligier Matra","8",8,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Rupert","Keegan",24,"Hesketh Ford","9",23,48,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Ian","Scheckter",10,"March Ford","NC",17,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Carlos","Reutemann",12,"Ferrari","NC",2,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Bruno","Giacomelli",14,"McLaren Ford","NC",15,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Riccardo","Patrese",16,"Shadow Ford","NC",6,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","NC",11,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","James","Hunt",1,"McLaren Ford","NC",1,26,0,NA,NA,NA,NA,NA,"1:38.080",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Patrick","Depailler",4,"Tyrrell Ford","NC",13,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Jody","Scheckter",20,"Wolf Ford","NC",3,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Jean-Pierre","Jabouille",15,"Renault","NC",20,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Jean-Pierre","Jarier",34,"Penske Ford","NC",18,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Patrick","Tambay",23,"Ensign Ford","NC",21,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Vittorio","Brambilla",19,"Surtees Ford","NC",10,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Brett","Lunger",30,"McLaren Ford","NC",22,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","Gunnar","Nilsson",6,"Lotus Ford","NC",19,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1977,"11 Sep 1977","John","Watson",7,"Brabham Alfa Romeo","NC",14,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","James","Hunt",1,"McLaren Ford","1",1,59,9,"1:58:23.267",NA,NA,NA,NA,"1:40.863",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Mario","Andretti",5,"Lotus Ford","2",4,59,6,"1:58:25.292","2.026","2.02500009536743",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Jody","Scheckter",20,"Wolf Ford","3",9,59,4,"1:59:42.145","78.879","1.28088333209356",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Niki","Lauda",11,"Ferrari","4",7,59,3,"2:00:03.881","100.615","21.7360000610352",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Clay","Regazzoni",22,"Ensign Ford","5",19,59,2,"2:00:11.404","108.138","7.52300000190735",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Carlos","Reutemann",12,"Ferrari","6",6,58,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Jacques","Laffite",26,"Ligier Matra","7",10,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Rupert","Keegan",24,"Hesketh Ford","8",20,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Jean-Pierre","Jarier",16,"Shadow Ford","9",16,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Brett","Lunger",30,"McLaren Ford","10",17,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Hans","Binder",18,"Surtees Ford","11",25,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","John","Watson",7,"Brabham Alfa Romeo","12",3,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","13",18,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Patrick","Depailler",4,"Tyrrell Ford","14",8,56,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Alex","Ribeiro",9,"March Ford","15",23,56,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Ronnie","Peterson",3,"Tyrrell Ford","16",5,56,0,"3","3","3","1:51.854",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Ian","Ashley",25,"Hesketh Ford","17",22,55,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Patrick","Neve",27,"March Ford","18",24,55,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Vittorio","Brambilla",19,"Surtees Ford","19",11,54,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Jean-Pierre","Jabouille",15,"Renault","NC",14,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Gunnar","Nilsson",6,"Lotus Ford","NC",12,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","NC",2,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Ian","Scheckter",10,"March Ford","NC",21,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Jochen","Mass",2,"McLaren Ford","NC",15,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Danny","Ongais",14,"Penske Ford","NC",26,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1977,"02 Oct 1977","Alan","Jones",17,"Shadow Ford","NC",13,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Jody","Scheckter",20,"Wolf Ford","1",9,80,9,"1:40:00.000",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Patrick","Depailler",4,"Tyrrell Ford","2",6,80,6,"1:40:06.769","6.770","6.76900005340576",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Jochen","Mass",2,"McLaren Ford","3",5,80,4,"1:40:15.759","15.760","8.99000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Alan","Jones",17,"Shadow Ford","4",7,80,3,"1:40:46.690","46.690","30.930999994278",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Patrick","Tambay",23,"Ensign Ford","5",16,80,2,"1:41:03.259","63.260","16.569000005722",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Vittorio","Brambilla",19,"Surtees Ford","6",15,78,1,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Danny","Ongais",14,"Penske Ford","7",22,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Alex","Ribeiro",9,"March Ford","8",23,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Mario","Andretti",5,"Lotus Ford","9",1,77,0,NA,NA,NA,"1:13.299",NA,"1:11.385",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Riccardo","Patrese",16,"Shadow Ford","10",8,76,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Brett","Lunger",30,"McLaren Ford","11",20,76,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Gilles","Villeneuve",21,"Ferrari","12",17,76,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","James","Hunt",1,"McLaren Ford","NC",2,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Patrick","Neve",27,"March Ford","NC",21,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Ronnie","Peterson",3,"Tyrrell Ford","NC",3,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Rupert","Keegan",24,"Hesketh Ford","NC",25,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Hans","Binder",18,"Surtees Ford","NC",24,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Emerson","Fittipaldi",28,"Fittipaldi Ford","NC",19,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Ian","Scheckter",10,"March Ford","NC",18,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Carlos","Reutemann",12,"Ferrari","NC",12,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","NC",13,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Gunnar","Nilsson",6,"Lotus Ford","NC",4,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Jacques","Laffite",26,"Ligier Matra","NC",11,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","John","Watson",7,"Brabham Alfa Romeo","NC",10,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1977,"09 Oct 1977","Clay","Regazzoni",22,"Ensign Ford","NC",14,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","James","Hunt",1,"McLaren Ford","1",2,73,9,"1:31:51.680",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Carlos","Reutemann",12,"Ferrari","2",7,73,6,"1:32:54.130","62.450","1.04083333412806",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Patrick","Depailler",4,"Tyrrell Ford","3",15,73,4,"1:32:58.070","66.390","3.93999981880188",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Alan","Jones",17,"Shadow Ford","4",12,73,3,"1:32:58.289","66.610","0.219000101089478",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Jacques","Laffite",26,"Ligier Matra","5",5,72,2,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Riccardo","Patrese",16,"Shadow Ford","6",13,72,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Hans-Joachim","Stuck",8,"Brabham Alfa Romeo","7",4,72,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Vittorio","Brambilla",19,"Surtees Ford","8",9,71,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Kunimitsu","Takahashi",50,"Tyrrell Ford","9",22,71,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Jody","Scheckter",20,"Wolf Ford","10",6,71,0,"2","2","2","1:14.300",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Kazuyoshi","Hoshino",52,"Kojima Ford","11",11,71,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Alex","Ribeiro",9,"March Ford","12",23,69,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Gunnar","Nilsson",6,"Lotus Ford","NC",14,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Clay","Regazzoni",22,"Ensign Ford","NC",10,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","John","Watson",7,"Brabham Alfa Romeo","NC",3,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Jochen","Mass",2,"McLaren Ford","NC",8,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Patrick","Tambay",23,"Ensign Ford","NC",16,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Ronnie","Peterson",3,"Tyrrell Ford","NC",18,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Gilles","Villeneuve",11,"Ferrari","NC",20,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Jean-Pierre","Jarier",27,"Ligier Matra","NC",17,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Hans","Binder",18,"Surtees Ford","NC",21,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Noritake","Takahara",51,"Kojima Ford","NC",19,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1977,"23 Oct 1977","Mario","Andretti",5,"Lotus Ford","NC",1,1,0,NA,NA,NA,NA,NA,"1:12.230",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

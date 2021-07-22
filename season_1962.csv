@@ -1,0 +1,176 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Graham","Hill",17,"BRM","1",2,80,9,"2:11:02.100",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Trevor","Taylor",5,"Lotus Climax","2",10,80,6,"2:11:29.299","27.200","27.199000120163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Phil","Hill",1,"Ferrari","3",9,80,4,"2:12:23.199","81.100","53.8999998569489",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Giancarlo","Baghetti",2,"Ferrari","4",12,79,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Tony","Maggs",7,"Cooper Climax","5",15,78,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","CarelGodin","deBeaufort",14,"Porsche","6",14,76,1,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Jo","Bonnier",11,"Porsche","7",13,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Ricardo","Rodriguez",3,"Ferrari","NC",11,73,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Richie","Ginther",18,"BRM","NC",7,71,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Jackie","Lewis",21,"Cooper Climax","8",19,70,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Jim","Clark",4,"Lotus Climax","9",3,70,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Innes","Ireland",9,"Lotus Climax","NC",6,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Masten","Gregory",10,"Lotus Climax","NC",16,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Wolfgang","Seidel",16,"Emeryson Climax","NC",20,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Dan","Gurney",12,"Porsche","NC",8,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Bruce","McLaren",6,"Cooper Climax","NC",5,21,0,NA,NA,NA,"1:34.400",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Roy","Salvadori",20,"Lola Climax","NC",17,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","John","Surtees",19,"Lola Climax","NC",1,8,0,NA,NA,NA,NA,NA,"1:32.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Jack","Brabham",8,"Lotus Climax","NC",4,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1962,"20 May 1962","Ben","Pon",15,"Porsche","NC",18,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Bruce","McLaren",14,"Cooper Climax","1",3,100,9,"2:46:29.700",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Phil","Hill",36,"Ferrari","2",9,100,6,"2:46:31.000","1.300","1.29999995231628",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Lorenzo","Bandini",38,"Ferrari","3",10,100,4,"2:47:53.799","84.100","1.37998333374659",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","John","Surtees",28,"Lola Climax","4",11,99,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Jo","Bonnier",2,"Porsche","5",15,93,2,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Graham","Hill",10,"BRM","6",2,92,1,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Willy","Mairesse",40,"Ferrari","7",4,90,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Jack","Brabham",22,"Lotus Climax","8",6,77,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Innes","Ireland",34,"Lotus Climax","NC",8,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Jim","Clark",18,"Lotus Climax","NC",1,55,0,NA,NA,NA,"1:35.500",NA,"1:35.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Roy","Salvadori",26,"Lola Climax","NC",12,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Tony","Maggs",16,"Cooper Climax","NC",16,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Trevor","Taylor",20,"Lotus Climax","NC",14,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Dan","Gurney",4,"Porsche","NC",5,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Richie","Ginther",8,"BRM","NC",13,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1962,"03 Jun 1962","Maurice","Trintignant",30,"Lotus Climax","NC",7,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Jim","Clark",16,"Lotus Climax","1",12,32,9,"2:07:32.300",NA,NA,"3:55.600",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Graham","Hill",1,"BRM","2",1,32,6,"2:08:16.399","44.100","44.0989999771118",NA,NA,"3:57.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Phil","Hill",9,"Ferrari","3",4,32,4,"2:09:38.799","126.500","1.37333333492279",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Ricardo","Rodriguez",12,"Ferrari","4",7,32,3,"2:09:38.899","126.600","0.0999999046325684",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","John","Surtees",5,"Lola Climax","5",11,31,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Jack","Brabham",15,"Lotus Climax","6",15,30,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","CarelGodin","deBeaufort",7,"Porsche","7",13,30,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Maurice","Trintignant",18,"Lotus Climax","8",16,30,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Lucien","Bianchi",19,"Lotus Climax","9",18,29,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Jo","Siffert",22,"Lotus Climax","10",17,29,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Trevor","Taylor",17,"Lotus Climax","NC",3,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Willy","Mairesse",10,"Ferrari","NC",6,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Richie","Ginther",2,"BRM","NC",9,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Tony","Maggs",26,"Cooper Climax","NC",10,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Bruce","McLaren",25,"Cooper Climax","NC",2,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","John","Campbell-Jones",4,"Lotus Climax","11",19,16,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Masten","Gregory",21,"Lotus BRM","NC",8,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Innes","Ireland",20,"Lotus Climax","NC",5,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1962,"17 Jun 1962","Giancarlo","Baghetti",11,"Ferrari","NC",14,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Dan","Gurney",30,"Porsche","1",6,54,9,"2:07:35.500",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Tony","Maggs",24,"Cooper Climax","2",11,53,6,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Richie","Ginther",10,"BRM","3",10,52,4,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Bruce","McLaren",22,"Cooper Climax","4",3,51,3,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","John","Surtees",18,"Lola Climax","5",5,51,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","CarelGodin","deBeaufort",38,"Porsche","6",17,51,1,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Maurice","Trintignant",28,"Lotus Climax","7",13,50,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Trevor","Taylor",14,"Lotus Climax","8",12,48,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Graham","Hill",8,"BRM","9",2,44,0,NA,NA,NA,"2:16.900",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Jo","Bonnier",32,"Porsche","10",9,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Jim","Clark",12,"Lotus Climax","NC",1,33,0,NA,NA,NA,NA,NA,"2:14.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Jackie","Lewis",42,"Cooper Climax","NC",16,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Roy","Salvadori",20,"Lola Climax","NC",14,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Masten","Gregory",34,"Lotus BRM","NC",7,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Jack","Brabham",26,"Lotus Climax","NC",4,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Jo","Siffert",40,"Lotus BRM","NC",15,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1962,"08 Jul 1962","Innes","Ireland",36,"Lotus Climax","NC",8,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Jim","Clark",20,"Lotus Climax","1",1,75,9,"2:26:20.800",NA,NA,"1:55.000",NA,"1:53.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","John","Surtees",24,"Lola Climax","2",2,75,6,"2:27:10.000","49.200","49.2000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Bruce","McLaren",16,"Cooper Climax","3",4,75,4,"2:28:05.599","104.800","55.5989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Graham","Hill",12,"BRM","4",5,75,3,"2:28:17.599","116.800","12",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Jack","Brabham",30,"Lotus Climax","5",9,74,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Tony","Maggs",18,"Cooper Climax","6",13,74,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Masten","Gregory",34,"Lotus Climax","7",14,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Trevor","Taylor",22,"Lotus Climax","8",10,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Dan","Gurney",8,"Porsche","9",6,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Jackie","Lewis",42,"Cooper Climax","10",15,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Tony","Settember",40,"Emeryson Climax","11",19,71,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Ian","Burgess",36,"Cooper Climax","12",16,71,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Richie","Ginther",14,"BRM","13",8,70,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","CarelGodin","deBeaufort",54,"Porsche","14",17,69,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Jay","Chamberlain",46,"Lotus Climax","15",20,64,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Innes","Ireland",32,"Lotus Climax","16",3,61,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Phil","Hill",2,"Ferrari","NC",12,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Roy","Salvadori",26,"Lola Climax","NC",11,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Jo","Bonnier",10,"Porsche","NC",7,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Wolfgang","Seidel",44,"Lotus BRM","NC",21,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Aintree Racecourse, Great Britain",1962,"21 Jul 1962","Tony","Shelly",48,"Lotus Climax","NC",18,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Graham","Hill",11,"BRM","1",2,15,9,"2:38:45.300",NA,NA,"10:12.200",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","John","Surtees",14,"Lola Climax","2",4,15,6,"2:38:47.799","2.500","2.49900007247925",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Dan","Gurney",7,"Porsche","3",1,15,4,"2:38:49.700","4.400","1.90100002288818",NA,NA,"8:47.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Jim","Clark",5,"Lotus Climax","4",3,15,3,"2:39:27.399","42.100","37.6989998817444",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Bruce","McLaren",9,"Cooper Climax","5",5,15,2,"2:40:04.899","79.600","37.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Ricardo","Rodriguez",3,"Ferrari","6",10,15,1,"2:40:09.099","83.800","4.20000004768372",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Jo","Bonnier",8,"Porsche","7",6,15,0,"2:43:22.599","277.300","3.225",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Richie","Ginther",12,"BRM","8",7,15,0,"2:43:45.399","300.100","22.7999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Tony","Maggs",10,"Cooper Climax","9",23,15,0,"2:43:52.099","306.800","6.70000004768372",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Giancarlo","Baghetti",2,"Ferrari","10",13,15,0,"2:47:00.000","494.700","3.1316833337148",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Ian","Burgess",25,"Cooper Climax","11",16,15,0,"2:47:00.599","495.300","0.598999977111816",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Jo","Siffert",19,"Lotus Climax","12",17,15,0,"2:47:03.799","498.500","3.20000004768372",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","CarelGodin","deBeaufort",18,"Porsche","13",8,15,0,"2:47:57.099","551.800","53.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Heini","Walter",32,"Porsche","14",14,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Nino","Vaccarella",26,"Porsche","15",15,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Lucien","Bianchi",21,"ENB Maserati","16",25,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Jackie","Lewis",20,"Cooper Climax","17",21,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Jack","Brabham",16,"Brabham Climax","NC",24,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Phil","Hill",1,"Ferrari","NC",12,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Keith","Greene",27,"Gilby BRM","NC",19,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Maurice","Trintignant",17,"Lotus Climax","NC",11,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Lorenzo","Bandini",4,"Ferrari","NC",18,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Roy","Salvadori",15,"Lola Climax","NC",9,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Heinz","Schiller",28,"Lotus BRM","NC",20,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Bernard","Collomb",31,"Cooper Climax","NC",22,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1962,"05 Aug 1962","Trevor","Taylor",6,"Lotus Climax","NC",26,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Graham","Hill",14,"BRM","1",2,86,9,"2:29:08.400",NA,NA,"1:42.300",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Richie","Ginther",12,"BRM","2",3,86,6,"2:29:38.200","29.800","29.7999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Bruce","McLaren",28,"Cooper Climax","3",4,86,4,"2:30:06.200","57.800","28",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Willy","Mairesse",8,"Ferrari","4",10,86,3,"2:30:06.600","58.200","0.399999856948853",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Giancarlo","Baghetti",2,"Ferrari","5",18,86,2,"2:30:39.700","91.300","33.1000001430511",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Jo","Bonnier",18,"Porsche","6",9,85,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Tony","Maggs",30,"Cooper Climax","7",12,85,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Lorenzo","Bandini",6,"Ferrari","8",17,84,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Nino","Vaccarella",24,"Lotus Climax","9",14,84,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","CarelGodin","deBeaufort",32,"Porsche","10",20,81,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Phil","Hill",10,"Ferrari","11",15,81,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Masten","Gregory",38,"Lotus BRM","12",6,77,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Dan","Gurney",16,"Porsche","13",7,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Ricardo","Rodriguez",4,"Ferrari","14",11,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Innes","Ireland",40,"Lotus Climax","NC",5,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","John","Surtees",46,"Lola Climax","NC",8,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Roy","Salvadori",44,"Lola Climax","NC",13,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Trevor","Taylor",22,"Lotus Climax","NC",16,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Tony","Settember",48,"Emeryson Climax","NC",21,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Maurice","Trintignant",36,"Lotus Climax","NC",19,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1962,"16 Sep 1962","Jim","Clark",20,"Lotus Climax","NC",1,12,0,NA,NA,NA,NA,NA,"1:40.350",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Jim","Clark",8,"Lotus Climax","1",1,100,9,"2:07:13.000",NA,NA,"1:15.000",NA,"1:15.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Graham","Hill",4,"BRM","2",3,100,6,"2:07:22.200","9.200","9.20000004768372",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Bruce","McLaren",21,"Cooper Climax","3",6,99,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Jack","Brabham",17,"Brabham Climax","4",5,99,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Dan","Gurney",10,"Porsche","5",4,99,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Masten","Gregory",16,"Lotus BRM","6",7,99,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Tony","Maggs",22,"Cooper Climax","7",10,97,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Innes","Ireland",15,"Lotus Climax","8",15,96,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Roger","Penske",14,"Lotus Climax","9",12,96,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Rob","Schroeder",26,"Lotus Climax","10",16,93,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Hap","Sharp",24,"Cooper Climax","11",14,91,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Trevor","Taylor",9,"Lotus Climax","12",8,85,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Jo","Bonnier",11,"Porsche","13",9,79,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Richie","Ginther",5,"BRM","NC",2,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Maurice","Trintignant",6,"Lotus Climax","NC",17,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","Timmy","Mayer",23,"Cooper Climax","NC",11,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","John","Surtees",18,"Lola Climax","NC",18,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1962,"07 Oct 1962","CarelGodin","deBeaufort",12,"Porsche","NC",13,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Graham","Hill",3,"BRM","1",2,82,9,"2:08:03.300",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Bruce","McLaren",8,"Cooper Climax","2",8,82,6,"2:08:53.099","49.800","49.7990000247955",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Tony","Maggs",9,"Cooper Climax","3",6,82,4,"2:08:53.599","50.300","0.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Jack","Brabham",10,"Brabham Climax","4",3,82,3,"2:08:57.099","53.800","3.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Innes","Ireland",11,"Lotus Climax","5",4,81,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Neville","Lederle",20,"Lotus Climax","6",10,78,1,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Richie","Ginther",4,"BRM","7",7,78,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","John","Love",18,"Cooper Climax","8",12,78,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Bruce","Johnstone",5,"BRM","9",17,76,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Ernie","Pieterse",14,"Lotus Climax","10",13,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","CarelGodin","deBeaufort",15,"Porsche","11",16,70,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Doug","Serrurier",21,"LDS Alfa Romeo","NC",14,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Jim","Clark",1,"Lotus Climax","NC",1,61,0,NA,NA,NA,"1:31.000",NA,"1:29.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Roy","Salvadori",7,"Lola Climax","NC",11,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Mike","Harris",22,"Cooper Alfa Romeo","NC",15,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","John","Surtees",6,"Lola Climax","NC",5,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1962,"29 Dec 1962","Trevor","Taylor",2,"Lotus Climax","NC",9,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

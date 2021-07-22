@@ -1,0 +1,188 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Jim","Clark",5,"Lotus Climax","1",1,85,9,"2:06:46.000",NA,NA,"1:27.600",NA,"1:27.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","John","Surtees",1,"Ferrari","2",2,85,6,"2:07:15.000","29.000","29",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Graham","Hill",3,"BRM","3",5,85,4,"2:07:17.799","31.800","2.79900002479553",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Mike","Spence",6,"Lotus Climax","4",4,85,3,"2:07:40.400","54.400","22.6010000705719",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Bruce","McLaren",9,"Cooper Climax","5",8,84,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Jackie","Stewart",4,"BRM","6",11,83,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Jo","Siffert",12,"Brabham BRM","7",14,83,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Jack","Brabham",7,"Brabham Climax","8",3,81,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Paul","Hawkins",18,"Brabham Ford","9",16,81,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Peter","deKlerk",20,"Alfa Romeo","10",17,79,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Tony","Maggs",15,"Lotus BRM","11",13,77,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Frank","Gardner",16,"Brabham BRM","12",15,75,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Sam","Tingle",25,"LDS Alfa Romeo","13",20,73,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","David","Prophet",19,"Brabham Ford","14",19,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Lorenzo","Bandini",2,"Ferrari","15",6,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Bob","Anderson",14,"Brabham Climax","NC",12,50,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Jo","Bonnier",11,"Brabham Climax","NC",7,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Jochen","Rindt",10,"Cooper Climax","NC",10,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","John","Love",17,"Cooper Climax","NC",18,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1965,"01 Jan 1965","Dan","Gurney",8,"Brabham Climax","NC",9,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Graham","Hill",3,"BRM","1",1,100,9,"2:37:39.600",NA,NA,"1:31.700",NA,"1:32.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Lorenzo","Bandini",17,"Ferrari","2",4,100,6,"2:38:43.599","64.000","1.06665000120799",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Jackie","Stewart",4,"BRM","3",3,100,4,"2:39:21.500","101.900","37.9010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","John","Surtees",18,"Ferrari","4",5,99,3,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Bruce","McLaren",7,"Cooper Climax","5",7,98,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Jo","Siffert",14,"Brabham BRM","6",10,98,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Jo","Bonnier",12,"Brabham Climax","7",13,97,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Denny","Hulme",2,"Brabham Climax","8",8,92,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Bob","Anderson",9,"Brabham Climax","9",9,85,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Paul","Hawkins",10,"Lotus Climax","10",14,79,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Jack","Brabham",1,"Brabham Climax","NC",2,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Richard","Attwood",15,"Lotus BRM","NC",6,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Ronnie","Bucknum",19,"Honda","NC",15,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Frank","Gardner",11,"Brabham BRM","NC",11,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Mike","Hailwood",16,"Lotus BRM","NC",12,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1965,"30 May 1965","Richie","Ginther",20,"Honda","NC",16,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Jim","Clark",17,"Lotus Climax","1",2,32,9,"2:23:34.800",NA,NA,"4:12.900",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Jackie","Stewart",8,"BRM","2",3,32,6,"2:24:19.599","44.800","44.7990000247955",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Bruce","McLaren",4,"Cooper Climax","3",9,31,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Jack","Brabham",14,"Brabham Climax","4",10,31,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Graham","Hill",7,"BRM","5",1,31,2,"1","1","1",NA,NA,"3:45.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Richie","Ginther",10,"Honda","6",4,31,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Mike","Spence",18,"Lotus Climax","7",12,31,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Jo","Siffert",21,"Brabham BRM","8",8,31,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Lorenzo","Bandini",2,"Ferrari","9",15,30,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Dan","Gurney",15,"Brabham Climax","10",5,30,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Jochen","Rindt",5,"Cooper Climax","11",14,29,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Lucien","Bianchi",27,"BRM","12",17,29,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Innes","Ireland",22,"Lotus BRM","13",16,27,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Richard","Attwood",23,"Lotus BRM","14",13,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Masten","Gregory",29,"BRM","NC",19,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Ronnie","Bucknum",11,"Honda","NC",11,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Jo","Bonnier",20,"Brabham Climax","NC",7,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","John","Surtees",1,"Ferrari","NC",6,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1965,"13 Jun 1965","Frank","Gardner",26,"Brabham BRM","NC",18,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Jim","Clark",6,"Lotus Climax","1",1,40,9,"2:14:38.400",NA,NA,"3:18.900",NA,"3:18.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Jackie","Stewart",12,"BRM","2",2,40,6,"2:15:04.700","26.300","26.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","John","Surtees",2,"Ferrari","3",4,40,4,"2:17:11.900","153.500","2.12000000079473",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Denny","Hulme",16,"Brabham Climax","4",6,40,3,"2:17:31.500","173.100","19.5999999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Graham","Hill",10,"BRM","5",13,39,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Jo","Siffert",36,"Brabham BRM","6",14,39,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Mike","Spence",8,"Lotus Climax","7",10,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Lorenzo","Bandini",4,"Ferrari","8",3,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Bob","Anderson",30,"Brabham Climax","9",15,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Bruce","McLaren",18,"Cooper Climax","NC",9,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Jo","Bonnier",34,"Brabham Climax","NC",11,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Chris","Amon",24,"Lotus BRM","NC",8,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Innes","Ireland",22,"Lotus BRM","NC",17,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Dan","Gurney",14,"Brabham Climax","NC",5,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Richie","Ginther",26,"Honda","NC",7,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Ronnie","Bucknum",28,"Honda","NC",16,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1965,"27 Jun 1965","Jochen","Rindt",20,"Cooper Climax","NC",12,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Jim","Clark",5,"Lotus Climax","1",1,80,9,"2:05:25.400",NA,NA,NA,NA,"1:30.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Graham","Hill",3,"BRM","2",2,80,6,"2:05:28.600","3.200","3.19999980926514","1:32.200",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","John","Surtees",1,"Ferrari","3",5,80,4,"2:05:53.000","27.600","24.4000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Mike","Spence",6,"Lotus Climax","4",6,80,3,"2:06:05.000","39.600","12",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Jackie","Stewart",4,"BRM","5",4,80,2,"2:06:40.000","74.600","35",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Dan","Gurney",7,"Brabham Climax","6",7,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Dan","Gurney",7,"Brabham Climax","6",8,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Jo","Bonnier",15,"Brabham Climax","7",14,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Frank","Gardner",17,"Brabham BRM","8",13,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Jo","Siffert",16,"Brabham BRM","9",18,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Bruce","McLaren",9,"Cooper Climax","10",11,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Ian","Raby",24,"Brabham BRM","11",20,73,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Masten","Gregory",12,"BRM","12",19,70,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Richard","Attwood",22,"Lotus BRM","13",16,63,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Jochen","Rindt",10,"Cooper Climax","14",12,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Innes","Ireland",23,"Lotus BRM","NC",15,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","John","Rhodes",20,"Cooper Climax","NC",21,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Bob","Anderson",18,"Brabham Climax","NC",17,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Denny","Hulme",14,"Brabham Climax","NC",10,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Richie","Ginther",11,"Honda","NC",3,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1965,"10 Jul 1965","Lorenzo","Bandini",2,"Ferrari","NC",9,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Jim","Clark",6,"Lotus Climax","1",2,80,9,"2:03:59.100",NA,NA,"1:30.600",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Jackie","Stewart",12,"BRM","2",6,80,6,"2:04:07.099","8.000","7.99900007247925",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Dan","Gurney",16,"Brabham Climax","3",5,80,4,"2:04:12.099","13.000","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Graham","Hill",10,"BRM","4",1,80,3,"2:04:44.199","45.100","32.0999999046326",NA,NA,"1:30.700",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Denny","Hulme",14,"Brabham Climax","5",7,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Richie","Ginther",22,"Honda","6",3,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","John","Surtees",2,"Ferrari","7",4,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Mike","Spence",8,"Lotus Climax","8",8,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Lorenzo","Bandini",4,"Ferrari","9",12,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Innes","Ireland",38,"Lotus BRM","10",13,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Frank","Gardner",30,"Brabham BRM","11",11,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Richard","Attwood",34,"Lotus BRM","12",17,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Jo","Siffert",28,"Brabham BRM","13",10,55,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Jochen","Rindt",20,"Cooper Climax","NC",14,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Bruce","McLaren",18,"Cooper Climax","NC",9,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Jo","Bonnier",26,"Brabham Climax","NC",15,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1965,"18 Jul 1965","Bob","Anderson",36,"Brabham Climax","NC",16,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Jim","Clark",1,"Lotus Climax","1",1,15,9,"2:07:52.400",NA,NA,"8:24.100",NA,"8:22.700",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Graham","Hill",9,"BRM","2",3,15,6,"2:08:08.300","15.900","15.8999998569489",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Dan","Gurney",5,"Brabham Climax","3",5,15,4,"2:08:13.800","21.400","5.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Jochen","Rindt",12,"Cooper Climax","4",8,15,3,"2:11:22.000","209.600","3.1366666674614",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Jack","Brabham",4,"Brabham Climax","5",14,15,2,"2:12:33.600","281.200","1.19333333174388",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Lorenzo","Bandini",8,"Ferrari","6",7,15,1,"2:13:01.000","308.600","27.4000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Jo","Bonnier",16,"Brabham Climax","7",9,15,0,"2:13:50.900","358.500","49.9000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Masten","Gregory",24,"BRM","8",18,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","John","Surtees",7,"Ferrari","NC",4,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Jo","Siffert",17,"Brabham BRM","NC",11,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Gerhard","Mitter",3,"Lotus Climax","NC",12,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Mike","Spence",2,"Lotus Climax","NC",6,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Richard","Attwood",20,"Lotus BRM","NC",16,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Bruce","McLaren",11,"Cooper Climax","NC",10,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Denny","Hulme",6,"Brabham Climax","NC",13,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Paul","Hawkins",22,"Lotus Climax","NC",19,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Chris","Amon",19,"Lotus BRM","NC",15,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Jackie","Stewart",10,"BRM","NC",2,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1965,"01 Aug 1965","Frank","Gardner",21,"Brabham BRM","NC",17,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Jackie","Stewart",32,"BRM","1",3,76,9,"2:04:52.800",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Graham","Hill",30,"BRM","2",4,76,6,"2:04:56.099","3.300","3.29900002479553",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Dan","Gurney",12,"Brabham Climax","3",9,76,4,"2:05:09.299","16.500","13.2000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Lorenzo","Bandini",4,"Ferrari","4",5,76,3,"2:06:08.700","75.900","59.4010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Bruce","McLaren",16,"Cooper Climax","5",11,75,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Richard","Attwood",40,"Lotus BRM","6",13,75,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Jo","Bonnier",42,"Brabham Climax","7",14,74,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Jochen","Rindt",18,"Cooper Climax","8",7,74,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Innes","Ireland",38,"Lotus BRM","9",18,74,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Jim","Clark",24,"Lotus Climax","10",1,63,0,NA,NA,NA,"1:36.400",NA,"1:35.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Mike","Spence",26,"Lotus Climax","11",8,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Nino","Vaccarella",6,"Ferrari","12",15,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Roberto","Bussinello",50,"BRM","13",21,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Richie","Ginther",20,"Honda","14",17,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Denny","Hulme",14,"Brabham Climax","NC",12,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Frank","Gardner",46,"Brabham BRM","NC",16,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Jo","Siffert",44,"Brabham BRM","NC",10,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Giacomo","Russo",28,"Lotus Climax","NC",20,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","John","Surtees",8,"Ferrari","NC",2,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Ronnie","Bucknum",22,"Honda","NC",6,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Masten","Gregory",48,"BRM","NC",23,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Giancarlo","Baghetti",10,"Brabham Climax","NC",19,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1965,"12 Sep 1965","Giorgio","Bassi",52,"BRM","NC",22,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Graham","Hill",3,"BRM","1",1,110,9,"2:20:36.100",NA,NA,"1:11.900",NA,"1:11.250",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Dan","Gurney",8,"Brabham Climax","2",8,110,6,"2:20:48.599","12.500","12.4990000724792",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Jack","Brabham",7,"Brabham Climax","3",7,110,4,"2:21:33.599","57.500","45",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Lorenzo","Bandini",2,"Ferrari","4",5,109,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Pedro","Rodriguez",14,"Ferrari","5",15,109,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Jochen","Rindt",10,"Cooper Climax","6",13,108,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Richie","Ginther",11,"Honda","7",3,108,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Jo","Bonnier",15,"Brabham Climax","8",10,107,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Bob","Bondurant",24,"Ferrari","9",14,106,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Richard","Attwood",21,"Lotus BRM","10",16,101,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Jo","Siffert",16,"Brabham BRM","11",11,99,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Moises","Solana",18,"Lotus Climax","12",17,95,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Ronnie","Bucknum",12,"Honda","13",12,92,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Jackie","Stewart",4,"BRM","NC",6,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Bruce","McLaren",9,"Cooper Climax","NC",9,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Jim","Clark",5,"Lotus Climax","NC",2,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Innes","Ireland",22,"Lotus BRM","NC",18,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1965,"03 Oct 1965","Mike","Spence",6,"Lotus Climax","NC",4,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Richie","Ginther",11,"Honda","1",3,65,9,"2:08:32.100",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Dan","Gurney",8,"Brabham Climax","2",2,65,6,"2:08:34.990","2.890","2.89000010490417","1:55.840",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Mike","Spence",6,"Lotus Climax","3",6,65,4,"2:09:32.250","60.150","57.2599999904633",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Jo","Siffert",16,"Brabham BRM","4",11,65,3,"2:10:26.519","114.420","54.2690000534058",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Ronnie","Bucknum",12,"Honda","5",10,64,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Richard","Attwood",21,"Lotus BRM","6",16,64,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Pedro","Rodriguez",14,"Ferrari","7",13,62,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Lorenzo","Bandini",2,"Ferrari","8",7,62,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Graham","Hill",3,"BRM","NC",5,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Moises","Solana",18,"Lotus Climax","NC",9,55,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Jo","Bonnier",15,"Brabham Climax","NC",12,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Jochen","Rindt",10,"Cooper Climax","NC",15,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Jack","Brabham",7,"Brabham Climax","NC",4,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Jackie","Stewart",4,"BRM","NC",8,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Bob","Bondurant",22,"Lotus BRM","NC",17,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Bruce","McLaren",9,"Cooper Climax","NC",14,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1965,"24 Oct 1965","Jim","Clark",5,"Lotus Climax","NC",1,8,0,NA,NA,NA,NA,NA,"1:56.170",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

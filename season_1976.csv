@@ -1,0 +1,395 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Niki","Lauda",1,"Ferrari","1",2,40,9,"1:45:16.780",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Patrick","Depailler",4,"Tyrrell Ford","2",9,40,6,"1:45:38.250","21.470","21.4700000286102",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Tom","Pryce",16,"Shadow Ford","3",12,40,4,"1:45:40.619","23.840","2.36899995803833",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Hans-Joachim","Stuck",34,"March Ford","4",14,40,3,"1:46:44.950","88.170","1.07218333482742",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Jody","Scheckter",3,"Tyrrell Ford","5",13,40,2,"1:47:13.240","116.460","28.289999961853",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Jochen","Mass",12,"McLaren Ford","6",6,40,1,"1:47:15.049","118.270","1.80900001525879",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Clay","Regazzoni",2,"Ferrari","7",4,40,0,"1:47:32.019","135.240","16.9700000286102",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Jacky","Ickx",20,"Wolf-Williams","8",19,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Renzo","Zorzi",21,"Wolf-Williams","9",17,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Carlos","Pace",8,"Brabham Alfa Romeo","10",10,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Ingo","Hoffman",31,"Fittipaldi Ford","11",20,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Carlos","Reutemann",7,"Brabham Alfa Romeo","12",15,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","13",5,37,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Lella","Lombardi",10,"March Ford","14",22,36,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Jean-Pierre","Jarier",17,"Shadow Ford","NC",3,33,0,NA,NA,NA,"2:35.070",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","James","Hunt",11,"McLaren Ford","NC",1,32,0,NA,NA,NA,NA,NA,"2:32.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Vittorio","Brambilla",9,"March Ford","NC",7,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Jacques","Laffite",26,"Ligier Matra","NC",11,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Ronnie","Peterson",5,"Lotus Ford","NC",18,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Mario","Andretti",6,"Lotus Ford","NC",16,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","John","Watson",28,"Penske Ford","NC",8,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1976,"25 Jan 1976","Ian","Ashley",14,"BRM","NC",21,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Niki","Lauda",1,"Ferrari","1",2,78,9,"1:42:18.400",NA,NA,"1:17.970",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","James","Hunt",11,"McLaren Ford","2",1,78,6,"1:42:19.700","1.300","1.29999995231628",NA,NA,"1:16.100",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Jochen","Mass",12,"McLaren Ford","3",4,78,4,"1:43:04.300","45.900","44.5999999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Jody","Scheckter",3,"Tyrrell Ford","4",12,78,3,"1:43:26.800","68.400","22.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","John","Watson",28,"Penske Ford","5",3,77,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Mario","Andretti",27,"Parnelli Ford","6",13,77,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Tom","Pryce",16,"Shadow Ford","7",7,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Vittorio","Brambilla",9,"March Ford","8",5,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Patrick","Depailler",4,"Tyrrell Ford","9",6,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Bob","Evans",5,"Lotus Ford","10",23,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Brett","Lunger",18,"Surtees Ford","11",20,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Hans-Joachim","Stuck",34,"March Ford","12",17,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Michel","Leclere",21,"Wolf-Williams","13",22,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Chris","Amon",22,"Ensign Ford","14",18,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Harald","Ertl",24,"Hesketh Ford","15",24,74,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Jacky","Ickx",20,"Wolf-Williams","16",19,73,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","17",21,70,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Clay","Regazzoni",2,"Ferrari","NC",9,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Jacques","Laffite",26,"Ligier Matra","NC",8,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Jean-Pierre","Jarier",17,"Shadow Ford","NC",15,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Carlos","Pace",8,"Brabham Alfa Romeo","NC",14,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Gunnar","Nilsson",6,"Lotus Ford","NC",25,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Carlos","Reutemann",7,"Brabham Alfa Romeo","NC",11,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Ronnie","Peterson",10,"March Ford","NC",10,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1976,"06 Mar 1976","Ian","Scheckter",15,"Tyrrell Ford","NC",16,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Clay","Regazzoni",2,"Ferrari","1",1,80,9,"1:53:18.471",NA,NA,"1:23.076",NA,"1:23.099",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Niki","Lauda",1,"Ferrari","2",4,80,6,"1:54:00.884","42.414","42.4130001068115",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Patrick","Depailler",4,"Tyrrell Ford","3",2,80,4,"1:54:08.442","49.972","7.55799984931946",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Jacques","Laffite",26,"Ligier Matra","4",12,80,3,"1:54:31.299","72.828","22.8570001125336",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Jochen","Mass",12,"McLaren Ford","5",14,80,2,"1:54:40.763","82.292","9.46399998664856",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","6",16,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Jean-Pierre","Jarier",17,"Shadow Ford","7",7,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Chris","Amon",22,"Ensign Ford","8",17,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Carlos","Pace",8,"Brabham Alfa Romeo","9",13,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Ronnie","Peterson",10,"March Ford","10",6,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Alan","Jones",19,"Surtees Ford","NC",19,70,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","John","Watson",28,"Penske Ford","NC",9,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Jody","Scheckter",3,"Tyrrell Ford","NC",11,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Tom","Pryce",16,"Shadow Ford","NC",5,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Mario","Andretti",27,"Parnelli Ford","NC",15,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","James","Hunt",11,"McLaren Ford","NC",3,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Hans-Joachim","Stuck",34,"March Ford","NC",18,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Gunnar","Nilsson",6,"Lotus Ford","NC",20,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Carlos","Reutemann",7,"Brabham Alfa Romeo","NC",10,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1976,"28 Mar 1976","Vittorio","Brambilla",9,"March Ford","NC",8,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","James","Hunt",11,"McLaren Ford","1",1,75,9,"1:42:20.430",NA,NA,NA,NA,"1:18.520",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Niki","Lauda",1,"Ferrari","2",2,75,6,"1:42:51.400","30.970","30.9700000286102",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Gunnar","Nilsson",6,"Lotus Ford","3",7,75,4,"1:43:08.450","48.020","17.0499999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Carlos","Reutemann",7,"Brabham Alfa Romeo","4",12,74,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Chris","Amon",22,"Ensign Ford","5",10,74,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Carlos","Pace",8,"Brabham Alfa Romeo","6",11,74,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Jacky","Ickx",20,"Wolf-Williams","7",21,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Tom","Pryce",16,"Shadow Ford","8",22,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Alan","Jones",19,"Surtees Ford","9",20,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Michel","Leclere",21,"Wolf-Williams","10",23,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Clay","Regazzoni",2,"Ferrari","11",5,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Jacques","Laffite",26,"Ligier Matra","12",8,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Larry","Perkins",37,"Boro Ford","13",24,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Jochen","Mass",12,"McLaren Ford","NC",4,65,0,NA,NA,NA,"1:20.930",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Jean-Pierre","Jarier",17,"Shadow Ford","NC",15,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Jody","Scheckter",3,"Tyrrell Ford","NC",14,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","John","Watson",28,"Penske Ford","NC",13,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Arturo","Merzario",35,"March Ford","NC",18,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Mario","Andretti",5,"Lotus Ford","NC",9,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Patrick","Depailler",4,"Tyrrell Ford","NC",3,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Vittorio","Brambilla",9,"March Ford","NC",6,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Hans-Joachim","Stuck",34,"March Ford","NC",17,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Ronnie","Peterson",10,"March Ford","NC",16,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1976,"02 May 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","NC",19,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Niki","Lauda",1,"Ferrari","1",1,70,9,"1:42:53.230",NA,NA,"1:25.980",NA,"1:26.550",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Clay","Regazzoni",2,"Ferrari","2",2,70,6,"1:42:56.690","3.460","3.46000003814697",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Jacques","Laffite",26,"Ligier Matra","3",6,70,4,"1:43:28.610","35.380","31.9199998378754",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Jody","Scheckter",3,"Tyrrell Ford","4",7,70,3,"1:44:24.309","91.080","55.699000120163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Alan","Jones",19,"Surtees Ford","5",16,69,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Jochen","Mass",12,"McLaren Ford","6",18,69,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","John","Watson",28,"Penske Ford","7",17,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Larry","Perkins",37,"Boro Ford","8",20,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Jean-Pierre","Jarier",17,"Shadow Ford","9",14,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Tom","Pryce",16,"Shadow Ford","10",13,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Michel","Leclere",21,"Wolf-Williams","11",25,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Loris","Kessel",32,"null","12",23,63,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Brett","Lunger",18,"Surtees Ford","NC",26,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Carlos","Pace",8,"Brabham Alfa Romeo","NC",9,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Chris","Amon",22,"Ensign Ford","NC",8,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","James","Hunt",11,"McLaren Ford","NC",3,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Hans-Joachim","Stuck",34,"March Ford","NC",15,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Harald","Ertl",24,"Hesketh Ford","NC",24,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Patrick","Depailler",4,"Tyrrell Ford","NC",4,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Mario","Andretti",5,"Lotus Ford","NC",11,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Patrick","Neve",33,"null","NC",19,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Arturo","Merzario",35,"March Ford","NC",21,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Carlos","Reutemann",7,"Brabham Alfa Romeo","NC",12,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Ronnie","Peterson",10,"March Ford","NC",10,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Gunnar","Nilsson",6,"Lotus Ford","NC",22,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1976,"16 May 1976","Vittorio","Brambilla",9,"March Ford","NC",5,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Niki","Lauda",1,"Ferrari","1",1,78,9,"1:59:51.470",NA,NA,NA,NA,"1:29.650",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Jody","Scheckter",3,"Tyrrell Ford","2",5,78,6,"2:00:02.600","11.130","11.1299998760223",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Patrick","Depailler",4,"Tyrrell Ford","3",4,78,4,"2:00:56.309","64.840","53.7090001106262",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Hans-Joachim","Stuck",34,"March Ford","4",6,77,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Jochen","Mass",12,"McLaren Ford","5",11,77,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","6",7,77,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Tom","Pryce",16,"Shadow Ford","7",15,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Jean-Pierre","Jarier",17,"Shadow Ford","8",10,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Carlos","Pace",8,"Brabham Alfa Romeo","9",13,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","John","Watson",28,"Penske Ford","10",17,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Michel","Leclere",21,"Wolf-Williams","11",18,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Jacques","Laffite",26,"Ligier Matra","12",8,75,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Chris","Amon",22,"Ensign Ford","13",12,74,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Clay","Regazzoni",2,"Ferrari","14",2,73,0,NA,NA,NA,"1:30.280",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Gunnar","Nilsson",6,"Lotus Ford","NC",16,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Ronnie","Peterson",10,"March Ford","NC",3,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","James","Hunt",11,"McLaren Ford","NC",14,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Vittorio","Brambilla",9,"March Ford","NC",9,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Alan","Jones",19,"Surtees Ford","NC",19,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1976,"30 May 1976","Carlos","Reutemann",7,"Brabham Alfa Romeo","NC",20,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Jody","Scheckter",3,"Tyrrell Ford","1",1,72,9,"1:46:53.729",NA,NA,NA,NA,"1:25.659",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Patrick","Depailler",4,"Tyrrell Ford","2",4,72,6,"1:47:13.499","19.770","19.7699999809265",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Niki","Lauda",1,"Ferrari","3",5,72,4,"1:47:27.598","33.870","14.0989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Jacques","Laffite",26,"Ligier Matra","4",7,72,3,"1:47:49.549","55.820","21.9509999752045",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","James","Hunt",11,"McLaren Ford","5",8,72,2,"1:47:53.209","59.480","3.66000008583069",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Clay","Regazzoni",2,"Ferrari","6",11,72,1,"1:47:54.098","60.370","0.888999938964844",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Ronnie","Peterson",10,"March Ford","7",9,72,0,"1:47:57.219","63.490","3.12100005149841",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Carlos","Pace",8,"Brabham Alfa Romeo","8",10,72,0,"1:48:05.338","71.610","8.11899995803833",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Tom","Pryce",16,"Shadow Ford","9",12,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Vittorio","Brambilla",9,"March Ford","10",15,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Jochen","Mass",12,"McLaren Ford","11",13,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Jean-Pierre","Jarier",17,"Shadow Ford","12",14,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Alan","Jones",19,"Surtees Ford","13",18,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Arturo","Merzario",35,"March Ford","14",19,70,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Brett","Lunger",18,"Surtees Ford","15",24,70,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Harald","Ertl",24,"Hesketh Ford","NC",23,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Hans-Joachim","Stuck",34,"March Ford","NC",20,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Mario","Andretti",5,"Lotus Ford","NC",2,45,0,NA,NA,NA,"1:28.002",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Chris","Amon",22,"Ensign Ford","NC",3,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Michel","Leclere",21,"Wolf-Williams","NC",25,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Larry","Perkins",37,"Boro Ford","NC",22,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","NC",21,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Loris","Kessel",32,"null","NC",26,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Gunnar","Nilsson",6,"Lotus Ford","NC",6,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","Carlos","Reutemann",7,"Brabham Alfa Romeo","NC",16,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1976,"13 Jun 1976","John","Watson",28,"Penske Ford","NC",17,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","James","Hunt",11,"McLaren Ford","1",1,54,9,"1:40:58.600",NA,NA,NA,NA,"1:47.890",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Patrick","Depailler",4,"Tyrrell Ford","2",3,54,6,"1:41:11.299","12.700","12.699000120163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","John","Watson",28,"Penske Ford","3",8,54,4,"1:41:22.149","23.550","10.8499999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Carlos","Pace",8,"Brabham Alfa Romeo","4",5,54,3,"1:41:23.419","24.820","1.26999998092651",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Mario","Andretti",5,"Lotus Ford","5",7,54,2,"1:41:42.519","43.920","19.1000001430511",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Jody","Scheckter",3,"Tyrrell Ford","6",9,54,1,"1:41:53.669","55.070","11.1499998569489",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Hans-Joachim","Stuck",34,"March Ford","7",17,54,0,"1:42:20.149","81.550","26.4800000190735",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Tom","Pryce",16,"Shadow Ford","8",16,54,0,"1:42:29.269","90.670","9.12000012397766",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Arturo","Merzario",35,"March Ford","9",20,54,0,"1:42:52.169","113.570","22.8999998569489",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Jacky","Ickx",20,"Wolf-Williams","10",19,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Carlos","Reutemann",7,"Brabham Alfa Romeo","11",10,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Jean-Pierre","Jarier",17,"Shadow Ford","12",15,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Michel","Leclere",21,"Wolf-Williams","13",22,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Jacques","Laffite",26,"Ligier Matra","14",13,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Jochen","Mass",12,"McLaren Ford","15",14,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Brett","Lunger",18,"Surtees Ford","16",23,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Guy","Edwards",25,"Hesketh Ford","17",25,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Patrick","Neve",22,"Ensign Ford","18",NA,53,0,"1","1","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Ronnie","Peterson",10,"March Ford","19",6,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Alan","Jones",19,"Surtees Ford","NC",18,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Vittorio","Brambilla",9,"March Ford","NC",11,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","NC",21,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Henri","Pescarolo",38,"Surtees Ford","NC",24,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Clay","Regazzoni",2,"Ferrari","NC",4,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Niki","Lauda",1,"Ferrari","NC",2,8,0,NA,NA,NA,"1:51.000",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Gunnar","Nilsson",6,"Lotus Ford","NC",12,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1976,"04 Jul 1976","Harald","Ertl",24,"Hesketh Ford","NC",27,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","James","Hunt",11,"McLaren Ford","DQ",2,76,0,"DSQ",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Niki","Lauda",1,"Ferrari","1",1,76,9,NA,NA,NA,"1:19.910",NA,"1:19.350",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Jody","Scheckter",3,"Tyrrell Ford","2",8,76,6,NA,"16.180",NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","John","Watson",28,"Penske Ford","3",11,75,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Tom","Pryce",16,"Shadow Ford","4",20,75,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Alan","Jones",19,"Surtees Ford","5",19,75,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","6",21,74,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Harald","Ertl",24,"Hesketh Ford","7",23,73,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Carlos","Pace",8,"Brabham Alfa Romeo","8",16,73,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Jean-Pierre","Jarier",17,"Shadow Ford","9",24,70,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Gunnar","Nilsson",6,"Lotus Ford","NC",14,67,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Ronnie","Peterson",10,"March Ford","NC",7,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Brett","Lunger",18,"Surtees Ford","NC",18,55,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Patrick","Depailler",4,"Tyrrell Ford","NC",5,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Carlos","Reutemann",7,"Brabham Alfa Romeo","NC",15,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Arturo","Merzario",35,"March Ford","NC",9,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Clay","Regazzoni",2,"Ferrari","NC",4,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Jacques","Laffite",26,"Ligier Matra","NC",13,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Bob","Evans",32,"Brabham Alfa Romeo","NC",22,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Vittorio","Brambilla",9,"March Ford","NC",10,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Henri","Pescarolo",38,"Surtees Ford","NC",26,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Chris","Amon",22,"Ensign Ford","NC",6,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Mario","Andretti",5,"Lotus Ford","NC",3,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Jochen","Mass",12,"McLaren Ford","NC",12,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Hans-Joachim","Stuck",34,"March Ford","NC",17,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1976,"18 Jul 1976","Guy","Edwards",25,"Hesketh Ford","NC",25,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","James","Hunt",11,"McLaren Ford","1",1,14,9,"1:41:42.700",NA,NA,NA,NA,"7:06.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Jody","Scheckter",3,"Tyrrell Ford","2",8,14,6,"1:42:10.400","27.700","27.7000000476837","7:10.800",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Jochen","Mass",12,"McLaren Ford","3",9,14,4,"1:42:35.100","52.400","24.6999998092651",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Carlos","Pace",8,"Brabham Alfa Romeo","4",7,14,3,"1:42:36.900","54.200","1.80000019073486",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Gunnar","Nilsson",6,"Lotus Ford","5",16,14,2,"1:43:40.000","117.300","1.05166666507721",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Rolf","Stommelen",77,"Brabham Alfa Romeo","6",15,14,1,"1:44:13.000","150.300","33",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","John","Watson",28,"Penske Ford","7",19,14,0,"1:44:16.600","153.900","3.59999990463257",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Tom","Pryce",16,"Shadow Ford","8",18,14,0,"1:44:30.900","168.200","14.3000001907349",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Clay","Regazzoni",2,"Ferrari","9",5,14,0,"1:45:28.700","226.000","57.7999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Alan","Jones",19,"Surtees Ford","10",14,14,0,"1:45:30.000","227.300","1.29999995231628",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Jean-Pierre","Jarier",17,"Shadow Ford","11",23,14,0,"1:46:34.400","291.700","1.07333333492279",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Mario","Andretti",5,"Lotus Ford","12",12,14,0,"1:46:40.799","298.100","6.3989999294281",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","13",20,14,0,"1:47:07.900","325.200","27.1010000705719",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Alessandro","Pesenti-Rossi",40,"Tyrrell Ford","14",26,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Guy","Edwards",25,"Hesketh Ford","15",25,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Arturo","Merzario",20,"Wolf-Williams","NC",21,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Vittorio","Brambilla",9,"March Ford","NC",13,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Patrick","Depailler",4,"Tyrrell Ford","NC",3,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Carlos","Reutemann",7,"Brabham Alfa Romeo","NC",10,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Ronnie","Peterson",10,"March Ford","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Hans-Joachim","Stuck",34,"March Ford","NC",4,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Jacques","Laffite",26,"Ligier Matra","NC",6,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Chris","Amon",22,"Ensign Ford","NC",17,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Niki","Lauda",1,"Ferrari","NC",2,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Brett","Lunger",18,"Surtees Ford","NC",24,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1976,"01 Aug 1976","Harald","Ertl",24,"Hesketh Ford","NC",22,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","John","Watson",28,"Penske Ford","1",2,54,9,"1:30:07.860",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Jacques","Laffite",26,"Ligier Matra","2",5,54,6,"1:30:18.649","10.790","10.7890000343323",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Gunnar","Nilsson",6,"Lotus Ford","3",4,54,4,"1:30:19.839","11.980","1.19000005722046",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","James","Hunt",11,"McLaren Ford","4",1,54,3,"1:30:20.299","12.440","0.460000038146973","1:35.910",NA,"1:35.020",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Mario","Andretti",5,"Lotus Ford","5",9,54,2,"1:30:29.349","21.490","9.04999995231628",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Ronnie","Peterson",10,"March Ford","6",3,54,1,"1:30:42.199","34.340","12.8499999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Jochen","Mass",12,"McLaren Ford","7",12,54,0,"1:31:07.309","59.450","25.1100001335144",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Harald","Ertl",24,"Hesketh Ford","8",20,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Henri","Pescarolo",38,"Surtees Ford","9",22,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Brett","Lunger",18,"Surtees Ford","10",16,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Alessandro","Pesenti-Rossi",39,"Tyrrell Ford","11",23,51,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Lella","Lombardi",33,"null","12",24,50,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Hans","Binder",22,"Ensign Ford","NC",19,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Loris","Kessel",32,"null","NC",25,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Vittorio","Brambilla",9,"March Ford","NC",7,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","NC",17,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Jean-Pierre","Jarier",17,"Shadow Ford","NC",18,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Carlos","Pace",8,"Brabham Alfa Romeo","NC",8,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Alan","Jones",19,"Surtees Ford","NC",15,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Hans-Joachim","Stuck",34,"March Ford","NC",11,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Patrick","Depailler",4,"Tyrrell Ford","NC",13,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Arturo","Merzario",20,"Wolf-Williams","NC",21,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Tom","Pryce",16,"Shadow Ford","NC",6,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Jody","Scheckter",3,"Tyrrell Ford","NC",10,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1976,"15 Aug 1976","Carlos","Reutemann",7,"Brabham Alfa Romeo","NC",14,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","James","Hunt",11,"McLaren Ford","1",2,75,9,"1:44:52.090",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Clay","Regazzoni",2,"Ferrari","2",5,75,6,"1:44:53.009","0.920","0.919000148773193","1:22.590",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Mario","Andretti",5,"Lotus Ford","3",6,75,4,"1:44:54.179","2.090","1.16999983787537",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Tom","Pryce",16,"Shadow Ford","4",3,75,3,"1:44:59.029","6.940","4.85000014305115",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Jody","Scheckter",3,"Tyrrell Ford","5",8,75,2,"1:45:14.549","22.460","15.5199999809265",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Vittorio","Brambilla",9,"March Ford","6",7,75,1,"1:45:37.119","45.030","22.5699999332428",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Patrick","Depailler",4,"Tyrrell Ford","7",14,75,0,"1:45:48.369","56.280","11.25",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Alan","Jones",19,"Surtees Ford","8",16,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Jochen","Mass",12,"McLaren Ford","9",15,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Jean-Pierre","Jarier",17,"Shadow Ford","10",20,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Henri","Pescarolo",38,"Surtees Ford","11",22,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Rolf","Stommelen",25,"Hesketh Ford","12",25,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Jacky","Ickx",22,"Ensign Ford","NC",11,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Boy","Hayje",39,"Penske Ford","NC",21,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Carlos","Pace",8,"Brabham Alfa Romeo","NC",9,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Jacques","Laffite",26,"Ligier Matra","NC",10,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Ronnie","Peterson",10,"March Ford","NC",1,52,0,NA,NA,NA,NA,NA,"1:21.310",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Harald","Ertl",24,"Hesketh Ford","NC",24,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","John","Watson",28,"Penske Ford","NC",4,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Larry","Perkins",37,"Boro Ford","NC",19,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","NC",17,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Carlos","Reutemann",7,"Brabham Alfa Romeo","NC",12,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Gunnar","Nilsson",6,"Lotus Ford","NC",13,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Conny","Andersson",18,"Surtees Ford","NC",26,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Hans-Joachim","Stuck",34,"March Ford","NC",18,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1976,"29 Aug 1976","Arturo","Merzario",20,"Wolf-Williams","NC",23,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Ronnie","Peterson",10,"March Ford","1",8,52,9,"1:30:35.600",NA,NA,"1:41.300",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Clay","Regazzoni",2,"Ferrari","2",9,52,6,"1:30:37.899","2.300","2.29900002479553",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Jacques","Laffite",26,"Ligier Matra","3",1,52,4,"1:30:38.599","3.000","0.700000047683716",NA,NA,"1:41.350",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Niki","Lauda",1,"Ferrari","4",5,52,3,"1:30:55.000","19.400","16.4010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Jody","Scheckter",3,"Tyrrell Ford","5",2,52,2,"1:30:55.099","19.500","0.0989999771118164",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Patrick","Depailler",4,"Tyrrell Ford","6",4,52,1,"1:31:11.299","35.700","16.2000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Vittorio","Brambilla",9,"March Ford","7",16,52,0,"1:31:19.500","43.900","8.20099997520447",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Tom","Pryce",16,"Shadow Ford","8",15,52,0,"1:31:28.500","52.900","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Carlos","Reutemann",35,"Ferrari","9",7,52,0,"1:31:33.099","57.500","4.59899997711182",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Jacky","Ickx",22,"Ensign Ford","10",10,52,0,"1:31:48.000","72.400","14.9010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","John","Watson",28,"Penske Ford","11",27,52,0,"1:32:17.799","102.200","29.7990000247955",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Alan","Jones",19,"Surtees Ford","12",18,51,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Gunnar","Nilsson",6,"Lotus Ford","13",12,51,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Brett","Lunger",18,"Surtees Ford","14",24,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","15",20,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Harald","Ertl",24,"Hesketh Ford","16",19,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Henri","Pescarolo",38,"Surtees Ford","17",22,49,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Alessandro","Pesenti-Rossi",37,"Tyrrell Ford","18",21,49,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Jean-Pierre","Jarier",17,"Shadow Ford","19",17,47,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Rolf","Stommelen",7,"Brabham Alfa Romeo","NC",11,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Hans-Joachim","Stuck",34,"March Ford","NC",6,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Mario","Andretti",5,"Lotus Ford","NC",14,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","James","Hunt",11,"McLaren Ford","NC",25,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Larry","Perkins",40,"Boro Ford","NC",13,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Carlos","Pace",8,"Brabham Alfa Romeo","NC",3,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1976,"12 Sep 1976","Jochen","Mass",12,"McLaren Ford","NC",26,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","James","Hunt",11,"McLaren Ford","1",1,80,9,"1:40:09.626",NA,NA,NA,NA,"1:12.389",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Patrick","Depailler",4,"Tyrrell Ford","2",4,80,6,"1:40:15.957","6.331","6.33100008964539","1:13.817",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Mario","Andretti",5,"Lotus Ford","3",5,80,4,"1:40:19.991","10.366","4.03399991989136",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Jody","Scheckter",3,"Tyrrell Ford","4",7,80,3,"1:40:29.370","19.745","9.37899994850159",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Jochen","Mass",12,"McLaren Ford","5",11,80,2,"1:40:51.437","41.811","22.0670001506805",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Clay","Regazzoni",2,"Ferrari","6",12,80,1,"1:40:55.881","46.256","4.44400000572205",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Carlos","Pace",8,"Brabham Alfa Romeo","7",10,80,0,"1:40:56.097","46.472","0.215999841690063",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Niki","Lauda",1,"Ferrari","8",6,80,0,"1:41:22.582","72.957","26.4850001335144",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Ronnie","Peterson",10,"March Ford","9",2,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","John","Watson",28,"Penske Ford","10",14,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Tom","Pryce",16,"Shadow Ford","11",13,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Gunnar","Nilsson",6,"Lotus Ford","12",15,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Jacky","Ickx",22,"Ensign Ford","13",16,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Vittorio","Brambilla",9,"March Ford","14",3,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Brett","Lunger",18,"Surtees Ford","15",22,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Alan","Jones",19,"Surtees Ford","16",20,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Larry","Perkins",7,"Brabham Alfa Romeo","17",19,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Jean-Pierre","Jarier",17,"Shadow Ford","18",18,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Henri","Pescarolo",38,"Surtees Ford","19",21,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Guy","Edwards",25,"Hesketh Ford","20",23,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Jacques","Laffite",26,"Ligier Matra","NC",9,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","NC",17,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Hans-Joachim","Stuck",34,"March Ford","NC",8,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1976,"03 Oct 1976","Arturo","Merzario",20,"Wolf-Williams","NC",24,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","James","Hunt",11,"McLaren Ford","1",1,59,9,"1:42:40.741",NA,NA,"1:42.851",NA,"1:43.622",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Jody","Scheckter",3,"Tyrrell Ford","2",2,59,6,"1:42:48.770","8.030","8.02900004386902",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Niki","Lauda",1,"Ferrari","3",5,59,4,"1:43:43.064","62.324","54.2939999103546",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Jochen","Mass",12,"McLaren Ford","4",17,59,3,"1:43:43.198","62.458","0.134000062942505",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Hans-Joachim","Stuck",34,"March Ford","5",6,59,2,"1:43:48.718","67.978","5.51999998092651",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","John","Watson",28,"Penske Ford","6",8,59,1,"1:43:48.930","68.190","0.212000131607056",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Clay","Regazzoni",2,"Ferrari","7",14,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Alan","Jones",19,"Surtees Ford","8",18,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","9",15,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Jean-Pierre","Jarier",17,"Shadow Ford","10",16,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Brett","Lunger",18,"Surtees Ford","11",24,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Alex","Ribeiro",25,"Hesketh Ford","12",22,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Harald","Ertl",24,"Hesketh Ford","13",21,54,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Warwick","Brown",21,"Wolf-Williams","14",23,54,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Henri","Pescarolo",38,"Surtees Ford","NC",26,48,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Tom","Pryce",16,"Shadow Ford","NC",9,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Jacques","Laffite",26,"Ligier Matra","NC",12,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Vittorio","Brambilla",9,"March Ford","NC",4,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Carlos","Pace",8,"Brabham Alfa Romeo","NC",10,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Larry","Perkins",7,"Brabham Alfa Romeo","NC",13,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Mario","Andretti",5,"Lotus Ford","NC",11,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Jacky","Ickx",22,"Ensign Ford","NC",19,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Gunnar","Nilsson",6,"Lotus Ford","NC",20,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Ronnie","Peterson",10,"March Ford","NC",3,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Arturo","Merzario",20,"Wolf-Williams","NC",25,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1976,"10 Oct 1976","Patrick","Depailler",4,"Tyrrell Ford","NC",7,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Mario","Andretti",5,"Lotus Ford","1",1,73,9,"1:43:58.860",NA,NA,NA,NA,"1:12.770",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Patrick","Depailler",4,"Tyrrell Ford","2",13,72,6,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","James","Hunt",11,"McLaren Ford","3",2,72,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Alan","Jones",19,"Surtees Ford","4",20,72,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Clay","Regazzoni",2,"Ferrari","5",7,72,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Gunnar","Nilsson",6,"Lotus Ford","6",16,72,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Jacques","Laffite",26,"Ligier Matra","7",11,72,0,"1","1","1","1:19.970",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Harald","Ertl",24,"Hesketh Ford","8",22,72,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Noritake","Takahara",18,"Surtees Ford","9",24,70,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Jean-Pierre","Jarier",17,"Shadow Ford","10",15,69,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Masahiro","Hasemi",51,"Kojima Ford","11",10,66,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Jody","Scheckter",3,"Tyrrell Ford","NC",5,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Hans","Binder",21,"Wolf-Williams","NC",25,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Tom","Pryce",16,"Shadow Ford","NC",14,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Vittorio","Brambilla",9,"March Ford","NC",8,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Hans-Joachim","Stuck",34,"March Ford","NC",18,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Jochen","Mass",12,"McLaren Ford","NC",12,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","John","Watson",28,"Penske Ford","NC",4,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Kazuyoshi","Hoshino",52,"Tyrrell Ford","NC",21,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Arturo","Merzario",20,"Wolf-Williams","NC",19,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Emerson","Fittipaldi",30,"Fittipaldi Ford","NC",23,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Carlos","Pace",8,"Brabham Alfa Romeo","NC",6,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Niki","Lauda",1,"Ferrari","NC",3,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Larry","Perkins",7,"Brabham Alfa Romeo","NC",17,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Fuji Speedway, Japan",1976,"24 Oct 1976","Ronnie","Peterson",10,"March Ford","NC",9,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

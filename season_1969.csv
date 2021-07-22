@@ -1,0 +1,183 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Jackie","Stewart",7,"Matra Ford","1",4,80,9,"1:50:39.100",NA,NA,"1:21.600",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Graham","Hill",1,"Lotus Ford","2",7,80,6,"1:50:57.899","18.800","18.7990000247955",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Denny","Hulme",5,"McLaren Ford","3",3,80,4,"1:51:10.899","31.800","13",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Jo","Siffert",4,"Lotus Ford","4",12,80,3,"1:51:28.299","49.200","17.4000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Bruce","McLaren",6,"McLaren Ford","5",8,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Jean-Pierre","Beltoise",8,"Matra Ford","6",11,78,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Jackie","Oliver",11,"BRM","7",14,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Sam","Tingle",17,"Brabham Repco","8",17,73,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Peter","deKlerk",19,"Brabham Repco","NC",16,67,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Jochen","Rindt",2,"Lotus Ford","NC",2,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","John","Surtees",10,"BRM","NC",18,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Pedro","Rodriguez",12,"BRM","NC",15,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Chris","Amon",9,"Ferrari","NC",5,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Jack","Brabham",14,"Brabham Ford","NC",1,32,0,NA,NA,NA,NA,NA,"1:20.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Mario","Andretti",3,"Lotus Ford","NC",6,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","John","Love",16,"Lotus Ford","NC",10,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Jacky","Ickx",15,"Brabham Ford","NC",13,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1969,"01 Mar 1969","Basil","vanRooyen",18,"McLaren Ford","NC",9,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Jackie","Stewart",7,"Matra Ford","1",4,90,9,"2:16:53.990",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Bruce","McLaren",6,"McLaren Ford","2",13,88,6,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Jean-Pierre","Beltoise",8,"Matra Ford","3",12,87,4,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Denny","Hulme",5,"McLaren Ford","4",8,87,3,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","John","Surtees",14,"BRM","5",9,84,2,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Jacky","Ickx",4,"Brabham Ford","6",7,83,1,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Pedro","Rodriguez",9,"BRM","NC",14,73,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Chris","Amon",15,"Ferrari","NC",2,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Jack","Brabham",3,"Brabham Ford","NC",5,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Jo","Siffert",10,"Lotus Ford","NC",6,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Jochen","Rindt",2,"Lotus Ford","NC",1,19,0,NA,NA,NA,"1:28.300",NA,"1:25.700",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Piers","Courage",11,"Brabham Ford","NC",11,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Graham","Hill",1,"Lotus Ford","NC",3,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1969,"04 May 1969","Jackie","Oliver",12,"BRM","NC",10,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Graham","Hill",1,"Lotus Ford","1",4,80,9,"1:56:59.400",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Piers","Courage",16,"Brabham Ford","2",9,80,6,"1:57:16.700","17.300","17.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Jo","Siffert",9,"Lotus Ford","3",5,80,4,"1:57:34.000","34.600","17.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Richard","Attwood",2,"Lotus Ford","4",10,80,3,"1:57:52.300","52.900","18.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Bruce","McLaren",4,"McLaren Ford","5",11,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Denny","Hulme",3,"McLaren Ford","6",12,78,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Vic","Elford",12,"Cooper Maserati","7",16,74,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Jacky","Ickx",6,"Brabham Ford","NC",7,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Jackie","Stewart",7,"Matra Ford","NC",1,22,0,NA,NA,NA,"1:25.100",NA,"1:24.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Jean-Pierre","Beltoise",8,"Matra Ford","NC",3,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Chris","Amon",11,"Ferrari","NC",2,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Pedro","Rodriguez",10,"BRM","NC",14,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Silvio","Moser",17,"Brabham Ford","NC",15,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","John","Surtees",14,"BRM","NC",6,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Jack","Brabham",5,"Brabham Ford","NC",8,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1969,"18 May 1969","Jackie","Oliver",15,"BRM","NC",13,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Jackie","Stewart",4,"Matra Ford","1",2,90,9,"2:06:42.080",NA,NA,"1:22.940",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Jo","Siffert",10,"Lotus Ford","2",10,90,6,"2:07:06.599","24.520","24.5190000534058",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Chris","Amon",8,"Ferrari","3",4,90,4,"2:07:12.589","30.510","5.99000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Denny","Hulme",7,"McLaren Ford","4",7,90,3,"2:07:19.240","37.160","6.65100002288818",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Jacky","Ickx",12,"Brabham Ford","5",5,90,2,"2:07:19.750","37.670","0.509999990463257",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Jack","Brabham",11,"Brabham Ford","6",8,90,1,"2:07:52.889","70.810","33.1389999389648",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Graham","Hill",1,"Lotus Ford","7",3,88,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Jean-Pierre","Beltoise",5,"Matra Ford","8",11,87,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","John","Surtees",14,"BRM","9",12,87,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Vic","Elford",18,"McLaren Ford","10",15,84,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Silvio","Moser",17,"Brabham Ford","NC",14,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Bruce","McLaren",6,"McLaren Ford","NC",6,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Jochen","Rindt",2,"Lotus Ford","NC",1,16,0,NA,NA,NA,NA,NA,"1:20.850",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Piers","Courage",16,"Brabham Ford","NC",9,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1969,"21 Jun 1969","Jackie","Oliver",15,"BRM","NC",13,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","Jackie","Stewart",2,"Matra Ford","1",1,38,9,"1:56:47.400",NA,NA,"3:02.700",NA,"3:00.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","Jean-Pierre","Beltoise",7,"Matra Ford","2",5,38,6,"1:57:44.500","57.100","57.0999999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","Jacky","Ickx",11,"Brabham Ford","3",4,38,4,"1:57:44.700","57.300","0.200000047683716",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","Bruce","McLaren",5,"McLaren Ford","4",7,37,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","Vic","Elford",10,"McLaren Ford","5",10,37,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","Graham","Hill",1,"Lotus Ford","6",8,37,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","Silvio","Moser",12,"Brabham Ford","7",13,36,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","Denny","Hulme",4,"McLaren Ford","8",2,35,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","Jo","Siffert",3,"Lotus Ford","9",9,34,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","Chris","Amon",6,"Ferrari","NC",6,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","Jochen","Rindt",15,"Lotus Ford","NC",3,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","Piers","Courage",9,"Brabham Ford","NC",11,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1969,"06 Jul 1969","John","Miles",14,"Lotus Ford","NC",12,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Jackie","Stewart",3,"Matra Ford","1",2,84,9,"1:55:55.600",NA,NA,"1:21.300",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Jacky","Ickx",7,"Brabham Ford","2",4,83,6,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Bruce","McLaren",6,"McLaren Ford","3",7,83,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Jochen","Rindt",2,"Lotus Ford","4",1,83,3,"1","1","1",NA,NA,"1:20.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Piers","Courage",16,"Brabham Ford","5",10,83,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Vic","Elford",19,"McLaren Ford","6",11,82,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Graham","Hill",1,"Lotus Ford","7",12,82,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Jo","Siffert",10,"Lotus Ford","8",9,81,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Jean-Pierre","Beltoise",4,"Matra Ford","9",17,78,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","John","Miles",9,"Lotus Ford","10",14,75,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Pedro","Rodriguez",12,"Ferrari","NC",8,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Chris","Amon",11,"Ferrari","NC",5,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Denny","Hulme",5,"McLaren Ford","NC",3,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Jackie","Oliver",15,"BRM","NC",13,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Jo","Bonnier",18,"Lotus Ford","NC",16,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","Derek","Bell",20,"McLaren Ford","NC",15,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1969,"19 Jul 1969","John","Surtees",14,"BRM","NC",6,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Jacky","Ickx",6,"Brabham Ford","1",1,14,9,"1:49:55.400",NA,NA,"7:43.800",NA,"7:42.100",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Jackie","Stewart",7,"Matra Ford","2",2,14,6,"1:50:53.100","57.700","57.6999998092651",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Bruce","McLaren",10,"McLaren Ford","3",8,14,4,"1:53:17.000","201.600","2.39833333492279",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Graham","Hill",1,"Lotus Ford","4",9,14,3,"1:53:54.200","238.800","37.2000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Henri","Pescarolo",26,"null","5",17,14,0,"1:58:06.400","491.000","4.20333333412806",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Richard","Attwood",29,"null","6",20,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Kurt","Ahrens",20,"null","7",19,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Rolf","Stommelen",22,"null","8",21,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Peter","Westbury",31,"null","9",18,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Xavier","Perrot",30,"null","10",22,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Jo","Siffert",11,"Lotus Ford","11",4,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Jean-Pierre","Beltoise",8,"Matra Ford","12",10,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Jackie","Oliver",15,"BRM","NC",13,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Denny","Hulme",9,"McLaren Ford","NC",5,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Jochen","Rindt",2,"Lotus Ford","NC",3,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Francois","Cevert",28,"null","NC",16,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Johnny","Servoz-Gavin",27,"null","NC",15,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Jo","Bonnier",16,"Lotus Ford","NC",14,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Piers","Courage",17,"Brabham Ford","NC",7,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Vic","Elford",12,"McLaren Ford","NC",6,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1969,"03 Aug 1969","Mario","Andretti",3,"Lotus Ford","NC",12,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Jackie","Stewart",20,"Matra Ford","1",3,68,9,"1:39:11.260",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Jochen","Rindt",4,"Lotus Ford","2",1,68,6,"1:39:11.339","0.080","0.0789999961853027",NA,NA,"1:25.480",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Jean-Pierre","Beltoise",22,"Matra Ford","3",6,68,4,"1:39:11.430","0.170","0.0910000801086426","1:25.200",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Bruce","McLaren",18,"McLaren Ford","4",5,68,3,"1:39:11.450","0.190","0.0199999809265137",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Piers","Courage",32,"Brabham Ford","5",4,68,2,"1:39:44.700","33.440","33.25",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Pedro","Rodriguez",10,"Ferrari","6",12,66,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Denny","Hulme",16,"McLaren Ford","7",2,66,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Jo","Siffert",30,"Lotus Ford","8",8,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Graham","Hill",2,"Lotus Ford","9",9,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Jacky","Ickx",26,"Brabham Ford","10",15,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","John","Surtees",14,"BRM","NC",10,60,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Jackie","Oliver",12,"BRM","NC",11,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Silvio","Moser",36,"Brabham Ford","NC",13,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","Jack","Brabham",28,"Brabham Ford","NC",7,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1969,"07 Sep 1969","John","Miles",6,"Lotus Ford","NC",14,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Jacky","Ickx",11,"Brabham Ford","1",1,90,9,"1:59:25.700",NA,NA,"1:18.100",NA,"1:17.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Jack","Brabham",12,"Brabham Ford","2",6,90,6,"2:00:11.900","46.200","46.2000000476837","1:18.100",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Jochen","Rindt",2,"Lotus Ford","3",3,90,4,"2:00:17.700","52.000","5.79999995231628",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Jean-Pierre","Beltoise",18,"Matra Ford","4",2,89,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Bruce","McLaren",4,"McLaren Ford","5",9,87,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Johnny","Servoz-Gavin",19,"Matra Ford","6",15,84,1,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Pete","Lovely",25,"Lotus Ford","7",16,81,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Bill","Brack",16,"BRM","NC",18,80,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Graham","Hill",1,"Lotus Ford","NC",7,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Jo","Siffert",9,"Lotus Ford","NC",8,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","John","Miles",3,"Lotus Ford","NC",11,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Pedro","Rodriguez",6,"Ferrari","NC",13,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Jackie","Stewart",17,"Matra Ford","NC",4,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Al","Pease",69,"Eagle Climax","DQ",17,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","John","Surtees",14,"BRM","NC",14,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Piers","Courage",21,"Brabham Ford","NC",10,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","John","Cordts",26,"Brabham Climax","NC",19,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Denny","Hulme",5,"McLaren Ford","NC",5,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Jackie","Oliver",15,"BRM","NC",12,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1969,"20 Sep 1969","Silvio","Moser",20,"Brabham Ford","NC",20,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Jochen","Rindt",2,"Lotus Ford","1",1,108,9,"1:57:56.840",NA,NA,"1:04.340",NA,"1:03.620",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Piers","Courage",18,"Brabham Ford","2",9,108,6,"1:58:43.829","46.990","46.989000082016",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","John","Surtees",14,"BRM","3",11,106,4,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Jack","Brabham",8,"Brabham Ford","4",10,106,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Pedro","Rodriguez",12,"Ferrari","5",12,101,2,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Silvio","Moser",19,"Brabham Ford","6",17,98,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Johnny","Servoz-Gavin",16,"Matra Ford","NC",15,92,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Graham","Hill",1,"Lotus Ford","NC",4,90,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Jacky","Ickx",7,"Brabham Ford","NC",8,77,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","George","Eaton",22,"BRM","NC",18,76,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Jean-Pierre","Beltoise",4,"Matra Ford","NC",7,72,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Denny","Hulme",5,"McLaren Ford","NC",2,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Jackie","Stewart",3,"Matra Ford","NC",3,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Pete","Lovely",21,"Lotus Ford","NC",16,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Jackie","Oliver",15,"BRM","NC",14,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Mario","Andretti",9,"Lotus Ford","NC",13,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1969,"05 Oct 1969","Jo","Siffert",10,"Lotus Ford","NC",5,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Denny","Hulme",5,"McLaren Ford","1",4,65,9,"1:54:08.800",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Jacky","Ickx",7,"Brabham Ford","2",2,65,6,"1:54:11.359","2.560","2.55900001525879","1:43.050",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Jack","Brabham",8,"Brabham Ford","3",1,65,4,"1:54:47.279","38.480","35.9200000762939",NA,NA,"1:42.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Jackie","Stewart",3,"Matra Ford","4",3,65,3,"1:54:55.839","47.040","8.55999994277954",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Jean-Pierre","Beltoise",4,"Matra Ford","5",8,65,2,"1:55:47.319","98.520","51.4800000190735",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Jackie","Oliver",15,"BRM","6",12,63,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Pedro","Rodriguez",12,"Ferrari","7",15,63,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Johnny","Servoz-Gavin",16,"Matra Ford","8",14,63,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Pete","Lovely",21,"Lotus Ford","9",16,62,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Piers","Courage",18,"Brabham Ford","10",9,61,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Silvio","Moser",19,"Brabham Ford","11",13,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","John","Surtees",14,"BRM","NC",10,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Jochen","Rindt",2,"Lotus Ford","NC",6,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","George","Eaton",22,"BRM","NC",17,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","Jo","Siffert",10,"Lotus Ford","NC",5,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1969,"19 Oct 1969","John","Miles",9,"Lotus Ford","NC",11,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

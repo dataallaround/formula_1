@@ -1,0 +1,396 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Mario","Andretti",5,"Lotus Ford","1",1,52,9,"1:37:04.470",NA,NA,NA,NA,"1:47.750",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Niki","Lauda",1,"Brabham Alfa Romeo","2",5,52,6,"1:37:17.680","13.210","13.210000038147",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Patrick","Depailler",4,"Tyrrell Ford","3",10,52,4,"1:37:18.110","13.640","0.429999828338623",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","James","Hunt",7,"McLaren Ford","4",6,52,3,"1:37:20.519","16.050","2.40900015830994",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Ronnie","Peterson",6,"Lotus Ford","5",3,52,2,"1:38:19.319","74.850","58.7999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Patrick","Tambay",8,"McLaren Ford","6",9,52,1,"1:38:24.370","79.900","5.05099987983704",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Carlos","Reutemann",11,"Ferrari","7",2,52,0,"1:38:27.069","82.600","2.69900012016296",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Gilles","Villeneuve",12,"Ferrari","8",7,52,0,"1:38:43.350","98.880","16.2809998989105","1:49.760",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","9",17,52,0,"1:38:45.069","100.600","1.71900010108948",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Jody","Scheckter",20,"Wolf Ford","10",15,52,0,"1:38:47.970","103.500","2.90100002288818",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Jochen","Mass",9,"ATS Ford","11",13,52,0,"1:38:53.539","109.070","5.56900000572205",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Jean-Pierre","Jarier",10,"ATS Ford","12",11,51,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Brett","Lunger",30,"McLaren Ford","13",24,51,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Didier","Pironi",3,"Tyrrell Ford","14",23,51,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Clay","Regazzoni",17,"Shadow Ford","15",16,51,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Jacques","Laffite",26,"Ligier Matra","16",8,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Hans-Joachim","Stuck",16,"Shadow Ford","17",18,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Vittorio","Brambilla",19,"Surtees Ford","18",12,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","John","Watson",2,"Brabham Alfa Romeo","NC",4,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Alan","Jones",27,"Williams Ford","NC",14,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Danny","Ongais",22,"Ensign Ford","NC",21,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Lamberto","Leoni",23,"Ensign Ford","NC",22,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Arturo","Merzario",37,"Merzario Ford","NC",20,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1978,"15 Jan 1978","Rupert","Keegan",18,"Surtees Ford","NC",19,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Carlos","Reutemann",11,"Ferrari","1",4,63,9,"1:49:59.860",NA,NA,"1:43.070",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","2",7,63,6,"1:50:48.990","49.130","49.1300001144409",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Niki","Lauda",1,"Brabham Alfa Romeo","3",10,63,4,"1:50:56.879","57.020","7.88899993896484",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Mario","Andretti",5,"Lotus Ford","4",3,63,3,"1:51:32.979","93.120","36.1000001430511",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Clay","Regazzoni",17,"Shadow Ford","5",15,62,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Didier","Pironi",3,"Tyrrell Ford","6",19,62,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Jochen","Mass",9,"ATS Ford","7",20,62,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","John","Watson",2,"Brabham Alfa Romeo","8",21,61,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Jacques","Laffite",26,"Ligier Matra","9",14,61,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Riccardo","Patrese",36,"Arrows Ford","10",18,59,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Alan","Jones",27,"Williams Ford","11",8,58,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Hector","Rebaque",25,"Lotus Ford","NC",22,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Gilles","Villeneuve",12,"Ferrari","NC",6,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Patrick","Tambay",8,"McLaren Ford","NC",5,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Hans-Joachim","Stuck",16,"Shadow Ford","NC",9,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","James","Hunt",7,"McLaren Ford","NC",2,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Jody","Scheckter",20,"Wolf Ford","NC",12,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Ronnie","Peterson",6,"Lotus Ford","NC",1,15,0,NA,NA,NA,NA,NA,"1:40.450",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Danny","Ongais",22,"Ensign Ford","NC",23,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Brett","Lunger",30,"McLaren Ford","NC",13,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Patrick","Depailler",4,"Tyrrell Ford","NC",11,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Rupert","Keegan",18,"Surtees Ford","NC",24,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Lamberto","Leoni",23,"Ensign Ford","NC",17,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1978,"29 Jan 1978","Jean-Pierre","Jarier",10,"ATS Ford","NC",16,NA,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Ronnie","Peterson",6,"Lotus Ford","1",12,78,9,"1:42:15.767",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Patrick","Depailler",4,"Tyrrell Ford","2",11,78,6,"1:42:16.233","0.466","0.466000080108643",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","John","Watson",2,"Brabham Alfa Romeo","3",10,78,4,"1:42:20.208","4.442","3.97499990463257",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Alan","Jones",27,"Williams Ford","4",18,78,3,"1:42:54.756","38.990","34.5480000972748",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Jacques","Laffite",26,"Ligier Matra","5",13,78,2,"1:43:24.986","69.220","30.2300000190735",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Didier","Pironi",3,"Tyrrell Ford","6",14,77,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Mario","Andretti",5,"Lotus Ford","7",2,77,0,"1","1","1","1:17.090",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Jean-Pierre","Jarier",10,"ATS Ford","8",17,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Rolf","Stommelen",36,"Arrows Ford","9",22,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Hector","Rebaque",25,"Lotus Ford","10",21,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Brett","Lunger",30,"McLaren Ford","11",20,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Vittorio","Brambilla",19,"Surtees Ford","12",19,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Riccardo","Patrese",35,"Arrows Ford","NC",7,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Jody","Scheckter",20,"Wolf Ford","NC",5,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Patrick","Tambay",8,"McLaren Ford","NC",4,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Carlos","Reutemann",11,"Ferrari","NC",9,55,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Gilles","Villeneuve",12,"Ferrari","NC",8,55,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Rupert","Keegan",18,"Surtees Ford","NC",23,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Niki","Lauda",1,"Brabham Alfa Romeo","NC",1,52,0,NA,NA,NA,NA,NA,"1:14.650",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Jochen","Mass",9,"ATS Ford","NC",15,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Arturo","Merzario",37,"Merzario Ford","NC",26,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Jean-Pierre","Jabouille",15,"Renault","NC",6,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Keke","Rosberg",32,"Theodore Ford","NC",24,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",16,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Eddie","Cheever",24,"Hesketh Ford","NC",25,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","James","Hunt",7,"McLaren Ford","NC",3,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Rene","Arnoux",31,"Martini Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Clay","Regazzoni",17,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Lamberto","Leoni",22,"Ensign Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1978,"04 Mar 1978","Hans-Joachim","Stuck",16,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Carlos","Reutemann",11,"Ferrari","1",1,80,9,"1:52:01.301",NA,NA,NA,NA,"1:20.636",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Mario","Andretti",5,"Lotus Ford","2",4,80,6,"1:52:12.362","11.061","11.0609998703003",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Patrick","Depailler",4,"Tyrrell Ford","3",12,80,4,"1:52:30.252","28.951","17.8900001049042",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Ronnie","Peterson",6,"Lotus Ford","4",6,80,3,"1:52:46.904","45.603","16.6519999504089",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Jacques","Laffite",26,"Ligier Matra","5",14,80,2,"1:53:24.185","82.884","37.2809998989105",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Riccardo","Patrese",35,"Arrows Ford","6",9,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Alan","Jones",27,"Williams Ford","7",8,79,0,"1","1","1","1:22.215",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","8",15,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Rolf","Stommelen",36,"Arrows Ford","9",18,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Clay","Regazzoni",17,"Shadow Ford","10",20,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Jean-Pierre","Jarier",10,"ATS Ford","11",19,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Patrick","Tambay",8,"McLaren Ford","12",11,74,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Jody","Scheckter",20,"Wolf Ford","NC",10,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Vittorio","Brambilla",19,"Surtees Ford","NC",17,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Jean-Pierre","Jabouille",15,"Renault","NC",13,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Gilles","Villeneuve",12,"Ferrari","NC",2,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Niki","Lauda",1,"Brabham Alfa Romeo","NC",3,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Didier","Pironi",3,"Tyrrell Ford","NC",22,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Arturo","Merzario",37,"Merzario Ford","NC",21,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Jochen","Mass",9,"ATS Ford","NC",16,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","John","Watson",2,"Brabham Alfa Romeo","NC",5,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","James","Hunt",7,"McLaren Ford","NC",7,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Rupert","Keegan",18,"Surtees Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1978,"02 Apr 1978","Hans-Joachim","Stuck",16,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Patrick","Depailler",4,"Tyrrell Ford","1",5,75,9,"1:55:14.660",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Niki","Lauda",1,"Brabham Alfa Romeo","2",3,75,6,"1:55:37.110","22.450","22.4499998092651","1:28.650",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Jody","Scheckter",20,"Wolf Ford","3",9,75,4,"1:55:46.950","32.290","9.84000015258789",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","John","Watson",2,"Brabham Alfa Romeo","4",2,75,3,"1:55:48.190","33.530","1.24000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Didier","Pironi",3,"Tyrrell Ford","5",13,75,2,"1:56:22.720","68.060","34.5299999713898",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Riccardo","Patrese",35,"Arrows Ford","6",14,75,1,"1:56:23.430","68.770","0.710000038146973",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Patrick","Tambay",8,"McLaren Ford","7",11,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Carlos","Reutemann",11,"Ferrari","8",1,74,0,"1","1","1",NA,NA,"1:28.340",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","9",20,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Jean-Pierre","Jabouille",15,"Renault","10",12,71,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Mario","Andretti",5,"Lotus Ford","11",4,69,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Gilles","Villeneuve",12,"Ferrari","NC",8,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Ronnie","Peterson",6,"Lotus Ford","NC",7,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","James","Hunt",7,"McLaren Ford","NC",6,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Rolf","Stommelen",36,"Arrows Ford","NC",19,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Alan","Jones",27,"Williams Ford","NC",10,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Jacky","Ickx",22,"Ensign Ford","NC",16,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Hans-Joachim","Stuck",16,"Shadow Ford","NC",17,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Jacques","Laffite",26,"Ligier Matra","NC",15,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1978,"07 May 1978","Rupert","Keegan",18,"Surtees Ford","NC",18,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Mario","Andretti",5,"Lotus Ford","1",1,70,9,"1:39:52.020",NA,NA,NA,NA,"1:20.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Ronnie","Peterson",6,"Lotus Ford","2",7,70,6,"1:40:01.920","9.900","9.90000009536743","1:23.130",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Carlos","Reutemann",11,"Ferrari","3",2,70,4,"1:40:16.359","24.340","14.4389998912811",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Gilles","Villeneuve",12,"Ferrari","4",4,70,3,"1:40:39.059","47.040","22.7000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Jacques","Laffite",26,"Ligier Matra","5",14,69,2,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Didier","Pironi",3,"Tyrrell Ford","6",23,69,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Brett","Lunger",30,"McLaren Ford","7",24,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Bruno","Giacomelli",33,"McLaren Ford","8",21,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Rene","Arnoux",31,"Martini Ford","9",19,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Alan","Jones",27,"Williams Ford","10",11,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Jochen","Mass",9,"ATS Ford","11",16,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Jacky","Ickx",22,"Ensign Ford","12",22,64,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Vittorio","Brambilla",19,"Surtees Ford","13",12,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Hans-Joachim","Stuck",16,"Shadow Ford","NC",20,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Jean-Pierre","Jabouille",15,"Renault","NC",10,56,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Jody","Scheckter",20,"Wolf Ford","NC",5,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Patrick","Depailler",4,"Tyrrell Ford","NC",13,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Clay","Regazzoni",17,"Shadow Ford","NC",18,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Riccardo","Patrese",35,"Arrows Ford","NC",8,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Rolf","Stommelen",36,"Arrows Ford","NC",17,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","John","Watson",2,"Brabham Alfa Romeo","NC",9,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",15,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","James","Hunt",7,"McLaren Ford","NC",6,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1978,"21 May 1978","Niki","Lauda",1,"Brabham Alfa Romeo","NC",3,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Mario","Andretti",5,"Lotus Ford","1",1,75,9,"1:41:47.060",NA,NA,"1:20.060",NA,"1:16.390",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Ronnie","Peterson",6,"Lotus Ford","2",2,75,6,"1:42:06.619","19.560","19.5590000152588",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Jacques","Laffite",26,"Ligier Matra","3",10,75,4,"1:42:24.299","37.240","17.6800000667572",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Jody","Scheckter",20,"Wolf Ford","4",9,75,3,"1:42:47.119","60.060","22.8199999332428",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","John","Watson",2,"Brabham Alfa Romeo","5",7,75,2,"1:42:52.990","65.930","5.87100005149841",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","James","Hunt",7,"McLaren Ford","6",4,74,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Vittorio","Brambilla",19,"Surtees Ford","7",16,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Alan","Jones",27,"Williams Ford","8",18,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Jochen","Mass",9,"ATS Ford","9",17,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Gilles","Villeneuve",12,"Ferrari","10",5,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Rupert","Keegan",18,"Surtees Ford","11",23,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Didier","Pironi",3,"Tyrrell Ford","12",13,71,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Jean-Pierre","Jabouille",15,"Renault","13",11,71,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Rolf","Stommelen",36,"Arrows Ford","14",19,71,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Clay","Regazzoni",17,"Shadow Ford","15",22,67,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Jacky","Ickx",22,"Ensign Ford","NC",21,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",15,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Carlos","Reutemann",11,"Ferrari","NC",3,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Niki","Lauda",1,"Brabham Alfa Romeo","NC",6,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Patrick","Depailler",4,"Tyrrell Ford","NC",12,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Hans-Joachim","Stuck",16,"Shadow Ford","NC",24,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Hector","Rebaque",25,"Lotus Ford","NC",20,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Riccardo","Patrese",35,"Arrows Ford","NC",8,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1978,"04 Jun 1978","Patrick","Tambay",8,"McLaren Ford","NC",14,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Niki","Lauda",1,"Brabham Alfa Romeo","1",3,70,9,"1:41:00.606",NA,NA,"1:24.836",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Riccardo","Patrese",35,"Arrows Ford","2",5,70,6,"1:41:34.625","34.019","34.0190000534058",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Ronnie","Peterson",6,"Lotus Ford","3",4,70,4,"1:41:34.710","34.105","0.0850000381469727",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Patrick","Tambay",8,"McLaren Ford","4",15,69,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Clay","Regazzoni",17,"Shadow Ford","5",16,69,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","6",13,69,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Jacques","Laffite",26,"Ligier Matra","7",11,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","James","Hunt",7,"McLaren Ford","8",14,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Gilles","Villeneuve",12,"Ferrari","9",7,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Carlos","Reutemann",11,"Ferrari","10",8,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Hans-Joachim","Stuck",16,"Shadow Ford","11",20,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Hector","Rebaque",25,"Lotus Ford","12",21,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Jochen","Mass",9,"ATS Ford","13",19,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Rolf","Stommelen",36,"Arrows Ford","14",24,67,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Keke","Rosberg",10,"ATS Ford","15",NA,63,0,"7","7","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Arturo","Merzario",37,"Merzario Ford","NC",22,62,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Mario","Andretti",5,"Lotus Ford","NC",1,46,0,NA,NA,NA,NA,NA,"1:22.058",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Alan","Jones",27,"Williams Ford","NC",9,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Patrick","Depailler",4,"Tyrrell Ford","NC",12,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Jean-Pierre","Jabouille",15,"Renault","NC",10,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","John","Watson",2,"Brabham Alfa Romeo","NC",2,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Jody","Scheckter",20,"Wolf Ford","NC",6,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Didier","Pironi",3,"Tyrrell Ford","NC",17,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1978,"17 Jun 1978","Vittorio","Brambilla",19,"Surtees Ford","NC",18,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Mario","Andretti",5,"Lotus Ford","1",2,54,9,"1:38:51.920",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Ronnie","Peterson",6,"Lotus Ford","2",5,54,6,"1:38:54.850","2.930","2.92999982833862",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","James","Hunt",7,"McLaren Ford","3",4,54,4,"1:39:11.720","19.800","16.8700001239777",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","John","Watson",2,"Brabham Alfa Romeo","4",1,54,3,"1:39:28.800","36.880","17.0799999237061",NA,NA,"1:44.410",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Alan","Jones",27,"Williams Ford","5",14,54,2,"1:39:33.730","41.810","4.9300000667572",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Jody","Scheckter",20,"Wolf Ford","6",7,54,1,"1:39:46.450","54.530","12.7200000286102",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Jacques","Laffite",26,"Ligier Matra","7",10,54,0,"1:39:46.660","54.740","0.210000038146973",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Riccardo","Patrese",35,"Arrows Ford","8",12,54,0,"1:40:16.800","84.880","30.1399998664856",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Patrick","Tambay",8,"McLaren Ford","9",6,54,0,"1:40:18.980","87.060","2.1800000667572",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Didier","Pironi",3,"Tyrrell Ford","10",16,54,0,"1:40:21.900","89.980","2.92000007629395",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Hans-Joachim","Stuck",16,"Shadow Ford","11",20,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Gilles","Villeneuve",12,"Ferrari","12",9,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Jochen","Mass",9,"ATS Ford","13",25,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Rene","Arnoux",31,"Martini Ford","14",18,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Rolf","Stommelen",36,"Arrows Ford","15",21,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Keke","Rosberg",10,"ATS Ford","16",26,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Vittorio","Brambilla",19,"Surtees Ford","17",19,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Carlos","Reutemann",11,"Ferrari","18",8,49,0,"5","5","5","1:48.560",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Brett","Lunger",30,"McLaren Ford","NC",24,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",15,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Rupert","Keegan",18,"Surtees Ford","NC",23,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Bruno","Giacomelli",33,"McLaren Ford","NC",22,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Patrick","Depailler",4,"Tyrrell Ford","NC",13,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Niki","Lauda",1,"Brabham Alfa Romeo","NC",3,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Clay","Regazzoni",17,"Shadow Ford","NC",17,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1978,"02 Jul 1978","Jean-Pierre","Jabouille",15,"Renault","NC",11,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Carlos","Reutemann",11,"Ferrari","1",8,76,9,"1:42:12.390",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Niki","Lauda",1,"Brabham Alfa Romeo","2",4,76,6,"1:42:13.620","1.230","1.22999978065491","1:18.600",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","John","Watson",2,"Brabham Alfa Romeo","3",9,76,4,"1:42:49.640","37.250","36.0200002193451",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Patrick","Depailler",4,"Tyrrell Ford","4",10,76,3,"1:43:25.660","73.270","36.0199999809265",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Hans-Joachim","Stuck",16,"Shadow Ford","5",18,75,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Patrick","Tambay",8,"McLaren Ford","6",20,75,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Bruno","Giacomelli",33,"McLaren Ford","7",16,75,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Brett","Lunger",30,"McLaren Ford","8",24,75,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Vittorio","Brambilla",19,"Surtees Ford","9",25,75,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Jacques","Laffite",26,"Ligier Matra","10",7,73,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Jochen","Mass",9,"ATS Ford","NC",26,66,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Keke","Rosberg",10,"ATS Ford","NC",22,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Clay","Regazzoni",17,"Shadow Ford","NC",17,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Jean-Pierre","Jabouille",15,"Renault","NC",12,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Riccardo","Patrese",35,"Arrows Ford","NC",5,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Didier","Pironi",3,"Tyrrell Ford","NC",19,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Jody","Scheckter",20,"Wolf Ford","NC",3,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",11,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Arturo","Merzario",37,"Merzario Ford","NC",23,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Derek","Daly",22,"Ensign Ford","NC",15,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Mario","Andretti",5,"Lotus Ford","NC",2,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Alan","Jones",27,"Williams Ford","NC",6,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Gilles","Villeneuve",12,"Ferrari","NC",13,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Hector","Rebaque",25,"Lotus Ford","NC",21,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","James","Hunt",7,"McLaren Ford","NC",14,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1978,"16 Jul 1978","Ronnie","Peterson",6,"Lotus Ford","NC",1,6,0,NA,NA,NA,NA,NA,"1:16.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Mario","Andretti",5,"Lotus Ford","1",1,45,9,"1:28:00.900",NA,NA,NA,NA,"1:51.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Jody","Scheckter",20,"Wolf Ford","2",4,45,6,"1:28:16.250","15.350","15.3499999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Jacques","Laffite",26,"Ligier Matra","3",7,45,4,"1:28:28.910","28.010","12.6600000858307",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","4",10,45,3,"1:28:37.780","36.880","8.86999988555908",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Didier","Pironi",3,"Tyrrell Ford","5",16,45,2,"1:28:58.160","57.260","20.3800001144409",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Hector","Rebaque",25,"Lotus Ford","6",18,45,1,"1:29:38.759","97.860","40.5989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","John","Watson",2,"Brabham Alfa Romeo","7",5,45,0,"1:29:40.430","99.530","1.6710000038147",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Gilles","Villeneuve",12,"Ferrari","8",15,45,0,"1:29:57.769","116.870","17.3389999866486",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Riccardo","Patrese",35,"Arrows Ford","9",14,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Keke","Rosberg",32,"Wolf Ford","10",19,42,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Rolf","Stommelen",36,"Arrows Ford","DQ",17,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Harald","Ertl",23,"Ensign Ford","11",23,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Ronnie","Peterson",6,"Lotus Ford","NC",2,36,0,NA,NA,NA,"1:55.620",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","James","Hunt",7,"McLaren Ford","DQ",8,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Alan","Jones",27,"Williams Ford","NC",6,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Nelson","Piquet",22,"Ensign Ford","NC",21,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Vittorio","Brambilla",19,"Surtees Ford","NC",20,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Patrick","Tambay",8,"McLaren Ford","NC",11,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Carlos","Reutemann",11,"Ferrari","NC",12,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Niki","Lauda",1,"Brabham Alfa Romeo","NC",3,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Jean-Pierre","Jabouille",15,"Renault","NC",9,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Hans-Joachim","Stuck",16,"Shadow Ford","NC",24,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Jochen","Mass",9,"ATS Ford","NC",22,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1978,"30 Jul 1978","Patrick","Depailler",4,"Tyrrell Ford","NC",13,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Ronnie","Peterson",6,"Lotus Ford","1",1,54,9,"1:41:21.570",NA,NA,"1:43.120",NA,"1:37.710",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Patrick","Depailler",4,"Tyrrell Ford","2",13,54,6,"1:42:09.009","47.440","47.4390001296997",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Gilles","Villeneuve",12,"Ferrari","3",11,54,4,"1:43:01.329","99.760","52.3199999332428",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","4",6,53,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Jacques","Laffite",26,"Ligier Matra","5",5,53,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Vittorio","Brambilla",19,"Surtees Ford","6",21,53,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","John","Watson",2,"Brabham Alfa Romeo","7",10,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Brett","Lunger",30,"McLaren Ford","8",17,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Rene","Arnoux",31,"Martini Ford","9",26,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Clay","Regazzoni",17,"Shadow Ford","NC",22,50,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Keke","Rosberg",32,"Wolf Ford","NC",25,49,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Derek","Daly",22,"Ensign Ford","DQ",19,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Patrick","Tambay",8,"McLaren Ford","NC",14,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Hans-Joachim","Stuck",16,"Shadow Ford","NC",23,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Jean-Pierre","Jabouille",15,"Renault","NC",3,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Niki","Lauda",1,"Brabham Alfa Romeo","NC",12,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Carlos","Reutemann",11,"Ferrari","DQ",4,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Didier","Pironi",3,"Tyrrell Ford","NC",9,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","James","Hunt",7,"McLaren Ford","NC",8,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Alan","Jones",27,"Williams Ford","NC",15,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Harald","Ertl",23,"Ensign Ford","NC",24,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Riccardo","Patrese",35,"Arrows Ford","NC",16,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Jody","Scheckter",20,"Wolf Ford","NC",7,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Nelson","Piquet",29,"McLaren Ford","NC",20,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Hector","Rebaque",25,"Lotus Ford","NC",18,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1978,"13 Aug 1978","Mario","Andretti",5,"Lotus Ford","NC",2,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Mario","Andretti",5,"Lotus Ford","1",1,75,9,"1:41:04.230",NA,NA,NA,NA,"1:16.360",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Ronnie","Peterson",6,"Lotus Ford","2",2,75,6,"1:41:04.549","0.320","0.319000005722046",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Niki","Lauda",1,"Brabham Alfa Romeo","3",3,75,4,"1:41:16.440","12.210","11.8910000324249","1:19.570",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","John","Watson",2,"Brabham Alfa Romeo","4",8,75,3,"1:41:25.150","20.920","8.71000003814697",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","5",10,75,2,"1:41:25.730","21.500","0.579999923706055",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Gilles","Villeneuve",12,"Ferrari","6",5,75,1,"1:41:50.180","45.950","24.4500000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Carlos","Reutemann",11,"Ferrari","7",4,75,0,"1:42:04.730","60.500","14.5499999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Jacques","Laffite",26,"Ligier Matra","8",6,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Patrick","Tambay",8,"McLaren Ford","9",14,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","James","Hunt",7,"McLaren Ford","10",7,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Hector","Rebaque",25,"Lotus Ford","11",20,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Jody","Scheckter",20,"Wolf Ford","12",15,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Bruno","Giacomelli",33,"McLaren Ford","NC",19,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Hans-Joachim","Stuck",16,"Shadow Ford","NC",18,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Rene","Arnoux",31,"Martini Ford","NC",23,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Arturo","Merzario",37,"Merzario Ford","NC",27,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Vittorio","Brambilla",19,"Surtees Ford","DQ",22,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Jean-Pierre","Jabouille",15,"Renault","NC",9,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Brett","Lunger",30,"McLaren Ford","NC",21,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Keke","Rosberg",32,"Wolf Ford","NC",24,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Alan","Jones",27,"Williams Ford","NC",11,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Nelson","Piquet",29,"McLaren Ford","NC",26,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Patrick","Depailler",4,"Tyrrell Ford","NC",12,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Derek","Daly",22,"Ensign Ford","NC",16,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Riccardo","Patrese",35,"Arrows Ford","NC",13,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Didier","Pironi",3,"Tyrrell Ford","NC",17,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1978,"27 Aug 1978","Rupert","Keegan",18,"Surtees Ford","NC",25,NA,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Niki","Lauda",1,"Brabham Alfa Romeo","1",4,40,9,"1:07:04.540",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","John","Watson",2,"Brabham Alfa Romeo","2",7,40,6,"1:07:06.019","1.480","1.47900009155273",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Carlos","Reutemann",11,"Ferrari","3",11,40,4,"1:07:25.009","20.470","18.9900000095367",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Jacques","Laffite",26,"Ligier Matra","4",8,40,3,"1:07:42.069","37.530","17.0599999427795",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Patrick","Tambay",8,"McLaren Ford","5",19,40,2,"1:07:44.930","40.390","2.86100006103516",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Mario","Andretti",5,"Lotus Ford","6",1,40,1,"1:07:50.869","46.330","5.93899989128113","1:38.230",NA,"1:37.520",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Gilles","Villeneuve",12,"Ferrari","7",2,40,0,"1:07:53.019","48.480","2.15000009536743",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","8",13,40,0,"1:07:59.779","55.240","6.75999999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Nelson","Piquet",29,"McLaren Ford","9",24,40,0,"1:08:11.369","66.830","11.5899999141693",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Derek","Daly",22,"Ensign Ford","10",18,40,0,"1:08:13.649","69.110","2.27999997138977",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Patrick","Depailler",4,"Tyrrell Ford","11",16,40,0,"1:08:21.109","76.570","7.46000003814697",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Jody","Scheckter",20,"Wolf Ford","12",9,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Alan","Jones",27,"Williams Ford","13",6,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Bruno","Giacomelli",33,"McLaren Ford","14",20,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Clay","Regazzoni",17,"Shadow Ford","NC",15,33,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Riccardo","Patrese",35,"Arrows Ford","NC",12,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","James","Hunt",7,"McLaren Ford","NC",10,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Arturo","Merzario",37,"Merzario Ford","NC",22,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Jean-Pierre","Jabouille",15,"Renault","NC",3,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Ronnie","Peterson",6,"Lotus Ford","NC",5,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Vittorio","Brambilla",19,"Surtees Ford","NC",23,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Brett","Lunger",30,"McLaren Ford","NC",21,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Didier","Pironi",3,"Tyrrell Ford","NC",14,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1978,"10 Sep 1978","Hans-Joachim","Stuck",16,"Shadow Ford","NC",17,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Carlos","Reutemann",11,"Ferrari","1",2,59,9,"1:40:48.800",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Alan","Jones",27,"Williams Ford","2",3,59,6,"1:41:08.539","19.739","19.739000082016",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Jody","Scheckter",20,"Wolf Ford","3",11,59,4,"1:41:34.500","45.701","25.9609999656677",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Jean-Pierre","Jabouille",15,"Renault","4",9,59,3,"1:42:13.806","85.007","39.305999994278",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","5",13,59,2,"1:42:16.888","88.089","3.08200001716614",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Patrick","Tambay",8,"McLaren Ford","6",18,59,1,"1:42:39.009","110.210","22.1210000514984",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","James","Hunt",7,"McLaren Ford","7",6,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Derek","Daly",22,"Ensign Ford","8",19,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Rene","Arnoux",18,"Surtees Ford","9",21,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Didier","Pironi",3,"Tyrrell Ford","10",16,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Jacques","Laffite",26,"Ligier Matra","11",10,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Bobby","Rahal",21,"Wolf Ford","12",20,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Brett","Lunger",23,"Ensign Ford","13",24,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Clay","Regazzoni",17,"Shadow Ford","14",17,56,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Jean-Pierre","Jarier",55,"Lotus Ford","15",8,55,0,NA,NA,NA,"1:39.557",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Rolf","Stommelen",36,"Arrows Ford","16",22,54,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Arturo","Merzario",37,"Merzario Ford","NC",26,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Michael","Bleekemolen",9,"ATS Ford","NC",25,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Niki","Lauda",1,"Brabham Alfa Romeo","NC",5,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Mario","Andretti",5,"Lotus Ford","NC",1,27,0,NA,NA,NA,NA,NA,"1:38.114",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","John","Watson",2,"Brabham Alfa Romeo","NC",7,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Patrick","Depailler",4,"Tyrrell Ford","NC",12,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Gilles","Villeneuve",12,"Ferrari","NC",4,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Keke","Rosberg",32,"ATS Ford","NC",15,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Hans-Joachim","Stuck",16,"Shadow Ford","NC",14,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1978,"01 Oct 1978","Hector","Rebaque",25,"Lotus Ford","NC",23,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Gilles","Villeneuve",12,"Ferrari","1",3,70,9,"1:57:49.196",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Jody","Scheckter",20,"Wolf Ford","2",2,70,6,"1:58:02.565","13.370","13.3689999580383",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Carlos","Reutemann",11,"Ferrari","3",11,70,4,"1:58:08.606","19.410","6.04099988937378",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Riccardo","Patrese",35,"Arrows Ford","4",12,70,3,"1:58:13.866","24.670","5.25999999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Patrick","Depailler",4,"Tyrrell Ford","5",13,70,2,"1:58:17.756","28.560","3.89000010490417",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Derek","Daly",22,"Ensign Ford","6",15,70,1,"1:58:43.676","54.480","25.9200000762939",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Didier","Pironi",3,"Tyrrell Ford","7",18,70,0,"1:59:10.446","81.250","26.7699999809265",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Patrick","Tambay",8,"McLaren Ford","8",17,70,0,"1:59:15.756","86.560","5.30999994277954",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Alan","Jones",27,"Williams Ford","9",5,70,0,"1:59:18.136","88.940","2.37999987602234","1:38.072",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Mario","Andretti",5,"Lotus Ford","10",9,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Nelson","Piquet",66,"Brabham Alfa Romeo","11",14,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Jean-Pierre","Jabouille",15,"Renault","12",22,65,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Keke","Rosberg",32,"ATS Ford","NC",21,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Jacques","Laffite",26,"Ligier Matra","NC",10,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","James","Hunt",7,"McLaren Ford","NC",19,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Jean-Pierre","Jarier",55,"Lotus Ford","NC",1,49,0,NA,NA,NA,NA,NA,"1:38.015",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Rene","Arnoux",18,"Surtees Ford","NC",16,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Bobby","Rahal",21,"Wolf Ford","NC",20,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","John","Watson",2,"Brabham Alfa Romeo","NC",4,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Niki","Lauda",1,"Brabham Alfa Romeo","NC",7,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Hans-Joachim","Stuck",16,"Shadow Ford","NC",8,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1978,"08 Oct 1978","Emerson","Fittipaldi",14,"Fittipaldi Ford","NC",6,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

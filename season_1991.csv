@@ -1,0 +1,407 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Ayrton","Senna",1,"McLaren Honda","1",1,81,10,"2:00:47.828",NA,NA,"1:27.153",NA,"1:21.434",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Alain","Prost",27,"Ferrari","2",2,81,6,"2:01:04.150","16.322","16.3220000267029","1:26.845",NA,"1:22.555",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Nelson","Piquet",20,"Benetton Ford","3",5,81,4,"2:01:05.203","17.376","1.05299997329712","1:26.965",NA,"1:23.384",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Stefano","Modena",4,"Tyrrell Honda","4",11,81,3,"2:01:13.236","25.409","8.03299999237061","1:27.983",NA,"1:25.065",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Satoru","Nakajima",3,"Tyrrell Honda","5",16,80,2,"1","1","1","1:28.227",NA,"1:25.752",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Aguri","Suzuki",30,"Lola Ford","6",21,79,1,"2","2","2","1:28.993",NA,"1:26.548",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Nicola","Larini",34,"Lambo Lamborghini","7",17,78,0,"3","3","3","1:29.877",NA,"1:25.791",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Gabriele","Tarquini",17,"AGS Ford","8",22,77,0,"4","4","4","1:30.242",NA,"1:26.851",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Pierluigi","Martini",23,"Minardi Ferrari","9",15,75,0,NA,NA,NA,"1:29.356",NA,"1:25.715",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Bertrand","Gachot",32,"Jordan Ford","10",14,75,0,NA,NA,NA,"1:28.975",NA,"1:25.701",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Martin","Brundle",7,"Brabham Yamaha","11",12,73,0,"8","8","8","1:30.472",NA,"1:25.385",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Jean","Alesi",28,"Ferrari","12",6,72,0,NA,NA,NA,"1:26.758",NA,"1:23.519",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Mika","Hakkinen",11,"Lotus Judd","NC",13,59,0,NA,NA,NA,"1:29.072",NA,"1:25.448",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Riccardo","Patrese",6,"Williams Renault","NC",3,49,0,NA,NA,NA,"1:27.450",NA,"1:22.833",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Roberto","Moreno",19,"Benetton Ford","NC",8,49,0,NA,NA,NA,"1:28.044",NA,"1:23.881",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Michele","Alboreto",9,"Footwork Porsche","NC",25,41,0,NA,NA,NA,"1:30.077",NA,"1:27.015",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Ivan","Capelli",16,"Leyton House Ilmor","NC",18,40,0,NA,NA,NA,"1:29.201",NA,"1:26.121",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Thierry","Boutsen",25,"Ligier Lamborghini","NC",20,40,0,NA,NA,NA,"1:29.310",NA,"1:26.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Gerhard","Berger",2,"McLaren Honda","NC",7,36,0,NA,NA,NA,"1:28.286",NA,"1:23.742",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Nigel","Mansell",5,"Williams Renault","NC",4,35,0,NA,NA,NA,"1:28.502",NA,"1:23.218",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","NC",23,34,0,NA,NA,NA,"1:29.505",NA,"1:26.865",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Mark","Blundell",8,"Brabham Yamaha","NC",24,32,0,NA,NA,NA,"1:31.092",NA,"1:26.915",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Emanuele","Pirro",21,"Dallara Judd","NC",9,16,0,NA,NA,NA,"1:29.910",NA,"1:24.792",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Gianni","Morbidelli",24,"Minardi Ferrari","NC",26,15,0,NA,NA,NA,"1:31.631",NA,"1:27.042",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Jyrki","Jarvilehto",22,"Dallara Judd","NC",10,12,0,NA,NA,NA,"1:31.435",NA,"1:24.891",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1991,"10 Mar 1991","Eric","Bernard",29,"Lola Ford","NC",19,4,0,NA,NA,NA,"1:31.732",NA,"1:26.425",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Ayrton","Senna",1,"McLaren Honda","1",1,71,10,"1:38:28.128",NA,NA,"1:20.841",NA,"1:16.392",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Riccardo","Patrese",6,"Williams Renault","2",2,71,6,"1:38:31.118","2.991","2.99000000953674","1:21.330",NA,"1:16.775",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Gerhard","Berger",2,"McLaren Honda","3",4,71,4,"1:38:33.543","5.416","2.42499995231628","1:21.125",NA,"1:17.471",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Alain","Prost",27,"Ferrari","4",6,71,3,"1:38:47.496","19.369","13.9530000686646","1:20.635",NA,"1:17.739",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Nelson","Piquet",20,"Benetton Ford","5",7,71,2,"1:38:50.088","21.960","2.59200000762939","1:21.280",NA,"1:18.577",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Jean","Alesi",28,"Ferrari","6",5,71,1,"1:38:51.769","23.641","1.68099999427795","1:20.991",NA,"1:17.601",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Roberto","Moreno",19,"Benetton Ford","7",14,70,0,"1","1","1","1:22.473",NA,"1:19.360",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Gianni","Morbidelli",24,"Minardi Ferrari","8",21,69,0,NA,NA,NA,"1:23.161",NA,"1:20.502",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Mika","Hakkinen",11,"Lotus Judd","9",22,68,0,"3","3","3","1:22.613",NA,"1:20.611",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Thierry","Boutsen",25,"Ligier Lamborghini","10",18,68,0,"3","3","3","1:23.873",NA,"1:19.868",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Emanuele","Pirro",21,"Dallara Judd","11",12,68,0,"3","3","3","1:23.808",NA,"1:19.305",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Martin","Brundle",7,"Brabham Yamaha","12",26,67,0,"4","4","4","1:25.319",NA,"1:21.280",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Bertrand","Gachot",32,"Jordan Ford","13",10,63,0,NA,NA,NA,"1:23.051",NA,"1:18.882",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Nigel","Mansell",5,"Williams Renault","NC",3,59,0,NA,NA,NA,"1:20.436",NA,"1:16.843",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Erik","Comas",26,"Ligier Lamborghini","NC",23,50,0,NA,NA,NA,"1:23.587",NA,"1:21.168",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Pierluigi","Martini",23,"Minardi Ferrari","NC",20,47,0,NA,NA,NA,"1:22.887",NA,"1:20.175",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Mark","Blundell",8,"Brabham Yamaha","NC",25,34,0,NA,NA,NA,"1:26.224",NA,"1:21.230",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Eric","Bernard",29,"Lola Ford","NC",11,33,0,NA,NA,NA,"1:23.270",NA,"1:19.291",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Jyrki","Jarvilehto",22,"Dallara Judd","NC",19,22,0,NA,NA,NA,"1:24.420",NA,"1:19.954",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Andrea","deCesaris",33,"Jordan Ford","NC",13,20,0,NA,NA,NA,"1:23.144",NA,"1:19.339",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Stefano","Modena",4,"Tyrrell Honda","NC",9,19,0,NA,NA,NA,"1:23.424",NA,"1:18.847",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Ivan","Capelli",16,"Leyton House Ilmor","NC",15,16,0,NA,NA,NA,"1:23.580",NA,"1:19.517",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Satoru","Nakajima",3,"Tyrrell Honda","NC",16,12,0,NA,NA,NA,"1:25.053",NA,"1:19.546",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1991,"24 Mar 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","NC",8,9,0,NA,NA,NA,"1:23.669",NA,"1:18.664",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Ayrton","Senna",1,"McLaren Honda","1",1,61,10,"1:35:14.750",NA,NA,"1:27.168",NA,"1:21.877",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Gerhard","Berger",2,"McLaren Honda","2",5,61,6,"1:35:16.424","1.675","1.67400002479553","1:26.531",NA,"1:22.567",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Jyrki","Jarvilehto",22,"Dallara Judd","3",16,60,4,"1","1","1","1:29.091",NA,"1:25.974",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Pierluigi","Martini",23,"Minardi Ferrari","4",9,59,3,"2","2","2","1:30.476",NA,"1:24.807",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Mika","Hakkinen",11,"Lotus Judd","5",25,58,2,"3","3","3","1:30.481",NA,"1:27.324",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Julian","Bailey",12,"Lotus Judd","6",26,58,1,"3","3","3","1:29.968",NA,"1:27.976",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Thierry","Boutsen",25,"Ligier Lamborghini","7",24,58,0,"3","3","3","1:29.368",NA,"1:26.998",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Mark","Blundell",8,"Brabham Yamaha","8",23,58,0,"3","3","3","1:31.442",NA,"1:26.778",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Eric","vandePoele",35,"Lambo Lamborghini","9",21,57,0,NA,NA,NA,"1:30.528",NA,"1:26.550",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Erik","Comas",26,"Ligier Lamborghini","10",19,57,0,"4","4","4","1:31.860",NA,"1:26.207",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Martin","Brundle",7,"Brabham Yamaha","11",18,57,0,"4","4","4","1:30.115",NA,"1:26.055",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","12",15,55,0,NA,NA,NA,"1:30.422",NA,"1:25.841",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Roberto","Moreno",19,"Benetton Ford","13",13,54,0,NA,NA,NA,"1:28.423",NA,"1:25.655",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Stefano","Modena",4,"Tyrrell Honda","NC",6,41,0,NA,NA,NA,"1:28.906",NA,"1:23.511",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Andrea","deCesaris",33,"Jordan Ford","NC",11,37,0,NA,NA,NA,"1:30.471",NA,"1:25.491",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Bertrand","Gachot",32,"Jordan Ford","NC",12,37,0,NA,NA,NA,"1:33.534",NA,"1:25.531",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Ivan","Capelli",16,"Leyton House Ilmor","NC",22,24,0,NA,NA,NA,"1:31.257",NA,"1:26.602",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Eric","Bernard",29,"Lola Ford","NC",17,17,0,NA,NA,NA,"1:33.555",NA,"1:25.983",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Riccardo","Patrese",6,"Williams Renault","NC",2,17,0,NA,NA,NA,"1:28.776",NA,"1:21.957",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Satoru","Nakajima",3,"Tyrrell Honda","NC",10,15,0,NA,NA,NA,"1:44.827",NA,"1:25.345",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Gianni","Morbidelli",24,"Minardi Ferrari","NC",8,10,0,NA,NA,NA,"1:50.522",NA,"1:24.762",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Jean","Alesi",28,"Ferrari","NC",7,2,0,NA,NA,NA,"1:55.709",NA,"1:23.945",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Aguri","Suzuki",30,"Lola Ford","NC",20,2,0,NA,NA,NA,"2:01.658",NA,"1:26.356",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1991,"28 Apr 1991","Nelson","Piquet",20,"Benetton Ford","NC",14,1,0,NA,NA,NA,"2:21.555",NA,"1:25.809",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Ayrton","Senna",1,"McLaren Honda","1",1,78,10,"1:53:02.334",NA,NA,"1:25.250",NA,"1:20.344",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Nigel","Mansell",5,"Williams Renault","2",5,78,6,"1:53:20.682","18.348","18.3479998111725","1:24.850",NA,"1:21.205",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Jean","Alesi",28,"Ferrari","3",9,78,4,"1:53:49.789","47.455","29.1070001125336","1:26.055",NA,"1:21.910",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Roberto","Moreno",19,"Benetton Ford","4",8,77,3,"1","1","1","1:25.823",NA,"1:21.804",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Alain","Prost",27,"Ferrari","5",7,77,2,"1","1","1","1:24.368",NA,"1:21.455",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Emanuele","Pirro",21,"Dallara Judd","6",12,77,1,"1","1","1","1:26.924",NA,"1:23.022",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Thierry","Boutsen",25,"Ligier Lamborghini","7",16,76,0,"2","2","2","1:27.787",NA,"1:23.431",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Bertrand","Gachot",32,"Jordan Ford","8",24,76,0,"2","2","2","1:27.163",NA,"1:24.208",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Eric","Bernard",29,"Lola Ford","9",21,76,0,"2","2","2","1:27.624",NA,"1:24.079",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Erik","Comas",26,"Ligier Lamborghini","10",23,76,0,"2","2","2","1:27.304",NA,"1:24.151",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Jyrki","Jarvilehto",22,"Dallara Judd","11",13,75,0,"3","3","3","1:27.541",NA,"1:23.023",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Pierluigi","Martini",23,"Minardi Ferrari","12",14,72,0,"6","6","6","1:27.740",NA,"1:23.064",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Mika","Hakkinen",11,"Lotus Judd","NC",26,64,0,NA,NA,NA,"1:26.627",NA,"1:24.829",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Gianni","Morbidelli",24,"Minardi Ferrari","NC",17,49,0,NA,NA,NA,"1:28.648",NA,"1:23.584",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","NC",15,43,0,NA,NA,NA,"1:28.012",NA,"1:23.394",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Stefano","Modena",4,"Tyrrell Honda","NC",2,42,0,NA,NA,NA,"1:25.629",NA,"1:20.809",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Riccardo","Patrese",6,"Williams Renault","NC",3,42,0,NA,NA,NA,"1:25.147",NA,"1:20.973",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Mark","Blundell",8,"Brabham Yamaha","NC",22,41,0,NA,NA,NA,"1:27.641",NA,"1:24.109",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Michele","Alboreto",9,"Footwork Porsche","NC",25,39,0,NA,NA,NA,"1:30.366",NA,"1:24.606",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Satoru","Nakajima",3,"Tyrrell Honda","NC",11,35,0,NA,NA,NA,"1:27.740",NA,"1:22.972",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Aguri","Suzuki",30,"Lola Ford","NC",19,24,0,NA,NA,NA,"1:28.661",NA,"1:23.898",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Andrea","deCesaris",33,"Jordan Ford","NC",10,21,0,NA,NA,NA,"1:26.257",NA,"1:22.764",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Ivan","Capelli",16,"Leyton House Ilmor","NC",18,12,0,NA,NA,NA,"1:28.803",NA,"1:23.642",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Gabriele","Tarquini",17,"AGS Ford","NC",20,9,0,NA,NA,NA,"1:29.711",NA,"1:23.909",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1991,"12 May 1991","Gerhard","Berger",2,"McLaren Honda","NC",6,9,0,NA,NA,NA,"1:25.228",NA,"1:21.222",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Nelson","Piquet",20,"Benetton Ford","1",8,69,10,"1:38:51.490",NA,NA,"1:23.758",NA,"1:21.241",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Stefano","Modena",4,"Tyrrell Honda","2",9,69,6,"1:39:23.322","31.832","31.8320000171661","1:23.528",NA,"1:21.298",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Riccardo","Patrese",6,"Williams Renault","3",1,69,4,"1:39:33.707","42.217","10.3849999904633","1:22.672",NA,"1:19.837",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Andrea","deCesaris",33,"Jordan Ford","4",11,69,3,"1:40:11.700","80.210","37.9930000305176","1:24.105",NA,"1:22.154",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Bertrand","Gachot",32,"Jordan Ford","5",14,69,2,"1:40:13.841","82.351","2.14100003242493","1:24.479",NA,"1:22.596",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Nigel","Mansell",5,"Williams Renault","6",2,68,1,NA,NA,NA,"1:22.385",NA,"1:20.225",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Pierluigi","Martini",23,"Minardi Ferrari","7",18,68,0,"1","1","1","1:25.237",NA,"1:23.125",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Erik","Comas",26,"Ligier Lamborghini","8",26,68,0,"1","1","1","1:25.877",NA,"1:24.460",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Emanuele","Pirro",21,"Dallara Judd","9",10,68,0,"1","1","1","1:25.183",NA,"1:21.864",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Satoru","Nakajima",3,"Tyrrell Honda","10",12,67,0,"2","2","2","1:25.620",NA,"1:22.262",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","NC",23,61,0,NA,NA,NA,"1:28.212",NA,"1:23.650",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Jyrki","Jarvilehto",22,"Dallara Judd","NC",17,50,0,NA,NA,NA,"1:24.680",NA,"1:23.040",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Stefan","Johansson",10,"Footwork Porsche","NC",25,48,0,NA,NA,NA,"1:28.420",NA,"1:24.433",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Ivan","Capelli",16,"Leyton House Ilmor","NC",13,42,0,NA,NA,NA,"1:24.547",NA,"1:22.443",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Jean","Alesi",28,"Ferrari","NC",7,34,0,NA,NA,NA,"1:24.125",NA,"1:21.227",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Eric","Bernard",29,"Lola Ford","NC",19,29,0,NA,NA,NA,"1:26.510",NA,"1:23.260",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Alain","Prost",27,"Ferrari","NC",4,27,0,NA,NA,NA,"1:24.186",NA,"1:20.656",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Thierry","Boutsen",25,"Ligier Lamborghini","NC",16,27,0,NA,NA,NA,"1:26.469",NA,"1:23.040",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Ayrton","Senna",1,"McLaren Honda","NC",3,25,0,NA,NA,NA,"1:24.647",NA,"1:20.318",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Mika","Hakkinen",11,"Lotus Judd","NC",24,21,0,NA,NA,NA,"1:26.626",NA,"1:23.923",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Martin","Brundle",7,"Brabham Yamaha","NC",20,21,0,NA,NA,NA,"1:27.549",NA,"1:23.516",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Gianni","Morbidelli",24,"Minardi Ferrari","NC",15,20,0,NA,NA,NA,"1:26.576",NA,"1:22.993",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Roberto","Moreno",19,"Benetton Ford","NC",5,10,0,NA,NA,NA,"1:25.690",NA,"1:20.686",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Gerhard","Berger",2,"McLaren Honda","NC",6,4,0,NA,NA,NA,"1:29.815",NA,"1:20.916",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Aguri","Suzuki",30,"Lola Ford","NC",22,3,0,NA,NA,NA,"1:29.644",NA,"1:23.585",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1991,"02 Jun 1991","Michele","Alboreto",9,"Footwork Porsche","NC",21,2,0,NA,NA,NA,"1:36.279",NA,"1:23.529",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Riccardo","Patrese",6,"Williams Renault","1",1,67,10,"1:29:52.205",NA,NA,"1:17.299",NA,"1:16.696",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Nigel","Mansell",5,"Williams Renault","2",2,67,6,"1:29:53.540","1.336","1.33500003814697","1:16.788",NA,"1:16.978",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Ayrton","Senna",1,"McLaren Honda","3",3,67,4,"1:30:49.560","57.356","56.0199999809265","1:18.570",NA,"1:17.264",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Andrea","deCesaris",33,"Jordan Ford","4",11,66,3,NA,NA,NA,"1:19.109",NA,"1:18.935",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Roberto","Moreno",19,"Benetton Ford","5",9,66,2,"1","1","1","1:19.718",NA,"1:18.375",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Eric","Bernard",29,"Lola Ford","6",18,66,1,"1","1","1","1:19.648",NA,"1:19.785",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Gianni","Morbidelli",24,"Minardi Ferrari","7",23,66,0,"1","1","1","1:20.411",NA,"1:20.322",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Thierry","Boutsen",25,"Ligier Lamborghini","8",14,65,0,"2","2","2","1:19.953",NA,"1:19.201",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Mika","Hakkinen",11,"Lotus Judd","9",24,65,0,"2","2","2","1:20.446",NA,"1:20.823",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Johnny","Herbert",12,"Lotus Judd","10",25,65,0,"2","2","2","1:20.472",NA,"1:20.830",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Stefano","Modena",4,"Tyrrell Honda","11",8,65,0,"2","2","2","1:19.920",NA,"1:18.216",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Satoru","Nakajima",3,"Tyrrell Honda","12",13,64,0,"3","3","3","1:20.613",NA,"1:19.092",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Mark","Blundell",8,"Brabham Yamaha","NC",12,54,0,NA,NA,NA,"1:21.105",NA,"1:19.064",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Bertrand","Gachot",32,"Jordan Ford","NC",20,51,0,NA,NA,NA,"1:19.510",NA,"1:20.050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Aguri","Suzuki",30,"Lola Ford","NC",19,48,0,NA,NA,NA,"1:20.622",NA,"1:20.049",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Nelson","Piquet",20,"Benetton Ford","NC",6,44,0,NA,NA,NA,"1:19.744",NA,"1:18.168",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Jean","Alesi",28,"Ferrari","NC",4,42,0,NA,NA,NA,"1:20.129",NA,"1:18.129",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Jyrki","Jarvilehto",22,"Dallara Judd","NC",16,30,0,NA,NA,NA,"1:20.982",NA,"1:19.291",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Michele","Alboreto",9,"Footwork Porsche","NC",26,24,0,NA,NA,NA,"1:22.269",NA,"1:21.178",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Martin","Brundle",7,"Brabham Yamaha","NC",17,20,0,NA,NA,NA,"1:23.323",NA,"1:19.647",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Ivan","Capelli",16,"Leyton House Ilmor","NC",22,19,0,NA,NA,NA,"1:22.487",NA,"1:20.252",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Alain","Prost",27,"Ferrari","NC",7,16,0,NA,NA,NA,"1:21.266",NA,"1:18.183",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","NC",21,15,0,NA,NA,NA,"1:24.895",NA,"1:20.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Olivier","Grouillard",14,"Fondmetal Ford","NC",10,13,0,NA,NA,NA,"1:23.300",NA,"1:18.453",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Gerhard","Berger",2,"McLaren Honda","NC",5,5,0,NA,NA,NA,"1:23.948",NA,"1:18.156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1991,"16 Jun 1991","Pierluigi","Martini",23,"Minardi Ferrari","NC",15,4,0,NA,NA,NA,"1:24.014",NA,"1:19.215",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Nigel","Mansell",5,"Williams Renault","1",4,72,10,"1:38:00.056",NA,NA,"1:19.168",NA,"1:14.895",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Alain","Prost",27,"Ferrari","2",2,72,6,"1:38:05.059","5.003","5.00300002098083","1:19.944",NA,"1:14.789",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Ayrton","Senna",1,"McLaren Honda","3",3,72,4,"1:38:34.990","34.934","29.930999994278","1:20.570",NA,"1:14.857",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Jean","Alesi",28,"Ferrari","4",6,72,3,"1:38:35.976","35.920","0.986000061035156","1:20.425",NA,"1:15.877",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Riccardo","Patrese",6,"Williams Renault","5",1,71,2,"1","1","1","1:20.028",NA,"1:14.559",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Andrea","deCesaris",33,"Jordan Ford","6",13,71,1,"1","1","1","1:21.051",NA,"1:17.163",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","7",9,70,0,"2","2","2","1:22.309",NA,"1:17.015",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Nelson","Piquet",20,"Benetton Ford","8",7,70,0,"2","2","2","1:21.873",NA,"1:16.816",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Pierluigi","Martini",23,"Minardi Ferrari","9",12,70,0,"2","2","2","1:21.719",NA,"1:17.149",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Johnny","Herbert",12,"Lotus Judd","10",20,70,0,"2","2","2","1:23.201",NA,"1:18.185",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Erik","Comas",26,"Ligier Lamborghini","11",14,70,0,"2","2","2","1:21.916",NA,"1:17.504",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Thierry","Boutsen",25,"Ligier Lamborghini","12",16,69,0,"3","3","3","1:21.641",NA,"1:17.775",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Roberto","Moreno",19,"Benetton Ford","NC",8,63,0,NA,NA,NA,"1:23.693",NA,"1:16.961",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Stefano","Modena",4,"Tyrrell Honda","NC",11,57,0,NA,NA,NA,"1:23.480",NA,"1:17.114",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Olivier","Grouillard",14,"Fondmetal Ford","NC",21,47,0,NA,NA,NA,"1:22.837",NA,"1:18.210",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Eric","Bernard",29,"Lola Ford","NC",23,43,0,NA,NA,NA,"1:22.133",NA,"1:18.540",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Jyrki","Jarvilehto",22,"Dallara Judd","NC",26,39,0,NA,NA,NA,"1:23.748",NA,"1:19.267",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Mark","Blundell",8,"Brabham Yamaha","NC",17,36,0,NA,NA,NA,"1:23.282",NA,"1:17.836",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Aguri","Suzuki",30,"Lola Ford","NC",22,32,0,NA,NA,NA,"1:23.448",NA,"1:18.224",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Michele","Alboreto",9,"Footwork Porsche","NC",25,31,0,NA,NA,NA,"1:24.369",NA,"1:18.846",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Martin","Brundle",7,"Brabham Yamaha","NC",24,21,0,NA,NA,NA,"1:23.636",NA,"1:18.826",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Satoru","Nakajima",3,"Tyrrell Honda","NC",18,12,0,NA,NA,NA,"1:24.420",NA,"1:18.144",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Gianni","Morbidelli",24,"Minardi Ferrari","NC",10,8,0,NA,NA,NA,"1:23.687",NA,"1:17.020",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Ivan","Capelli",16,"Leyton House Ilmor","NC",15,7,0,NA,NA,NA,"1:23.623",NA,"1:17.533",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1991,"07 Jul 1991","Gerhard","Berger",2,"McLaren Honda","NC",5,6,0,NA,NA,NA,"1:23.297",NA,"1:15.376",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Nigel","Mansell",5,"Williams Renault","1",1,59,10,"1:27:35.479",NA,NA,"1:26.379",NA,"1:20.939",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Gerhard","Berger",2,"McLaren Honda","2",4,59,6,"1:28:17.772","42.293","42.2929999828339","1:26.633",NA,"1:22.476",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Alain","Prost",27,"Ferrari","3",5,59,4,"1:28:35.629","60.150","17.856999874115","1:26.589",NA,"1:22.478",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Ayrton","Senna",1,"McLaren Honda","4",2,58,3,NA,NA,NA,"1:27.509",NA,"1:21.618",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Nelson","Piquet",20,"Benetton Ford","5",8,58,2,"1","1","1","1:27.857",NA,"1:23.626",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Bertrand","Gachot",32,"Jordan Ford","6",17,58,1,"1","1","1","1:28.869",NA,"1:24.592",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Stefano","Modena",4,"Tyrrell Honda","7",10,58,0,"1","1","1","1:27.936",NA,"1:24.069",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Satoru","Nakajima",3,"Tyrrell Honda","8",15,58,0,"1","1","1","1:29.379",NA,"1:24.560",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Pierluigi","Martini",23,"Minardi Ferrari","9",23,58,0,"1","1","1","1:30.222",NA,"1:25.583",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Emanuele","Pirro",21,"Dallara Judd","10",18,57,0,"2","2","2","1:29.485",NA,"1:24.654",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Gianni","Morbidelli",24,"Minardi Ferrari","11",20,57,0,"2","2","2","1:28.856",NA,"1:25.222",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Mika","Hakkinen",11,"Lotus Judd","12",25,57,0,"2","2","2","1:29.411",NA,"1:25.872",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Jyrki","Jarvilehto",22,"Dallara Judd","13",11,56,0,"3","3","3","1:28.305",NA,"1:24.141",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Johnny","Herbert",12,"Lotus Judd","14",24,55,0,NA,NA,NA,"1:29.877",NA,"1:25.689",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Mark","Blundell",8,"Brabham Yamaha","NC",12,52,0,NA,NA,NA,"1:29.316",NA,"1:24.165",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Andrea","deCesaris",33,"Jordan Ford","NC",13,41,0,NA,NA,NA,"1:29.246",NA,"1:24.169",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Jean","Alesi",28,"Ferrari","NC",6,31,0,NA,NA,NA,"1:27.998",NA,"1:22.881",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Aguri","Suzuki",30,"Lola Ford","NC",22,29,0,NA,NA,NA,"1:31.133",NA,"1:25.583",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Thierry","Boutsen",25,"Ligier Lamborghini","NC",19,29,0,NA,NA,NA,"1:31.192",NA,"1:25.174",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Martin","Brundle",7,"Brabham Yamaha","NC",14,28,0,NA,NA,NA,"1:30.935",NA,"1:24.345",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Michele","Alboreto",9,"Footwork Porsche","NC",26,25,0,NA,NA,NA,"1:31.804",NA,"1:26.192",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","NC",9,24,0,NA,NA,NA,"1:31.207",NA,"1:24.044",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Roberto","Moreno",19,"Benetton Ford","NC",7,21,0,NA,NA,NA,"1:30.204",NA,"1:23.265",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Eric","Bernard",29,"Lola Ford","NC",21,21,0,NA,NA,NA,"1:31.493",NA,"1:25.537",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Ivan","Capelli",16,"Leyton House Ilmor","NC",16,16,0,NA,NA,NA,"1:31.078",NA,"1:24.587",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1991,"14 Jul 1991","Riccardo","Patrese",6,"Williams Renault","NC",3,1,0,NA,NA,NA,"2:48.923",NA,"1:22.109",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Nigel","Mansell",5,"Williams Renault","1",1,45,10,"1:19:29.661",NA,NA,"1:43.745",NA,"1:37.087",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Riccardo","Patrese",6,"Williams Renault","2",4,45,6,"1:19:43.440","13.779","13.779000043869","1:43.569",NA,"1:37.435",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Jean","Alesi",28,"Ferrari","3",6,45,4,"1:19:47.279","17.618","3.83899998664856","1:44.395",NA,"1:39.042",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Gerhard","Berger",2,"McLaren Honda","4",3,45,3,"1:20:02.312","32.651","15.0329999923706","1:43.970",NA,"1:37.393",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Andrea","deCesaris",33,"Jordan Ford","5",7,45,2,"1:20:47.197","77.537","44.8849999904633","1:45.403",NA,"1:40.239",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Bertrand","Gachot",32,"Jordan Ford","6",11,45,1,"1:21:10.266","100.605","23.069000005722","1:44.991",NA,"1:41.308",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Ayrton","Senna",1,"McLaren Honda","7",2,44,0,NA,NA,NA,"1:44.213",NA,"1:37.274",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Roberto","Moreno",19,"Benetton Ford","8",9,44,0,"1","1","1","1:46.387",NA,"1:40.957",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Thierry","Boutsen",25,"Ligier Lamborghini","9",17,44,0,"1","1","1","1:47.266",NA,"1:41.823",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Emanuele","Pirro",21,"Dallara Judd","10",18,44,0,"1","1","1","1:47.032",NA,"1:42.021",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Martin","Brundle",7,"Brabham Yamaha","11",15,43,0,"2","2","2","1:46.549",NA,"1:41.615",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Mark","Blundell",8,"Brabham Yamaha","12",21,43,0,"2","2","2","1:46.964",NA,"1:42.216",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Stefano","Modena",4,"Tyrrell Honda","13",14,41,0,"4","4","4","1:46.264",NA,"1:41.566",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Alain","Prost",27,"Ferrari","NC",5,37,0,NA,NA,NA,"1:44.059",NA,"1:39.034",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Ivan","Capelli",16,"Leyton House Ilmor","NC",12,36,0,NA,NA,NA,"1:46.067",NA,"1:41.330",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Jyrki","Jarvilehto",22,"Dallara Judd","NC",20,35,0,NA,NA,NA,"1:47.097",NA,"1:42.171",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Nelson","Piquet",20,"Benetton Ford","NC",8,27,0,NA,NA,NA,"1:46.680",NA,"1:40.560",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Satoru","Nakajima",3,"Tyrrell Honda","NC",13,26,0,NA,NA,NA,"1:49.125",NA,"1:41.390",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Erik","Comas",26,"Ligier Lamborghini","NC",26,22,0,NA,NA,NA,"1:47.516",NA,"1:43.364",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","NC",16,21,0,NA,NA,NA,"1:49.307",NA,"1:41.735",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Mika","Hakkinen",11,"Lotus Judd","NC",23,19,0,NA,NA,NA,"1:49.790",NA,"1:42.726",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Aguri","Suzuki",30,"Lola Ford","NC",22,15,0,NA,NA,NA,"1:49.723",NA,"1:42.474",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Gianni","Morbidelli",24,"Minardi Ferrari","NC",19,14,0,NA,NA,NA,"1:49.359",NA,"1:42.058",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Pierluigi","Martini",23,"Minardi Ferrari","NC",10,11,0,NA,NA,NA,"1:48.431",NA,"1:40.998",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1991,"28 Jul 1991","Eric","Bernard",29,"Lola Ford","NC",25,9,0,NA,NA,NA,"1:50.573",NA,"1:43.321",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Ayrton","Senna",1,"McLaren Honda","1",1,77,10,"1:49:12.796",NA,NA,"1:22.392",NA,"1:16.147",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Nigel","Mansell",5,"Williams Renault","2",3,77,6,"1:49:17.394","4.599","4.59800004959106","1:22.574",NA,"1:17.389",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Riccardo","Patrese",6,"Williams Renault","3",2,77,4,"1:49:28.390","15.594","10.9960000514984","1:22.878",NA,"1:17.379",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Gerhard","Berger",2,"McLaren Honda","4",5,77,3,"1:49:34.651","21.856","6.26099991798401","1:23.954",NA,"1:17.705",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Jean","Alesi",28,"Ferrari","5",6,77,2,"1:49:44.184","31.389","9.53299999237061","1:23.065",NA,"1:18.410",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Ivan","Capelli",16,"Leyton House Ilmor","6",9,76,1,"1","1","1","1:23.962",NA,"1:19.794",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Andrea","deCesaris",33,"Jordan Ford","7",17,76,0,"1","1","1","1:24.146",NA,"1:20.805",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Roberto","Moreno",19,"Benetton Ford","8",15,76,0,"1","1","1","1:23.943",NA,"1:20.584",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Bertrand","Gachot",32,"Jordan Ford","9",16,76,0,"1","1","1","1:21.547",NA,"1:20.655",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Erik","Comas",26,"Ligier Lamborghini","10",25,75,0,"2","2","2","1:25.029",NA,"1:22.258",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","11",13,75,0,"2","2","2","1:24.230",NA,"1:20.024",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Stefano","Modena",4,"Tyrrell Honda","12",8,75,0,"2","2","2","1:24.576",NA,"1:19.748",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Gianni","Morbidelli",24,"Minardi Ferrari","13",23,75,0,"2","2","2","1:24.128",NA,"1:21.654",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Mika","Hakkinen",11,"Lotus Judd","14",26,74,0,"3","3","3","1:24.594",NA,"1:22.335",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Satoru","Nakajima",3,"Tyrrell Honda","15",14,74,0,"3","3","3","1:26.078",NA,"1:20.565",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Nicola","Larini",34,"Lambo Lamborghini","16",24,74,0,"3","3","3","1:25.322",NA,"1:21.896",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Thierry","Boutsen",25,"Ligier Lamborghini","17",19,71,0,NA,NA,NA,"1:23.066",NA,"1:20.870",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Pierluigi","Martini",23,"Minardi Ferrari","NC",18,65,0,NA,NA,NA,"1:23.824",NA,"1:20.823",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Mark","Blundell",8,"Brabham Yamaha","NC",20,62,0,NA,NA,NA,"1:23.467",NA,"1:20.954",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Martin","Brundle",7,"Brabham Yamaha","NC",10,59,0,NA,NA,NA,"1:24.573",NA,"1:19.976",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Jyrki","Jarvilehto",22,"Dallara Judd","NC",12,49,0,NA,NA,NA,"1:25.697",NA,"1:20.014",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Nelson","Piquet",20,"Benetton Ford","NC",11,38,0,NA,NA,NA,"1:25.889",NA,"1:19.984",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Eric","Bernard",29,"Lola Ford","NC",21,38,0,NA,NA,NA,"1:25.713",NA,"1:21.267",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Aguri","Suzuki",30,"Lola Ford","NC",22,38,0,NA,NA,NA,"1:25.548",NA,"1:21.601",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Emanuele","Pirro",21,"Dallara Judd","NC",7,37,0,NA,NA,NA,"1:26.554",NA,"1:19.334",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1991,"11 Aug 1991","Alain","Prost",27,"Ferrari","NC",4,28,0,NA,NA,NA,"1:23.305",NA,"1:17.690",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Ayrton","Senna",1,"McLaren Honda","1",1,44,10,"1:27:17.669",NA,NA,"1:56.471",NA,"1:47.811",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Gerhard","Berger",2,"McLaren Honda","2",4,44,6,"1:27:19.569","1.901","1.90000009536743","1:55.601",NA,"1:49.485",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Nelson","Piquet",20,"Benetton Ford","3",6,44,4,"1:27:49.845","32.176","30.2760000228882","1:57.084",NA,"1:50.540",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Roberto","Moreno",19,"Benetton Ford","4",8,44,3,"1:27:54.978","37.310","5.13299989700317","1:55.161",NA,"1:51.283",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Riccardo","Patrese",6,"Williams Renault","5",17,44,2,"1:28:14.855","57.187","19.8770000934601","1:55.993",NA,"1:52.646",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Mark","Blundell",8,"Brabham Yamaha","6",13,44,1,"1:28:57.703","100.035","42.8480000495911","1:58.145",NA,"1:52.377",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Johnny","Herbert",12,"Lotus Judd","7",21,44,0,"1:29:02.267","104.599","4.56399989128113","1:58.606",NA,"1:53.361",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Emanuele","Pirro",21,"Dallara Judd","8",25,43,0,"1","1","1","1:58.017",NA,"1:53.839",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Martin","Brundle",7,"Brabham Yamaha","9",16,43,0,"1","1","1","1:58.540",NA,"1:52.626",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Olivier","Grouillard",14,"Fondmetal Ford","10",23,43,0,"1","1","1","1:59.340",NA,"1:53.628",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Thierry","Boutsen",25,"Ligier Lamborghini","11",18,43,0,"1","1","1","1:58.921",NA,"1:52.709",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Pierluigi","Martini",23,"Minardi Ferrari","12",9,42,0,NA,NA,NA,"1:57.303",NA,"1:51.299",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Andrea","deCesaris",33,"Jordan Ford","13",11,41,0,NA,NA,NA,"1:56.477",NA,"1:51.986",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Stefano","Modena",4,"Tyrrell Honda","NC",10,33,0,NA,NA,NA,"1:57.793",NA,"1:51.307",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Jyrki","Jarvilehto",22,"Dallara Judd","NC",14,33,0,NA,NA,NA,"1:58.164",NA,"1:52.417",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Jean","Alesi",28,"Ferrari","NC",5,30,0,NA,NA,NA,"1:57.308",NA,"1:49.974",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Gianni","Morbidelli",24,"Minardi Ferrari","NC",19,29,0,NA,NA,NA,"1:58.443",NA,"1:52.896",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Mika","Hakkinen",11,"Lotus Judd","NC",24,25,0,NA,NA,NA,"1:59.527",NA,"1:53.799",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Erik","Comas",26,"Ligier Lamborghini","NC",26,25,0,NA,NA,NA,"1:58.348",NA,"1:53.847",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Nigel","Mansell",5,"Williams Renault","NC",3,22,0,NA,NA,NA,"1:56.459",NA,"1:48.828",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Eric","Bernard",29,"Lola Ford","NC",20,21,0,NA,NA,NA,"2:01.062",NA,"1:53.309",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Ivan","Capelli",16,"Leyton House Ilmor","NC",12,13,0,NA,NA,NA,"1:59.757",NA,"1:52.113",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Satoru","Nakajima",3,"Tyrrell Honda","NC",22,7,0,NA,NA,NA,"2:02.123",NA,"1:53.494",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Alain","Prost",27,"Ferrari","NC",2,2,0,NA,NA,NA,"2:01.161",NA,"1:48.821",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1991,"25 Aug 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","NC",15,1,0,NA,NA,NA,"2:16.691",NA,"1:52.623",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Nigel","Mansell",5,"Williams Renault","1",2,53,10,"1:17:54.319",NA,NA,"1:26.828",NA,"1:21.247",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Ayrton","Senna",1,"McLaren Honda","2",1,53,6,"1:18:10.581","16.262","16.2620000839233","1:26.061",NA,"1:21.114",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Alain","Prost",27,"Ferrari","3",5,53,4,"1:18:11.148","16.829","0.566999912261963","1:27.247",NA,"1:21.825",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Gerhard","Berger",2,"McLaren Honda","4",3,53,3,"1:18:22.038","27.719","10.8900001049042","1:27.465",NA,"1:21.346",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Michael","Schumacher",19,"Benetton Ford","5",7,53,2,"1:18:28.782","34.463","6.74399995803833","1:27.472",NA,"1:22.471",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Nelson","Piquet",20,"Benetton Ford","6",8,53,1,"1:18:39.918","45.600","11.135999917984","1:26.437",NA,"1:22.726",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Andrea","deCesaris",33,"Jordan Ford","7",14,53,0,"1:18:45.454","51.136","5.53600001335144","1:27.152",NA,"1:23.921",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Ivan","Capelli",16,"Leyton House Ilmor","8",12,53,0,"1:19:09.338","75.019","23.8840000629425","1:28.455",NA,"1:23.674",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Gianni","Morbidelli",24,"Minardi Ferrari","9",17,52,0,"1","1","1","1:27.905",NA,"1:24.287",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Emanuele","Pirro",21,"Dallara Judd","10",16,52,0,"1","1","1","1:28.644",NA,"1:24.282",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Erik","Comas",26,"Ligier Lamborghini","11",22,52,0,"1","1","1","1:29.568",NA,"1:25.420",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Mark","Blundell",8,"Brabham Yamaha","12",11,52,0,"1","1","1","1:26.870",NA,"1:23.473",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Martin","Brundle",7,"Brabham Yamaha","13",19,52,0,"1","1","1","1:26.590",NA,"1:24.643",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Mika","Hakkinen",11,"Lotus Judd","14",25,49,0,"4","4","4","1:33.025",NA,"1:25.941",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","15",18,49,0,"4","4","4","1:29.354",NA,"1:24.391",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Nicola","Larini",34,"Lambo Lamborghini","16",23,48,0,"5","5","5","1:28.413",NA,"1:25.717",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Olivier","Grouillard",14,"Fondmetal Ford","NC",26,46,0,NA,NA,NA,"1:29.726",NA,"1:26.416",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Jyrki","Jarvilehto",22,"Dallara Judd","NC",20,35,0,NA,NA,NA,"1:28.264",NA,"1:24.725",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Stefano","Modena",4,"Tyrrell Honda","NC",13,32,0,NA,NA,NA,"1:29.901",NA,"1:23.701",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Jean","Alesi",28,"Ferrari","NC",6,29,0,NA,NA,NA,"1:27.300",NA,"1:21.890",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Riccardo","Patrese",6,"Williams Renault","NC",4,27,0,NA,NA,NA,"1:27.552",NA,"1:21.372",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Satoru","Nakajima",3,"Tyrrell Honda","NC",15,24,0,NA,NA,NA,"1:30.140",NA,"1:24.265",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Eric","Bernard",29,"Lola Ford","NC",24,21,0,NA,NA,NA,"1:30.326",NA,"1:25.871",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Pierluigi","Martini",23,"Minardi Ferrari","NC",10,8,0,NA,NA,NA,"1:28.893",NA,"1:23.294",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Roberto","Moreno",32,"Jordan Ford","NC",9,2,0,NA,NA,NA,"1:32.238",NA,"1:23.102",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1991,"08 Sep 1991","Thierry","Boutsen",25,"Ligier Lamborghini","NC",21,1,0,NA,NA,NA,"1:45.997",NA,"1:25.177",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Riccardo","Patrese",6,"Williams Renault","1",1,71,10,"1:35:42.304",NA,NA,"1:18.350",NA,"1:13.001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Ayrton","Senna",1,"McLaren Honda","2",3,71,6,"1:36:03.244","20.941","20.9400000572205","1:18.929",NA,"1:13.444",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Jean","Alesi",28,"Ferrari","3",6,71,4,"1:36:35.857","53.554","32.6130001544952","1:19.418",NA,"1:14.852",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Pierluigi","Martini",23,"Minardi Ferrari","4",8,71,3,"1:36:45.801","63.498","9.94400000572205","1:19.581",NA,"1:15.394",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Nelson","Piquet",20,"Benetton Ford","5",11,71,2,"1:36:52.336","70.033","6.53499984741211","1:19.073",NA,"1:15.666",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Michael","Schumacher",19,"Benetton Ford","6",10,71,1,"1:36:58.885","76.582","6.54900002479553","1:19.206",NA,"1:15.578",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","7",7,70,0,"1","1","1","1:19.757",NA,"1:15.266",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Andrea","deCesaris",33,"Jordan Ford","8",14,70,0,"1","1","1","1:19.210",NA,"1:15.936",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Gianni","Morbidelli",24,"Minardi Ferrari","9",13,70,0,"1","1","1","1:20.357",NA,"1:15.749",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Roberto","Moreno",32,"Jordan Ford","10",16,70,0,"1","1","1","1:20.096",NA,"1:16.080",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Erik","Comas",26,"Ligier Lamborghini","11",23,70,0,"1","1","1","1:20.781",NA,"1:17.226",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Martin","Brundle",7,"Brabham Yamaha","12",19,69,0,"2","2","2","1:20.480",NA,"1:16.536",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Satoru","Nakajima",3,"Tyrrell Honda","13",21,68,0,"3","3","3","1:21.966",NA,"1:16.926",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Mika","Hakkinen",11,"Lotus Judd","14",26,68,0,"3","3","3","1:20.445",NA,"1:17.714",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Michele","Alboreto",9,"Footwork Porsche","15",24,68,0,"3","3","3","1:20.082",NA,"1:17.330",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Thierry","Boutsen",25,"Ligier Lamborghini","16",20,68,0,"3","3","3","1:20.700",NA,"1:16.757",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Ivan","Capelli",16,"Leyton House Ilmor","17",9,64,0,NA,NA,NA,"1:19.519",NA,"1:15.481",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Stefano","Modena",4,"Tyrrell Honda","NC",12,56,0,NA,NA,NA,"1:20.342",NA,"1:15.707",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Nigel","Mansell",5,"Williams Renault","NC",4,51,0,NA,NA,NA,"1:18.179",NA,"1:13.667",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Aguri","Suzuki",30,"Lola Ford","NC",25,40,0,NA,NA,NA,"1:21.586",NA,"1:17.434",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Alain","Prost",27,"Ferrari","NC",5,39,0,NA,NA,NA,"1:19.531",NA,"1:14.352",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Gerhard","Berger",2,"McLaren Honda","NC",2,37,0,NA,NA,NA,"1:18.856",NA,"1:13.221",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Emanuele","Pirro",21,"Dallara Judd","NC",17,18,0,NA,NA,NA,"1:22.592",NA,"1:16.135",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Jyrki","Jarvilehto",22,"Dallara Judd","NC",18,14,0,NA,NA,NA,"1:22.165",NA,"1:16.532",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Mark","Blundell",8,"Brabham Yamaha","NC",15,12,0,NA,NA,NA,"1:22.801",NA,"1:16.038",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1991,"22 Sep 1991","Johnny","Herbert",12,"Lotus Judd","NC",22,1,0,NA,NA,NA,"1:39.804",NA,"1:17.015",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Nigel","Mansell",5,"Williams Renault","1",2,65,10,"1:38:41.541",NA,NA,"1:23.293",NA,"1:18.970",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Alain","Prost",27,"Ferrari","2",6,65,6,"1:38:52.871","11.331","11.3300001621246","1:23.729",NA,"1:19.936",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Riccardo","Patrese",6,"Williams Renault","3",4,65,4,"1:38:57.449","15.909","4.57799983024597","1:22.837",NA,"1:19.643",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Jean","Alesi",28,"Ferrari","4",7,65,3,"1:39:04.312","22.772","6.86300015449524","1:22.978",NA,"1:20.197",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Ayrton","Senna",1,"McLaren Honda","5",3,65,2,"1:39:43.942","62.402","39.6299998760223","1:24.771",NA,"1:19.064",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Michael","Schumacher",19,"Benetton Ford","6",5,65,1,"1:40:01.008","79.468","17.0659999847412","1:25.546",NA,"1:19.733",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","7",13,64,0,"1","1","1","1:23.915",NA,"1:20.743",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Jyrki","Jarvilehto",22,"Dallara Judd","8",15,64,0,"1","1","1","1:24.310",NA,"1:20.967",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Alessandro","Zanardi",32,"Jordan Ford","9",20,64,0,"1","1","1","1:24.997",NA,"1:22.580",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Martin","Brundle",7,"Brabham Yamaha","10",11,63,0,"2","2","2","1:25.396",NA,"1:20.677",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Nelson","Piquet",20,"Benetton Ford","11",10,63,0,"2","2","2","1:25.120",NA,"1:20.676",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Gabriele","Tarquini",14,"Fondmetal Ford","12",22,63,0,"2","2","2","1:27.108",NA,"1:22.837",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Pierluigi","Martini",23,"Minardi Ferrari","13",19,63,0,"2","2","2","1:25.020",NA,"1:22.510",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Gianni","Morbidelli",24,"Minardi Ferrari","14",16,62,0,NA,NA,NA,"1:26.606",NA,"1:21.801",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Emanuele","Pirro",21,"Dallara Judd","15",9,62,0,"3","3","3","1:25.308",NA,"1:20.651",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Stefano","Modena",4,"Tyrrell Honda","16",14,62,0,"3","3","3","1:25.224",NA,"1:20.788",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Satoru","Nakajima",3,"Tyrrell Honda","17",18,62,0,"3","3","3","1:26.905",NA,"1:22.114",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Mark","Blundell",8,"Brabham Yamaha","NC",12,49,0,NA,NA,NA,"1:25.373",NA,"1:20.724",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Erik","Comas",26,"Ligier Lamborghini","NC",25,36,0,NA,NA,NA,"1:29.807",NA,"1:23.359",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Gerhard","Berger",2,"McLaren Honda","NC",1,33,0,NA,NA,NA,"1:26.078",NA,"1:18.751",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Michele","Alboreto",9,"Footwork Porsche","NC",24,23,0,NA,NA,NA,"1:33.079",NA,"1:23.145",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Andrea","deCesaris",33,"Jordan Ford","NC",17,22,0,NA,NA,NA,"1:31.399",NA,"1:21.865",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Mika","Hakkinen",11,"Lotus Judd","NC",21,5,0,NA,NA,NA,"1:43.739",NA,"1:22.646",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1991,"29 Sep 1991","Ivan","Capelli",16,"Leyton House Ilmor","NC",8,1,0,NA,NA,NA,"1:56.083",NA,"1:20.584",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Gerhard","Berger",2,"McLaren Honda","1",1,53,10,"1:32:10.695",NA,NA,"1:41.572",NA,"1:34.700",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Ayrton","Senna",1,"McLaren Honda","2",2,53,6,"1:32:11.039","0.344","0.344000101089478","1:41.532",NA,"1:34.898",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Riccardo","Patrese",6,"Williams Renault","3",5,53,4,"1:33:07.425","56.731","56.385999917984","1:41.804",NA,"1:36.882",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Alain","Prost",27,"Ferrari","4",4,53,3,"1:33:31.455","80.761","24.0299999713898","1:43.712",NA,"1:36.670",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Martin","Brundle",7,"Brabham Yamaha","5",19,52,2,"1","1","1","1:43.959",NA,"1:39.697",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Stefano","Modena",4,"Tyrrell Honda","6",14,52,1,"1","1","1","1:43.596",NA,"1:38.926",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Nelson","Piquet",20,"Benetton Ford","7",10,52,0,"1","1","1","1:43.997",NA,"1:38.614",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","8",18,52,0,"1","1","1","1:44.344",NA,"1:39.518",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Thierry","Boutsen",25,"Ligier Lamborghini","9",17,52,0,"1","1","1","1:45.723",NA,"1:39.499",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Alex","Caffi",10,"Footwork Porsche","10",26,51,0,"2","2","2","1:45.999",NA,"1:40.402",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Gabriele","Tarquini",14,"Fondmetal Ford","11",24,50,0,"3","3","3","1:46.210",NA,"1:40.184",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Erik","Comas",26,"Ligier Lamborghini","NC",20,41,0,NA,NA,NA,"1:44.204",NA,"1:39.820",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Pierluigi","Martini",23,"Minardi Ferrari","NC",7,39,0,NA,NA,NA,"1:44.718",NA,"1:38.154",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Michael","Schumacher",19,"Benetton Ford","NC",9,34,0,NA,NA,NA,"1:43.530",NA,"1:38.363",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Johnny","Herbert",12,"Lotus Judd","NC",23,31,0,NA,NA,NA,"1:45.853",NA,"1:40.170",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Satoru","Nakajima",3,"Tyrrell Honda","NC",15,30,0,NA,NA,NA,"1:46.351",NA,"1:39.118",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Aguri","Suzuki",30,"Lola Ford","NC",25,26,0,NA,NA,NA,"1:45.107",NA,"1:40.255",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Gianni","Morbidelli",24,"Minardi Ferrari","NC",8,15,0,NA,NA,NA,"1:47.108",NA,"1:38.248",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Nigel","Mansell",5,"Williams Renault","NC",3,9,0,NA,NA,NA,"1:45.642",NA,"1:34.922",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Alessandro","Zanardi",32,"Jordan Ford","NC",13,7,0,NA,NA,NA,"1:46.184",NA,"1:38.923",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Mika","Hakkinen",11,"Lotus Judd","NC",21,4,0,NA,NA,NA,"1:48.864",NA,"1:40.024",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Andrea","deCesaris",33,"Jordan Ford","NC",11,1,0,NA,NA,NA,"1:57.393",NA,"1:38.842",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Jyrki","Jarvilehto",22,"Dallara Judd","NC",12,1,0,NA,NA,NA,"1:58.100",NA,"1:38.911",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Emanuele","Pirro",21,"Dallara Judd","NC",16,1,0,NA,NA,NA,"1:58.757",NA,"1:39.238",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Karl","Wendlinger",16,"Leyton House Ilmor","NC",22,1,0,NA,NA,NA,"2:02.942",NA,"1:40.092",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1991,"20 Oct 1991","Jean","Alesi",28,"Ferrari","NC",6,0,0,NA,NA,NA,NA,NA,"1:37.140",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Ayrton","Senna",1,"McLaren Honda","1",1,14,5,"24:34.899",NA,NA,"1:42.545",NA,"1:14.041",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Nigel","Mansell",5,"Williams Renault","2",3,14,3,NA,"1.259",NA,"1:42.908",NA,"1:14.822",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Gerhard","Berger",2,"McLaren Honda","3",2,14,2,NA,"5.120",NA,"1:41.141",NA,"1:14.385",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Nelson","Piquet",20,"Benetton Ford","4",5,14,1.5,NA,"30.103",NA,"1:42.616",NA,"1:15.291",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Riccardo","Patrese",6,"Williams Renault","5",4,14,1,NA,"50.537",NA,"1:45.297",NA,"1:15.057",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Gianni","Morbidelli",27,"Ferrari","6",8,14,0.5,NA,"51.069",NA,"1:45.599",NA,"1:16.203",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Emanuele","Pirro",21,"Dallara Judd","7",13,14,0,NA,"52.361",NA,"1:44.933",NA,"1:17.342",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Andrea","deCesaris",33,"Jordan Ford","8",12,14,0,NA,"60.431",NA,"1:45.264",NA,"1:17.050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Alessandro","Zanardi",32,"Jordan Ford","9",16,14,0,NA,"75.567",NA,"1:43.519",NA,"1:17.362",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Stefano","Modena",4,"Tyrrell Honda","10",9,14,0,NA,"80.370",NA,"1:45.912",NA,"1:16.253",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Johnny","Herbert",12,"Lotus Judd","11",21,14,0,NA,"82.073",NA,"1:46.437",NA,"1:18.091",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Jyrki","Jarvilehto",22,"Dallara Judd","12",11,14,0,NA,"98.519",NA,"1:48.018",NA,"1:16.871",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Michele","Alboreto",9,"Footwork Porsche","13",15,14,0,NA,"99.303",NA,"1:47.030",NA,"1:17.355",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Mauricio","Gugelmin",15,"Leyton House Ilmor","14",14,13,0,NA,NA,NA,"1:47.395",NA,"1:17.344",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Alex","Caffi",10,"Footwork Porsche","15",23,13,0,"1","1","1","1:47.421",NA,"1:18.157",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Roberto","Moreno",24,"Minardi Ferrari","16",18,13,0,"1","1","1","1:47.000",NA,"1:17.639",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Mark","Blundell",8,"Brabham Yamaha","17",17,13,0,"1","1","1","1:46.821",NA,"1:17.365",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Erik","Comas",26,"Ligier Lamborghini","18",22,13,0,"1","1","1","1:50.046",NA,"1:18.112",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Mika","Hakkinen",11,"Lotus Judd","19",25,13,0,"1","1","1","1:50.949",NA,"1:18.271",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Karl","Wendlinger",16,"Leyton House Ilmor","20",26,12,0,"2","2","2","1:48.614",NA,"1:18.282",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Pierluigi","Martini",23,"Minardi Ferrari","NC",10,8,0,NA,NA,NA,"1:51.274",NA,"1:16.359",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Michael","Schumacher",19,"Benetton Ford","NC",6,5,0,NA,NA,NA,"1:43.714",NA,"1:15.508",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Jean","Alesi",28,"Ferrari","NC",7,5,0,NA,NA,NA,"1:45.738",NA,"1:15.545",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Nicola","Larini",34,"Lambo Lamborghini","NC",19,5,0,NA,NA,NA,"1:49.640",NA,"1:17.936",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Thierry","Boutsen",25,"Ligier Lamborghini","NC",20,5,0,NA,NA,NA,"1:52.628",NA,"1:17.969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1991,"03 Nov 1991","Satoru","Nakajima",3,"Tyrrell Honda","NC",24,4,0,NA,NA,NA,"1:55.073",NA,"1:18.216",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

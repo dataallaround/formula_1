@@ -1,0 +1,377 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Alan","Jones",27,"Williams Ford","1",1,53,9,"1:43:24.380",NA,NA,"1:50.450",NA,"1:44.170",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Nelson","Piquet",5,"Brabham Ford","2",4,53,6,"1:43:48.970","24.590","24.5899999141693",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Keke","Rosberg",21,"Fittipaldi Ford","3",13,53,4,"1:44:43.020","78.640","54.0499999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Derek","Daly",4,"Tyrrell Ford","4",22,53,3,"1:44:47.860","83.480","4.83999991416931",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Bruno","Giacomelli",23,"Alfa Romeo","5",20,52,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Alain","Prost",8,"McLaren Ford","6",12,52,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Ricardo","Zunino",6,"Brabham Ford","7",16,51,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Patrick","Depailler",22,"Alfa Romeo","NC",23,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Jody","Scheckter",1,"Ferrari","NC",11,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Clay","Regazzoni",14,"Ensign Ford","NC",15,44,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","NC",24,37,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Gilles","Villeneuve",2,"Ferrari","NC",8,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Jacques","Laffite",26,"Ligier Ford","NC",2,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Riccardo","Patrese",29,"Arrows Ford","NC",7,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Marc","Surer",9,"ATS Ford","NC",21,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Mario","Andretti",11,"Lotus Ford","NC",6,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Jochen","Mass",30,"Arrows Ford","NC",14,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Carlos","Reutemann",28,"Williams Ford","NC",10,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Elio","deAngelis",12,"Lotus Ford","NC",5,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","John","Watson",7,"McLaren Ford","NC",17,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Jean-Pierre","Jabouille",15,"Renault","NC",9,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Rene","Arnoux",16,"Renault","NC",19,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Didier","Pironi",25,"Ligier Ford","NC",3,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","NC",18,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Dave","Kennedy",18,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Jan","Lammers",10,"ATS Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Stefan","Johansson",17,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1980,"13 Jan 1980","Eddie","Cheever",31,"Osella Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Rene","Arnoux",16,"Renault","1",6,40,9,"1:40:01.330",NA,NA,"2:27.310",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Elio","deAngelis",12,"Lotus Ford","2",7,40,6,"1:40:23.189","21.860","21.8589999675751",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Alan","Jones",27,"Williams Ford","3",10,40,4,"1:41:07.439","66.110","44.25",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Didier","Pironi",25,"Ligier Ford","4",2,40,3,"1:41:41.460","100.130","34.0210001468658",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Alain","Prost",8,"McLaren Ford","5",13,40,2,"1:42:26.740","145.410","45.2799999713898",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Riccardo","Patrese",29,"Arrows Ford","6",14,39,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Marc","Surer",9,"ATS Ford","7",20,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Ricardo","Zunino",6,"Brabham Ford","8",18,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Keke","Rosberg",21,"Fittipaldi Ford","9",15,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Jochen","Mass",30,"Arrows Ford","10",16,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","John","Watson",7,"McLaren Ford","11",23,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","12",22,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Bruno","Giacomelli",23,"Alfa Romeo","13",17,39,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Derek","Daly",4,"Tyrrell Ford","14",24,38,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","15",19,38,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Gilles","Villeneuve",2,"Ferrari","16",3,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Patrick","Depailler",22,"Alfa Romeo","NC",21,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Jean-Pierre","Jabouille",15,"Renault","NC",1,25,0,NA,NA,NA,NA,NA,"2:21.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Nelson","Piquet",5,"Brabham Ford","NC",9,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Clay","Regazzoni",14,"Ensign Ford","NC",12,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Jacques","Laffite",26,"Ligier Ford","NC",5,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Jody","Scheckter",1,"Ferrari","NC",8,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Carlos","Reutemann",28,"Williams Ford","NC",4,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Mario","Andretti",11,"Lotus Ford","NC",11,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Jan","Lammers",10,"ATS Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Dave","Kennedy",18,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Stefan","Johansson",17,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1980,"27 Jan 1980","Eddie","Cheever",31,"Osella Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Rene","Arnoux",16,"Renault","1",2,78,9,"1:36:52.540",NA,NA,"1:13.150",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Jacques","Laffite",26,"Ligier Ford","2",4,78,6,"1:37:26.609","34.070","34.069000005722",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Didier","Pironi",25,"Ligier Ford","3",5,78,4,"1:37:45.029","52.490","18.4200000762939",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Nelson","Piquet",5,"Brabham Ford","4",3,78,3,"1:37:53.559","61.020","8.52999997138977",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Carlos","Reutemann",28,"Williams Ford","5",6,77,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Jochen","Mass",30,"Arrows Ford","6",19,77,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","7",13,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","8",18,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Clay","Regazzoni",14,"Ensign Ford","9",20,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Ricardo","Zunino",6,"Brabham Ford","10",17,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","John","Watson",7,"McLaren Ford","11",21,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Mario","Andretti",11,"Lotus Ford","12",15,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Geoff","Lees",17,"Shadow Ford","13",24,70,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Bruno","Giacomelli",23,"Alfa Romeo","NC",12,69,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Jean-Pierre","Jabouille",15,"Renault","NC",1,61,0,NA,NA,NA,NA,NA,"1:10.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Derek","Daly",4,"Tyrrell Ford","NC",16,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Keke","Rosberg",21,"Fittipaldi Ford","NC",23,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Patrick","Depailler",22,"Alfa Romeo","NC",7,53,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Alan","Jones",27,"Williams Ford","NC",8,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Gilles","Villeneuve",2,"Ferrari","NC",10,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Jody","Scheckter",1,"Ferrari","NC",9,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Riccardo","Patrese",29,"Arrows Ford","NC",11,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Eddie","Cheever",31,"Osella Ford","NC",22,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Elio","deAngelis",12,"Lotus Ford","NC",14,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Alain","Prost",8,"McLaren Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Marc","Surer",9,"ATS Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Marc","Surer",9,"ATS Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Dave","Kennedy",18,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Jan","Lammers",9,"ATS Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1980,"01 Mar 1980","Jan","Lammers",9,"ATS Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Nelson","Piquet",5,"Brabham Ford","1",1,80,9,"1:50:18.550",NA,NA,"1:19.830",NA,"1:17.694",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Riccardo","Patrese",29,"Arrows Ford","2",8,80,6,"1:51:07.759","49.210","49.2090001106262",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","3",24,80,4,"1:51:37.109","78.560","29.3499999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","John","Watson",7,"McLaren Ford","4",21,79,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Jody","Scheckter",1,"Ferrari","5",16,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Didier","Pironi",25,"Ligier Ford","6",9,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Jochen","Mass",30,"Arrows Ford","7",17,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Derek","Daly",4,"Tyrrell Ford","8",14,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Rene","Arnoux",16,"Renault","9",2,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Jean-Pierre","Jabouille",15,"Renault","10",11,71,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Keke","Rosberg",21,"Fittipaldi Ford","NC",22,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Clay","Regazzoni",14,"Ensign Ford","NC",23,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Bruno","Giacomelli",23,"Alfa Romeo","NC",6,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Alan","Jones",27,"Williams Ford","NC",5,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Gilles","Villeneuve",2,"Ferrari","NC",10,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Patrick","Depailler",22,"Alfa Romeo","NC",3,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Jacques","Laffite",26,"Ligier Ford","NC",13,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Eddie","Cheever",31,"Osella Ford","NC",19,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Carlos","Reutemann",28,"Williams Ford","NC",7,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","NC",12,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Elio","deAngelis",12,"Lotus Ford","NC",20,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Ricardo","Zunino",6,"Brabham Ford","NC",18,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Mario","Andretti",11,"Lotus Ford","NC",15,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1980,"30 Mar 1980","Jan","Lammers",9,"ATS Ford","NC",NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Didier","Pironi",25,"Ligier Ford","1",2,72,9,"1:38:46.510",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Alan","Jones",27,"Williams Ford","2",1,72,6,"1:39:33.879","47.370","47.3689999580383",NA,NA,"1:19.120",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Carlos","Reutemann",28,"Williams Ford","3",4,72,4,"1:40:10.629","84.120","36.75",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Rene","Arnoux",16,"Renault","4",6,71,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","5",9,71,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Gilles","Villeneuve",2,"Ferrari","6",12,71,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Keke","Rosberg",21,"Fittipaldi Ford","7",21,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Jody","Scheckter",1,"Ferrari","8",14,70,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Derek","Daly",4,"Tyrrell Ford","9",11,70,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Elio","deAngelis",12,"Lotus Ford","10",8,69,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Jacques","Laffite",26,"Ligier Ford","11",3,68,0,"4","4","4","1:20.880",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Jan","Lammers",9,"ATS Ford","12",15,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","John","Watson",7,"McLaren Ford","NC",20,61,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Riccardo","Patrese",29,"Arrows Ford","NC",16,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Mario","Andretti",11,"Lotus Ford","NC",17,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Patrick","Depailler",22,"Alfa Romeo","NC",10,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Nelson","Piquet",5,"Brabham Ford","NC",7,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Alain","Prost",8,"McLaren Ford","NC",19,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","NC",24,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Tiff","Needell",14,"Ensign Ford","NC",23,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Bruno","Giacomelli",23,"Alfa Romeo","NC",18,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Ricardo","Zunino",6,"Brabham Ford","NC",22,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Jean-Pierre","Jabouille",15,"Renault","NC",5,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Jochen","Mass",30,"Arrows Ford","NC",13,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Geoff","Lees",17,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Dave","Kennedy",18,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1980,"04 May 1980","Eddie","Cheever",31,"Osella Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Carlos","Reutemann",28,"Williams Ford","1",2,76,9,"1:55:34.365",NA,NA,"1:27.418",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Jacques","Laffite",26,"Ligier Ford","2",5,76,6,"1:56:47.993","73.629","1.22713333368301",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Nelson","Piquet",5,"Brabham Ford","3",4,76,4,"1:56:52.091","77.726","4.09800004959106",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Jochen","Mass",30,"Arrows Ford","4",15,75,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Gilles","Villeneuve",2,"Ferrari","5",6,75,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","6",18,74,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Mario","Andretti",11,"Lotus Ford","7",19,73,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Riccardo","Patrese",29,"Arrows Ford","8",11,73,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Elio","deAngelis",12,"Lotus Ford","9",14,68,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Jan","Lammers",9,"ATS Ford","NC",13,64,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Didier","Pironi",25,"Ligier Ford","NC",1,54,0,NA,NA,NA,NA,NA,"1:24.813",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Rene","Arnoux",16,"Renault","NC",20,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Patrick","Depailler",22,"Alfa Romeo","NC",7,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Jody","Scheckter",1,"Ferrari","NC",17,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Jean-Pierre","Jabouille",15,"Renault","NC",16,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Alan","Jones",27,"Williams Ford","NC",3,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","NC",9,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Bruno","Giacomelli",23,"Alfa Romeo","NC",8,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Alain","Prost",8,"McLaren Ford","NC",10,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Derek","Daly",4,"Tyrrell Ford","NC",12,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","John","Watson",7,"McLaren Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Eddie","Cheever",31,"Osella Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Geoff","Lees",17,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Keke","Rosberg",21,"Fittipaldi Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Ricardo","Zunino",6,"Brabham Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Tiff","Needell",14,"Ensign Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1980,"18 May 1980","Dave","Kennedy",18,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Alan","Jones",27,"Williams Ford","1",4,54,9,"1:32:43.420",NA,NA,"1:41.450",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Didier","Pironi",25,"Ligier Ford","2",3,54,6,"1:32:47.940","4.520","4.51999998092651",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Jacques","Laffite",26,"Ligier Ford","3",1,54,4,"1:33:13.680","30.260","25.7400000095367",NA,NA,"1:38.880",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Nelson","Piquet",5,"Brabham Ford","4",8,54,3,"1:33:58.300","74.880","44.6199998855591",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Rene","Arnoux",16,"Renault","5",2,54,2,"1:33:59.570","76.150","1.26999998092651",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Carlos","Reutemann",28,"Williams Ford","6",5,54,1,"1:34:00.160","76.740","0.590000152587891",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","John","Watson",7,"McLaren Ford","7",13,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Gilles","Villeneuve",2,"Ferrari","8",17,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Riccardo","Patrese",29,"Arrows Ford","9",18,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Jochen","Mass",30,"Arrows Ford","10",15,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Derek","Daly",4,"Tyrrell Ford","11",20,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Jody","Scheckter",1,"Ferrari","12",19,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","13",24,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","14",16,50,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Eddie","Cheever",31,"Osella Ford","NC",21,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Marc","Surer",9,"ATS Ford","NC",11,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Patrick","Depailler",22,"Alfa Romeo","NC",10,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Mario","Andretti",11,"Lotus Ford","NC",12,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Keke","Rosberg",21,"Fittipaldi Ford","NC",23,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Bruno","Giacomelli",23,"Alfa Romeo","NC",9,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Alain","Prost",8,"McLaren Ford","NC",7,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Elio","deAngelis",12,"Lotus Ford","NC",14,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Ricardo","Zunino",6,"Brabham Ford","NC",22,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Jean-Pierre","Jabouille",15,"Renault","NC",6,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Geoff","Lees",17,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Jan","Lammers",14,"Ensign Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1980,"29 Jun 1980","Dave","Kennedy",18,"Shadow Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Alan","Jones",27,"Williams Ford","1",3,76,9,"1:34:49.228",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Nelson","Piquet",5,"Brabham Ford","2",5,76,6,"1:35:00.237","11.010","11.0090000629425",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Carlos","Reutemann",28,"Williams Ford","3",4,76,4,"1:35:02.517","13.290","2.27999997138977",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Derek","Daly",4,"Tyrrell Ford","4",10,75,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","5",11,75,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Alain","Prost",8,"McLaren Ford","6",7,75,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Hector","Rebaque",6,"Brabham Ford","7",17,74,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","John","Watson",7,"McLaren Ford","8",12,74,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Riccardo","Patrese",29,"Arrows Ford","9",21,73,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Jody","Scheckter",1,"Ferrari","10",23,73,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Rupert","Keegan",50,"Williams Ford","11",18,73,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","12",22,72,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Jochen","Mass",30,"Arrows Ford","13",24,69,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Rene","Arnoux",16,"Renault","NC",16,67,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Didier","Pironi",25,"Ligier Ford","NC",1,63,0,NA,NA,NA,"1:12.368",NA,"1:11.004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Marc","Surer",9,"ATS Ford","NC",15,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Mario","Andretti",11,"Lotus Ford","NC",9,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Bruno","Giacomelli",23,"Alfa Romeo","NC",6,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Gilles","Villeneuve",2,"Ferrari","NC",19,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Jacques","Laffite",26,"Ligier Ford","NC",2,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Patrick","Depailler",22,"Alfa Romeo","NC",8,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Eddie","Cheever",31,"Osella Ford","NC",20,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Elio","deAngelis",12,"Lotus Ford","NC",14,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1980,"13 Jul 1980","Jean-Pierre","Jabouille",15,"Renault","NC",13,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Jacques","Laffite",26,"Ligier Ford","1",5,45,9,"1:22:59.730",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Carlos","Reutemann",28,"Williams Ford","2",4,45,6,"1:23:02.920","3.190","3.19000005722046",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Alan","Jones",27,"Williams Ford","3",1,45,4,"1:23:43.259","43.530","40.3389999866486","1:48.490",NA,"1:45.850",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Nelson","Piquet",5,"Brabham Ford","4",6,45,3,"1:23:44.210","44.480","0.950999975204468",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Bruno","Giacomelli",23,"Alfa Romeo","5",19,45,2,"1:24:16.220","76.490","32.0099999904633",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Gilles","Villeneuve",2,"Ferrari","6",16,45,1,"1:24:28.450","88.720","12.2300000190735",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Mario","Andretti",11,"Lotus Ford","7",9,45,0,"1:24:32.740","93.010","4.28999996185303",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Jochen","Mass",30,"Arrows Ford","8",17,45,0,"1:24:47.480","107.750","14.7400000095367",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Riccardo","Patrese",29,"Arrows Ford","9",10,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Derek","Daly",4,"Tyrrell Ford","10",22,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Alain","Prost",8,"McLaren Ford","11",14,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Marc","Surer",9,"ATS Ford","12",13,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Jody","Scheckter",1,"Ferrari","13",21,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Jan","Lammers",14,"Ensign Ford","14",24,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","15",23,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Elio","deAngelis",12,"Lotus Ford","16",11,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","John","Watson",7,"McLaren Ford","NC",20,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Jean-Pierre","Jabouille",15,"Renault","NC",2,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Rene","Arnoux",16,"Renault","NC",3,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Eddie","Cheever",31,"Osella Ford","NC",18,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Didier","Pironi",25,"Ligier Ford","NC",7,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","NC",12,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Keke","Rosberg",21,"Fittipaldi Ford","NC",8,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Hector","Rebaque",6,"Brabham Ford","NC",15,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Rupert","Keegan",50,"Williams Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1980,"10 Aug 1980","Harald","Ertl",10,"ATS Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Jean-Pierre","Jabouille",15,"Renault","1",2,54,9,"1:26:15.730",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Alan","Jones",27,"Williams Ford","2",3,54,6,"1:26:16.549","0.820","0.819000005722046",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Carlos","Reutemann",28,"Williams Ford","3",4,54,4,"1:26:35.089","19.360","18.539999961853",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Jacques","Laffite",26,"Ligier Ford","4",5,54,3,"1:26:57.750","42.020","22.6610000133514",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Nelson","Piquet",5,"Brabham Ford","5",7,54,2,"1:27:18.539","62.810","20.7890000343323",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Elio","deAngelis",12,"Lotus Ford","6",9,54,1,"1:27:30.700","74.970","12.1610000133514",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Alain","Prost",8,"McLaren Ford","7",12,54,0,"1:27:49.140","93.410","18.4400000572205",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Gilles","Villeneuve",2,"Ferrari","8",15,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Rene","Arnoux",16,"Renault","9",1,53,0,"1","1","1","1:32.530",NA,"1:30.270",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Hector","Rebaque",6,"Brabham Ford","10",14,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","11",23,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Marc","Surer",9,"ATS Ford","12",16,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Jody","Scheckter",1,"Ferrari","13",22,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Riccardo","Patrese",29,"Arrows Ford","14",18,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Rupert","Keegan",50,"Williams Ford","15",20,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Keke","Rosberg",21,"Fittipaldi Ford","16",11,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Nigel","Mansell",43,"Lotus Ford","NC",24,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","John","Watson",7,"McLaren Ford","NC",21,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Bruno","Giacomelli",23,"Alfa Romeo","NC",8,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","NC",13,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Didier","Pironi",25,"Ligier Ford","NC",6,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Eddie","Cheever",31,"Osella Ford","NC",19,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Derek","Daly",4,"Tyrrell Ford","NC",10,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Mario","Andretti",11,"Lotus Ford","NC",17,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Jan","Lammers",14,"Ensign Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1980,"17 Aug 1980","Jochen","Mass",30,"Arrows Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Nelson","Piquet",5,"Brabham Ford","1",5,72,9,"1:38:13.830",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Rene","Arnoux",16,"Renault","2",1,72,6,"1:38:26.759","12.930","12.9290001392365","1:19.350",NA,"1:17.440",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Jacques","Laffite",26,"Ligier Ford","3",6,72,4,"1:38:27.259","13.430","0.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Carlos","Reutemann",28,"Williams Ford","4",3,72,3,"1:38:29.119","15.290","1.85999989509583",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","5",17,72,2,"1:39:13.849","60.020","44.7300000190735",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Alain","Prost",8,"McLaren Ford","6",18,72,1,"1:39:36.449","82.620","22.5999999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Gilles","Villeneuve",2,"Ferrari","7",7,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Mario","Andretti",11,"Lotus Ford","8",10,70,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Jody","Scheckter",1,"Ferrari","9",12,70,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Marc","Surer",9,"ATS Ford","10",20,69,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Alan","Jones",27,"Williams Ford","11",4,69,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Derek","Daly",4,"Tyrrell Ford","NC",23,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Bruno","Giacomelli",23,"Alfa Romeo","NC",8,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Eddie","Cheever",31,"Osella Ford","NC",19,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Riccardo","Patrese",29,"Arrows Ford","NC",14,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Jean-Pierre","Jabouille",15,"Renault","NC",2,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Geoff","Lees",41,"Ensign Ford","NC",24,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Vittorio","Brambilla",22,"Alfa Romeo","NC",22,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","John","Watson",7,"McLaren Ford","NC",9,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","NC",21,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Nigel","Mansell",43,"Lotus Ford","NC",16,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Didier","Pironi",25,"Ligier Ford","NC",15,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Elio","deAngelis",12,"Lotus Ford","NC",11,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Hector","Rebaque",6,"Brabham Ford","NC",13,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Rupert","Keegan",50,"Williams Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Jan","Lammers",14,"Ensign Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Mike","Thackwell",30,"Arrows Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Mike","Thackwell",30,"Arrows Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Keke","Rosberg",21,"Fittipaldi Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Jochen","Mass",30,"Arrows Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1980,"31 Aug 1980","Jochen","Mass",30,"Arrows Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Nelson","Piquet",5,"Brabham Ford","1",5,60,9,"1:38:07.520",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Alan","Jones",27,"Williams Ford","2",6,60,6,"1:38:36.450","28.930","28.9300000667572","1:36.089",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Carlos","Reutemann",28,"Williams Ford","3",3,60,4,"1:39:21.190","73.670","44.7400000095367",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Elio","deAngelis",12,"Lotus Ford","4",18,59,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Keke","Rosberg",21,"Fittipaldi Ford","5",11,59,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Didier","Pironi",25,"Ligier Ford","6",13,59,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Alain","Prost",8,"McLaren Ford","7",24,59,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Jody","Scheckter",1,"Ferrari","8",16,59,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Jacques","Laffite",26,"Ligier Ford","9",20,59,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Rene","Arnoux",16,"Renault","10",1,58,0,"2","2","2",NA,NA,"1:33.988",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Rupert","Keegan",50,"Williams Ford","11",21,58,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Eddie","Cheever",31,"Osella Ford","12",17,57,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","13",12,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Jean-Pierre","Jabouille",15,"Renault","NC",2,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Marc","Surer",9,"ATS Ford","NC",23,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Mario","Andretti",11,"Lotus Ford","NC",10,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Riccardo","Patrese",29,"Arrows Ford","NC",7,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Derek","Daly",4,"Tyrrell Ford","NC",22,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","John","Watson",7,"McLaren Ford","NC",14,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Hector","Rebaque",6,"Brabham Ford","NC",9,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","NC",15,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Gilles","Villeneuve",2,"Ferrari","NC",8,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Bruno","Giacomelli",23,"Alfa Romeo","NC",4,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Vittorio","Brambilla",22,"Alfa Romeo","NC",19,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Nigel","Mansell",43,"Lotus Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Manfred","Winkelhock",30,"Arrows Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Jan","Lammers",14,"Ensign Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Dino Ferrari, Italy",1980,"14 Sep 1980","Geoff","Lees",41,"Ensign Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Alan","Jones",27,"Williams Ford","1",2,70,9,"1:46:45.530",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Carlos","Reutemann",28,"Williams Ford","2",5,70,6,"1:47:01.069","15.540","15.5390000343323",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Didier","Pironi",25,"Ligier Ford","3",3,70,4,"1:47:04.660","19.130","3.59100008010864","1:28.769",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","John","Watson",7,"McLaren Ford","4",7,70,3,"1:47:16.509","30.980","11.8489999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Gilles","Villeneuve",2,"Ferrari","5",22,70,2,"1:47:40.759","55.230","24.25",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Hector","Rebaque",6,"Brabham Ford","6",10,69,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","7",15,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Jacques","Laffite",26,"Ligier Ford","8",9,68,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Keke","Rosberg",21,"Fittipaldi Ford","9",6,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Elio","deAngelis",12,"Lotus Ford","10",17,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Jochen","Mass",30,"Arrows Ford","11",21,67,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Jan","Lammers",14,"Ensign Ford","12",19,66,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Alain","Prost",8,"McLaren Ford","NC",12,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Rene","Arnoux",16,"Renault","NC",23,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Jean-Pierre","Jabouille",15,"Renault","NC",13,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Nelson","Piquet",5,"Brabham Ford","NC",1,23,0,NA,NA,NA,NA,NA,"1:27.328",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Mario","Andretti",11,"Lotus Ford","NC",18,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Andrea","deCesaris",22,"Alfa Romeo","NC",8,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Eddie","Cheever",31,"Osella Ford","NC",14,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","NC",16,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Bruno","Giacomelli",23,"Alfa Romeo","NC",4,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Riccardo","Patrese",29,"Arrows Ford","NC",11,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Derek","Daly",4,"Tyrrell Ford","NC",20,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1980,"28 Sep 1980","Mike","Thackwell",43,"Tyrrell Ford","NC",24,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Alan","Jones",27,"Williams Ford","1",5,59,9,"1:34:36.050",NA,NA,"1:34.068",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Carlos","Reutemann",28,"Williams Ford","2",3,59,6,"1:34:40.259","4.210","4.20900011062622",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Didier","Pironi",25,"Ligier Ford","3",7,59,4,"1:34:48.619","12.570","8.35999989509583",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Elio","deAngelis",12,"Lotus Ford","4",4,59,3,"1:35:05.740","29.690","17.1210000514984",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Jacques","Laffite",26,"Ligier Ford","5",12,58,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Mario","Andretti",11,"Lotus Ford","6",11,58,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Rene","Arnoux",16,"Renault","7",6,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Marc","Surer",9,"ATS Ford","8",17,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Rupert","Keegan",50,"Williams Ford","9",15,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Keke","Rosberg",21,"Fittipaldi Ford","10",14,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Jody","Scheckter",1,"Ferrari","11",23,56,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","John","Watson",7,"McLaren Ford","NC",9,50,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Gilles","Villeneuve",2,"Ferrari","NC",18,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Jean-Pierre","Jarier",3,"Tyrrell Ford","NC",22,40,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Jochen","Mass",30,"Arrows Ford","NC",24,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Bruno","Giacomelli",23,"Alfa Romeo","NC",1,31,0,NA,NA,NA,NA,NA,"1:33.291",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Nelson","Piquet",5,"Brabham Ford","NC",2,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Eddie","Cheever",31,"Osella Ford","NC",16,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Hector","Rebaque",6,"Brabham Ford","NC",8,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Riccardo","Patrese",29,"Arrows Ford","NC",20,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Jan","Lammers",14,"Ensign Ford","NC",25,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Emerson","Fittipaldi",20,"Fittipaldi Ford","NC",19,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Derek","Daly",4,"Tyrrell Ford","NC",21,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Andrea","deCesaris",22,"Alfa Romeo","NC",10,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Alain","Prost",8,"McLaren Ford","NC",13,NA,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA East","Watkins Glen International, United States",1980,"05 Oct 1980","Mike","Thackwell",43,"Tyrrell Ford","NC",NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

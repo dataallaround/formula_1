@@ -1,0 +1,398 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Nigel","Mansell",5,"Williams Renault","1",1,72,10,"1:36:45.320",NA,NA,"1:17.578",NA,"1:15.486",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Riccardo","Patrese",6,"Williams Renault","2",4,72,6,"1:37:09.679","24.360","24.3589999675751","1:18.571",NA,"1:16.989",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Ayrton","Senna",1,"McLaren Honda","3",2,72,4,"1:37:19.994","34.675","10.3150000572205","1:18.140",NA,"1:16.227",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Michael","Schumacher",19,"Benetton Ford","4",6,72,3,"1:37:33.182","47.863","13.1879999637604","1:19.224",NA,"1:17.635",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Gerhard","Berger",2,"McLaren Honda","5",3,72,2,"1:37:58.953","73.634","25.7710001468658","1:19.085",NA,"1:16.672",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Johnny","Herbert",12,"Lotus Ford","6",11,71,1,"1","1","1","1:20.188",NA,"1:18.626",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Erik","Comas",26,"Ligier Renault","7",13,71,0,"1","1","1","1:20.347",NA,"1:19.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","8",16,70,0,"2","2","2","1:21.146",NA,"1:19.532",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Mika","Hakkinen",11,"Lotus Ford","9",21,70,0,"2","2","2","1:20.956",NA,"1:19.672",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Michele","Alboreto",9,"Footwork Mugen Honda","10",17,70,0,"2","2","2","1:20.821",NA,"1:19.571",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","11",23,70,0,"2","2","2","1:20.832",NA,"1:20.120",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Ukyo","Katayama",30,"Venturi Lamborghini","12",18,68,0,"4","4","4","1:20.714",NA,"1:19.621",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Eric","vandePoele",7,"Brabham Judd","13",26,68,0,"4","4","4","1:23.165",NA,"1:20.488",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","NC",12,62,0,NA,NA,NA,"1:20.476",NA,"1:18.749",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Thierry","Boutsen",25,"Ligier Renault","NC",14,60,0,NA,NA,NA,"1:20.524",NA,"1:19.296",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Pierluigi","Martini",22,"Dallara Ferrari","NC",25,56,0,NA,NA,NA,"1:23.612",NA,"1:20.203",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","NC",19,55,0,NA,NA,NA,"1:20.852",NA,"1:19.636",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","NC",24,46,0,NA,NA,NA,"1:20.922",NA,"1:20.126",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Christian","Fittipaldi",23,"Minardi Lamborghini","NC",20,43,0,NA,NA,NA,"1:22.072",NA,"1:19.641",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","NC",10,41,0,NA,NA,NA,"1:20.679",NA,"1:18.544",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Jean","Alesi",27,"Ferrari","NC",5,40,0,NA,NA,NA,"1:20.332",NA,"1:17.208",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Ivan","Capelli",28,"Ferrari","NC",9,28,0,NA,NA,NA,"1:21.376",NA,"1:18.387",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Gabriele","Tarquini",15,"Fondmetal Ford","NC",15,23,0,NA,NA,NA,"1:22.031",NA,"1:19.305",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Karl","Wendlinger",16,"March Ilmor","NC",7,13,0,NA,NA,NA,"1:22.736",NA,"1:18.115",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Bertrand","Gachot",29,"Venturi Lamborghini","NC",22,8,0,NA,NA,NA,"1:23.974",NA,"1:20.039",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1992,"01 Mar 1992","Martin","Brundle",20,"Benetton Ford","NC",8,1,0,NA,NA,NA,"1:51.189",NA,"1:18.327",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Nigel","Mansell",5,"Williams Renault","1",1,69,10,"1:31:53.587",NA,NA,"1:17.765",NA,"1:16.346",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Riccardo","Patrese",6,"Williams Renault","2",2,69,6,"1:32:06.557","12.971","12.9700000286102","1:17.920",NA,"1:16.362",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Michael","Schumacher",19,"Benetton Ford","3",3,69,4,"1:32:15.015","21.429","8.45800018310547","1:18.056",NA,"1:17.292",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Gerhard","Berger",2,"McLaren Honda","4",5,69,3,"1:32:26.933","33.347","11.9179999828339","1:17.711",NA,"1:18.589",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","5",11,68,2,"1","1","1","1:19.034",NA,"1:19.423",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Mika","Hakkinen",11,"Lotus Ford","6",18,68,1,"1","1","1","1:19.427",NA,"1:20.145",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Johnny","Herbert",12,"Lotus Ford","7",12,68,0,"1","1","1","1:19.634",NA,"1:19.509",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","8",7,68,0,"1","1","1","1:19.589",NA,"1:19.111",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Erik","Comas",26,"Ligier Renault","9",26,67,0,"2","2","2","1:20.200",NA,"1:21.122",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Thierry","Boutsen",25,"Ligier Renault","10",22,67,0,"2","2","2","1:19.648",NA,"1:20.395",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Bertrand","Gachot",29,"Venturi Lamborghini","11",13,66,0,"3","3","3","1:21.364",NA,"1:19.743",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Ukyo","Katayama",30,"Venturi Lamborghini","12",24,66,0,"3","3","3","1:21.397",NA,"1:20.935",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Michele","Alboreto",9,"Footwork Mugen Honda","13",25,65,0,"4","4","4","1:22.167",NA,"1:21.064",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Martin","Brundle",20,"Benetton Ford","NC",4,47,0,NA,NA,NA,"1:19.688",NA,"1:18.588",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Gabriele","Tarquini",15,"Fondmetal Ford","NC",14,45,0,NA,NA,NA,"1:21.663",NA,"1:19.769",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Andrea","Chiesa",14,"Fondmetal Ford","NC",23,37,0,NA,NA,NA,"1:22.143",NA,"1:20.845",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Pierluigi","Martini",22,"Dallara Ferrari","NC",9,36,0,NA,NA,NA,"1:21.057",NA,"1:19.378",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Jean","Alesi",27,"Ferrari","NC",10,31,0,NA,NA,NA,"1:20.965",NA,"1:19.417",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","NC",21,29,0,NA,NA,NA,"1:20.681",NA,"1:20.227",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Stefano","Modena",32,"Jordan Yamaha","NC",15,17,0,NA,NA,NA,"1:23.003",NA,"1:19.957",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","NC",16,12,0,NA,NA,NA,"1:22.521",NA,"1:19.961",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Ayrton","Senna",1,"McLaren Honda","NC",6,11,0,NA,NA,NA,"1:20.721",NA,"1:18.791",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1992,"22 Mar 1992","Christian","Fittipaldi",23,"Minardi Lamborghini","NC",17,2,0,NA,NA,NA,"1:25.880",NA,"1:20.042",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Nigel","Mansell",5,"Williams Renault","1",1,71,10,"1:36:51.856",NA,NA,"1:19.682",NA,"1:15.703",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Riccardo","Patrese",6,"Williams Renault","2",2,71,6,"1:37:21.185","29.330","29.3289999961853","1:19.490",NA,"1:16.894",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Michael","Schumacher",19,"Benetton Ford","3",5,70,4,"1","1","1","1:21.625",NA,"1:18.541",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Jean","Alesi",27,"Ferrari","4",6,70,3,"1","1","1","1:22.048",NA,"1:18.647",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Ivan","Capelli",28,"Ferrari","5",11,70,2,"1","1","1","1:22.116",NA,"1:19.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Michele","Alboreto",9,"Footwork Mugen Honda","6",14,70,1,"1","1","1","1:22.217",NA,"1:19.533",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","7",23,69,0,"2","2","2","1:22.160",NA,"1:20.445",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","8",16,69,0,"2","2","2","1:22.445",NA,"1:19.834",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Ukyo","Katayama",30,"Venturi Lamborghini","9",25,68,0,"3","3","3","1:22.712",NA,"1:20.648",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Mika","Hakkinen",11,"Lotus Ford","10",24,67,0,"4","4","4","1:22.593",NA,"1:20.577",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Gabriele","Tarquini",15,"Fondmetal Ford","NC",19,62,0,NA,NA,NA,"1:21.028",NA,"1:19.993",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Karl","Wendlinger",16,"March Ilmor","NC",9,55,0,NA,NA,NA,"1:21.851",NA,"1:19.007",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Christian","Fittipaldi",23,"Minardi Lamborghini","NC",20,54,0,NA,NA,NA,"1:22.597",NA,"1:20.133",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","NC",17,52,0,NA,NA,NA,"1:22.091",NA,"1:19.849",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Erik","Comas",26,"Ligier Renault","NC",15,42,0,NA,NA,NA,"1:22.129",NA,"1:19.537",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Johnny","Herbert",12,"Lotus Ford","NC",26,36,0,NA,NA,NA,"1:22.771",NA,"1:20.650",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Thierry","Boutsen",25,"Ligier Renault","NC",10,36,0,NA,NA,NA,"1:22.180",NA,"1:19.038",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","NC",21,36,0,NA,NA,NA,"1:22.722",NA,"1:20.266",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Martin","Brundle",20,"Benetton Ford","NC",7,30,0,NA,NA,NA,"1:22.019",NA,"1:18.711",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Pierluigi","Martini",22,"Dallara Ferrari","NC",8,24,0,NA,NA,NA,"1:23.047",NA,"1:18.953",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Bertrand","Gachot",29,"Venturi Lamborghini","NC",18,23,0,NA,NA,NA,"1:23.524",NA,"1:19.927",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","NC",13,21,0,NA,NA,NA,"1:23.241",NA,"1:19.343",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Ayrton","Senna",1,"McLaren Honda","NC",3,17,0,NA,NA,NA,"1:23.101",NA,"1:17.902",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Gerhard","Berger",2,"McLaren Honda","NC",4,4,0,NA,NA,NA,"1:23.601",NA,"1:18.416",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","NC",22,2,0,NA,NA,NA,"1:39.300",NA,"1:20.435",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1992,"05 Apr 1992","Stefano","Modena",32,"Jordan Yamaha","NC",12,1,0,NA,NA,NA,"2:08.611",NA,"1:19.314",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Nigel","Mansell",5,"Williams Renault","1",1,65,10,"1:56:10.674",NA,NA,"1:42.503",NA,"1:20.190",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Michael","Schumacher",19,"Benetton Ford","2",2,65,6,"1:56:34.588","23.914","23.9140000343323","1:42.989",NA,"1:21.195",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Jean","Alesi",27,"Ferrari","3",8,65,4,"1:56:37.135","26.462","2.54699993133545","1:43.469",NA,"1:22.746",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Gerhard","Berger",2,"McLaren Honda","4",7,65,3,"1:57:31.321","80.647","54.1860001087189","1:42.850",NA,"1:22.711",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Michele","Alboreto",9,"Footwork Mugen Honda","5",16,64,2,"1","1","1","1:46.196",NA,"1:24.634",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Pierluigi","Martini",22,"Dallara Ferrari","6",13,63,1,"2","2","2","1:46.713",NA,"1:24.236",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","7",19,63,0,"2","2","2","1:47.233",NA,"1:24.940",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Karl","Wendlinger",16,"March Ilmor","8",9,63,0,"2","2","2","1:45.598",NA,"1:23.121",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Ayrton","Senna",1,"McLaren Honda","9",3,62,0,NA,NA,NA,"1:43.176",NA,"1:21.209",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Ivan","Capelli",28,"Ferrari","10",5,62,0,NA,NA,NA,"1:44.032",NA,"1:22.413",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Christian","Fittipaldi",23,"Minardi Lamborghini","11",22,61,0,"4","4","4","1:50.019",NA,"1:25.315",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Paul","Belmondo",17,"March Ilmor","12",23,61,0,"4","4","4","1:48.862",NA,"1:25.467",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","NC",12,56,0,NA,NA,NA,"1:45.915",NA,"1:24.054",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Gabriele","Tarquini",15,"Fondmetal Ford","NC",18,56,0,NA,NA,NA,"1:46.087",NA,"1:24.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Mika","Hakkinen",11,"Lotus Ford","NC",21,56,0,NA,NA,NA,"1:47.017",NA,"1:25.202",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Erik","Comas",26,"Ligier Renault","NC",10,55,0,NA,NA,NA,"1:48.096",NA,"1:23.593",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Bertrand","Gachot",29,"Venturi Lamborghini","NC",24,35,0,NA,NA,NA,"1:47.454",NA,"1:25.700",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","NC",15,30,0,NA,NA,NA,"1:48.296",NA,"1:24.608",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","NC",25,26,0,NA,NA,NA,"1:49.661",NA,"1:25.786",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","NC",17,24,0,NA,NA,NA,"1:47.713",NA,"1:24.671",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Andrea","Chiesa",14,"Fondmetal Ford","NC",20,22,0,NA,NA,NA,"1:49.793",NA,"1:24.963",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Riccardo","Patrese",6,"Williams Renault","NC",4,19,0,NA,NA,NA,"1:43.148",NA,"1:21.534",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Johnny","Herbert",12,"Lotus Ford","NC",26,13,0,NA,NA,NA,"1:47.739",NA,"1:25.786",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Thierry","Boutsen",25,"Ligier Renault","NC",14,11,0,NA,NA,NA,"1:51.586",NA,"1:24.583",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Martin","Brundle",20,"Benetton Ford","NC",6,4,0,NA,NA,NA,"1:50.461",NA,"1:22.529",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuit de Catalunya, Spain",1992,"03 May 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","NC",11,2,0,NA,NA,NA,"2:14.087",NA,"1:23.723",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Nigel","Mansell",5,"Williams Renault","1",1,60,10,"1:28:40.927",NA,NA,"1:26.588",NA,"1:21.842",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Riccardo","Patrese",6,"Williams Renault","2",2,60,6,"1:28:50.378","9.451","9.45099997520447","1:26.100",NA,"1:22.895",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Ayrton","Senna",1,"McLaren Honda","3",3,60,4,"1:29:29.911","48.984","39.5329999923706","1:27.615",NA,"1:23.086",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Martin","Brundle",20,"Benetton Ford","4",6,60,3,"1:29:33.934","53.007","4.02300000190735","1:27.410",NA,"1:23.904",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Michele","Alboreto",9,"Footwork Mugen Honda","5",9,59,2,"1","1","1","1:29.078",NA,"1:24.706",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Pierluigi","Martini",22,"Dallara Ferrari","6",15,59,1,"1","1","1","1:29.282",NA,"1:25.838",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","7",18,58,0,"2","2","2","1:30.560",NA,"1:26.056",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","8",20,58,0,"2","2","2","1:29.739",NA,"1:26.404",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Erik","Comas",26,"Ligier Renault","9",13,58,0,"2","2","2","1:29.095",NA,"1:25.543",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","10",11,58,0,"2","2","2","1:29.612",NA,"1:25.134",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","11",16,57,0,NA,NA,NA,"1:29.187",NA,"1:25.865",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Karl","Wendlinger",16,"March Ilmor","12",12,57,0,"3","3","3","1:30.369",NA,"1:25.483",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Paul","Belmondo",17,"March Ilmor","13",24,57,0,"3","3","3","1:30.024",NA,"1:27.194",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","14",14,55,0,NA,NA,NA,"1:28.802",NA,"1:25.637",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Ukyo","Katayama",30,"Venturi Lamborghini","NC",17,40,0,NA,NA,NA,"1:30.458",NA,"1:25.982",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Jean","Alesi",27,"Ferrari","NC",7,39,0,NA,NA,NA,"1:28.071",NA,"1:23.970",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Gerhard","Berger",2,"McLaren Honda","NC",4,39,0,NA,NA,NA,"1:27.250",NA,"1:23.418",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Bertrand","Gachot",29,"Venturi Lamborghini","NC",19,32,0,NA,NA,NA,"1:29.659",NA,"1:26.182",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Thierry","Boutsen",25,"Ligier Renault","NC",10,29,0,NA,NA,NA,"1:29.699",NA,"1:25.043",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Stefano","Modena",32,"Jordan Yamaha","NC",23,25,0,NA,NA,NA,"1:31.953",NA,"1:26.774",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","NC",21,24,0,NA,NA,NA,"1:30.671",NA,"1:26.681",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Gabriele","Tarquini",15,"Fondmetal Ford","NC",22,24,0,NA,NA,NA,"1:31.064",NA,"1:26.765",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Michael","Schumacher",19,"Benetton Ford","NC",5,20,0,NA,NA,NA,"1:29.183",NA,"1:23.701",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Ivan","Capelli",28,"Ferrari","NC",8,11,0,NA,NA,NA,"1:29.832",NA,"1:24.192",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Christian","Fittipaldi",23,"Minardi Lamborghini","NC",25,8,0,NA,NA,NA,"1:31.944",NA,"1:27.229",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1992,"17 May 1992","Johnny","Herbert",12,"Lotus Ford","NC",26,8,0,NA,NA,NA,"1:30.976",NA,"1:27.270",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Ayrton","Senna",1,"McLaren Honda","1",3,78,10,"1:50:59.372",NA,NA,"1:23.470",NA,"1:20.608",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Nigel","Mansell",5,"Williams Renault","2",1,78,6,"1:50:59.586","0.215","0.21399998664856","1:21.598",NA,"1:19.495",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Riccardo","Patrese",6,"Williams Renault","3",2,78,4,"1:51:31.214","31.843","31.6280000209808","1:24.080",NA,"1:20.368",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Michael","Schumacher",19,"Benetton Ford","4",6,78,3,"1:51:38.665","39.294","7.45099997520447","1:23.868",NA,"1:21.831",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Martin","Brundle",20,"Benetton Ford","5",7,78,2,"1:52:20.718","81.347","42.0529999732971","1:23.406",NA,"1:22.068",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Bertrand","Gachot",29,"Venturi Lamborghini","6",15,77,1,"1","1","1","1:24.932",NA,"1:23.122",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Michele","Alboreto",9,"Footwork Mugen Honda","7",11,77,0,"1","1","1","1:25.004",NA,"1:22.671",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Christian","Fittipaldi",23,"Minardi Lamborghini","8",17,77,0,"1","1","1","1:25.594",NA,"1:23.487",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","9",20,76,0,"2","2","2","1:25.390",NA,"1:23.862",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Erik","Comas",26,"Ligier Renault","10",23,76,0,"2","2","2","1:26.002",NA,"1:23.974",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","11",19,76,0,"2","2","2","1:25.909",NA,"1:23.641",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Thierry","Boutsen",25,"Ligier Renault","12",22,75,0,"3","3","3","1:26.320",NA,"1:23.909",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Ivan","Capelli",28,"Ferrari","NC",8,60,0,NA,NA,NA,"1:25.032",NA,"1:22.119",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Gerhard","Berger",2,"McLaren Honda","NC",5,32,0,NA,NA,NA,"1:24.172",NA,"1:21.224",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Mika","Hakkinen",11,"Lotus Ford","NC",14,30,0,NA,NA,NA,"1:25.871",NA,"1:22.886",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Jean","Alesi",27,"Ferrari","NC",4,28,0,NA,NA,NA,"1:24.827",NA,"1:20.895",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","NC",13,18,0,NA,NA,NA,"1:26.863",NA,"1:22.863",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Johnny","Herbert",12,"Lotus Ford","NC",9,17,0,NA,NA,NA,"1:26.005",NA,"1:22.579",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Roberto","Moreno",34,"Moda Judd","NC",26,11,0,NA,NA,NA,"1:30.344",NA,"1:24.945",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","NC",10,9,0,NA,NA,NA,"1:26.916",NA,"1:22.647",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Gabriele","Tarquini",15,"Fondmetal Ford","NC",25,9,0,NA,NA,NA,"1:30.718",NA,"1:24.479",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Stefano","Modena",32,"Jordan Yamaha","NC",21,6,0,NA,NA,NA,"1:28.149",NA,"1:23.890",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","NC",24,4,0,NA,NA,NA,"1:28.590",NA,"1:23.990",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Karl","Wendlinger",16,"March Ilmor","NC",16,1,0,NA,NA,NA,"1:44.613",NA,"1:23.264",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1992,"31 May 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","NC",12,1,0,NA,NA,NA,"5:34.500",NA,"1:22.733",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Gerhard","Berger",2,"McLaren Honda","1",4,69,10,"1:37:08.299",NA,NA,"1:22.325",NA,"1:20.145",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Michael","Schumacher",19,"Benetton Ford","2",5,69,6,"1:37:20.700","12.401","12.4010000228882","1:22.352",NA,"1:20.456",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Jean","Alesi",27,"Ferrari","3",8,69,4,"1:38:15.625","67.327","54.9249999523163","1:23.774",NA,"1:21.777",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Karl","Wendlinger",16,"March Ilmor","4",12,68,3,"1","1","1","1:24.278",NA,"1:22.566",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","5",14,68,2,"1","1","1","1:24.350",NA,"1:22.635",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Erik","Comas",26,"Ligier Renault","6",22,68,1,"1","1","1","1:24.258",NA,"1:23.212",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Michele","Alboreto",9,"Footwork Mugen Honda","7",16,68,0,"1","1","1","1:23.906",NA,"1:22.878",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Pierluigi","Martini",22,"Dallara Ferrari","8",15,68,0,"1","1","1","1:23.856",NA,"1:22.850",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","9",23,68,0,"1","1","1","1:23.695",NA,"1:23.249",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Thierry","Boutsen",25,"Ligier Renault","10",21,67,0,"2","2","2","1:24.284",NA,"1:23.203",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","11",13,67,0,"2","2","2","1:24.371",NA,"1:22.594",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","12",26,67,0,"2","2","2","1:23.883",NA,"1:23.469",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Christian","Fittipaldi",23,"Minardi Lamborghini","13",25,65,0,"4","4","4","1:24.206",NA,"1:23.433",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Paul","Belmondo",17,"March Ilmor","14",20,64,0,"5","5","5","1:25.860",NA,"1:23.189",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Ukyo","Katayama",30,"Venturi Lamborghini","NC",11,61,0,NA,NA,NA,"1:23.853",NA,"1:22.510",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Martin","Brundle",20,"Benetton Ford","NC",7,45,0,NA,NA,NA,"1:22.328",NA,"1:21.738",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Riccardo","Patrese",6,"Williams Renault","NC",2,43,0,NA,NA,NA,"1:22.871",NA,"1:19.872",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Ayrton","Senna",1,"McLaren Honda","NC",1,37,0,NA,NA,NA,"1:23.728",NA,"1:19.775",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Stefano","Modena",32,"Jordan Yamaha","NC",17,36,0,NA,NA,NA,"1:26.349",NA,"1:23.023",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Mika","Hakkinen",11,"Lotus Ford","NC",10,35,0,NA,NA,NA,"1:24.659",NA,"1:22.360",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Johnny","Herbert",12,"Lotus Ford","NC",6,34,0,NA,NA,NA,"1:24.639",NA,"1:21.645",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Ivan","Capelli",28,"Ferrari","NC",9,18,0,NA,NA,NA,"1:25.500",NA,"1:22.297",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Nigel","Mansell",5,"Williams Renault","NC",3,14,0,NA,NA,NA,"1:25.408",NA,"1:19.948",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","NC",24,14,0,NA,NA,NA,"1:27.223",NA,"1:23.431",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1992,"14 Jun 1992","Bertrand","Gachot",29,"Venturi Lamborghini","NC",19,14,0,NA,NA,NA,"1:26.971",NA,"1:23.138",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Nigel","Mansell",5,"Williams Renault","1",1,69,10,"1:38:08.459",NA,NA,"1:17.070",NA,"1:13.864",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Riccardo","Patrese",6,"Williams Renault","2",2,69,6,"1:38:54.906","46.447","46.4469997882843","1:18.006",NA,"1:14.332",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Martin","Brundle",20,"Benetton Ford","3",7,69,4,"1:39:21.038","72.579","26.132000207901","1:18.636",NA,"1:16.151",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Mika","Hakkinen",11,"Lotus Ford","4",11,68,3,"1","1","1","1:18.526",NA,"1:16.999",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Erik","Comas",26,"Ligier Renault","5",10,68,2,"1","1","1","1:18.660",NA,"1:16.938",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Johnny","Herbert",12,"Lotus Ford","6",12,68,1,"1","1","1","1:19.252",NA,"1:17.257",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Michele","Alboreto",9,"Footwork Mugen Honda","7",14,68,0,"1","1","1","1:19.542",NA,"1:17.508",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","8",16,68,0,"1","1","1","1:19.944",NA,"1:17.667",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","9",17,67,0,"2","2","2","1:20.133",NA,"1:17.677",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Pierluigi","Martini",22,"Dallara Ferrari","10",25,67,0,"2","2","2","1:19.742",NA,"1:18.586",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","11",22,66,0,"3","3","3","1:20.222",NA,"1:17.989",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Jean","Alesi",27,"Ferrari","NC",6,61,0,NA,NA,NA,"1:18.431",NA,"1:16.118",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","NC",19,51,0,NA,NA,NA,"1:19.525",NA,"1:17.868",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Ukyo","Katayama",30,"Venturi Lamborghini","NC",18,49,0,NA,NA,NA,"1:18.714",NA,"1:17.709",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Thierry","Boutsen",25,"Ligier Renault","NC",9,46,0,NA,NA,NA,"1:19.139",NA,"1:16.806",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Ivan","Capelli",28,"Ferrari","NC",8,38,0,NA,NA,NA,"1:19.324",NA,"1:16.443",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Karl","Wendlinger",16,"March Ilmor","NC",21,33,0,NA,NA,NA,"1:21.074",NA,"1:17.937",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Stefano","Modena",32,"Jordan Yamaha","NC",20,25,0,NA,NA,NA,"1:21.070",NA,"1:17.901",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","NC",15,20,0,NA,NA,NA,"1:20.965",NA,"1:17.548",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Michael","Schumacher",19,"Benetton Ford","NC",5,17,0,NA,NA,NA,"1:19.939",NA,"1:15.569",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Gerhard","Berger",2,"McLaren Honda","NC",4,10,0,NA,NA,NA,"1:20.213",NA,"1:15.316",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Nevers Magny-Cours, France",1992,"05 Jul 1992","Gabriele","Tarquini",15,"Fondmetal Ford","NC",23,6,0,NA,NA,NA,"1:23.438",NA,"1:17.993",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Nigel","Mansell",5,"Williams Renault","1",1,59,10,"1:25:42.991",NA,NA,"1:22.539",NA,"1:18.965",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Riccardo","Patrese",6,"Williams Renault","2",2,59,6,"1:26:22.085","39.094","39.0940001010895","1:25.519",NA,"1:20.884",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Martin","Brundle",20,"Benetton Ford","3",6,59,4,"1:26:31.385","48.395","9.29999995231628","1:25.859",NA,"1:23.489",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Michael","Schumacher",19,"Benetton Ford","4",4,59,3,"1:26:36.257","53.267","4.87199997901917","1:24.344",NA,"1:22.066",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Gerhard","Berger",2,"McLaren Honda","5",5,59,2,"1:26:38.786","55.795","2.52900004386902","1:24.875",NA,"1:22.296",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Mika","Hakkinen",11,"Lotus Ford","6",9,59,1,"1:27:03.128","80.138","24.3420000076294","1:26.555",NA,"1:23.813",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Michele","Alboreto",9,"Footwork Mugen Honda","7",12,58,0,"1","1","1","1:27.869",NA,"1:24.198",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Erik","Comas",26,"Ligier Renault","8",10,58,0,"1","1","1","1:27.160",NA,"1:23.957",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Ivan","Capelli",28,"Ferrari","9",14,58,0,"1","1","1","1:26.871",NA,"1:24.558",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Thierry","Boutsen",25,"Ligier Renault","10",13,57,0,"2","2","2","1:28.681",NA,"1:24.545",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","11",20,57,0,"2","2","2","1:28.205",NA,"1:25.096",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","12",17,57,0,"2","2","2","1:28.514",NA,"1:24.924",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","13",19,57,0,"2","2","2","1:27.605",NA,"1:25.037",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Gabriele","Tarquini",15,"Fondmetal Ford","14",15,57,0,"2","2","2","1:26.483",NA,"1:24.761",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Pierluigi","Martini",22,"Dallara Ferrari","15",22,56,0,"3","3","3","1:27.495",NA,"1:25.221",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Damon","Hill",8,"Brabham Judd","16",26,55,0,"4","4","4","1:29.929",NA,"1:26.378",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","17",25,53,0,NA,NA,NA,"1:28.541",NA,"1:25.998",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Ayrton","Senna",1,"McLaren Honda","NC",3,52,0,NA,NA,NA,"1:25.825",NA,"1:21.706",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","NC",18,46,0,NA,NA,NA,"1:28.416",NA,"1:24.984",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Jean","Alesi",27,"Ferrari","NC",8,43,0,NA,NA,NA,"1:26.035",NA,"1:23.723",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Stefano","Modena",32,"Jordan Yamaha","NC",23,43,0,NA,NA,NA,"1:28.322",NA,"1:25.362",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","NC",24,37,0,NA,NA,NA,"1:29.627",NA,"1:25.988",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Bertrand","Gachot",29,"Venturi Lamborghini","NC",11,32,0,NA,NA,NA,"1:29.073",NA,"1:24.065",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Johnny","Herbert",12,"Lotus Ford","NC",7,31,0,NA,NA,NA,"1:27.428",NA,"1:23.605",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Karl","Wendlinger",16,"March Ilmor","NC",21,27,0,NA,NA,NA,"1:30.198",NA,"1:25.123",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1992,"12 Jul 1992","Ukyo","Katayama",30,"Venturi Lamborghini","NC",16,27,0,NA,NA,NA,"1:30.128",NA,"1:24.851",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Nigel","Mansell",5,"Williams Renault","1",1,45,10,"1:18:22.032",NA,NA,"1:42.379",NA,"1:37.960",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Ayrton","Senna",1,"McLaren Honda","2",3,45,6,"1:18:26.532","4.500","4.5","1:42.272",NA,"1:39.106",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Michael","Schumacher",19,"Benetton Ford","3",6,45,4,"1:18:56.493","34.462","29.9609999656677","1:43.690",NA,"1:41.132",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Martin","Brundle",20,"Benetton Ford","4",9,45,3,"1:18:58.991","36.959","2.49799990653992","1:43.246",NA,"1:42.136",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Jean","Alesi",27,"Ferrari","5",5,45,2,"1:19:34.639","72.607","35.6480000019073","1:44.099",NA,"1:40.959",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Erik","Comas",26,"Ligier Renault","6",7,45,1,"1:19:58.529","96.498","23.8900001049042","1:44.453",NA,"1:41.942",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Thierry","Boutsen",25,"Ligier Renault","7",8,45,0,"1:19:59.212","97.180","0.682999849319458","1:43.944",NA,"1:42.112",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Riccardo","Patrese",6,"Williams Renault","8",2,44,0,"1","1","1","1:41.591",NA,"1:38.310",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Michele","Alboreto",9,"Footwork Mugen Honda","9",17,44,0,"1","1","1","1:45.474",NA,"1:43.171",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","10",21,44,0,"1","1","1","1:45.517",NA,"1:43.931",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Pierluigi","Martini",22,"Dallara Ferrari","11",18,44,0,"1","1","1","1:45.382",NA,"1:43.556",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","12",26,44,0,"1","1","1","1:45.825",NA,"1:44.763",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Paul","Belmondo",17,"March Ilmor","13",22,44,0,"1","1","1","1:45.496",NA,"1:44.130",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Bertrand","Gachot",29,"Venturi Lamborghini","14",25,44,0,"1","1","1","1:45.514",NA,"1:44.596",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","15",23,43,0,"2","2","2","1:48.450",NA,"1:44.521",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Karl","Wendlinger",16,"March Ilmor","16",10,42,0,"3","3","3","1:46.023",NA,"1:42.357",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Gabriele","Tarquini",15,"Fondmetal Ford","NC",19,33,0,NA,NA,NA,"1:45.586",NA,"1:43.777",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","NC",20,25,0,NA,NA,NA,"1:46.820",NA,"1:43.790",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Johnny","Herbert",12,"Lotus Ford","NC",11,23,0,NA,NA,NA,"1:45.656",NA,"1:42.645",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Ivan","Capelli",28,"Ferrari","NC",12,21,0,NA,NA,NA,"1:46.029",NA,"1:42.748",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Mika","Hakkinen",11,"Lotus Ford","NC",13,21,0,NA,NA,NA,"1:44.777",NA,"1:42.749",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Gerhard","Berger",2,"McLaren Honda","NC",4,16,0,NA,NA,NA,"1:44.811",NA,"1:39.716",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","NC",14,8,0,NA,NA,NA,"1:48.489",NA,"1:42.797",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Ukyo","Katayama",30,"Venturi Lamborghini","NC",16,8,0,NA,NA,NA,"1:48.639",NA,"1:43.079",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","NC",15,1,0,NA,NA,NA,"2:03.333",NA,"1:42.838",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1992,"26 Jul 1992","Alessandro","Zanardi",23,"Minardi Lamborghini","NC",24,1,0,NA,NA,NA,"2:33.909",NA,"1:44.593",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Ayrton","Senna",1,"McLaren Honda","1",3,77,10,"1:46:19.216",NA,NA,"1:19.588",NA,"1:16.267",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Nigel","Mansell",5,"Williams Renault","2",2,77,6,"1:46:59.355","40.139","40.1389999389648","1:18.308",NA,"1:15.643",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Gerhard","Berger",2,"McLaren Honda","3",5,77,4,"1:47:09.998","50.782","10.6429998874664","1:20.722",NA,"1:17.277",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Mika","Hakkinen",11,"Lotus Ford","4",16,77,3,"1:47:13.529","54.313","3.5310001373291","1:20.658",NA,"1:19.587",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Martin","Brundle",20,"Benetton Ford","5",6,77,2,"1:47:16.713","57.498","3.18400001525879","1:20.005",NA,"1:18.148",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Ivan","Capelli",28,"Ferrari","6",10,76,1,"1","1","1","1:22.620",NA,"1:18.765",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Michele","Alboreto",9,"Footwork Mugen Honda","7",7,75,0,"2","2","2","1:23.094",NA,"1:18.604",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","8",19,75,0,"2","2","2","1:21.898",NA,"1:19.867",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Paul","Belmondo",17,"March Ilmor","9",17,74,0,"3","3","3","1:22.840",NA,"1:19.626",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","10",21,73,0,"4","4","4","1:23.970",NA,"1:20.023",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Damon","Hill",8,"Brabham Judd","11",25,73,0,"4","4","4","1:24.777",NA,"1:20.781",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Michael","Schumacher",19,"Benetton Ford","NC",4,63,0,NA,NA,NA,"1:20.291",NA,"1:16.524",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Riccardo","Patrese",6,"Williams Renault","NC",1,55,0,NA,NA,NA,"1:19.151",NA,"1:15.476",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Pierluigi","Martini",22,"Dallara Ferrari","NC",26,40,0,NA,NA,NA,"1:23.925",NA,"1:20.988",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Ukyo","Katayama",30,"Venturi Lamborghini","NC",20,35,0,NA,NA,NA,"1:23.419",NA,"1:19.990",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Jean","Alesi",27,"Ferrari","NC",9,14,0,NA,NA,NA,"1:23.307",NA,"1:18.665",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Bertrand","Gachot",29,"Venturi Lamborghini","NC",15,13,0,NA,NA,NA,"1:25.486",NA,"1:19.365",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","NC",14,13,0,NA,NA,NA,"1:25.472",NA,"1:19.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","NC",22,13,0,NA,NA,NA,"1:25.996",NA,"1:20.063",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Karl","Wendlinger",16,"March Ilmor","NC",23,13,0,NA,NA,NA,"1:25.711",NA,"1:20.315",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Stefano","Modena",32,"Jordan Yamaha","NC",24,13,0,NA,NA,NA,"1:26.724",NA,"1:20.707",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1992,"16 Aug 1992","Eric","vandePoele",14,"Fondmetal Ford","NC",18,2,0,NA,NA,NA,"1:29.910",NA,"1:19.776",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Michael","Schumacher",19,"Benetton Ford","1",3,44,10,"1:36:10.721",NA,NA,"1:53.791",NA,"1:53.221",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Nigel","Mansell",5,"Williams Renault","2",1,44,6,"1:36:47.315","36.595","36.5940001010895","1:55.294",NA,"1:50.545",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Riccardo","Patrese",6,"Williams Renault","3",4,44,4,"1:36:54.618","43.897","7.30299997329712","1:57.387",NA,"1:53.557",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Martin","Brundle",20,"Benetton Ford","4",9,44,3,"1:36:56.779","46.059","2.16100001335144","1:57.398",NA,"1:54.973",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Ayrton","Senna",1,"McLaren Honda","5",2,44,2,"1:37:19.089","68.369","22.3099999427795","1:54.088",NA,"1:52.743",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Mika","Hakkinen",11,"Lotus Ford","6",8,44,1,"1:37:20.750","70.030","1.66100001335144","1:55.929",NA,"1:54.812",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","7",16,44,0,"1:37:48.957","98.237","28.2070000171661","1:56.676",NA,"1:56.809",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","8",13,43,0,"1","1","1","1:59.376",NA,"1:56.111",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","9",25,43,0,"1","1","1","1:59.482",NA,"1:58.826",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Eric","vandePoele",14,"Fondmetal Ford","10",15,43,0,"1","1","1","1:59.097",NA,"1:56.674",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Karl","Wendlinger",16,"March Ilmor","11",18,43,0,"1","1","1","1:57.817",NA,"1:57.039",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Emanuele","Naspetti",17,"March Ilmor","12",21,43,0,"1","1","1","2:01.032",NA,"1:57.794",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Johnny","Herbert",12,"Lotus Ford","13",10,42,0,"2","2","2","1:56.254",NA,"1:55.027",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","14",24,42,0,"2","2","2","2:01.067",NA,"1:58.499",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Stefano","Modena",32,"Jordan Yamaha","15",17,42,0,"2","2","2","2:03.615",NA,"1:56.889",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","16",23,42,0,"2","2","2","2:00.755",NA,"1:58.126",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Ukyo","Katayama",30,"Venturi Lamborghini","17",26,42,0,"2","2","2","1:59.914",NA,"1:59.383",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Bertrand","Gachot",29,"Venturi Lamborghini","18",20,40,0,NA,NA,NA,"1:57.954",NA,"1:57.330",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Thierry","Boutsen",25,"Ligier Renault","NC",7,27,0,NA,NA,NA,"2:16.745",NA,"1:54.654",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Ivan","Capelli",28,"Ferrari","NC",12,25,0,NA,NA,NA,"2:16.933",NA,"1:56.075",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Gabriele","Tarquini",15,"Fondmetal Ford","NC",11,25,0,NA,NA,NA,"2:16.893",NA,"1:55.965",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Michele","Alboreto",9,"Footwork Mugen Honda","NC",14,20,0,NA,NA,NA,"2:17.039",NA,"1:56.282",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Jean","Alesi",27,"Ferrari","NC",5,7,0,NA,NA,NA,"2:15.494",NA,"1:54.438",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1992,"30 Aug 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","NC",22,1,0,NA,NA,NA,"2:23.952",NA,"1:57.818",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Ayrton","Senna",1,"McLaren Honda","1",2,53,10,"1:18:15.349",NA,NA,"1:27.190",NA,"1:22.822",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Martin","Brundle",20,"Benetton Ford","2",9,53,6,"1:18:32.398","17.050","17.0490000247955","1:27.083",NA,"1:24.551",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Michael","Schumacher",19,"Benetton Ford","3",6,53,4,"1:18:39.721","24.373","7.32299995422363","1:26.497",NA,"1:23.629",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Gerhard","Berger",2,"McLaren Honda","4",5,53,3,"1:19:40.838","85.490","1.01861666838328","1:27.255",NA,"1:23.112",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Riccardo","Patrese",6,"Williams Renault","5",4,53,2,"1:19:48.506","93.158","7.66799998283386","1:26.224",NA,"1:23.022",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","6",21,52,1,"1","1","1","1:28.698",NA,"1:25.425",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Michele","Alboreto",9,"Footwork Mugen Honda","7",16,52,0,"1","1","1","1:28.870",NA,"1:25.234",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Pierluigi","Martini",22,"Dallara Ferrari","8",22,52,0,"1","1","1","1:30.361",NA,"1:25.528",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Ukyo","Katayama",30,"Venturi Lamborghini","9",23,50,0,NA,NA,NA,"1:29.295",NA,"1:26.174",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Karl","Wendlinger",16,"March Ilmor","10",17,50,0,"3","3","3","1:28.964",NA,"1:25.343",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","11",14,47,0,NA,NA,NA,"1:29.358",NA,"1:25.145",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","NC",26,46,0,NA,NA,NA,"1:31.043",NA,"1:26.463",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Nigel","Mansell",5,"Williams Renault","NC",1,41,0,NA,NA,NA,"1:26.119",NA,"1:22.221",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Thierry","Boutsen",25,"Ligier Renault","NC",8,41,0,NA,NA,NA,"1:29.528",NA,"1:24.413",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Erik","Comas",26,"Ligier Renault","NC",15,35,0,NA,NA,NA,"1:29.845",NA,"1:25.178",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Gabriele","Tarquini",15,"Fondmetal Ford","NC",20,30,0,NA,NA,NA,"1:30.171",NA,"1:25.420",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","NC",18,26,0,NA,NA,NA,"1:30.360",NA,"1:25.354",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Johnny","Herbert",12,"Lotus Ford","NC",13,18,0,NA,NA,NA,"1:29.739",NA,"1:25.140",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Emanuele","Naspetti",17,"March Ilmor","NC",24,17,0,NA,NA,NA,"1:30.941",NA,"1:26.279",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Jean","Alesi",27,"Ferrari","NC",3,12,0,NA,NA,NA,"1:29.508",NA,"1:22.976",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Ivan","Capelli",28,"Ferrari","NC",7,12,0,NA,NA,NA,"1:29.639",NA,"1:24.321",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","NC",12,12,0,NA,NA,NA,"1:30.273",NA,"1:24.912",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Bertrand","Gachot",29,"Venturi Lamborghini","NC",10,11,0,NA,NA,NA,"1:30.558",NA,"1:24.654",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Mika","Hakkinen",11,"Lotus Ford","NC",11,5,0,NA,NA,NA,"1:30.101",NA,"1:24.807",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1992,"13 Sep 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","NC",19,2,0,NA,NA,NA,"1:34.405",NA,"1:25.374",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Nigel","Mansell",5,"Williams Renault","1",1,71,10,"1:34:46.659",NA,NA,"1:17.137",NA,"1:13.041",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Gerhard","Berger",2,"McLaren Honda","2",4,71,6,"1:35:24.191","37.533","37.5320000648499","1:17.399",NA,"1:15.068",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Ayrton","Senna",1,"McLaren Honda","3",3,70,4,"1","1","1","1:16.272",NA,"1:14.258",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Martin","Brundle",20,"Benetton Ford","4",6,70,3,"1","1","1","1:19.371",NA,"1:16.084",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Mika","Hakkinen",11,"Lotus Ford","5",7,70,2,"1","1","1","1:20.187",NA,"1:16.173",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Michele","Alboreto",9,"Footwork Mugen Honda","6",8,70,1,"1","1","1","1:19.966",NA,"1:16.282",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Michael","Schumacher",19,"Benetton Ford","7",5,69,0,"2","2","2","1:17.772",NA,"1:15.356",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Thierry","Boutsen",25,"Ligier Renault","8",11,69,0,"2","2","2","1:20.275",NA,"1:16.930",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","9",12,69,0,"2","2","2","1:20.515",NA,"1:17.240",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","10",17,68,0,"3","3","3","1:20.080",NA,"1:17.361",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Emanuele","Naspetti",17,"March Ilmor","11",23,68,0,"3","3","3","1:21.314",NA,"1:18.092",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Christian","Fittipaldi",23,"Minardi Lamborghini","12",26,68,0,"3","3","3","1:19.605",NA,"1:18.615",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Stefano","Modena",32,"Jordan Yamaha","13",24,68,0,"3","3","3","1:20.889",NA,"1:18.318",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","14",18,68,0,"3","3","3","1:20.807",NA,"1:17.387",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","NC",19,51,0,NA,NA,NA,"1:21.874",NA,"1:17.474",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Karl","Wendlinger",16,"March Ilmor","NC",22,48,0,NA,NA,NA,"1:20.716",NA,"1:18.060",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Erik","Comas",26,"Ligier Renault","NC",14,47,0,NA,NA,NA,"1:20.145",NA,"1:17.264",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Ukyo","Katayama",30,"Venturi Lamborghini","NC",25,46,0,NA,NA,NA,"1:21.216",NA,"1:18.592",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Riccardo","Patrese",6,"Williams Renault","NC",2,43,0,NA,NA,NA,"1:18.349",NA,"1:13.672",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Pierluigi","Martini",22,"Dallara Ferrari","NC",21,43,0,NA,NA,NA,"1:22.156",NA,"1:17.661",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Ivan","Capelli",28,"Ferrari","NC",16,34,0,NA,NA,NA,"1:21.799",NA,"1:17.287",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","NC",15,27,0,NA,NA,NA,"1:21.906",NA,"1:17.277",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Bertrand","Gachot",29,"Venturi Lamborghini","NC",13,25,0,NA,NA,NA,"1:22.394",NA,"1:17.250",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","NC",20,19,0,NA,NA,NA,"1:23.606",NA,"1:17.631",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Jean","Alesi",27,"Ferrari","NC",10,12,0,NA,NA,NA,"1:21.638",NA,"1:16.884",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1992,"27 Sep 1992","Johnny","Herbert",12,"Lotus Ford","NC",9,2,0,NA,NA,NA,"1:58.788",NA,"1:16.628",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Riccardo","Patrese",6,"Williams Renault","1",2,53,10,"1:33:09.553",NA,NA,"1:40.910",NA,"1:38.219",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Gerhard","Berger",2,"McLaren Honda","2",4,53,6,"1:33:23.282","13.729","13.7290000915527","1:42.280",NA,"1:40.296",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Martin","Brundle",20,"Benetton Ford","3",13,53,4,"1:34:25.055","75.503","1.02955000003179","1:43.105",NA,"1:42.626",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","4",9,52,3,"1","1","1","1:44.760",NA,"1:42.361",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Jean","Alesi",27,"Ferrari","5",15,52,2,"1","1","1","1:45.455",NA,"1:42.824",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Christian","Fittipaldi",23,"Minardi Lamborghini","6",12,52,1,"1","1","1","1:45.638",NA,"1:42.617",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Stefano","Modena",32,"Jordan Yamaha","7",17,52,0,"1","1","1","1:45.413",NA,"1:43.117",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","8",16,52,0,"1","1","1","1:45.928",NA,"1:43.029",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","9",22,52,0,"1","1","1","1:45.846",NA,"1:44.037",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Pierluigi","Martini",22,"Dallara Ferrari","10",19,52,0,"1","1","1","1:45.650",NA,"1:43.251",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Ukyo","Katayama",30,"Venturi Lamborghini","11",20,52,0,"1","1","1","1:43.233",NA,"1:43.488",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Nicola","Larini",28,"Ferrari","12",11,52,0,"1","1","1","1:45.661",NA,"1:42.488",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Emanuele","Naspetti",17,"March Ilmor","13",26,51,0,"2","2","2","1:45.613",NA,"1:47.303",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","14",14,51,0,"2","2","2","1:45.827",NA,"1:42.627",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Michele","Alboreto",9,"Footwork Mugen Honda","15",24,51,0,"2","2","2","1:46.560",NA,"1:44.149",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Nigel","Mansell",5,"Williams Renault","NC",1,44,0,NA,NA,NA,"1:40.646",NA,"1:37.360",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Mika","Hakkinen",11,"Lotus Ford","NC",7,44,0,NA,NA,NA,"1:43.288",NA,"1:41.415",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Bertrand","Gachot",29,"Venturi Lamborghini","NC",18,39,0,NA,NA,NA,"1:44.960",NA,"1:43.156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Erik","Comas",26,"Ligier Renault","NC",8,36,0,NA,NA,NA,"1:45.340",NA,"1:42.187",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Jan","Lammers",16,"March Ilmor","NC",23,27,0,NA,NA,NA,"1:48.218",NA,"1:44.075",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","NC",25,22,0,NA,NA,NA,"1:47.633",NA,"1:44.253",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Johnny","Herbert",12,"Lotus Ford","NC",6,15,0,NA,NA,NA,"1:45.028",NA,"1:41.030",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Michael","Schumacher",19,"Benetton Ford","NC",5,13,0,NA,NA,NA,"1:46.218",NA,"1:40.922",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Olivier","Grouillard",3,"Tyrrell Ilmor","NC",21,6,0,NA,NA,NA,"1:48.225",NA,"1:43.941",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Thierry","Boutsen",25,"Ligier Renault","NC",10,3,0,NA,NA,NA,"2:00.768",NA,"1:42.428",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1992,"25 Oct 1992","Ayrton","Senna",1,"McLaren Honda","NC",3,2,0,NA,NA,NA,"1:46.229",NA,"1:38.375",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Gerhard","Berger",2,"McLaren Honda","1",4,82,10,"1:46:54.786",NA,NA,"1:16.807",NA,"1:15.114",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Michael","Schumacher",19,"Benetton Ford","2",5,82,6,"1:46:55.526","0.741","0.740000009536743","1:16.078",NA,"1:15.210",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Martin","Brundle",20,"Benetton Ford","3",8,82,4,"1:47:48.941","54.156","53.414999961853","1:17.877",NA,"1:16.562",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Jean","Alesi",27,"Ferrari","4",6,81,3,"1","1","1","1:19.119",NA,"1:16.091",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Thierry","Boutsen",25,"Ligier Renault","5",22,81,2,"1","1","1","1:18.398",NA,"1:17.957",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Stefano","Modena",32,"Jordan Yamaha","6",15,81,1,"1","1","1","1:18.888",NA,"1:17.231",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Mika","Hakkinen",11,"Lotus Ford","7",10,81,0,"1","1","1","1:18.950",NA,"1:16.863",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Aguri","Suzuki",10,"Footwork Mugen Honda","8",18,80,0,"2","2","2","1:19.092",NA,"1:17.409",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Christian","Fittipaldi",23,"Minardi Lamborghini","9",17,80,0,"2","2","2","1:18.956",NA,"1:17.367",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Gianni","Morbidelli",24,"Minardi Lamborghini","10",16,80,0,"2","2","2","1:19.737",NA,"1:17.333",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Nicola","Larini",28,"Ferrari","11",19,80,0,"2","2","2","1:19.202",NA,"1:17.465",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Jan","Lammers",16,"March Ilmor","12",25,79,0,"3","3","3","1:19.568",NA,"1:18.843",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Johnny","Herbert",12,"Lotus Ford","13",12,78,0,"4","4","4","1:18.572",NA,"1:16.944",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Jyrki","Jarvilehto",21,"Dallara Ferrari","NC",24,70,0,NA,NA,NA,"1:19.407",NA,"1:18.565",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Emanuele","Naspetti",17,"March Ilmor","NC",23,55,0,NA,NA,NA,"1:21.053",NA,"1:18.138",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Bertrand","Gachot",29,"Venturi Lamborghini","NC",21,51,0,NA,NA,NA,"1:19.895",NA,"1:17.808",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Riccardo","Patrese",6,"Williams Renault","NC",3,50,0,NA,NA,NA,"1:18.069",NA,"1:14.370",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Ukyo","Katayama",30,"Venturi Lamborghini","NC",26,35,0,NA,NA,NA,"1:21.502",NA,"1:18.862",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Andrea","deCesaris",4,"Tyrrell Ilmor","NC",7,29,0,NA,NA,NA,"1:20.607",NA,"1:16.440",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Nigel","Mansell",5,"Williams Renault","NC",1,18,0,NA,NA,NA,"1:17.823",NA,"1:13.732",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Ayrton","Senna",1,"McLaren Honda","NC",2,18,0,NA,NA,NA,"1:17.818",NA,"1:14.202",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Mauricio","Gugelmin",33,"Jordan Yamaha","NC",20,7,0,NA,NA,NA,"1:22.318",NA,"1:17.805",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1992,"08 Nov 1992","Erik","Comas",26,"Ligier Renault","NC",9,4,0,NA,NA,NA,"1:24.629",NA,"1:16.727",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

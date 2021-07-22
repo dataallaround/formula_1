@@ -1,0 +1,201 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Graham","Hill",6,"BRM","1",2,100,9,"2:41:49.700",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Richie","Ginther",5,"BRM","2",4,100,6,"2:41:54.299","4.600","4.59899997711182",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Bruce","McLaren",7,"Cooper Climax","3",8,100,4,"2:42:02.500","12.800","8.20099997520447",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","John","Surtees",21,"Ferrari","4",3,100,3,"2:42:03.799","14.100","1.29900002479553","1:34.500",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Tony","Maggs",8,"Cooper Climax","5",10,98,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Trevor","Taylor",10,"Lotus Climax","6",9,98,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Jo","Bonnier",11,"Cooper Climax","7",11,94,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Jim","Clark",9,"Lotus Climax","8",1,78,0,NA,NA,NA,NA,NA,"1:34.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Jack","Brabham",3,"Lotus Climax","9",15,77,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Innes","Ireland",14,"Lotus BRM","NC",5,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Willy","Mairesse",20,"Ferrari","NC",7,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Maurice","Trintignant",17,"Lola Climax","NC",14,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Dan","Gurney",4,"Brabham Climax","NC",6,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Jim","Hall",12,"Lotus BRM","NC",13,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1963,"26 May 1963","Jo","Siffert",25,"Lotus BRM","NC",12,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Jim","Clark",1,"Lotus Climax","1",8,32,9,"2:27:47.600",NA,NA,"3:58.100",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Bruce","McLaren",14,"Cooper Climax","2",5,32,6,"2:32:41.599","294.000","4.89998333454132",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Dan","Gurney",18,"Brabham Climax","3",2,31,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Richie","Ginther",8,"BRM","4",9,31,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Jo","Bonnier",12,"Cooper Climax","5",13,30,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","CarelGodin","deBeaufort",29,"Porsche","6",18,30,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Tony","Maggs",15,"Cooper Climax","7",4,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Tony","Settember",24,"Scirocco BRM","8",19,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","John","Surtees",9,"Ferrari","NC",10,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Graham","Hill",7,"BRM","NC",1,17,0,NA,NA,NA,NA,NA,"3:54.100",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Lucien","Bianchi",22,"Lola Climax","NC",16,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Jim","Hall",5,"Lotus BRM","NC",12,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Jo","Siffert",28,"Lotus BRM","NC",14,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Phil","Hill",26,"ATS","NC",17,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Jack","Brabham",17,"Brabham Climax","NC",6,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Chris","Amon",21,"Lola Climax","NC",15,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Innes","Ireland",4,"BRP BRM","NC",7,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Giancarlo","Baghetti",27,"ATS","NC",20,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Willy","Mairesse",10,"Ferrari","NC",3,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1963,"09 Jun 1963","Trevor","Taylor",2,"Lotus Climax","NC",11,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Jim","Clark",6,"Lotus Climax","1",1,80,9,"2:08:13.700",NA,NA,"1:33.700",NA,"1:31.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Dan","Gurney",18,"Brabham Climax","2",14,79,6,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","John","Surtees",2,"Ferrari","3",5,79,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Innes","Ireland",30,"BRP BRM","4",7,79,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Richie","Ginther",14,"BRM","5",6,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Ludovico","Scarfiotti",4,"Ferrari","6",11,78,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Jo","Siffert",36,"Lotus BRM","7",17,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Jim","Hall",42,"Lotus BRM","8",18,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","CarelGodin","deBeaufort",32,"Porsche","9",19,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Graham","Hill",12,"BRM","NC",2,69,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Jack","Brabham",16,"Brabham Climax","NC",4,68,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Trevor","Taylor",8,"Lotus Climax","10",10,66,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Jo","Bonnier",28,"Cooper Climax","11",8,56,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Chris","Amon",10,"Lola Climax","NC",12,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Giancarlo","Baghetti",26,"ATS","NC",15,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Phil","Hill",24,"ATS","NC",13,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Tony","Maggs",22,"Cooper Climax","NC",9,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Bruce","McLaren",20,"Cooper Climax","NC",3,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1963,"23 Jun 1963","Gerhard","Mitter",34,"Porsche","NC",16,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Jim","Clark",18,"Lotus Climax","1",1,53,9,"2:10:54.300",NA,NA,"2:21.600",NA,"2:20.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Tony","Maggs",12,"Cooper Climax","2",8,53,6,"2:11:59.200","64.900","1.08166666825612",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Graham","Hill",2,"BRM","3",2,53,0,"2:13:08.200","133.900","1.15",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Jack","Brabham",6,"Brabham Climax","4",5,53,3,"2:13:09.500","135.200","1.29999995231628",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Dan","Gurney",8,"Brabham Climax","5",3,53,2,"2:13:27.700","153.400","18.2000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Jo","Siffert",36,"Lotus BRM","6",10,52,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Chris","Amon",30,"Lola Climax","7",15,51,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Maurice","Trintignant",28,"Lotus Climax","8",14,50,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Innes","Ireland",32,"BRP BRM","9",9,49,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Lorenzo","Bandini",46,"BRM","10",19,45,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Jim","Hall",34,"Lotus BRM","11",16,45,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Bruce","McLaren",10,"Cooper Climax","12",6,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Trevor","Taylor",20,"Lotus Climax","13",7,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Phil","Hill",42,"Lotus BRM","NC",13,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Jo","Bonnier",44,"Cooper Climax","NC",11,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Masten","Gregory",48,"null","NC",17,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","John","Surtees",16,"Ferrari","NC",4,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Tony","Settember",38,"Scirocco BRM","NC",18,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1963,"30 Jun 1963","Richie","Ginther",4,"BRM","NC",12,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Jim","Clark",4,"Lotus Climax","1",1,82,9,"2:14:09.600",NA,NA,NA,NA,"1:34.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","John","Surtees",10,"Ferrari","2",5,82,6,"2:14:35.399","25.800","25.7990000247955","1:36.000",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Graham","Hill",1,"BRM","3",3,82,4,"2:14:47.199","37.600","11.7999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Richie","Ginther",2,"BRM","4",9,81,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Lorenzo","Bandini",3,"BRM","5",8,81,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Jim","Hall",12,"Lotus BRM","6",13,80,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Chris","Amon",19,"Lola Climax","7",14,80,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Mike","Hailwood",20,"Lotus Climax","8",17,78,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Tony","Maggs",7,"Cooper Climax","9",7,78,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","CarelGodin","deBeaufort",23,"Porsche","10",21,76,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Masten","Gregory",21,"Lotus BRM","11",22,75,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Bob","Anderson",22,"Lola Climax","12",16,75,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","John","Campbell-Jones",24,"Lola Climax","13",23,74,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Jo","Siffert",25,"Lotus BRM","NC",15,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Jo","Bonnier",14,"Cooper Climax","NC",12,65,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Dan","Gurney",9,"Brabham Climax","NC",2,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Ian","Raby",26,"Gilby BRM","NC",19,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Ian","Burgess",16,"Scirocco BRM","NC",20,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Jack","Brabham",8,"Brabham Climax","NC",4,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Innes","Ireland",11,"BRP BRM","DQ",11,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Trevor","Taylor",5,"Lotus Climax","DQ",10,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Tony","Settember",15,"Scirocco BRM","NC",18,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1963,"20 Jul 1963","Bruce","McLaren",6,"Cooper Climax","NC",6,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","John","Surtees",7,"Ferrari","1",2,15,9,"2:13:06.800",NA,NA,"8:47.000",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Jim","Clark",3,"Lotus Climax","2",1,15,6,"2:14:24.299","77.500","1.29165000120799",NA,NA,"8:45.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Richie","Ginther",2,"BRM","3",6,15,4,"2:15:51.700","164.900","1.4566833337148",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Gerhard","Mitter",26,"Porsche","4",15,15,3,"2:21:18.299","491.500","5.4433166662852",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Jim","Hall",20,"Lotus BRM","5",16,14,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Jo","Bonnier",16,"Cooper Climax","6",12,14,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Jack","Brabham",9,"Brabham Climax","7",8,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Trevor","Taylor",4,"Lotus Climax","8",18,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Jo","Siffert",18,"Lotus BRM","9",9,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Bernard","Collomb",28,"Lotus Climax","10",21,10,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","CarelGodin","deBeaufort",17,"Porsche","NC",17,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Tony","Maggs",6,"Cooper Climax","NC",10,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Dan","Gurney",10,"Brabham Climax","NC",13,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Mario","deAraujoCabral",22,"Cooper Climax","NC",20,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Ian","Burgess",24,"Scirocco BRM","NC",19,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Tony","Settember",23,"Scirocco BRM","NC",22,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Bruce","McLaren",5,"Cooper Climax","NC",5,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Chris","Amon",21,"Lola Climax","NC",14,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Graham","Hill",1,"BRM","NC",4,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Willy","Mairesse",8,"Ferrari","NC",7,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Innes","Ireland",14,"Lotus BRM","NC",11,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1963,"04 Aug 1963","Lorenzo","Bandini",15,"BRM","NC",3,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Jim","Clark",8,"Lotus Climax","1",3,86,9,"2:24:19.600",NA,NA,"1:38.900",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Richie","Ginther",10,"BRM","2",4,86,6,"2:25:54.599","95.000","1.58331666787465",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Bruce","McLaren",18,"Cooper Climax","3",8,85,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Innes","Ireland",32,"BRP BRM","4",10,84,3,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Jack","Brabham",22,"Brabham Climax","5",7,84,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Tony","Maggs",20,"Cooper Climax","6",13,84,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Jo","Bonnier",58,"Cooper Climax","7",11,84,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Jim","Hall",30,"Lotus BRM","8",16,84,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Maurice","Trintignant",66,"BRM","9",19,83,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Mike","Hailwood",40,"Lola Climax","10",17,82,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Phil","Hill",16,"ATS","11",14,79,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Bob","Anderson",48,"Lola Climax","12",18,79,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Mike","Spence",6,"Lotus Climax","13",9,73,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Dan","Gurney",24,"Brabham Climax","14",5,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Giancarlo","Baghetti",14,"ATS","15",20,63,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Graham","Hill",12,"BRM","16",2,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Jo","Siffert",54,"Lotus BRM","NC",15,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Lorenzo","Bandini",2,"Ferrari","NC",6,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","Masten","Gregory",42,"Lotus BRM","NC",12,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1963,"08 Sep 1963","John","Surtees",4,"Ferrari","NC",1,16,0,NA,NA,NA,NA,NA,"1:37.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Graham","Hill",1,"BRM","1",1,110,9,"2:19:22.100",NA,NA,NA,NA,"1:13.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Richie","Ginther",2,"BRM","2",4,110,6,"2:19:56.399","34.300","34.2990000247955",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Jim","Clark",8,"Lotus Climax","3",2,109,4,"1","1","1","1:14.500",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Jack","Brabham",5,"Brabham Climax","4",5,108,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Lorenzo","Bandini",24,"Ferrari","5",9,106,2,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","CarelGodin","deBeaufort",12,"Porsche","6",19,99,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Peter","Broeker",21,"Stebro Ford","7",21,88,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Jo","Bonnier",11,"Cooper Climax","8",12,85,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","John","Surtees",23,"Ferrari","9",3,82,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Jim","Hall",16,"Lotus BRM","10",16,76,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Bruce","McLaren",3,"Cooper Climax","11",11,74,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Jo","Siffert",14,"Lotus BRM","NC",14,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Rodger","Ward",18,"Lotus BRM","NC",17,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Tony","Maggs",4,"Cooper Climax","NC",10,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Dan","Gurney",6,"Brabham Climax","NC",6,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Pedro","Rodriguez",10,"Lotus Climax","NC",13,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Trevor","Taylor",9,"Lotus Climax","NC",7,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Masten","Gregory",17,"Lola Climax","NC",8,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Hap","Sharp",22,"Lotus BRM","NC",18,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Phil","Hill",25,"ATS","NC",15,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1963,"06 Oct 1963","Giancarlo","Baghetti",26,"ATS","NC",20,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Jim","Clark",8,"Lotus Climax","1",1,65,9,"2:09:52.100",NA,NA,"1:58.100",NA,"1:58.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Jack","Brabham",5,"Brabham Climax","2",10,65,6,"2:11:33.199","101.100","1.68498333295186",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Richie","Ginther",2,"BRM","3",5,65,4,"2:11:46.799","114.700","13.6000001430511",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Graham","Hill",1,"BRM","4",3,64,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Jo","Bonnier",11,"Cooper Climax","5",8,62,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Dan","Gurney",6,"Brabham Climax","6",4,62,1,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Hap","Sharp",22,"Lotus BRM","7",16,61,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Jim","Hall",16,"Lotus BRM","8",15,60,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Jo","Siffert",14,"Lotus BRM","9",9,59,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","CarelGodin","deBeaufort",12,"Porsche","10",18,58,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Moises","Solana",13,"BRM","11",11,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Phil","Hill",25,"ATS","NC",17,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Lorenzo","Bandini",24,"Ferrari","NC",7,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Bruce","McLaren",3,"Cooper Climax","NC",6,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Pedro","Rodriguez",10,"Lotus Climax","NC",20,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Masten","Gregory",17,"Lola Climax","NC",14,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Trevor","Taylor",9,"Lotus Climax","NC",12,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","John","Surtees",23,"Ferrari","DQ",2,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Giancarlo","Baghetti",26,"ATS","NC",21,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Chris","Amon",18,"Lotus BRM","NC",19,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1963,"27 Oct 1963","Tony","Maggs",4,"Cooper Climax","NC",13,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Jim","Clark",1,"Lotus Climax","1",1,85,9,"2:10:36.900",NA,NA,NA,NA,"1:28.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Dan","Gurney",9,"Brabham Climax","2",3,85,6,"2:11:43.700","66.800","1.1133333325386","1:29.100",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Graham","Hill",5,"BRM","3",6,84,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Bruce","McLaren",10,"Cooper Climax","4",9,84,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Lorenzo","Bandini",4,"Ferrari","5",5,84,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Jo","Bonnier",12,"Cooper Climax","6",11,83,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Tony","Maggs",11,"Cooper Climax","7",10,82,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Trevor","Taylor",2,"Lotus Climax","8",8,81,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","John","Love",19,"Cooper Climax","9",13,80,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","CarelGodin","deBeaufort",14,"Porsche","10",20,79,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Doug","Serrurier",16,"LDS Alfa Romeo","11",18,78,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Trevor","Blokdyk",23,"Cooper Maserati","12",19,77,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Jack","Brabham",8,"Brabham Climax","13",2,70,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Brausch","Niemann",21,"Lotus Ford","14",15,66,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Peter","deKlerk",18,"Alfa Romeo","NC",16,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","David","Prophet",22,"Brabham Ford","NC",14,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Richie","Ginther",6,"BRM","NC",7,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","John","Surtees",3,"Ferrari","NC",4,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Ernie","Pieterse",7,"Lotus Climax","NC",12,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Prince George Circuit, South Africa",1963,"28 Dec 1963","Sam","Tingle",20,"LDS Alfa Romeo","NC",17,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

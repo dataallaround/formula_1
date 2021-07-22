@@ -1,0 +1,385 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Denny","Hulme",6,"McLaren Ford","1",10,53,9,"1:41:02.010",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Niki","Lauda",12,"Ferrari","2",8,53,6,"1:41:11.279","9.270","9.26900005340576",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Clay","Regazzoni",11,"Ferrari","3",2,53,4,"1:41:22.420","20.410","11.1410000324249","1:52.100",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Mike","Hailwood",33,"McLaren Ford","4",9,53,3,"1:41:33.799","31.790","11.3789999485016",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Jean-Pierre","Beltoise",14,"BRM","5",14,53,2,"1:41:53.849","51.840","20.0499999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Patrick","Depailler",4,"Tyrrell Ford","6",15,53,1,"1:42:54.490","112.480","1.01068333387375",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Carlos","Reutemann",7,"Brabham Ford","7",6,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Howden","Ganley",10,"March Ford","8",19,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Henri","Pescarolo",15,"BRM","9",21,52,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Emerson","Fittipaldi",5,"McLaren Ford","10",3,51,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Guy","Edwards",27,"Lola Ford","11",25,50,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","John","Watson",28,"Brabham Ford","12",20,49,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Ronnie","Peterson",1,"Lotus Ford","13",1,48,0,"5","5","5",NA,NA,"1:50.780",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Graham","Hill",26,"Lola Ford","NC",17,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Richard","Robarts",8,"Brabham Ford","NC",22,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Jacky","Ickx",2,"Lotus Ford","NC",7,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Hans-Joachim","Stuck",9,"March Ford","NC",23,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Francois","Migault",37,"BRM","NC",24,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Jody","Scheckter",3,"Tyrrell Ford","NC",12,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Carlos","Pace",18,"Surtees Ford","NC",11,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Arturo","Merzario",20,"Iso Marlboro Ford","NC",13,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","James","Hunt",24,"March Ford","NC",5,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Jochen","Mass",19,"Surtees Ford","NC",18,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Peter","Revson",16,"Shadow Ford","NC",4,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1974,"13 Jan 1974","Jean-Pierre","Jarier",17,"Shadow Ford","NC",16,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Emerson","Fittipaldi",5,"McLaren Ford","1",1,32,9,"1:24:37.060",NA,NA,NA,NA,"2:32.970",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Clay","Regazzoni",11,"Ferrari","2",8,32,6,"1:24:50.629","13.570","13.569000005722","2:36.050",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Jacky","Ickx",2,"Lotus Ford","3",5,31,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Carlos","Pace",18,"Surtees Ford","4",12,31,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Mike","Hailwood",33,"McLaren Ford","5",7,31,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Ronnie","Peterson",1,"Lotus Ford","6",4,31,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Carlos","Reutemann",7,"Brabham Ford","7",2,31,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Patrick","Depailler",4,"Tyrrell Ford","8",16,31,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","James","Hunt",24,"March Ford","9",18,31,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Jean-Pierre","Beltoise",14,"BRM","10",17,31,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Graham","Hill",26,"Lola Ford","11",21,31,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Denny","Hulme",6,"McLaren Ford","12",11,31,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Jody","Scheckter",3,"Tyrrell Ford","13",14,31,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Henri","Pescarolo",15,"BRM","14",22,30,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Richard","Robarts",8,"Brabham Ford","15",24,30,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Francois","Migault",37,"BRM","16",23,30,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Jochen","Mass",19,"Surtees Ford","17",10,30,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","John","Watson",28,"Brabham Ford","NC",15,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Hans-Joachim","Stuck",9,"March Ford","NC",13,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Jean-Pierre","Jarier",17,"Shadow Ford","NC",19,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Arturo","Merzario",20,"Iso Marlboro Ford","NC",9,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Peter","Revson",16,"Shadow Ford","NC",6,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Howden","Ganley",10,"March Ford","NC",20,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Guy","Edwards",27,"Lola Ford","NC",25,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo de Interlagos, Brazil",1974,"27 Jan 1974","Niki","Lauda",12,"Ferrari","NC",3,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Carlos","Reutemann",7,"Brabham Ford","1",4,78,9,"1:42:40.960",NA,NA,"1:18.160",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Jean-Pierre","Beltoise",14,"BRM","2",11,78,6,"1:43:14.900","33.940","33.9400000572205",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Mike","Hailwood",33,"McLaren Ford","3",12,78,4,"1:43:23.120","42.160","8.21999979019165",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Patrick","Depailler",4,"Tyrrell Ford","4",15,78,3,"1:43:25.150","44.190","2.03000020980835",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Hans-Joachim","Stuck",9,"March Ford","5",7,78,2,"1:43:27.190","46.230","2.03999996185303",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Arturo","Merzario",20,"Iso Marlboro Ford","6",3,78,1,"1:43:37.000","56.040","9.80999994277954",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Emerson","Fittipaldi",5,"McLaren Ford","7",5,78,0,"1:43:49.350","68.390","12.3499999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Jody","Scheckter",3,"Tyrrell Ford","8",8,78,0,"1:43:51.500","70.540","2.15000009536743",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Denny","Hulme",6,"McLaren Ford","9",9,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Vittorio","Brambilla",10,"March Ford","10",19,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Carlos","Pace",18,"Surtees Ford","11",2,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Graham","Hill",26,"Lola Ford","12",18,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Ian","Scheckter",29,"Lotus Ford","13",22,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Eddie","Keizan",32,"Tyrrell Ford","14",24,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Francois","Migault",37,"BRM","15",25,75,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Niki","Lauda",12,"Ferrari","16",1,74,0,NA,NA,NA,NA,NA,"1:16.580",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Richard","Robarts",8,"Brabham Ford","17",23,74,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Henri","Pescarolo",15,"BRM","18",21,72,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Dave","Charlton",23,"McLaren Ford","19",20,71,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Clay","Regazzoni",11,"Ferrari","NC",6,65,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","John","Watson",28,"Brabham Ford","NC",13,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Jacky","Ickx",2,"Lotus Ford","NC",10,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","James","Hunt",24,"Hesketh Ford","NC",14,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Jochen","Mass",19,"Surtees Ford","NC",17,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Paddy","Driver",30,"Lotus Ford","NC",26,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Ronnie","Peterson",1,"Lotus Ford","NC",16,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1974,"30 Mar 1974","Tom","Belso",21,"Iso Marlboro Ford","NC",27,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Niki","Lauda",12,"Ferrari","1",1,84,9,"2:00:29.560",NA,NA,"1:20.830",NA,"1:18.440",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Clay","Regazzoni",11,"Ferrari","2",3,84,6,"2:01:05.169","35.610","35.6089999675751",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Emerson","Fittipaldi",5,"McLaren Ford","3",4,83,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Hans-Joachim","Stuck",9,"March Ford","4",13,82,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Jody","Scheckter",3,"Tyrrell Ford","5",9,82,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Denny","Hulme",56,"McLaren Ford","6",8,82,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Brian","Redman",16,"Shadow Ford","7",21,81,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Patrick","Depailler",4,"Tyrrell Ford","8",16,81,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Mike","Hailwood",33,"McLaren Ford","9",17,81,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","James","Hunt",24,"Hesketh Ford","10",10,81,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","John","Watson",28,"Brabham Ford","11",15,80,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Henri","Pescarolo",15,"BRM","12",20,80,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Carlos","Pace",18,"Surtees Ford","13",14,78,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Tim","Schenken",23,"Trojan Ford","14",25,76,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Jean-Pierre","Jarier",17,"Shadow Ford","NC",12,73,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Graham","Hill",26,"Lola Ford","NC",19,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Arturo","Merzario",20,"Iso Marlboro Ford","NC",7,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Jochen","Mass",19,"Surtees Ford","NC",18,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Francois","Migault",37,"BRM","NC",22,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Jacky","Ickx",2,"Lotus Ford","NC",5,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Ronnie","Peterson",1,"Lotus Ford","NC",2,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Chris","Amon",30,"Amon Ford","NC",23,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Rikky","vonOpel",8,"Brabham Ford","NC",24,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Carlos","Reutemann",7,"Brabham Ford","NC",6,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1974,"28 Apr 1974","Jean-Pierre","Beltoise",14,"BRM","NC",11,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Emerson","Fittipaldi",5,"McLaren Ford","1",4,85,9,"1:44:20.570",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Niki","Lauda",12,"Ferrari","2",3,85,6,"1:44:20.919","0.350","0.348999977111816",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Jody","Scheckter",3,"Tyrrell Ford","3",2,85,4,"1:45:06.179","45.610","45.2599999904633",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Clay","Regazzoni",11,"Ferrari","4",1,85,3,"1:45:12.589","52.020","6.41000008583069",NA,NA,"1:09.820",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Jean-Pierre","Beltoise",14,"BRM","5",7,85,2,"1:45:28.619","68.050","16.0299999713898",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Denny","Hulme",6,"McLaren Ford","6",12,85,1,"1:45:31.109","70.540","2.49000000953674","1:11.310",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Mike","Hailwood",33,"McLaren Ford","7",13,84,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Graham","Hill",26,"Lola Ford","8",29,83,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Vittorio","Brambilla",10,"March Ford","9",31,83,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Tim","Schenken",41,"Trojan Ford","10",23,83,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","John","Watson",28,"Brabham Ford","11",19,83,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Guy","Edwards",27,"Lola Ford","12",21,82,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Jean-Pierre","Jarier",17,"Shadow Ford","13",17,82,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Gijs","vanLennep",21,"Iso Marlboro Ford","14",30,82,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Vern","Schuppan",22,"Ensign Ford","15",14,82,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Francois","Migault",37,"BRM","16",25,82,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Teddy","Pilette",34,"Brabham Ford","17",27,81,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Brian","Redman",16,"Shadow Ford","18",18,80,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Jacky","Ickx",2,"Lotus Ford","NC",16,72,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Tom","Pryce",42,"Token Ford","NC",20,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Carlos","Reutemann",7,"Brabham Ford","NC",24,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Ronnie","Peterson",1,"Lotus Ford","NC",5,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Gerard","Larrousse",43,"Brabham Ford","NC",28,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Jochen","Mass",19,"Surtees Ford","NC",26,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Patrick","Depailler",4,"Tyrrell Ford","NC",11,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Carlos","Pace",18,"Surtees Ford","NC",8,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Rikky","vonOpel",8,"Brabham Ford","NC",22,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Arturo","Merzario",20,"Iso Marlboro Ford","NC",6,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Henri","Pescarolo",15,"BRM","NC",15,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1974,"12 May 1974","Hans-Joachim","Stuck",9,"March Ford","NC",10,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Ronnie","Peterson",1,"Lotus Ford","1",3,78,9,"1:58:03.700",NA,NA,"1:27.900",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Jody","Scheckter",3,"Tyrrell Ford","2",5,78,6,"1:58:32.500","28.800","28.7999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Jean-Pierre","Jarier",17,"Shadow Ford","3",6,78,4,"1:58:52.600","48.900","20.0999999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Clay","Regazzoni",11,"Ferrari","4",2,78,3,"1:59:06.799","63.100","14.199000120163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Emerson","Fittipaldi",5,"McLaren Ford","5",13,77,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","John","Watson",28,"Brabham Ford","6",23,77,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Graham","Hill",26,"Lola Ford","7",21,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Guy","Edwards",27,"Lola Ford","8",26,76,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Patrick","Depailler",4,"Tyrrell Ford","9",4,75,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Henri","Pescarolo",15,"BRM","NC",27,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Jacky","Ickx",2,"Lotus Ford","NC",19,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Niki","Lauda",12,"Ferrari","NC",1,32,0,NA,NA,NA,NA,NA,"1:26.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","James","Hunt",24,"Hesketh Ford","NC",7,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Mike","Hailwood",33,"McLaren Ford","NC",10,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Carlos","Reutemann",7,"Brabham Ford","NC",8,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Francois","Migault",37,"BRM","NC",22,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Vern","Schuppan",22,"Ensign Ford","NC",25,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Hans-Joachim","Stuck",9,"March Ford","NC",9,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Vittorio","Brambilla",10,"March Ford","NC",15,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Jean-Pierre","Beltoise",14,"BRM","NC",11,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Tim","Schenken",23,"Trojan Ford","NC",24,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Carlos","Pace",18,"Surtees Ford","NC",18,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Brian","Redman",16,"Shadow Ford","NC",16,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Arturo","Merzario",20,"Iso Marlboro Ford","NC",14,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1974,"26 May 1974","Denny","Hulme",6,"McLaren Ford","NC",12,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Jody","Scheckter",3,"Tyrrell Ford","1",2,80,9,"1:58:31.391",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Patrick","Depailler",4,"Tyrrell Ford","2",1,80,6,"1:58:31.771","0.380","0.379999876022339","1:27.262",NA,"1:24.758",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","James","Hunt",24,"Hesketh Ford","3",6,80,4,"1:58:34.716","3.325","2.94500017166138",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Emerson","Fittipaldi",5,"McLaren Ford","4",9,80,3,"1:59:24.898","53.507","50.1819999217987",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Jean-Pierre","Jarier",17,"Shadow Ford","5",8,80,2,"1:59:47.794","76.403","22.8959999084473",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Graham","Hill",26,"Lola Ford","6",15,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Guy","Edwards",27,"Lola Ford","7",18,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Tom","Belso",21,"Iso Marlboro Ford","8",21,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Rikky","vonOpel",8,"Brabham Ford","9",20,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Vittorio","Brambilla",10,"March Ford","10",17,79,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","John","Watson",28,"Brabham Ford","11",14,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Vern","Schuppan",22,"Ensign Ford","DQ",26,77,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Niki","Lauda",12,"Ferrari","NC",3,70,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Reine","Wisell",9,"March Ford","NC",16,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Denny","Hulme",6,"McLaren Ford","NC",12,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Jochen","Mass",19,"Surtees Ford","NC",22,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Carlos","Reutemann",7,"Brabham Ford","NC",10,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Jacky","Ickx",2,"Lotus Ford","NC",7,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Clay","Regazzoni",11,"Ferrari","NC",4,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Carlos","Pace",18,"Surtees Ford","NC",24,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Leo","Kinnunen",23,"Surtees Ford","NC",25,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Ronnie","Peterson",1,"Lotus Ford","NC",5,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Mike","Hailwood",33,"McLaren Ford","NC",11,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Jean-Pierre","Beltoise",14,"BRM","NC",13,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Bertil","Roos",16,"Shadow Ford","NC",23,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sweden","Scandinavian Raceway, Sweden",1974,"09 Jun 1974","Henri","Pescarolo",15,"BRM","NC",19,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Niki","Lauda",12,"Ferrari","1",1,75,9,"1:43:00.350",NA,NA,NA,NA,"1:18.310",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Clay","Regazzoni",11,"Ferrari","2",2,75,6,"1:43:08.599","8.250","8.24900007247925",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Emerson","Fittipaldi",5,"McLaren Ford","3",3,75,4,"1:43:30.619","30.270","22.0199999809265",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Mike","Hailwood",33,"McLaren Ford","4",4,75,3,"1:43:31.639","31.290","1.01999998092651",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Jody","Scheckter",3,"Tyrrell Ford","5",5,75,2,"1:43:34.629","34.280","2.99000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Patrick","Depailler",4,"Tyrrell Ford","6",8,75,1,"1:43:51.869","51.520","17.2400000095367",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","John","Watson",28,"Brabham Ford","7",13,75,0,"1:44:14.299","73.950","22.4300000667572",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Ronnie","Peterson",1,"Lotus Ford","8",10,73,0,"2","2","2","1:21.440",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Rikky","vonOpel",8,"Brabham Ford","9",23,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Vittorio","Brambilla",10,"March Ford","10",15,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Jacky","Ickx",2,"Lotus Ford","11",18,71,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Carlos","Reutemann",7,"Brabham Ford","12",12,71,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Vern","Schuppan",22,"Ensign Ford","DQ",17,69,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Denny","Hulme",6,"McLaren Ford","NC",9,65,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Francois","Migault",37,"BRM","NC",25,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Arturo","Merzario",20,"Iso Marlboro Ford","NC",21,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Guy","Edwards",27,"Lola Ford","NC",14,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Jean-Pierre","Jarier",17,"Shadow Ford","NC",7,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Jean-Pierre","Beltoise",14,"BRM","NC",16,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Graham","Hill",26,"Lola Ford","NC",19,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Henri","Pescarolo",15,"BRM","NC",24,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Jochen","Mass",19,"Surtees Ford","NC",20,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","James","Hunt",24,"Hesketh Ford","NC",6,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Hans-Joachim","Stuck",9,"March Ford","NC",22,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1974,"23 Jun 1974","Tom","Pryce",16,"Shadow Ford","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Ronnie","Peterson",1,"Lotus Ford","1",2,80,9,"1:21:55.020",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Niki","Lauda",12,"Ferrari","2",1,80,6,"1:22:15.379","20.360","20.3589999675751",NA,NA,"58.79",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Clay","Regazzoni",11,"Ferrari","3",4,80,4,"1:22:22.859","27.840","7.48000001907349",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Jody","Scheckter",3,"Tyrrell Ford","4",7,80,3,"1:22:23.129","28.110","0.269999980926514","1:00.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Jacky","Ickx",2,"Lotus Ford","5",13,80,2,"1:22:32.559","37.540","9.4300000667572",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Denny","Hulme",6,"McLaren Ford","6",11,80,1,"1:22:33.160","38.140","0.601000070571899",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Mike","Hailwood",33,"McLaren Ford","7",6,79,0,"1","1","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Patrick","Depailler",4,"Tyrrell Ford","8",9,79,0,"1","1","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Arturo","Merzario",20,"Iso Marlboro Ford","9",15,79,0,"1","1","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Jean-Pierre","Beltoise",14,"BRM","10",17,79,0,"1","1","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Vittorio","Brambilla",10,"March Ford","11",16,79,0,"1","1","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Jean-Pierre","Jarier",17,"Shadow Ford","12",12,79,0,"1","1","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Graham","Hill",26,"Lola Ford","13",21,78,0,"2","2","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Francois","Migault",37,"BRM","14",22,78,0,"2","2","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Guy","Edwards",27,"Lola Ford","15",20,77,0,"3","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","John","Watson",28,"Brabham Ford","16",14,76,0,"4","4","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Emerson","Fittipaldi",5,"McLaren Ford","NC",5,27,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Carlos","Reutemann",7,"Brabham Ford","NC",8,24,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Jochen","Mass",19,"Surtees Ford","NC",18,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Henri","Pescarolo",15,"BRM","NC",19,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","Tom","Pryce",16,"Shadow Ford","NC",3,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1974,"07 Jul 1974","James","Hunt",24,"Hesketh Ford","NC",10,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Jody","Scheckter",3,"Tyrrell Ford","1",3,75,9,"1:43:02.200",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Emerson","Fittipaldi",5,"McLaren Ford","2",8,75,6,"1:43:17.500","15.300","15.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Jacky","Ickx",2,"Lotus Ford","3",12,75,4,"1:44:03.700","61.500","46.2000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Clay","Regazzoni",11,"Ferrari","4",7,75,3,"1:44:09.400","67.200","5.70000004768372",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Niki","Lauda",12,"Ferrari","5",1,74,2,"1","1","1","1:21.100",NA,"1:19.700",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Carlos","Reutemann",7,"Brabham Ford","6",4,74,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Denny","Hulme",6,"McLaren Ford","7",19,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Tom","Pryce",16,"Shadow Ford","8",5,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Carlos","Pace",8,"Brabham Ford","9",20,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Ronnie","Peterson",1,"Lotus Ford","10",2,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","John","Watson",28,"Brabham Ford","11",13,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Jean-Pierre","Beltoise",14,"BRM","12",23,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Graham","Hill",26,"Lola Ford","13",22,69,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Jochen","Mass",19,"Surtees Ford","14",17,68,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Henri","Pescarolo",15,"BRM","NC",24,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Francois","Migault",37,"BRM","NC",14,62,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Mike","Hailwood",33,"McLaren Ford","NC",11,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Jean-Pierre","Jarier",17,"Shadow Ford","NC",16,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Hans-Joachim","Stuck",9,"March Ford","NC",9,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Patrick","Depailler",4,"Tyrrell Ford","NC",10,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Arturo","Merzario",20,"Iso Marlboro Ford","NC",15,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Vittorio","Brambilla",10,"March Ford","NC",18,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Tim","Schenken",23,"Trojan Ford","NC",25,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","James","Hunt",24,"Hesketh Ford","NC",6,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1974,"20 Jul 1974","Peter","Gethin",27,"Lola Ford","NC",21,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Clay","Regazzoni",11,"Ferrari","1",2,14,9,"1:41:35.000",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Jody","Scheckter",3,"Tyrrell Ford","2",4,14,6,"1:42:25.700","50.700","50.7000000476837","7:11.100",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Carlos","Reutemann",7,"Brabham Ford","3",6,14,4,"1:42:58.299","83.300","32.5989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Ronnie","Peterson",1,"Lotus Ford","4",8,14,3,"1:42:59.200","84.200","0.901000022888184",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Jacky","Ickx",2,"Lotus Ford","5",9,14,2,"1:43:00.000","85.000","0.799999952316284",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Tom","Pryce",16,"Shadow Ford","6",11,14,1,"1:43:53.099","138.100","53.0989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Hans-Joachim","Stuck",9,"March Ford","7",20,14,0,"1:44:33.700","178.700","40.6010000705719",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Jean-Pierre","Jarier",17,"Shadow Ford","8",18,14,0,"1:45:00.900","205.900","27.2000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Graham","Hill",26,"Lola Ford","9",19,14,0,"1:45:01.400","206.400","0.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Henri","Pescarolo",15,"BRM","10",24,14,0,"1:45:52.700","257.700","51.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Derek","Bell",18,"Surtees Ford","11",25,14,0,"1:46:52.700","317.700","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Carlos","Pace",8,"Brabham Ford","12",17,14,0,"1:48:01.299","386.300","1.1433166662852",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Vittorio","Brambilla",10,"March Ford","13",23,14,0,"1:50:18.099","523.100","2.27999999920527",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Ian","Ashley",32,"Token Ford","14",26,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Mike","Hailwood",33,"McLaren Ford","15",12,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","James","Hunt",24,"Hesketh Ford","NC",13,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Jochen","Mass",19,"Surtees Ford","NC",10,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Patrick","Depailler",4,"Tyrrell Ford","NC",5,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Arturo","Merzario",20,"Iso Marlboro Ford","NC",16,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Jean-Pierre","Beltoise",14,"BRM","NC",15,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Vern","Schuppan",22,"Ensign Ford","NC",22,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Emerson","Fittipaldi",5,"McLaren Ford","NC",3,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Jacques","Laffite",21,"Iso Marlboro Ford","NC",21,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","John","Watson",28,"Brabham Ford","NC",14,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Niki","Lauda",12,"Ferrari","NC",1,0,0,NA,NA,NA,NA,NA,"7:00.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1974,"04 Aug 1974","Denny","Hulme",6,"McLaren Ford","DQ",7,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Carlos","Reutemann",7,"Brabham Ford","1",2,54,9,"1:28:44.720",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Denny","Hulme",6,"McLaren Ford","2",10,54,6,"1:29:27.640","42.920","42.9200000762939",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","James","Hunt",24,"Hesketh Ford","3",7,54,4,"1:29:46.259","61.540","18.6189999580383",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","John","Watson",28,"Brabham Ford","4",11,54,3,"1:29:54.110","69.390","7.85099983215332",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Clay","Regazzoni",11,"Ferrari","5",8,54,2,"1:29:57.799","73.080","3.68900012969971","1:37.220",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Vittorio","Brambilla",10,"March Ford","6",20,54,1,"1:29:58.539","73.820","0.740000009536743",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","David","Hobbs",33,"McLaren Ford","7",17,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Jean-Pierre","Jarier",17,"Shadow Ford","8",23,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Dieter","Quester",30,"Surtees Ford","9",25,51,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Tim","Schenken",23,"Trojan Ford","10",19,50,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Hans-Joachim","Stuck",9,"March Ford","11",15,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Graham","Hill",26,"Lola Ford","12",21,48,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Ian","Ashley",35,"Token Ford","NC",24,46,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Ronnie","Peterson",1,"Lotus Ford","NC",6,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Jacky","Ickx",2,"Lotus Ford","NC",22,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Patrick","Depailler",4,"Tyrrell Ford","NC",14,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Carlos","Pace",8,"Brabham Ford","NC",4,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Emerson","Fittipaldi",5,"McLaren Ford","NC",3,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Jacques","Laffite",21,"Iso Marlboro Ford","NC",12,37,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Arturo","Merzario",20,"Iso Marlboro Ford","NC",9,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Jean-Pierre","Beltoise",14,"BRM","NC",18,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Tom","Pryce",16,"Shadow Ford","NC",16,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Niki","Lauda",12,"Ferrari","NC",1,17,0,NA,NA,NA,NA,NA,"1:35.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Rolf","Stommelen",27,"Lola Ford","NC",13,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1974,"18 Aug 1974","Jody","Scheckter",3,"Tyrrell Ford","NC",5,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Ronnie","Peterson",1,"Lotus Ford","1",7,52,9,"1:22:56.600",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Emerson","Fittipaldi",5,"McLaren Ford","2",6,52,6,"1:22:57.399","0.800","0.799000024795532",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Jody","Scheckter",3,"Tyrrell Ford","3",12,52,4,"1:23:21.299","24.700","23.9000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Arturo","Merzario",20,"Iso Marlboro Ford","4",15,52,3,"1:24:24.299","87.700","1.05",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Carlos","Pace",8,"Brabham Ford","5",3,51,2,"1","1","1","1:34.200",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Denny","Hulme",6,"McLaren Ford","6",19,51,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","John","Watson",28,"Brabham Ford","7",4,51,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Graham","Hill",26,"Lola Ford","8",21,51,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","David","Hobbs",33,"McLaren Ford","9",23,51,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Tom","Pryce",16,"Shadow Ford","10",22,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Patrick","Depailler",4,"Tyrrell Ford","11",10,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Clay","Regazzoni",11,"Ferrari","NC",5,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Niki","Lauda",12,"Ferrari","NC",1,32,0,NA,NA,NA,NA,NA,"1:33.160",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Jacky","Ickx",2,"Lotus Ford","NC",16,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Rolf","Stommelen",27,"Lola Ford","NC",14,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Jacques","Laffite",21,"Iso Marlboro Ford","NC",17,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Jean-Pierre","Jarier",17,"Shadow Ford","NC",9,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Vittorio","Brambilla",10,"March Ford","NC",13,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Tim","Schenken",29,"Trojan Ford","NC",20,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Carlos","Reutemann",7,"Brabham Ford","NC",2,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Hans-Joachim","Stuck",9,"March Ford","NC",18,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Henri","Pescarolo",15,"BRM","NC",25,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","James","Hunt",24,"Hesketh Ford","NC",8,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Francois","Migault",37,"BRM","NC",24,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1974,"08 Sep 1974","Jean-Pierre","Beltoise",14,"BRM","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Emerson","Fittipaldi",5,"McLaren Ford","1",1,80,9,"1:40:26.136",NA,NA,NA,NA,"1:13.188",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Clay","Regazzoni",11,"Ferrari","2",6,80,6,"1:40:39.169","13.034","13.0329999923706",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Ronnie","Peterson",1,"Lotus Ford","3",10,80,4,"1:40:40.629","14.494","1.46000003814697",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","James","Hunt",24,"Hesketh Ford","4",8,80,3,"1:40:41.804","15.669","1.17499995231628",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Patrick","Depailler",4,"Tyrrell Ford","5",7,80,2,"1:41:21.457","55.322","39.6530001163483",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Denny","Hulme",6,"McLaren Ford","6",14,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Mario","Andretti",55,"Parnelli Ford","7",16,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Carlos","Pace",8,"Brabham Ford","8",9,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Carlos","Reutemann",7,"Brabham Ford","9",4,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Helmuth","Koinigg",19,"Surtees Ford","10",22,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Rolf","Stommelen",27,"Lola Ford","11",11,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Mark","Donohue",66,"Penske Ford","12",24,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Jacky","Ickx",2,"Lotus Ford","13",21,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Graham","Hill",26,"Lola Ford","14",20,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Jacques","Laffite",21,"Iso Marlboro Ford","15",18,74,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Jochen","Mass",33,"McLaren Ford","16",12,72,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Chris","Amon",15,"BRM","NC",25,70,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Niki","Lauda",12,"Ferrari","NC",2,67,0,NA,NA,NA,"1:13.659",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Tom","Pryce",16,"Shadow Ford","NC",13,65,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","John","Watson",28,"Brabham Ford","NC",15,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Jean-Pierre","Beltoise",14,"BRM","NC",17,60,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Jody","Scheckter",3,"Tyrrell Ford","NC",3,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Jean-Pierre","Jarier",17,"Shadow Ford","NC",5,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Arturo","Merzario",20,"Iso Marlboro Ford","NC",19,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Eppie","Wietzes",50,"Brabham Ford","NC",26,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1974,"22 Sep 1974","Hans-Joachim","Stuck",9,"March Ford","NC",23,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Carlos","Reutemann",7,"Brabham Ford","1",1,59,9,"1:40:21.439",NA,NA,NA,NA,"1:38.978",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Carlos","Pace",8,"Brabham Ford","2",4,59,6,"1:40:32.173","10.735","10.7340002059937","1:40.608",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","James","Hunt",24,"Hesketh Ford","3",2,59,4,"1:41:31.822","70.384","59.6489999294281",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Emerson","Fittipaldi",5,"McLaren Ford","4",8,59,3,"1:41:39.191","77.753","7.36899995803833",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","John","Watson",28,"Brabham Ford","5",7,59,2,"1:41:47.242","85.804","8.05100011825562",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Patrick","Depailler",4,"Tyrrell Ford","6",13,59,1,"1:41:48.944","87.506","1.70199990272522",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Jochen","Mass",33,"McLaren Ford","7",20,59,0,"1:41:51.450","90.012","2.50600004196167",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Graham","Hill",26,"Lola Ford","8",24,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Chris","Amon",15,"BRM","9",12,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Jean-Pierre","Jarier",17,"Shadow Ford","10",10,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Clay","Regazzoni",11,"Ferrari","11",9,55,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Rolf","Stommelen",27,"Lola Ford","12",21,54,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Ronnie","Peterson",1,"Lotus Ford","NC",19,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Mike","Wilds",22,"Ensign Ford","NC",22,50,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Tom","Pryce",16,"Shadow Ford","NC",18,47,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Jody","Scheckter",3,"Tyrrell Ford","NC",6,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Arturo","Merzario",20,"Iso Marlboro Ford","NC",15,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Niki","Lauda",12,"Ferrari","NC",5,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Jacques","Laffite",21,"Iso Marlboro Ford","NC",11,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Mark","Donohue",66,"Penske Ford","NC",14,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Jose","Dolhem",18,"Surtees Ford","NC",26,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Vittorio","Brambilla",10,"March Ford","NC",25,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Helmuth","Koinigg",19,"Surtees Ford","NC",23,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Jacky","Ickx",2,"Lotus Ford","NC",16,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Tim","Schenken",31,"Lotus Ford","DQ",27,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Denny","Hulme",6,"McLaren Ford","NC",17,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1974,"06 Oct 1974","Mario","Andretti",55,"Parnelli Ford","DQ",3,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,262 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Jack","Brabham",12,"Brabham Ford","1",3,80,9,"1:49:34.600",NA,NA,"1:20.800",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Denny","Hulme",6,"McLaren Ford","2",6,80,6,"1:49:42.699","8.100","8.09899997711182",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Jackie","Stewart",1,"March Ford","3",1,80,4,"1:49:51.699","17.100","9",NA,NA,"1:19.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Jean-Pierre","Beltoise",3,"Matra","4",8,80,3,"1:50:47.699","73.100","56",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","John","Miles",10,"Lotus Ford","5",14,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Graham","Hill",11,"Lotus Ford","6",19,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Henri","Pescarolo",4,"Matra","7",18,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","John","Love",23,"Lotus Ford","8",22,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Pedro","Rodriguez",20,"BRM","9",16,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Jo","Siffert",16,"March Ford","10",9,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Peter","deKlerk",24,"Brabham Ford","11",21,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Dave","Charlton",25,"Lotus Ford","12",13,73,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Jochen","Rindt",9,"Lotus Ford","13",4,72,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","John","Surtees",7,"McLaren Ford","NC",7,60,0,NA,NA,NA,"1:20.800",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Jacky","Ickx",17,"Ferrari","NC",5,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","George","Eaton",21,"BRM","NC",23,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Johnny","Servoz-Gavin",2,"March Ford","NC",17,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Piers","Courage",22,"De Tomaso Ford","NC",20,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Bruce","McLaren",5,"McLaren Ford","NC",10,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Mario","Andretti",8,"March Ford","NC",11,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Rolf","Stommelen",14,"Brabham Ford","NC",15,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Jackie","Oliver",19,"BRM","NC",12,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1970,"07 Mar 1970","Chris","Amon",15,"March Ford","NC",2,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Jackie","Stewart",1,"March Ford","1",3,90,9,"2:10:58.200",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Bruce","McLaren",11,"McLaren Ford","2",11,89,6,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Mario","Andretti",18,"March Ford","3",16,89,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Graham","Hill",6,"Lotus Ford","4",15,89,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Johnny","Servoz-Gavin",16,"March Ford","5",14,88,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","John","Surtees",8,"null","NC",12,76,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Jack","Brabham",7,"Brabham Ford","NC",1,61,0,NA,NA,NA,"1:24.300",NA,"1:23.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Rolf","Stommelen",24,"Brabham Ford","NC",17,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Henri","Pescarolo",22,"Matra","NC",9,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Jean-Pierre","Beltoise",4,"Matra","NC",4,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Chris","Amon",9,"March Ford","NC",6,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Denny","Hulme",5,"McLaren Ford","NC",2,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Jochen","Rindt",3,"Lotus Ford","NC",8,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Pedro","Rodriguez",10,"BRM","NC",5,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Jacky","Ickx",2,"Ferrari","NC",7,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1970,"19 Apr 1970","Jackie","Oliver",15,"BRM","NC",10,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Jochen","Rindt",3,"Lotus Ford","1",8,80,9,"1:54:36.600",NA,NA,"1:23.200",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Jack","Brabham",5,"Brabham Ford","2",4,80,6,"1:54:59.699","23.100","23.0989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Henri","Pescarolo",9,"Matra","3",7,80,4,"1:55:28.000","51.400","28.3010001182556",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Denny","Hulme",11,"McLaren Ford","4",3,80,3,"1:56:04.899","88.300","36.8989999294281",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Graham","Hill",1,"Lotus Ford","5",16,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Pedro","Rodriguez",17,"BRM","6",15,78,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Ronnie","Peterson",23,"March Ford","7",12,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Jo","Siffert",19,"March Ford","8",11,76,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Chris","Amon",28,"March Ford","NC",2,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Piers","Courage",24,"De Tomaso Ford","NC",9,58,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Jackie","Stewart",21,"March Ford","NC",1,57,0,NA,NA,NA,NA,NA,"1:24.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Jackie","Oliver",16,"BRM","NC",14,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Jean-Pierre","Beltoise",8,"Matra","NC",6,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Bruce","McLaren",12,"McLaren Ford","NC",10,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","John","Surtees",14,"McLaren Ford","NC",13,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1970,"10 May 1970","Jacky","Ickx",26,"Ferrari","NC",5,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Pedro","Rodriguez",1,"BRM","1",6,28,9,"1:38:09.900",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Chris","Amon",10,"March Ford","2",3,28,6,"1:38:11.000","1.100","1.09999990463257","3:27.400",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Jean-Pierre","Beltoise",25,"Matra","3",11,28,4,"1:39:53.600","103.700","1.70999999841054",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Ignazio","Giunti",28,"Ferrari","4",8,28,3,"1:40:48.400","158.500","54.8000001907349",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Rolf","Stommelen",19,"Brabham Ford","5",7,28,2,"1:41:31.700","201.800","43.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Henri","Pescarolo",26,"Matra","6",17,27,1,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Jo","Siffert",9,"March Ford","7",10,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Jacky","Ickx",27,"Ferrari","8",4,26,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Ronnie","Peterson",14,"March Ford","NC",9,20,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Jack","Brabham",18,"Brabham Ford","NC",5,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Graham","Hill",23,"Lotus Ford","NC",16,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Jackie","Stewart",11,"March Ford","NC",1,14,0,NA,NA,NA,NA,NA,"3:28.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","John","Miles",21,"Lotus Ford","NC",13,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Jochen","Rindt",20,"Lotus Ford","NC",2,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Jackie","Oliver",2,"BRM","NC",14,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Piers","Courage",7,"De Tomaso Ford","NC",12,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1970,"07 Jun 1970","Derek","Bell",8,"Brabham Ford","NC",15,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Jochen","Rindt",10,"Lotus Ford","1",1,80,9,"1:50:43.410",NA,NA,NA,NA,"1:18.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Jackie","Stewart",5,"March Ford","2",2,80,6,"1:51:13.410","30.000","30",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Jacky","Ickx",25,"Ferrari","3",3,79,4,"1","1","1","1:19.230",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Clay","Regazzoni",26,"Ferrari","4",6,79,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Jean-Pierre","Beltoise",23,"Matra","5",10,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","John","Surtees",16,"McLaren Ford","6",14,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","John","Miles",12,"Lotus Ford","7",8,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Henri","Pescarolo",24,"Matra","8",13,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Ronnie","Peterson",22,"March Ford","9",16,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Pedro","Rodriguez",1,"BRM","10",7,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Jack","Brabham",18,"Brabham Ford","11",12,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Graham","Hill",15,"Lotus Ford","NC",20,71,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Francois","Cevert",6,"March Ford","NC",15,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","George","Eaton",3,"BRM","NC",18,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Jackie","Oliver",2,"BRM","NC",5,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Piers","Courage",4,"De Tomaso Ford","NC",9,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Jo","Siffert",9,"March Ford","NC",17,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Peter","Gethin",20,"McLaren Ford","NC",11,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Dan","Gurney",32,"McLaren Ford","NC",19,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1970,"21 Jun 1970","Chris","Amon",8,"March Ford","NC",4,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Jochen","Rindt",6,"Lotus Ford","1",6,38,9,"1:55:57.000",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Chris","Amon",14,"March Ford","2",3,38,6,"1:56:04.609","7.610","7.60899996757507",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Jack","Brabham",23,"Brabham Ford","3",5,38,4,"1:56:41.829","44.830","37.2200000286102","3:00.750",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Denny","Hulme",19,"McLaren Ford","4",7,38,3,"1:56:42.660","45.660","0.831000089645386",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Henri","Pescarolo",20,"Matra","5",8,38,2,"1:57:16.420","79.420","33.7599999904633",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Dan","Gurney",17,"McLaren Ford","6",17,38,1,"1:57:16.650","79.650","0.230000019073486",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Rolf","Stommelen",22,"Brabham Ford","7",14,38,0,"1:58:17.160","140.160","1.00849999984105",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","John","Miles",7,"Lotus Ford","8",18,38,0,"1:58:44.170","167.170","27.0099999904633",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Jackie","Stewart",1,"March Ford","9",4,38,0,"1:59:06.609","189.610","22.4389998912811",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Graham","Hill",8,"Lotus Ford","10",20,37,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Francois","Cevert",2,"March Ford","11",13,37,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","George","Eaton",4,"BRM","12",19,36,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Jean-Pierre","Beltoise",21,"Matra","13",2,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Ignazio","Giunti",11,"Ferrari","14",11,35,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Andrea","deAdamich",16,"McLaren Alfa Romeo","NC",15,29,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Jo","Siffert",12,"March Ford","NC",16,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Ronnie","Peterson",18,"March Ford","NC",9,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Jacky","Ickx",10,"Ferrari","NC",1,16,0,NA,NA,NA,NA,NA,"2:58.220",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Pedro","Rodriguez",3,"BRM","NC",10,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1970,"05 Jul 1970","Jackie","Oliver",5,"BRM","NC",12,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Jochen","Rindt",5,"Lotus Ford","1",1,80,9,"1:57:02.000",NA,NA,NA,NA,"1:24.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Jack","Brabham",17,"Brabham Ford","2",2,80,6,"1:57:34.900","32.900","32.9000000953674","1:25.900",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Denny","Hulme",9,"McLaren Ford","3",5,80,4,"1:57:56.400","54.400","21.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Clay","Regazzoni",4,"Ferrari","4",6,80,3,"1:57:56.799","54.800","0.398999929428101",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Chris","Amon",16,"March Ford","5",17,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Graham","Hill",14,"Lotus Ford","6",22,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Francois","Cevert",2,"March Ford","7",14,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Emerson","Fittipaldi",28,"Lotus Ford","8",21,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Ronnie","Peterson",27,"March Ford","9",13,72,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Pete","Lovely",29,"Lotus Ford","NC",23,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Dan","Gurney",10,"McLaren Ford","NC",11,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Pedro","Rodriguez",22,"BRM","NC",15,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Jackie","Oliver",23,"BRM","NC",4,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Jackie","Stewart",1,"March Ford","NC",8,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","John","Surtees",20,"Surtees Ford","NC",19,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Henri","Pescarolo",8,"Matra","NC",12,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Jean-Pierre","Beltoise",7,"Matra","NC",10,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Mario","Andretti",26,"March Ford","NC",9,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Jo","Siffert",15,"March Ford","NC",20,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","John","Miles",6,"Lotus Ford","NC",7,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","George","Eaton",24,"BRM","NC",16,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1970,"18 Jul 1970","Jacky","Ickx",3,"Ferrari","NC",3,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Jochen","Rindt",2,"Lotus Ford","1",2,50,9,"1:42:00.300",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Jacky","Ickx",10,"Ferrari","2",1,50,6,"1:42:01.000","0.700","0.700000047683716","2:00.500",NA,"1:59.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Denny","Hulme",4,"McLaren Ford","3",16,50,4,"1:43:22.099","81.800","1.35164999961853",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Emerson","Fittipaldi",17,"Lotus Ford","4",13,50,3,"1:43:55.399","115.100","33.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Rolf","Stommelen",21,"Brabham Ford","5",11,49,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Henri","Pescarolo",14,"Matra","6",5,49,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Francois","Cevert",23,"March Ford","7",14,49,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Jo","Siffert",12,"March Ford","8",4,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","John","Surtees",7,"Surtees Ford","9",15,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Graham","Hill",9,"Lotus Ford","NC",20,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Chris","Amon",5,"March Ford","NC",6,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Clay","Regazzoni",15,"Ferrari","NC",3,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","John","Miles",16,"Lotus Ford","NC",10,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Jackie","Stewart",1,"March Ford","NC",7,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Mario","Andretti",11,"March Ford","NC",9,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Ronnie","Peterson",22,"March Ford","NC",19,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Pedro","Rodriguez",6,"BRM","NC",8,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Jackie","Oliver",18,"BRM","NC",18,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Jack","Brabham",3,"Brabham Ford","NC",12,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Jean-Pierre","Beltoise",8,"Matra","NC",21,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1970,"02 Aug 1970","Peter","Gethin",24,"McLaren Ford","NC",17,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Jacky","Ickx",12,"Ferrari","1",3,60,9,"1:42:17.320",NA,NA,"1:40.400",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Clay","Regazzoni",27,"Ferrari","2",2,60,6,"1:42:17.929","0.610","0.608999967575073","1:40.400",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Rolf","Stommelen",11,"Brabham Ford","3",17,60,4,"1:43:45.200","87.880","1.45451666911443",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Pedro","Rodriguez",17,"BRM","4",22,59,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Jackie","Oliver",16,"BRM","5",14,59,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Jean-Pierre","Beltoise",19,"Matra","6",7,59,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Ignazio","Giunti",14,"Ferrari","7",5,59,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Chris","Amon",4,"March Ford","8",6,59,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Jo","Siffert",3,"March Ford","9",20,59,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Peter","Gethin",23,"McLaren Ford","10",21,59,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","George","Eaton",18,"BRM","11",23,58,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Andrea","deAdamich",22,"McLaren Alfa Romeo","12",15,57,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Jack","Brabham",10,"Brabham Ford","13",8,56,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Henri","Pescarolo",20,"Matra","14",13,56,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Emerson","Fittipaldi",8,"Lotus Ford","15",16,55,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Denny","Hulme",21,"McLaren Ford","NC",11,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","John","Surtees",15,"Surtees Ford","NC",12,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Tim","Schenken",26,"De Tomaso Ford","NC",19,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Jochen","Rindt",6,"Lotus Ford","NC",1,21,0,NA,NA,NA,NA,NA,"1:39.230",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Silvio","Moser",24,"Bellasi Ford","NC",24,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Mario","Andretti",5,"March Ford","NC",18,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Jackie","Stewart",1,"March Ford","NC",4,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","John","Miles",7,"Lotus Ford","NC",10,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1970,"16 Aug 1970","Francois","Cevert",2,"March Ford","NC",9,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Clay","Regazzoni",4,"Ferrari","1",3,68,9,"1:39:06.880",NA,NA,"1:25.200",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Jackie","Stewart",18,"March Ford","2",4,68,6,"1:39:12.610","5.730","5.72999978065491",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Jean-Pierre","Beltoise",40,"Matra","3",14,68,4,"1:39:12.680","5.800","0.070000171661377",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Denny","Hulme",30,"McLaren Ford","4",9,68,3,"1:39:13.030","6.150","0.349999904632568",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Rolf","Stommelen",46,"Brabham Ford","5",17,68,2,"1:39:13.290","6.410","0.259999990463257",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Francois","Cevert",20,"March Ford","6",11,68,1,"1:40:10.340","63.460","57.0499999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Chris","Amon",48,"March Ford","7",18,67,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Andrea","deAdamich",34,"McLaren Alfa Romeo","8",12,61,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Peter","Gethin",32,"McLaren Ford","NC",16,60,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Jackie","Oliver",8,"BRM","NC",6,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Ronnie","Peterson",52,"March Ford","NC",13,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Jack","Brabham",44,"Brabham Ford","NC",8,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Jacky","Ickx",2,"Ferrari","NC",1,25,0,NA,NA,NA,NA,NA,"1:24.140",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","George","Eaton",12,"BRM","NC",20,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Tim","Schenken",54,"De Tomaso Ford","NC",19,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Henri","Pescarolo",42,"Matra","NC",15,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Ignazio","Giunti",6,"Ferrari","NC",5,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Pedro","Rodriguez",10,"BRM","NC",2,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","Jo","Siffert",50,"March Ford","NC",7,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1970,"06 Sep 1970","John","Surtees",14,"Surtees Ford","NC",10,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Jacky","Ickx",18,"Ferrari","1",2,90,9,"2:21:18.400",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Clay","Regazzoni",19,"Ferrari","2",3,90,6,"2:21:33.200","14.800","14.7999999523163","1:32.200",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Chris","Amon",20,"March Ford","3",6,90,4,"2:22:16.300","57.900","43.0999999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Pedro","Rodriguez",14,"BRM","4",7,89,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","John","Surtees",4,"Surtees Ford","5",5,89,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Peter","Gethin",6,"McLaren Ford","6",11,88,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Henri","Pescarolo",24,"Matra","7",8,87,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Jean-Pierre","Beltoise",23,"Matra","8",13,85,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Francois","Cevert",2,"March Ford","9",4,85,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","George","Eaton",16,"BRM","10",9,85,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Tim","Schenken",10,"De Tomaso Ford","NC",17,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Graham","Hill",9,"Lotus Ford","NC",20,77,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Andrea","deAdamich",8,"McLaren Alfa Romeo","NC",12,69,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Ronnie","Peterson",26,"March Ford","NC",16,65,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Denny","Hulme",5,"McLaren Ford","NC",15,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Jack","Brabham",11,"Brabham Ford","NC",19,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Jackie","Oliver",15,"BRM","NC",10,52,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Jackie","Stewart",3,"Tyrrell Ford","NC",1,31,0,NA,NA,NA,NA,NA,"1:31.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Rolf","Stommelen",12,"Brabham Ford","NC",18,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1970,"20 Sep 1970","Jo","Siffert",21,"March Ford","NC",14,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Emerson","Fittipaldi",24,"Lotus Ford","1",3,108,9,"1:57:32.790",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Pedro","Rodriguez",19,"BRM","2",4,108,6,"1:58:09.180","36.390","36.3900001049042",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Reine","Wisell",23,"Lotus Ford","3",9,108,4,"1:58:17.960","45.170","8.77999997138977",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Jacky","Ickx",3,"Ferrari","4",1,107,3,"1","1","1","1:02.740",NA,"1:03.070",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Chris","Amon",12,"March Ford","5",5,107,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Derek","Bell",18,"Surtees Ford","6",13,107,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Denny","Hulme",8,"McLaren Ford","7",11,106,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Henri","Pescarolo",7,"Matra","8",12,105,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Jo","Siffert",11,"March Ford","9",23,105,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Jack","Brabham",15,"Brabham Ford","10",16,105,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Ronnie","Peterson",29,"March Ford","11",15,104,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Rolf","Stommelen",16,"Brabham Ford","12",19,104,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Clay","Regazzoni",4,"Ferrari","13",6,101,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Peter","Gethin",9,"McLaren Ford","14",21,100,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Jackie","Stewart",1,"Tyrrell Ford","NC",2,82,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Graham","Hill",14,"Lotus Ford","NC",10,72,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Francois","Cevert",2,"March Ford","NC",17,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Tim","Schenken",30,"De Tomaso Ford","NC",20,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Jo","Bonnier",27,"McLaren Ford","NC",24,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Jean-Pierre","Beltoise",6,"Matra","NC",18,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Gus","Hutchison",31,"Brabham Ford","NC",22,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","Jackie","Oliver",20,"BRM","NC",7,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","George","Eaton",21,"BRM","NC",14,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1970,"04 Oct 1970","John","Surtees",17,"Surtees Ford","NC",8,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Jacky","Ickx",3,"Ferrari","1",3,65,9,"1:53:28.360",NA,NA,"1:43.110",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Clay","Regazzoni",4,"Ferrari","2",1,65,6,"1:54:13.819","45.460","45.4590001106262",NA,NA,"1:41.860",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Denny","Hulme",8,"McLaren Ford","3",14,65,4,"1:54:14.329","45.970","0.509999990463257",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Chris","Amon",12,"March Ford","4",5,65,3,"1:54:15.409","47.050","1.07999992370605",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Jean-Pierre","Beltoise",6,"Matra","5",6,65,2,"1:54:18.469","50.110","3.06000018119812",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Pedro","Rodriguez",19,"BRM","6",7,65,1,"1:54:53.119","84.760","34.6499998569489",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Jackie","Oliver",20,"BRM","7",13,64,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","John","Surtees",17,"Surtees Ford","8",15,64,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Henri","Pescarolo",7,"Matra","9",11,61,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Reine","Wisell",23,"Lotus Ford","NC",12,56,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Jack","Brabham",15,"Brabham Ford","NC",4,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Jackie","Stewart",1,"Tyrrell Ford","NC",2,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Peter","Gethin",9,"McLaren Ford","NC",10,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Rolf","Stommelen",16,"Brabham Ford","NC",17,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Francois","Cevert",2,"March Ford","NC",9,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Graham","Hill",14,"Lotus Ford","NC",8,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Jo","Siffert",11,"March Ford","NC",16,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1970,"25 Oct 1970","Emerson","Fittipaldi",24,"Lotus Ford","NC",18,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

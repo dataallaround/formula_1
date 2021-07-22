@@ -1,0 +1,374 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Alain","Prost",7,"McLaren TAG","1",4,61,9,"1:42:34.492",NA,NA,"1:36.499",NA,"1:29.330",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Keke","Rosberg",6,"Williams Honda","2",9,61,6,"1:43:15.006","40.514","40.5139999389648","1:38.506",NA,"1:30.611",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Elio","deAngelis",11,"Lotus Renault","3",1,61,4,"1:43:33.620","59.128","18.6139998435974","1:38.180",NA,"1:28.392",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Eddie","Cheever",23,"Alfa Romeo","4",12,60,3,"1","1","1","1:39.125",NA,"1:31.282",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Patrick","Tambay",15,"Renault","5",8,59,2,NA,NA,NA,"1:37.211",NA,"1:30.554",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Thierry","Boutsen",18,"Arrows Ford","6",19,59,1,"2","2","2","1:43.247",NA,"1:36.312",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Marc","Surer",17,"Arrows Ford","7",22,59,0,"2","2","2","1:43.960",NA,"1:37.204",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Jonathan","Palmer",10,"RAM Hart","8",24,58,0,"3","3","3","1:45.637",NA,"1:37.919",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Derek","Warwick",16,"Renault","NC",3,51,0,NA,NA,NA,"1:36.556",NA,"1:29.025",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Andrea","deCesaris",26,"Ligier Renault","NC",14,42,0,NA,NA,NA,"1:40.673",NA,"1:32.895",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Riccardo","Patrese",22,"Alfa Romeo","NC",11,41,0,NA,NA,NA,"1:39.919",NA,"1:30.973",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Niki","Lauda",8,"McLaren TAG","NC",6,38,0,NA,NA,NA,"1:38.389",NA,"1:29.854",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Nigel","Mansell",12,"Lotus Renault","NC",5,35,0,NA,NA,NA,"1:38.796",NA,"1:29.364",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Nelson","Piquet",1,"Brabham BMW","NC",7,32,0,NA,NA,NA,"1:40.003",NA,"1:30.149",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Teo","Fabi",2,"Brabham BMW","NC",15,32,0,NA,NA,NA,"1:39.953",NA,"1:33.277",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Rene","Arnoux",28,"Ferrari","NC",10,30,0,NA,NA,NA,"1:40.273",NA,"1:30.695",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","NC",20,28,0,NA,NA,NA,"1:43.878",NA,"1:36.434",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Francois","Hesnault",25,"Ligier Renault","NC",18,25,0,NA,NA,NA,"1:42.998",NA,"1:36.238",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Philippe","Alliot",9,"RAM Hart","NC",23,24,0,NA,NA,NA,"1:44.934",NA,"1:37.709",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Johnny","Cecotto",20,"Toleman Hart","NC",17,18,0,NA,NA,NA,"1:42.880",NA,"1:35.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Jacques","Laffite",5,"Williams Honda","NC",13,15,0,NA,NA,NA,"1:41.096",NA,"1:31.548",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Michele","Alboreto",27,"Ferrari","NC",2,14,0,NA,NA,NA,"1:38.530",NA,"1:28.898",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Mauro","Baldi",21,"Spirit Hart","NC",21,12,0,NA,NA,NA,"1:46.380",NA,"1:36.816",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1984,"25 Mar 1984","Ayrton","Senna",19,"Toleman Hart","NC",16,8,0,NA,NA,NA,"1:42.286",NA,"1:33.525",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Niki","Lauda",8,"McLaren TAG","1",8,75,9,"1:29:23.430",NA,NA,"1:09.666",NA,"1:06.043",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Alain","Prost",7,"McLaren TAG","2",5,75,6,"1:30:29.380","65.950","1.0991666674614","1:09.398",NA,"1:05.354",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Derek","Warwick",16,"Renault","3",9,74,4,"1","1","1","1:09.526",NA,"1:06.056",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Riccardo","Patrese",22,"Alfa Romeo","4",18,73,3,"2","2","2","1:11.385",NA,"1:08.042",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Andrea","deCesaris",26,"Ligier Renault","5",14,73,2,"2","2","2","1:12.510",NA,"1:07.245",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Ayrton","Senna",19,"Toleman Hart","6",13,72,1,"3","3","3","1:12.124",NA,"1:06.981",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Elio","deAngelis",11,"Lotus Renault","7",7,71,0,"4","4","4","1:10.150",NA,"1:05.953",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Mauro","Baldi",21,"Spirit Hart","8",20,71,0,"4","4","4","1:13.267",NA,"1:09.923",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Thierry","Boutsen",18,"Arrows Ford","9",24,71,0,"4","4","4","1:14.906",NA,"1:12.274",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Marc","Surer",17,"Arrows Ford","10",23,71,0,"4","4","4","1:14.090",NA,"1:11.808",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Francois","Hesnault",25,"Ligier Renault","11",17,71,0,"4","4","4","1:13.054",NA,"1:07.787",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Michele","Alboreto",27,"Ferrari","12",10,70,0,NA,NA,NA,"1:11.828",NA,"1:06.323",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Patrick","Tambay",15,"Renault","NC",4,66,0,NA,NA,NA,"1:08.877",NA,"1:05.339",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Jacques","Laffite",5,"Williams Honda","NC",11,60,0,NA,NA,NA,"1:11.790",NA,"1:06.762",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Manfred","Winkelhock",14,"ATS BMW","NC",12,53,0,NA,NA,NA,"1:12.527",NA,"1:06.974",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Keke","Rosberg",6,"Williams Honda","NC",2,51,0,NA,NA,NA,"1:10.600",NA,"1:05.058",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Nigel","Mansell",12,"Lotus Renault","NC",3,51,0,NA,NA,NA,"1:11.825",NA,"1:05.125",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Rene","Arnoux",28,"Ferrari","NC",15,40,0,NA,NA,NA,"1:11.421",NA,"1:07.345",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Nelson","Piquet",1,"Brabham BMW","NC",1,29,0,NA,NA,NA,"1:10.132",NA,"1:04.871",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Johnny","Cecotto",20,"Toleman Hart","NC",19,26,0,NA,NA,NA,"1:12.523",NA,"1:08.298",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Philippe","Alliot",9,"RAM Hart","NC",22,24,0,NA,NA,NA,"1:14.943",NA,"1:10.619",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Jonathan","Palmer",10,"RAM Hart","NC",21,22,0,NA,NA,NA,"1:14.927",NA,"1:10.383",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Teo","Fabi",2,"Brabham BMW","NC",6,18,0,NA,NA,NA,"1:10.345",NA,"1:05.923",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1984,"07 Apr 1984","Eddie","Cheever",23,"Alfa Romeo","NC",16,4,0,NA,NA,NA,"1:14.046",NA,"1:07.704",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Michele","Alboreto",27,"Ferrari","1",1,70,9,"1:36:32.048",NA,NA,"1:20.727",NA,"1:14.846",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Derek","Warwick",16,"Renault","2",4,70,6,"1:37:14.434","42.386","42.385999917984","1:21.245",NA,"1:15.611",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Rene","Arnoux",28,"Ferrari","3",2,70,4,"1:37:41.851","69.803","27.4170000553131","1:19.294",NA,"1:15.398",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Keke","Rosberg",6,"Williams Honda","4",3,69,3,NA,NA,NA,"1:20.527",NA,"1:15.414",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Elio","deAngelis",11,"Lotus Renault","5",5,69,2,"1","1","1","1:22.115",NA,"1:15.979",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Ayrton","Senna",19,"Toleman Hart","6",19,68,1,"2","2","2","1:22.633",NA,"1:18.876",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Patrick","Tambay",15,"Renault","7",12,68,0,"2","2","2","1:22.298",NA,"1:17.171",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Marc","Surer",17,"Arrows Ford","8",22,68,0,"2","2","2","1:23.813",NA,"1:20.615",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Nelson","Piquet",1,"Brabham BMW","9",9,66,0,NA,NA,NA,"1:21.450",NA,"1:16.604",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Jonathan","Palmer",10,"RAM Hart","10",24,64,0,"6","6","6","1:25.973",NA,"1:20.793",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Mauro","Baldi",21,"Spirit Hart","NC",23,53,0,NA,NA,NA,"1:25.564",NA,"1:20.644",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Teo","Fabi",2,"Brabham BMW","NC",18,42,0,NA,NA,NA,"1:21.812",NA,"1:18.848",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Andrea","deCesaris",26,"Ligier Renault","NC",13,42,0,NA,NA,NA,"1:22.327",NA,"1:17.471",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Manfred","Winkelhock",14,"ATS BMW","NC",6,39,0,NA,NA,NA,"1:21.754",NA,"1:16.130",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Niki","Lauda",8,"McLaren TAG","NC",14,35,0,NA,NA,NA,"1:21.853",NA,"1:18.071",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Eddie","Cheever",23,"Alfa Romeo","NC",11,28,0,NA,NA,NA,"1:21.703",NA,"1:16.746",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Jacques","Laffite",5,"Williams Honda","NC",15,15,0,NA,NA,NA,"1:23.164",NA,"1:18.125",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Francois","Hesnault",25,"Ligier Renault","NC",21,15,0,NA,NA,NA,"1:23.945",NA,"1:20.439",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Thierry","Boutsen",18,"Arrows BMW","NC",17,15,0,NA,NA,NA,"1:22.560",NA,"1:18.351",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","NC",20,14,0,NA,NA,NA,"1:23.096",NA,"1:19.734",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Nigel","Mansell",12,"Lotus Renault","NC",10,14,0,NA,NA,NA,"1:22.374",NA,"1:16.720",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Alain","Prost",7,"McLaren TAG","NC",8,5,0,NA,NA,NA,"1:22.879",NA,"1:16.587",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Riccardo","Patrese",22,"Alfa Romeo","NC",7,2,0,NA,NA,NA,"1:24.430",NA,"1:16.431",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1984,"29 Apr 1984","Johnny","Cecotto",20,"Toleman Hart","NC",16,1,0,NA,NA,NA,"3:28.744",NA,"1:18.321",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Alain","Prost",7,"McLaren TAG","1",2,60,9,"1:36:53.679",NA,NA,"1:33.580",NA,"1:28.628",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Rene","Arnoux",28,"Ferrari","2",6,60,6,"1:37:07.094","13.416","13.4150002002716","1:33.373",NA,"1:30.411",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Elio","deAngelis",11,"Lotus Renault","3",11,59,4,NA,NA,NA,"1:34.525",NA,"1:31.173",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Derek","Warwick",16,"Renault","4",4,59,3,"1","1","1","1:36.000",NA,"1:29.682",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Thierry","Boutsen",18,"Arrows Ford","5",20,59,2,"1","1","1","1:39.430",NA,"1:36.018",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Andrea","deCesaris",26,"Ligier Renault","6",12,58,1,NA,NA,NA,"1:34.415",NA,"1:31.256",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Eddie","Cheever",23,"Alfa Romeo","7",8,58,0,NA,NA,NA,"1:35.849",NA,"1:30.843",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Mauro","Baldi",21,"Spirit Hart","8",22,58,0,"2","2","2","1:39.404",NA,"1:36.916",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Jonathan","Palmer",10,"RAM Hart","9",23,57,0,"3","3","3","1:37.472",NA,"1:37.262",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Philippe","Alliot",9,"RAM Hart","NC",21,53,0,NA,NA,NA,"1:38.199",NA,"1:36.733",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Johnny","Cecotto",20,"Toleman Hart","NC",19,52,0,NA,NA,NA,"1:38.208",NA,"1:35.568",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Nelson","Piquet",1,"Brabham BMW","NC",1,48,0,NA,NA,NA,"1:33.275",NA,"1:28.517",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Teo","Fabi",2,"Brabham BMW","NC",9,48,0,NA,NA,NA,"1:35.534",NA,"1:30.950",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Jo","Gartner",30,"Osella Alfa Romeo","NC",24,46,0,NA,NA,NA,"1:40.949",NA,"1:38.948",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Marc","Surer",17,"Arrows BMW","NC",16,40,0,NA,NA,NA,"1:37.089",NA,"1:33.063",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Manfred","Winkelhock",14,"ATS BMW","NC",7,31,0,NA,NA,NA,"1:37.319",NA,"1:30.723",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Michele","Alboreto",27,"Ferrari","NC",13,23,0,NA,NA,NA,"1:36.053",NA,"1:31.282",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Niki","Lauda",8,"McLaren TAG","NC",5,15,0,NA,NA,NA,"1:34.686",NA,"1:30.325",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Jacques","Laffite",5,"Williams Honda","NC",15,11,0,NA,NA,NA,"1:38.517",NA,"1:32.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Riccardo","Patrese",22,"Alfa Romeo","NC",10,6,0,NA,NA,NA,"1:39.389",NA,"1:31.163",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Nigel","Mansell",12,"Lotus Renault","NC",18,2,0,NA,NA,NA,"1:41.622",NA,"1:34.477",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1984,"06 May 1984","Keke","Rosberg",6,"Williams Honda","NC",3,2,0,NA,NA,NA,"1:39.769",NA,"1:29.418",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Niki","Lauda",8,"McLaren TAG","1",9,79,9,"1:31:11.951",NA,NA,"1:06.100",NA,"1:04.419",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Patrick","Tambay",15,"Renault","2",1,79,6,"1:31:19.105","7.154","7.15400004386902","1:06.876",NA,"1:02.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Nigel","Mansell",12,"Lotus Renault","3",6,79,4,"1:31:35.920","23.969","16.8150000572205","1:07.448",NA,"1:03.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Rene","Arnoux",28,"Ferrari","4",11,79,3,"1:31:55.657","43.706","19.7369999885559","1:07.286",NA,"1:04.917",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Elio","deAngelis",11,"Lotus Renault","5",2,79,2,"1:32:18.075","66.125","22.4179999828339","1:08.608",NA,"1:02.336",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Keke","Rosberg",6,"Williams Honda","6",4,78,1,"1","1","1","1:07.490",NA,"1:02.908",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Alain","Prost",7,"McLaren TAG","7",5,78,0,"1","1","1","1:05.257",NA,"1:02.982",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Jacques","Laffite",5,"Williams Honda","8",12,78,0,"1","1","1","1:07.861",NA,"1:05.410",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Teo","Fabi",2,"Brabham BMW","9",17,78,0,"1","1","1","1:07.838",NA,"1:06.370",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Andrea","deCesaris",26,"Ligier Renault","10",24,77,0,"2","2","2","1:09.779",NA,"1:22.388",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Thierry","Boutsen",18,"Arrows BMW","11",14,77,0,"2","2","2","1:09.177",NA,"1:05.972",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","12",23,74,0,"5","5","5","1:11.179",NA,"1:11.625",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Jonathan","Palmer",10,"RAM Hart","13",20,72,0,"7","7","7","1:13.713",NA,"1:09.047",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Mauro","Baldi",21,"Spirit Hart","NC",22,61,0,NA,NA,NA,"1:10.692",NA,"1:09.629",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Derek","Warwick",16,"Renault","NC",7,53,0,NA,NA,NA,"1:07.293",NA,"1:03.540",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Marc","Surer",17,"Arrows Ford","NC",19,51,0,NA,NA,NA,"1:11.783",NA,"1:08.457",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Eddie","Cheever",23,"Alfa Romeo","NC",16,51,0,NA,NA,NA,"1:10.253",NA,"1:06.281",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Ayrton","Senna",19,"Toleman Hart","NC",13,35,0,NA,NA,NA,"1:10.100",NA,"1:05.744",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Michele","Alboreto",27,"Ferrari","NC",10,33,0,NA,NA,NA,"1:08.400",NA,"1:04.459",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Johnny","Cecotto",20,"Toleman Hart","NC",18,22,0,NA,NA,NA,"1:10.999",NA,"1:08.189",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Riccardo","Patrese",22,"Alfa Romeo","NC",15,15,0,NA,NA,NA,"1:11.047",NA,"1:06.172",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Nelson","Piquet",1,"Brabham BMW","NC",3,11,0,NA,NA,NA,"1:09.186",NA,"1:02.806",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Manfred","Winkelhock",14,"ATS BMW","NC",8,5,0,NA,NA,NA,"1:11.394",NA,"1:03.865",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1984,"20 May 1984","Philippe","Alliot",9,"RAM Hart","NC",21,4,0,NA,NA,NA,"1:13.476",NA,"1:09.447",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Alain","Prost",7,"McLaren TAG","1",1,31,4.5,"1:01:07.740",NA,NA,"1:55.596",NA,"1:22.661",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Ayrton","Senna",19,"Toleman Hart","2",13,31,3,"1:01:15.186","7.446","7.44600009918213","1:54.334",NA,"1:25.009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Rene","Arnoux",28,"Ferrari","3",3,31,2,"1:01:36.816","29.077","21.6299998760223","1:55.541",NA,"1:22.935",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Keke","Rosberg",6,"Williams Honda","4",10,31,1.5,"1:01:42.986","35.246","6.17000007629395","1:55.775",NA,"1:24.151",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Elio","deAngelis",11,"Lotus Renault","5",11,31,1,"1:01:52.178","44.439","9.19199991226196","1:55.026",NA,"1:24.426",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Michele","Alboreto",27,"Ferrari","6",4,30,0.5,"1","1","1","1:55.437",NA,"1:22.937",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","7",19,30,0,"1","1","1","1:57.439",NA,"1:25.877",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Jacques","Laffite",5,"Williams Honda","8",16,30,0,"1","1","1","1:56.946",NA,"1:25.719",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Riccardo","Patrese",22,"Alfa Romeo","NC",14,24,0,NA,NA,NA,"1:58.527",NA,"1:25.101",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Niki","Lauda",8,"McLaren TAG","NC",8,23,0,NA,NA,NA,"1:56.996",NA,"1:23.886",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Manfred","Winkelhock",14,"ATS BMW","NC",12,22,0,NA,NA,NA,"1:55.712",NA,"1:24.473",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Nigel","Mansell",12,"Lotus Renault","NC",2,15,0,NA,NA,NA,"1:55.112",NA,"1:22.752",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Nelson","Piquet",1,"Brabham BMW","NC",9,14,0,NA,NA,NA,"1:58.897",NA,"1:23.918",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Francois","Hesnault",25,"Ligier Renault","NC",17,12,0,NA,NA,NA,"1:59.644",NA,"1:25.815",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Corrado","Fabi",2,"Brabham BMW","NC",15,9,0,NA,NA,NA,"2:04.465",NA,"1:25.290",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1984,"03 Jun 1984","Johnny","Cecotto",20,"Toleman Hart","NC",18,1,0,NA,NA,NA,"2:35.136",NA,"1:25.872",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Nelson","Piquet",1,"Brabham BMW","1",1,70,9,"1:46:23.748",NA,NA,"1:28.763",NA,"1:25.442",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Niki","Lauda",8,"McLaren TAG","2",8,70,6,"1:46:26.359","2.612","2.61100006103516","1:29.083",NA,"1:27.392",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Alain","Prost",7,"McLaren TAG","3",2,70,4,"1:47:51.779","88.032","1.42366666793823","1:29.433",NA,"1:26.198",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Elio","deAngelis",11,"Lotus Renault","4",3,69,3,"1","1","1","1:31.305",NA,"1:26.306",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Rene","Arnoux",28,"Ferrari","5",5,68,2,"2","2","2","1:30.210",NA,"1:26.549",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Nigel","Mansell",12,"Lotus Renault","6",7,68,1,"2","2","2","1:30.503",NA,"1:27.246",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Ayrton","Senna",19,"Toleman Hart","7",9,68,0,"2","2","2","1:31.822",NA,"1:27.448",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Manfred","Winkelhock",14,"ATS BMW","8",12,68,0,"2","2","2","1:31.071",NA,"1:28.909",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Johnny","Cecotto",20,"Toleman Hart","9",20,68,0,"2","2","2","1:32.537",NA,"1:31.459",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Philippe","Alliot",9,"RAM Hart","10",24,65,0,"5","5","5","1:35.498",NA,"1:35.286",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Eddie","Cheever",23,"Alfa Romeo","11",11,63,0,NA,NA,NA,"1:30.628",NA,"1:28.032",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Marc","Surer",17,"Arrows Ford","NC",21,59,0,NA,NA,NA,"1:33.858",NA,"1:32.756",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Derek","Warwick",16,"Renault","NC",4,57,0,NA,NA,NA,"1:30.560",NA,"1:26.420",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Huub","Rothengatter",21,"Spirit Hart","NC",22,56,0,"1","1","1","1:37.209",NA,"1:32.920",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Andrea","deCesaris",26,"Ligier Renault","NC",10,40,0,NA,NA,NA,"1:32.591",NA,"1:27.922",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Corrado","Fabi",2,"Brabham BMW","NC",16,39,0,NA,NA,NA,"1:31.767",NA,"1:29.764",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Thierry","Boutsen",18,"Arrows BMW","NC",18,38,0,NA,NA,NA,"1:33.069",NA,"1:30.073",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Riccardo","Patrese",22,"Alfa Romeo","NC",14,37,0,NA,NA,NA,"1:32.716",NA,"1:29.205",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Keke","Rosberg",6,"Williams Honda","NC",15,32,0,NA,NA,NA,"1:31.647",NA,"1:29.284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Jacques","Laffite",5,"Williams Honda","NC",17,31,0,NA,NA,NA,"1:32.124",NA,"1:29.915",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Mike","Thackwell",10,"RAM Hart","NC",23,29,0,NA,NA,NA,"1:37.157",NA,"1:33.750",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","NC",19,11,0,NA,NA,NA,"1:34.664",NA,"1:30.918",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Michele","Alboreto",27,"Ferrari","NC",6,10,0,NA,NA,NA,"1:30.990",NA,"1:26.764",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1984,"17 Jun 1984","Francois","Hesnault",25,"Ligier Renault","NC",13,7,0,NA,NA,NA,"1:35.176",NA,"1:29.187",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Nelson","Piquet",1,"Brabham BMW","1",1,63,9,"1:55:41.842",NA,NA,"1:47.050",NA,"1:40.980",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Elio","deAngelis",11,"Lotus Renault","2",5,63,6,"1:56:14.480","32.638","32.6380000114441","1:47.662",NA,"1:42.434",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Teo","Fabi",2,"Brabham BMW","3",21,63,4,"1:57:08.370","86.528","53.8899998664856","1:48.232",NA,"1:47.335",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Alain","Prost",7,"McLaren TAG","4",2,63,3,"1:57:37.099","115.258","28.7290000915527","1:47.074",NA,"1:41.640",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Jacques","Laffite",5,"Williams Honda","5",17,62,2,"1","1","1","1:48.146",NA,"1:46.225",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Michele","Alboreto",27,"Ferrari","NC",4,49,0,NA,NA,NA,"1:47.563",NA,"1:42.246",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Keke","Rosberg",6,"Williams Honda","NC",19,47,0,NA,NA,NA,"1:47.415",NA,"1:46.495",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Derek","Warwick",16,"Renault","NC",6,40,0,NA,NA,NA,"1:46.221",NA,"1:42.637",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Patrick","Tambay",15,"Renault","NC",9,33,0,NA,NA,NA,"1:46.739",NA,"1:43.289",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Philippe","Alliot",9,"RAM Hart","NC",18,33,0,NA,NA,NA,"1:51.147",NA,"1:46.333",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Niki","Lauda",8,"McLaren TAG","NC",10,33,0,NA,NA,NA,"1:47.192",NA,"1:43.484",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Nigel","Mansell",12,"Lotus Renault","NC",3,27,0,NA,NA,NA,"1:46.921",NA,"1:42.172",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Thierry","Boutsen",18,"Arrows BMW","NC",12,27,0,NA,NA,NA,"1:47.561",NA,"1:44.063",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Andrea","deCesaris",26,"Ligier Renault","NC",11,24,0,NA,NA,NA,"1:47.670",NA,"1:43.998",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Johnny","Cecotto",20,"Toleman Hart","NC",15,23,0,NA,NA,NA,"1:49.270",NA,"1:45.231",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Eddie","Cheever",23,"Alfa Romeo","NC",8,21,0,NA,NA,NA,"1:48.553",NA,"1:43.065",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Ayrton","Senna",19,"Toleman Hart","NC",7,21,0,NA,NA,NA,"1:47.444",NA,"1:42.651",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Riccardo","Patrese",22,"Alfa Romeo","NC",23,20,0,NA,NA,NA,"1:47.684",NA,"1:47.974",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Francois","Hesnault",25,"Ligier Renault","NC",16,3,0,NA,NA,NA,"1:53.579",NA,"1:45.419",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","NC",24,3,0,NA,NA,NA,"1:53.489",NA,"1:48.865",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Rene","Arnoux",28,"Ferrari","NC",14,2,0,NA,NA,NA,"1:52.636",NA,"1:44.748",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1984,"24 Jun 1984","Jonathan","Palmer",10,"RAM Hart","NC",22,2,0,NA,NA,NA,"1:57.367",NA,"1:47.743",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Keke","Rosberg",6,"Williams Honda","1",8,67,9,"2:01:22.617",NA,NA,"1:46.104",NA,"1:38.767",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Rene","Arnoux",28,"Ferrari","2",4,67,6,"2:01:45.081","22.464","22.4639999866486","1:45.545",NA,"1:37.785",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Elio","deAngelis",11,"Lotus Renault","3",2,66,4,"1","1","1","1:46.042",NA,"1:37.635",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Jacques","Laffite",5,"Williams Honda","4",23,65,3,"2","2","2","1:48.532",NA,"1:43.304",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","5",17,65,2,"2","2","2","1:48.604",NA,"1:41.176",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Nigel","Mansell",12,"Lotus Renault","6",1,64,1,NA,NA,NA,"1:45.593",NA,"1:37.041",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Corrado","Fabi",2,"Brabham BMW","7",11,64,0,"3","3","3","1:48.361",NA,"1:38.960",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Manfred","Winkelhock",14,"ATS BMW","8",13,64,0,"3","3","3","1:50.549",NA,"1:39.860",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Niki","Lauda",8,"McLaren TAG","NC",5,60,0,NA,NA,NA,"1:45.353",NA,"1:37.987",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Alain","Prost",7,"McLaren TAG","NC",7,56,0,NA,NA,NA,"1:45.976",NA,"1:38.544",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Thierry","Boutsen",18,"Arrows BMW","NC",19,55,0,NA,NA,NA,"1:48.229",NA,"1:41.318",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Michele","Alboreto",27,"Ferrari","NC",9,54,0,NA,NA,NA,"1:46.716",NA,"1:38.793",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Marc","Surer",17,"Arrows BMW","NC",21,54,0,NA,NA,NA,"1:50.374",NA,"1:42.592",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Ayrton","Senna",19,"Toleman Hart","NC",6,47,0,NA,NA,NA,"1:46.419",NA,"1:38.256",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Jonathan","Palmer",10,"RAM Hart","NC",24,46,0,NA,NA,NA,"1:52.958",NA,"1:44.676",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Nelson","Piquet",1,"Brabham BMW","NC",12,45,0,NA,NA,NA,"1:46.502",NA,"1:39.439",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Patrick","Tambay",15,"Renault","NC",10,25,0,NA,NA,NA,"1:46.373",NA,"1:38.907",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Johnny","Cecotto",20,"Toleman Hart","NC",15,25,0,NA,NA,NA,"1:47.827",NA,"1:40.027",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Andrea","deCesaris",26,"Ligier Renault","NC",16,15,0,NA,NA,NA,"1:47.341",NA,"1:40.095",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Huub","Rothengatter",21,"Spirit Hart","NC",22,15,0,NA,NA,NA,"1:51.347",NA,"1:43.084",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Riccardo","Patrese",22,"Alfa Romeo","NC",20,12,0,NA,NA,NA,"1:50.274",NA,"1:41.328",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Derek","Warwick",16,"Renault","NC",3,10,0,NA,NA,NA,"1:45.648",NA,"1:37.708",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dallas","Dallas Fair Park, United States",1984,"08 Jul 1984","Eddie","Cheever",23,"Alfa Romeo","NC",14,8,0,NA,NA,NA,"1:49.010",NA,"1:39.911",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Niki","Lauda",8,"McLaren TAG","1",3,71,9,"1:29:28.532",NA,NA,"1:13.191",NA,"1:11.344",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Derek","Warwick",16,"Renault","2",6,71,6,"1:30:10.654","42.123","42.1219999790192","1:14.236",NA,"1:11.703",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Ayrton","Senna",19,"Toleman Hart","3",7,71,4,"1:30:31.860","63.328","21.2059998512268","1:13.951",NA,"1:11.890",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Elio","deAngelis",11,"Lotus Renault","4",4,70,3,"1","1","1","1:14.389",NA,"1:11.573",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Michele","Alboreto",27,"Ferrari","5",9,70,2,"1","1","1","1:15.131",NA,"1:13.122",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Rene","Arnoux",28,"Ferrari","6",13,70,1,"1","1","1","1:15.598",NA,"1:13.934",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Nelson","Piquet",1,"Brabham BMW","7",1,70,0,"1","1","1","1:13.656",NA,"1:10.869",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Patrick","Tambay",15,"Renault","8",10,69,0,NA,NA,NA,"1:14.534",NA,"1:13.138",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","9",21,68,0,"3","3","3","1:17.273",NA,"1:16.466",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Andrea","deCesaris",26,"Ligier Renault","10",19,68,0,"3","3","3","1:16.062",NA,"1:15.112",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Marc","Surer",17,"Arrows BMW","11",15,67,0,"4","4","4","1:18.008",NA,"1:14.336",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Riccardo","Patrese",22,"Alfa Romeo","12",17,66,0,NA,NA,NA,"1:17.319",NA,"1:14.568",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Huub","Rothengatter",21,"Spirit Hart","NC",22,62,0,"9","9","9","1:17.091",NA,"1:16.759",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Francois","Hesnault",25,"Ligier Renault","NC",20,43,0,NA,NA,NA,"1:18.126",NA,"1:15.837",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Alain","Prost",7,"McLaren TAG","NC",2,37,0,NA,NA,NA,"1:13.979",NA,"1:11.076",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Nigel","Mansell",12,"Lotus Renault","NC",8,24,0,NA,NA,NA,"1:17.326",NA,"1:12.435",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Thierry","Boutsen",18,"Arrows BMW","NC",12,24,0,NA,NA,NA,"1:17.750",NA,"1:13.528",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Jacques","Laffite",5,"Williams Honda","NC",16,14,0,NA,NA,NA,"1:18.006",NA,"1:14.568",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Jonathan","Palmer",10,"RAM Hart","NC",23,10,0,NA,NA,NA,"1:20.114",NA,"1:17.265",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Teo","Fabi",2,"Brabham BMW","NC",14,9,0,NA,NA,NA,"1:18.364",NA,"1:14.040",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Manfred","Winkelhock",14,"ATS BMW","NC",11,8,0,NA,NA,NA,"1:18.553",NA,"1:13.374",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1984,"22 Jul 1984","Keke","Rosberg",6,"Williams Honda","NC",5,5,0,NA,NA,NA,"1:19.336",NA,"1:11.603",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Alain","Prost",7,"McLaren TAG","1",1,44,9,"1:24:43.210",NA,NA,"1:53.538",NA,"1:47.012",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Niki","Lauda",8,"McLaren TAG","2",7,44,6,"1:24:46.358","3.149","3.14800000190735","1:53.778",NA,"1:48.912",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Derek","Warwick",16,"Renault","3",3,44,4,"1:25:19.633","36.423","33.2749998569489","1:55.024",NA,"1:48.382",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Nigel","Mansell",12,"Lotus Renault","4",16,44,3,"1:25:34.873","51.663","15.2400000095367","1:54.466",NA,"1:51.715",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Patrick","Tambay",15,"Renault","5",4,44,2,"1:25:55.158","71.949","20.2850000858307","1:54.583",NA,"1:48.425",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Rene","Arnoux",28,"Ferrari","6",10,43,1,"1","1","1","1:55.668",NA,"1:49.857",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Andrea","deCesaris",26,"Ligier Renault","7",11,43,0,"1","1","1","1:58.588",NA,"1:50.117",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Francois","Hesnault",25,"Ligier Renault","8",17,43,0,"1","1","1","1:58.421",NA,"1:51.872",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Huub","Rothengatter",21,"Spirit Hart","9",24,40,0,"4","4","4","2:03.195",NA,"1:56.112",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Manfred","Winkelhock",14,"ATS BMW","NC",13,31,0,NA,NA,NA,"1:58.658",NA,"1:50.686",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Eddie","Cheever",23,"Alfa Romeo","NC",18,29,0,NA,NA,NA,"1:57.460",NA,"1:51.950",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Teo","Fabi",2,"Brabham BMW","NC",8,28,0,NA,NA,NA,"1:55.062",NA,"1:49.302",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Nelson","Piquet",1,"Brabham BMW","NC",5,23,0,NA,NA,NA,"1:54.328",NA,"1:48.584",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Riccardo","Patrese",22,"Alfa Romeo","NC",20,16,0,NA,NA,NA,"1:58.257",NA,"1:52.769",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","NC",21,14,0,NA,NA,NA,"1:58.425",NA,"1:54.546",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Jo","Gartner",30,"Osella Alfa Romeo","NC",23,13,0,NA,NA,NA,"1:59.567",NA,"1:55.594",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Michele","Alboreto",27,"Ferrari","NC",6,13,0,NA,NA,NA,"1:56.930",NA,"1:48.847",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Jonathan","Palmer",10,"RAM Hart","NC",25,11,0,NA,NA,NA,"2:01.116",NA,"1:56.797",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Keke","Rosberg",6,"Williams Honda","NC",19,10,0,NA,NA,NA,"1:54.529",NA,"1:52.003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Jacques","Laffite",5,"Williams Honda","NC",12,10,0,NA,NA,NA,"1:55.176",NA,"1:50.511",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Thierry","Boutsen",18,"Arrows BMW","NC",15,8,0,NA,NA,NA,"1:57.142",NA,"1:51.551",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Elio","deAngelis",11,"Lotus Renault","NC",2,8,0,NA,NA,NA,"1:54.776",NA,"1:47.065",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Philippe","Alliot",9,"RAM Hart","NC",22,7,0,NA,NA,NA,"2:02.203",NA,"1:55.505",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Ayrton","Senna",19,"Toleman Hart","NC",9,4,0,NA,NA,NA,"1:55.712",NA,"1:49.395",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1984,"05 Aug 1984","Marc","Surer",17,"Arrows BMW","NC",14,1,0,NA,NA,NA,"3:02.645",NA,"1:51.475",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Niki","Lauda",8,"McLaren TAG","1",4,51,9,"1:21:12.851",NA,NA,"1:32.882",NA,"1:26.715",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Nelson","Piquet",1,"Brabham BMW","2",1,51,6,"1:21:36.376","23.525","23.5249998569489","1:33.074",NA,"1:26.173",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Michele","Alboreto",27,"Ferrari","3",12,51,4,"1:22:01.848","48.998","25.4720001220703","1:34.821",NA,"1:29.694",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Teo","Fabi",2,"Brabham BMW","4",7,51,3,"1:22:09.163","56.312","7.31500005722046","1:34.342",NA,"1:27.201",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Thierry","Boutsen",18,"Arrows BMW","5",17,50,2,"1","1","1","1:36.105",NA,"1:31.189",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Marc","Surer",17,"Arrows BMW","6",19,50,1,"1","1","1","1:35.209",NA,"1:31.655",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Rene","Arnoux",28,"Ferrari","7",15,50,0,"1","1","1","1:35.846",NA,"1:31.003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Francois","Hesnault",25,"Ligier Renault","8",21,49,0,"2","2","2","1:37.906",NA,"1:32.270",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Jonathan","Palmer",10,"RAM Hart","9",24,49,0,"2","2","2","1:37.626",NA,"1:34.128",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Riccardo","Patrese",22,"Alfa Romeo","10",13,48,0,NA,NA,NA,"1:35.659",NA,"1:30.736",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Philippe","Alliot",9,"RAM Hart","11",25,48,0,"3","3","3","1:39.245",NA,"1:34.495",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Gerhard","Berger",31,"ATS BMW","12",20,48,0,"3","3","3","1:36.914",NA,"1:31.904",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Patrick","Tambay",15,"Renault","NC",5,42,0,NA,NA,NA,"1:33.056",NA,"1:26.748",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Ayrton","Senna",19,"Toleman Hart","NC",10,35,0,NA,NA,NA,"1:34.348",NA,"1:29.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Nigel","Mansell",12,"Lotus Renault","NC",8,32,0,NA,NA,NA,"1:34.401",NA,"1:27.558",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Alain","Prost",7,"McLaren TAG","NC",2,28,0,NA,NA,NA,"1:33.081",NA,"1:26.203",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Elio","deAngelis",11,"Lotus Renault","NC",3,28,0,NA,NA,NA,"1:33.227",NA,"1:26.318",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Huub","Rothengatter",21,"Spirit Hart","NC",26,23,0,NA,NA,NA,"1:41.317",NA,"1:35.605",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Eddie","Cheever",23,"Alfa Romeo","NC",16,18,0,NA,NA,NA,"1:36.197",NA,"1:31.045",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Derek","Warwick",16,"Renault","NC",6,17,0,NA,NA,NA,"1:34.469",NA,"1:27.123",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Andrea","deCesaris",26,"Ligier Renault","NC",18,15,0,NA,NA,NA,"1:36.976",NA,"1:31.588",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Keke","Rosberg",6,"Williams Honda","NC",9,15,0,NA,NA,NA,"1:35.944",NA,"1:28.760",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Jacques","Laffite",5,"Williams Honda","NC",11,12,0,NA,NA,NA,"1:35.240",NA,"1:29.228",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Jo","Gartner",30,"Osella Alfa Romeo","NC",22,6,0,NA,NA,NA,"1:40.359",NA,"1:33.019",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1984,"19 Aug 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","NC",23,4,0,NA,NA,NA,"1:39.297",NA,"1:33.172",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Alain","Prost",7,"McLaren TAG","1",1,71,9,"1:37:21.468",NA,NA,"1:20.063",NA,"1:13.567",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Niki","Lauda",8,"McLaren TAG","2",6,71,6,"1:37:31.750","10.283","10.2820000648499","1:20.470",NA,"1:14.866",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Nigel","Mansell",12,"Lotus Renault","3",12,71,4,"1:38:41.011","79.544","1.15434999863307","1:21.463",NA,"1:15.811",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Elio","deAngelis",11,"Lotus Renault","4",3,70,3,"1","1","1","1:21.455",NA,"1:13.883",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Teo","Fabi",2,"Brabham BMW","5",10,70,2,"1","1","1","1:20.861",NA,"1:15.338",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Patrick","Tambay",15,"Renault","6",5,70,1,"1","1","1","1:20.585",NA,"1:14.566",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Francois","Hesnault",25,"Ligier Renault","7",20,69,0,"2","2","2","1:23.153",NA,"1:17.905",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Keke","Rosberg",6,"Williams Honda","8",7,68,0,NA,NA,NA,"1:21.593",NA,"1:15.117",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Jonathan","Palmer",10,"RAM Hart","9",22,67,0,"4","4","4","1:22.835",NA,"1:19.598",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Philippe","Alliot",9,"RAM Hart","10",24,67,0,"4","4","4","1:24.517",NA,"1:20.270",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Rene","Arnoux",28,"Ferrari","11",15,66,0,NA,NA,NA,"1:19.465",NA,"1:16.121",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Jo","Gartner",30,"Osella Alfa Romeo","12",23,66,0,"5","5","5","1:23.615",NA,"1:20.017",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Eddie","Cheever",23,"Alfa Romeo","13",17,65,0,NA,NA,NA,"1:21.203",NA,"1:16.991",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Thierry","Boutsen",18,"Arrows BMW","NC",11,59,0,NA,NA,NA,"1:21.516",NA,"1:15.735",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Huub","Rothengatter",21,"Spirit Hart","NC",25,53,0,NA,NA,NA,"1:24.562",NA,"1:21.063",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Riccardo","Patrese",22,"Alfa Romeo","NC",18,51,0,NA,NA,NA,"1:22.486",NA,"1:17.124",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Andrea","deCesaris",26,"Ligier Renault","NC",14,31,0,NA,NA,NA,"1:22.668",NA,"1:16.070",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Jacques","Laffite",5,"Williams Honda","NC",8,23,0,NA,NA,NA,"1:21.898",NA,"1:15.231",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Derek","Warwick",16,"Renault","NC",4,23,0,NA,NA,NA,"1:22.203",NA,"1:14.405",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Manfred","Winkelhock",14,"ATS BMW","NC",16,22,0,NA,NA,NA,"1:23.934",NA,"1:16.450",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Ayrton","Senna",19,"Toleman Hart","NC",13,19,0,NA,NA,NA,"1:21.683",NA,"1:15.960",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Marc","Surer",17,"Arrows BMW","NC",19,17,0,NA,NA,NA,"1:23.141",NA,"1:17.368",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Nelson","Piquet",1,"Brabham BMW","NC",2,10,0,NA,NA,NA,"1:20.942",NA,"1:13.872",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","NC",21,8,0,NA,NA,NA,"1:25.656",NA,"1:19.454",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1984,"26 Aug 1984","Michele","Alboreto",27,"Ferrari","NC",9,7,0,NA,NA,NA,"1:21.442",NA,"1:15.264",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Niki","Lauda",8,"McLaren TAG","1",4,51,9,"1:20:29.065",NA,NA,"1:31.912",NA,"1:28.533",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Michele","Alboreto",27,"Ferrari","2",11,51,6,"1:20:53.314","24.249","24.2489998340607","1:33.159",NA,"1:29.810",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Riccardo","Patrese",22,"Alfa Romeo","3",9,50,4,"1","1","1","1:35.574",NA,"1:29.382",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Stefan","Johansson",19,"Toleman Hart","4",17,49,3,"2","2","2","1:33.867",NA,"1:31.203",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Jo","Gartner",30,"Osella Alfa Romeo","5",24,49,0,"2","2","2","1:37.278",NA,"1:34.472",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Gerhard","Berger",31,"ATS BMW","6",20,49,0,"2","2","2","1:37.748",NA,"1:31.549",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","7",22,48,0,NA,NA,NA,"1:36.036",NA,"1:33.456",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Huub","Rothengatter",21,"Spirit Hart","8",25,48,0,"3","3","3","1:38.351",NA,"1:34.719",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Eddie","Cheever",23,"Alfa Romeo","NC",10,45,0,NA,NA,NA,"1:33.666",NA,"1:29.797",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Thierry","Boutsen",18,"Arrows BMW","NC",19,45,0,NA,NA,NA,"1:33.280",NA,"1:31.342",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Patrick","Tambay",15,"Renault","NC",8,43,0,NA,NA,NA,"1:32.433",NA,"1:29.253",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Teo","Fabi",2,"Brabham BMW","NC",5,43,0,NA,NA,NA,"1:32.418",NA,"1:28.587",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Marc","Surer",17,"Arrows BMW","NC",15,43,0,NA,NA,NA,"1:34.657",NA,"1:31.108",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Derek","Warwick",16,"Renault","NC",12,31,0,NA,NA,NA,"1:33.359",NA,"1:30.113",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Jonathan","Palmer",10,"RAM Hart","NC",26,20,0,NA,NA,NA,"1:38.967",NA,"1:35.412",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Nelson","Piquet",1,"Brabham BMW","NC",1,15,0,NA,NA,NA,"1:34.076",NA,"1:26.584",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Elio","deAngelis",11,"Lotus Renault","NC",3,14,0,NA,NA,NA,"1:35.900",NA,"1:27.538",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Nigel","Mansell",12,"Lotus Renault","NC",7,13,0,NA,NA,NA,"1:34.907",NA,"1:28.969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Jacques","Laffite",5,"Williams Honda","NC",13,10,0,NA,NA,NA,"1:35.268",NA,"1:30.578",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Keke","Rosberg",6,"Williams Honda","NC",6,8,0,NA,NA,NA,"1:35.245",NA,"1:28.818",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Andrea","deCesaris",26,"Ligier Renault","NC",16,7,0,NA,NA,NA,"1:36.893",NA,"1:31.198",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Francois","Hesnault",25,"Ligier Renault","NC",18,7,0,NA,NA,NA,"1:37.300",NA,"1:31.274",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Philippe","Alliot",9,"RAM Hart","NC",23,6,0,NA,NA,NA,"1:38.647",NA,"1:34.120",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Rene","Arnoux",28,"Ferrari","NC",14,5,0,NA,NA,NA,"1:35.453",NA,"1:30.695",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1984,"09 Sep 1984","Alain","Prost",7,"McLaren TAG","NC",2,3,0,NA,NA,NA,"1:35.604",NA,"1:26.671",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Alain","Prost",7,"McLaren TAG","1",2,67,9,"1:35:13.284",NA,NA,"1:24.182",NA,"1:19.175",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Michele","Alboreto",27,"Ferrari","2",5,67,6,"1:35:37.194","23.911","23.9100000858307","1:23.146",NA,"1:20.910",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Nelson","Piquet",1,"Brabham BMW","3",1,67,4,"1:35:38.205","24.922","1.01099991798401","1:23.146",NA,"1:18.871",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Niki","Lauda",8,"McLaren TAG","4",15,67,3,"1:35:56.369","43.086","18.1640000343323","1:23.729",NA,"1:22.643",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Rene","Arnoux",28,"Ferrari","5",6,67,2,"1:36:14.713","61.430","18.3440001010895","1:24.169",NA,"1:21.180",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Riccardo","Patrese",22,"Alfa Romeo","6",9,66,1,"1","1","1","1:25.644",NA,"1:21.937",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Andrea","deCesaris",26,"Ligier Renault","7",17,65,0,"2","2","2","1:26.378",NA,"1:23.034",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Mauro","Baldi",21,"Spirit Hart","8",24,65,0,"2","2","2","1:26.680",NA,"1:28.137",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Thierry","Boutsen",18,"Arrows BMW","9",11,64,0,NA,NA,NA,"1:25.908",NA,"1:22.248",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Francois","Hesnault",25,"Ligier Renault","10",19,64,0,"3","3","3","1:28.276",NA,"1:23.322",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Derek","Warwick",16,"Renault","11",7,61,0,NA,NA,NA,"1:24.211",NA,"1:21.571",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Jo","Gartner",30,"Osella Alfa Romeo","NC",22,60,0,NA,NA,NA,"1:28.249",NA,"1:26.156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Teo","Fabi",2,"Brabham BMW","NC",10,57,0,NA,NA,NA,"1:24.814",NA,"1:22.206",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Nigel","Mansell",12,"Lotus Renault","NC",8,51,0,NA,NA,NA,"1:23.978",NA,"1:21.710",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Patrick","Tambay",15,"Renault","NC",3,47,0,NA,NA,NA,"1:24.671",NA,"1:19.499",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Eddie","Cheever",23,"Alfa Romeo","NC",13,37,0,NA,NA,NA,"1:25.512",NA,"1:22.525",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Philippe","Alliot",9,"RAM Hart","NC",25,37,0,NA,NA,NA,"1:30.480",NA,"1:30.259",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Jonathan","Palmer",10,"RAM Hart","NC",21,35,0,NA,NA,NA,"1:30.415",NA,"1:25.050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Jacques","Laffite",5,"Williams Honda","NC",14,27,0,NA,NA,NA,"1:25.687",NA,"1:22.613",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Elio","deAngelis",11,"Lotus Renault","NC",23,25,0,NA,NA,NA,"1:25.836",NA,"1:26.161",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Europe","Nürburgring, Germany",1984,"07 Oct 1984","Stefan","Johansson",20,"Toleman Hart","NC",26,17,0,NA,NA,NA,"1:26.943",NA,"1:41.178",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Alain","Prost",7,"McLaren TAG","1",2,70,9,"1:41:11.753",NA,NA,"1:23.452",NA,"1:21.774",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Niki","Lauda",8,"McLaren TAG","2",11,70,6,"1:41:25.177","13.425","13.4240000247955","1:22.996",NA,"1:23.183",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Ayrton","Senna",19,"Toleman Hart","3",3,70,4,"1:41:31.795","20.042","6.61800003051758","1:24.373",NA,"1:21.936",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Michele","Alboreto",27,"Ferrari","4",8,70,3,"1:41:32.069","20.317","0.273999929428101","1:24.148",NA,"1:22.686",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Elio","deAngelis",11,"Lotus Renault","5",5,70,2,"1:42:43.921","92.169","1.19753333330154","1:25.680",NA,"1:22.291",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Nelson","Piquet",1,"Brabham BMW","6",1,69,1,"1","1","1","1:24.275",NA,"1:21.703",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Patrick","Tambay",15,"Renault","7",7,69,0,"1","1","1","1:25.506",NA,"1:22.583",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Riccardo","Patrese",22,"Alfa Romeo","8",12,69,0,"1","1","1","1:26.173",NA,"1:24.048",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Rene","Arnoux",28,"Ferrari","9",17,69,0,"1","1","1","1:25.711",NA,"1:24.848",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Manfred","Winkelhock",2,"Brabham BMW","10",19,69,0,"1","1","1","1:26.404",NA,"1:25.289",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Stefan","Johansson",20,"Toleman Hart","11",10,69,0,"1","1","1","1:24.053",NA,"1:22.942",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Andrea","deCesaris",26,"Ligier Renault","12",20,69,0,"1","1","1","1:26.806",NA,"1:26.082",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Gerhard","Berger",14,"ATS BMW","13",23,68,0,"2","2","2","1:26.601",NA,"1:28.106",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Jacques","Laffite",5,"Williams Honda","14",15,67,0,"3","3","3","1:24.507",NA,"1:24.437",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Mauro","Baldi",21,"Spirit Hart","15",25,66,0,"4","4","4","1:27.772",NA,"1:29.001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Jo","Gartner",30,"Osella Alfa Romeo","16",24,65,0,NA,NA,NA,"1:27.169",NA,"1:28.229",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Eddie","Cheever",23,"Alfa Romeo","17",14,64,0,"6","6","6","1:26.020",NA,"1:24.235",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Piercarlo","Ghinzani",24,"Osella Alfa Romeo","NC",22,60,0,NA,NA,NA,"1:28.410",NA,"1:26.840",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Nigel","Mansell",12,"Lotus Renault","NC",6,52,0,NA,NA,NA,"1:24.267",NA,"1:22.319",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Derek","Warwick",16,"Renault","NC",9,51,0,NA,NA,NA,"1:25.309",NA,"1:22.801",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Philippe","Streiff",33,"Renault","NC",13,48,0,NA,NA,NA,"1:26.874",NA,"1:24.089",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Keke","Rosberg",6,"Williams Honda","NC",4,39,0,NA,NA,NA,"1:25.667",NA,"1:22.049",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Francois","Hesnault",25,"Ligier Renault","NC",21,31,0,NA,NA,NA,"1:29.219",NA,"1:26.701",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Thierry","Boutsen",18,"Arrows BMW","NC",18,24,0,NA,NA,NA,"1:27.725",NA,"1:25.115",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Jonathan","Palmer",10,"RAM Hart","NC",26,19,0,NA,NA,NA,"1:30.711",NA,"1:29.397",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Marc","Surer",17,"Arrows BMW","NC",16,8,0,NA,NA,NA,"1:28.635",NA,"1:24.688",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1984,"21 Oct 1984","Philippe","Alliot",9,"RAM Hart","NC",27,2,0,NA,NA,NA,"1:35.542",NA,"1:30.406",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

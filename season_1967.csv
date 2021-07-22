@@ -1,0 +1,203 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Pedro","Rodriguez",4,"Cooper Maserati","1",4,80,9,"2:05:45.900",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","John","Love",17,"Cooper Climax","2",5,80,6,"2:06:12.300","26.400","26.3999998569489",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","John","Surtees",11,"Honda","3",6,79,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Denny","Hulme",2,"Brabham Repco","4",2,78,3,"2","2","2","1:29.900",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Bob","Anderson",14,"Brabham Climax","5",10,78,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Jack","Brabham",1,"Brabham Repco","6",1,76,1,"4","4","4",NA,NA,"1:28.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Dave","Charlton",19,"Brabham Climax","NC",8,63,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Luki","Botha",20,"Brabham Climax","NC",17,60,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Sam","Tingle",18,"LDS Climax","NC",14,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Piers","Courage",16,"Lotus BRM","NC",18,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Dan","Gurney",9,"Eagle Climax","NC",11,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Jo","Siffert",12,"Cooper Maserati","NC",16,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Jochen","Rindt",3,"Cooper Maserati","NC",7,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Mike","Spence",6,"BRM","NC",13,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Jo","Bonnier",15,"Cooper Maserati","NC",12,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Jim","Clark",7,"Lotus BRM","NC",3,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Graham","Hill",8,"Lotus BRM","NC",15,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1967,"02 Jan 1967","Jackie","Stewart",5,"BRM","NC",9,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Denny","Hulme",9,"Brabham Repco","1",4,100,9,"2:34:34.300",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Graham","Hill",14,"Lotus BRM","2",8,99,6,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Chris","Amon",20,"Ferrari","3",14,98,4,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Bruce","McLaren",16,"McLaren BRM","4",10,97,3,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Pedro","Rodriguez",11,"Cooper Maserati","5",16,96,2,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Mike","Spence",5,"BRM","6",12,96,1,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Lorenzo","Bandini",18,"Ferrari","NC",2,81,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Piers","Courage",6,"BRM","NC",13,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Jim","Clark",12,"Lotus Climax","NC",5,42,0,NA,NA,NA,"1:29.500",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","John","Surtees",7,"Honda","NC",3,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Jo","Siffert",17,"Cooper Maserati","NC",9,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Jochen","Rindt",10,"Cooper Maserati","NC",6,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Jackie","Stewart",4,"BRM","NC",15,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Dan","Gurney",23,"Eagle Weslake","NC",7,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Johnny","Servoz-Gavin",2,"Matra Ford","NC",11,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1967,"07 May 1967","Jack","Brabham",8,"Brabham Repco","NC",1,0,0,NA,NA,NA,NA,NA,"1:27.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Jim","Clark",5,"Lotus Ford","1",8,90,9,"2:14:45.100",NA,NA,"1:28.080",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Jack","Brabham",1,"Brabham Repco","2",NA,90,6,"2:15:08.699","23.600","23.5989999771118",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Denny","Hulme",2,"Brabham Repco","3",7,90,4,"2:15:10.799","25.700","2.10000014305115",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Chris","Amon",3,"Ferrari","4",9,90,3,"2:15:12.399","27.300","1.59999990463257",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Mike","Parkes",4,"Ferrari","5",10,89,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Ludovico","Scarfiotti",22,"Ferrari","6",15,89,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Chris","Irwin",18,"Lotus BRM","7",13,88,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Mike","Spence",10,"BRM","8",12,87,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Bob","Anderson",21,"Brabham Climax","9",17,86,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Jo","Siffert",20,"Cooper Maserati","10",16,83,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","John","Surtees",7,"Honda","NC",6,73,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Jackie","Stewart",9,"BRM","NC",11,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Jochen","Rindt",12,"Cooper Maserati","NC",4,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Pedro","Rodriguez",14,"Cooper Maserati","NC",5,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Graham","Hill",6,"Lotus Ford","NC",1,11,0,NA,NA,NA,NA,NA,"1:24.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Dan","Gurney",15,"Eagle Weslake","NC",2,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1967,"04 Jun 1967","Bruce","McLaren",17,"McLaren BRM","NC",14,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Dan","Gurney",36,"Eagle Weslake","1",2,28,9,"1:40:49.400",NA,NA,"3:31.900",NA,"",28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Jackie","Stewart",14,"BRM","2",6,28,6,"1:41:52.400","63.000","1.05",NA,NA,"",28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Chris","Amon",1,"Ferrari","3",5,28,4,"1:42:29.400","100.000","37",NA,NA,"",28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Jochen","Rindt",29,"Cooper Maserati","4",4,28,3,"1:43:03.300","133.900","33.8999998569489",NA,NA,"",28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Mike","Spence",12,"BRM","5",11,27,2,"1","1","1",NA,NA,"",27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Jim","Clark",21,"Lotus Ford","6",1,27,1,"1","1","1",NA,NA,"3:28.100",27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Jim","Clark",21,"Lotus Ford","6",13,27,1,"1","1","1",NA,NA,"",27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Jo","Siffert",34,"Cooper Maserati","7",16,27,0,"1","1","1",NA,NA,"",27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Bob","Anderson",19,"Brabham Climax","8",17,26,0,"2","2","2",NA,NA,"",26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Pedro","Rodriguez",30,"Cooper Maserati","9",NA,25,0,NA,NA,NA,NA,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Guy","Ligier",32,"Cooper Maserati","10",18,25,0,"3","3","3",NA,NA,"",25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Ludovico","Scarfiotti",2,"Ferrari","NC",9,24,0,"4","4","4",NA,NA,"",24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Jack","Brabham",25,"Brabham Repco","NC",7,15,0,NA,NA,NA,NA,NA,"",15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Denny","Hulme",26,"Brabham Repco","NC",14,14,0,NA,NA,NA,NA,NA,"",14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Jo","Bonnier",39,"Cooper Maserati","NC",12,10,0,NA,NA,NA,NA,NA,"",10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Graham","Hill",22,"Lotus Ford","NC",3,3,0,NA,NA,NA,NA,NA,"",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Chris","Irwin",17,"BRM","NC",15,1,0,NA,NA,NA,NA,NA,"",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","John","Surtees",7,"Honda","NC",10,1,0,NA,NA,NA,NA,NA,"",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1967,"18 Jun 1967","Mike","Parkes",3,"Ferrari","NC",8,0,0,NA,NA,NA,NA,NA,"",0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Jack","Brabham",3,"Brabham Repco","1",2,80,9,"2:13:21.300",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Denny","Hulme",4,"Brabham Repco","2",6,80,6,"2:14:10.799","49.500","49.4990000724792",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Jackie","Stewart",10,"BRM","3",10,79,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Jo","Siffert",18,"Cooper Maserati","4",11,77,3,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Chris","Irwin",15,"BRM","5",9,76,2,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Pedro","Rodriguez",14,"Cooper Maserati","6",13,76,1,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Guy","Ligier",16,"Cooper Maserati","NC",15,68,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Chris","Amon",2,"Ferrari","NC",7,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Dan","Gurney",9,"Eagle Weslake","NC",3,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Jochen","Rindt",12,"Cooper Maserati","NC",8,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Bruce","McLaren",8,"Eagle Weslake","NC",5,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Jim","Clark",6,"Lotus Ford","NC",4,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Bob","Anderson",17,"Brabham Climax","NC",14,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Graham","Hill",7,"Lotus Ford","NC",1,13,0,NA,NA,NA,"1:36.700",NA,"1:36.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Bugatti Au Mans, France",1967,"02 Jul 1967","Mike","Spence",11,"BRM","NC",12,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Jim","Clark",5,"Lotus Ford","1",1,80,9,"1:59:25.600",NA,NA,NA,NA,"1:25.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Denny","Hulme",2,"Brabham Repco","2",4,80,6,"1:59:38.399","12.800","12.7990000247955","1:27.000",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Chris","Amon",8,"Ferrari","3",6,80,4,"1:59:42.199","16.600","3.79999995231628",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Jack","Brabham",1,"Brabham Repco","4",3,80,3,"1:59:47.399","21.800","5.20000004768372",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Pedro","Rodriguez",12,"Cooper Maserati","5",9,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","John","Surtees",7,"Honda","6",7,78,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Chris","Irwin",15,"BRM","7",13,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","David","Hobbs",20,"BRM","8",14,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Alan","Rees",14,"Cooper Maserati","9",15,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Guy","Ligier",18,"Brabham Repco","10",21,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Bob","Anderson",19,"Brabham Climax","NC",17,67,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Graham","Hill",6,"Lotus Ford","NC",2,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Mike","Spence",4,"BRM","NC",11,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Dan","Gurney",9,"Eagle Weslake","NC",5,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Silvio","Moser",22,"Cooper ATS","NC",20,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Jochen","Rindt",11,"Cooper Maserati","NC",8,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Jackie","Stewart",3,"BRM","NC",12,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Bruce","McLaren",10,"Eagle Weslake","NC",10,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Jo","Siffert",17,"Cooper Maserati","NC",18,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1967,"15 Jul 1967","Jo","Bonnier",23,"Cooper Maserati","NC",19,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Denny","Hulme",2,"Brabham Repco","1",2,15,9,"2:05:55.700",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Jack","Brabham",1,"Brabham Repco","2",7,15,6,"2:06:34.200","38.500","38.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Chris","Amon",8,"Ferrari","3",8,15,4,"2:06:34.700","39.000","0.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","John","Surtees",7,"Honda","4",6,15,3,"2:08:21.400","145.700","1.77833333412806",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Jackie","Oliver",24,"null","5",19,15,0,"2:12:04.900","369.200","3.725",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Jo","Bonnier",16,"Cooper Maserati","6",16,15,0,"2:14:37.799","522.100","2.54831666549047",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Alan","Rees",22,"null","7",20,15,0,"2:14:43.600","527.900","5.80099987983704",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Guy","Ligier",15,"Brabham Repco","8",17,14,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Chris","Irwin",18,"BRM","9",15,13,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","David","Hobbs",27,"Lola BMW","10",22,13,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Pedro","Rodriguez",6,"Cooper Maserati","11",10,13,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Dan","Gurney",9,"Eagle Weslake","NC",4,12,0,NA,NA,NA,"8:15.100",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Jacky","Ickx",29,"null","NC",18,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Brian","Hart",25,"null","NC",25,12,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Jo","Siffert",14,"Cooper Maserati","NC",12,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Graham","Hill",4,"Lotus Ford","NC",13,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Hubert","Hahne",17,"Lola BMW","NC",14,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Jackie","Stewart",11,"BRM","NC",3,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Jochen","Rindt",5,"Cooper Maserati","NC",9,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Jim","Clark",3,"Lotus Ford","NC",1,4,0,NA,NA,NA,NA,NA,"8:04.100",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Kurt","Ahrens",26,"null","NC",23,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Bruce","McLaren",10,"Eagle Weslake","NC",5,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Mike","Spence",12,"BRM","NC",11,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Jo","Schlesser",23,"null","NC",21,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1967,"06 Aug 1967","Gerhard","Mitter",20,"null","NC",24,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Jack","Brabham",1,"Brabham Repco","1",7,90,9,"2:40:40.000",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Denny","Hulme",2,"Brabham Repco","2",3,90,6,"2:41:41.900","61.900","1.03166666825612",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Dan","Gurney",10,"Eagle Weslake","3",5,89,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Graham","Hill",4,"Lotus Ford","4",2,88,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Mike","Spence",16,"BRM","5",10,87,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Chris","Amon",20,"Ferrari","6",4,87,1,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Bruce","McLaren",19,"McLaren BRM","7",6,86,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Jo","Bonnier",9,"Cooper Maserati","8",14,85,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","David","Hobbs",12,"BRM","9",12,85,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Richard","Attwood",8,"Cooper Maserati","10",13,84,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Mike","Fisher",6,"Lotus BRM","11",17,81,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Jim","Clark",3,"Lotus Ford","NC",1,69,0,NA,NA,NA,"1:23.100",NA,"1:22.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Eppie","Wietzes",5,"Lotus Ford","DQ",16,69,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Jackie","Stewart",15,"BRM","NC",9,65,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Al","Pease",11,"Eagle Climax","NC",15,47,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Chris","Irwin",17,"BRM","NC",11,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1967,"27 Aug 1967","Jochen","Rindt",71,"Cooper Maserati","NC",8,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","John","Surtees",14,"Honda","1",9,68,9,"1:43:45.000",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Jack","Brabham",16,"Brabham Repco","2",2,68,6,"1:43:45.200","0.200","0.200000047683716",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Jim","Clark",20,"Lotus Ford","3",1,68,4,"1:44:08.099","23.100","22.8989999294281","1:28.500",NA,"1:28.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Jochen","Rindt",30,"Cooper Maserati","4",11,68,3,"1:44:41.599","56.600","33.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Mike","Spence",36,"BRM","5",12,67,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Jacky","Ickx",32,"Cooper Maserati","6",15,66,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Chris","Amon",2,"Ferrari","7",4,64,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Graham","Hill",22,"Lotus Ford","NC",8,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Giancarlo","Baghetti",24,"Lotus Ford","NC",17,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Jo","Siffert",6,"Cooper Maserati","NC",13,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Bruce","McLaren",4,"McLaren BRM","NC",3,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Jo","Bonnier",26,"Cooper Maserati","NC",14,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Jackie","Stewart",34,"BRM","NC",7,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Denny","Hulme",18,"Brabham Repco","NC",6,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Guy","Ligier",12,"Brabham Repco","NC",18,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Chris","Irwin",38,"BRM","NC",16,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Ludovico","Scarfiotti",10,"Eagle Weslake","NC",10,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1967,"10 Sep 1967","Dan","Gurney",8,"Eagle Weslake","NC",5,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Jim","Clark",5,"Lotus Ford","1",2,108,9,"2:03:13.200",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Graham","Hill",6,"Lotus Ford","2",1,108,6,"2:03:19.500","6.300","6.29999995231628","1:06.000",NA,"1:05.480",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Denny","Hulme",2,"Brabham Repco","3",6,107,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Jo","Siffert",15,"Cooper Maserati","4",12,106,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Jack","Brabham",1,"Brabham Repco","5",5,104,2,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Jo","Bonnier",16,"Cooper Maserati","6",15,101,1,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Jean-Pierre","Beltoise",22,"Matra Ford","7",18,101,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","John","Surtees",3,"Honda","NC",11,96,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Chris","Amon",9,"Ferrari","NC",4,95,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Jackie","Stewart",7,"BRM","NC",10,72,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Jacky","Ickx",21,"Cooper Maserati","NC",16,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Guy","Ligier",19,"Brabham Repco","NC",17,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Chris","Irwin",17,"BRM","NC",14,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Mike","Spence",8,"BRM","NC",13,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Jochen","Rindt",4,"Cooper Maserati","NC",8,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Dan","Gurney",11,"Eagle Weslake","NC",3,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Bruce","McLaren",14,"McLaren BRM","NC",9,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1967,"01 Oct 1967","Moises","Solana",18,"Lotus Ford","NC",7,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Jim","Clark",5,"Lotus Ford","1",1,65,9,"1:59:28.700",NA,NA,"1:48.130",NA,"1:47.560",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Jack","Brabham",1,"Brabham Repco","2",5,65,6,"2:00:54.059","85.360","1.42264999945958",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Denny","Hulme",2,"Brabham Repco","3",6,64,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","John","Surtees",3,"Honda","4",7,64,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Mike","Spence",8,"BRM","5",11,63,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Pedro","Rodriguez",21,"Cooper Maserati","6",13,63,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Jean-Pierre","Beltoise",22,"Matra Ford","7",14,63,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Jonathan","Williams",12,"Ferrari","8",16,63,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Chris","Amon",9,"Ferrari","9",2,62,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Jo","Bonnier",16,"Cooper Maserati","10",17,61,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Guy","Ligier",19,"Brabham Repco","11",19,61,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Jo","Siffert",15,"Cooper Maserati","12",10,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Bruce","McLaren",14,"McLaren BRM","NC",8,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Chris","Irwin",17,"BRM","NC",15,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Jackie","Stewart",7,"BRM","NC",12,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Graham","Hill",6,"Lotus Ford","NC",4,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Moises","Solana",18,"Lotus Ford","NC",9,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Dan","Gurney",11,"Eagle Climax","NC",3,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1967,"22 Oct 1967","Mike","Fisher",10,"Lotus BRM","NC",18,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

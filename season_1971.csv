@@ -1,0 +1,256 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Mario","Andretti",6,"Ferrari","1",4,79,9,"1:47:35.500",NA,NA,"1:20.300",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Jackie","Stewart",9,"Tyrrell Ford","2",1,79,6,"1:47:56.400","20.900","20.9000000953674",NA,NA,"1:17.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Clay","Regazzoni",5,"Ferrari","3",3,79,4,"1:48:06.900","31.400","10.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Reine","Wisell",3,"Lotus Ford","4",14,79,3,"1:48:44.900","69.400","38",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Chris","Amon",19,"Matra","5",2,78,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Denny","Hulme",11,"McLaren Ford","6",7,78,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Brian","Redman",28,"Surtees Ford","7",17,78,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Jacky","Ickx",4,"Ferrari","8",8,78,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Graham","Hill",14,"Brabham Ford","9",19,77,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Ronnie","Peterson",7,"March Ford","10",13,77,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Henri","Pescarolo",22,"March Ford","11",18,77,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Rolf","Stommelen",21,"Surtees Ford","12",15,77,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Andrea","deAdamich",8,"March Alfa Romeo","13",22,75,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Emerson","Fittipaldi",2,"Lotus Ford","NC",5,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","John","Surtees",20,"Surtees Ford","NC",6,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Francois","Cevert",10,"Tyrrell Ford","NC",9,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Howden","Ganley",27,"BRM","NC",24,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Pedro","Rodriguez",16,"BRM","NC",10,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Jo","Siffert",17,"BRM","NC",16,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Dave","Charlton",15,"Brabham Ford","NC",12,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","John","Love",24,"March Ford","NC",21,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Jackie","Pretorius",25,"Brabham Ford","NC",20,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Peter","Gethin",12,"McLaren Ford","NC",11,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Jo","Bonnier",23,"McLaren Ford","NC",23,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1971,"06 Mar 1971","Alex","Soler-Roig",26,"March Ford","NC",25,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Jackie","Stewart",11,"Tyrrell Ford","1",4,75,9,"1:49:03.400",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Jacky","Ickx",4,"Ferrari","2",1,75,6,"1:49:06.800","3.400","3.39999985694885","1:25.100",NA,"1:25.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Chris","Amon",20,"Matra","3",3,75,4,"1:50:01.500","58.100","54.7000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Pedro","Rodriguez",14,"BRM","4",5,75,3,"1:50:21.300","77.900","19.7999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Denny","Hulme",9,"McLaren Ford","5",9,75,2,"1:50:30.400","87.000","9.10000014305115",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Jean-Pierre","Beltoise",21,"Matra","6",6,74,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Francois","Cevert",12,"Tyrrell Ford","7",12,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Peter","Gethin",10,"McLaren Ford","8",7,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Tim","Schenken",8,"Brabham Ford","9",21,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Howden","Ganley",16,"BRM","10",17,71,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","John","Surtees",24,"Surtees Ford","11",22,67,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Reine","Wisell",3,"Lotus Ford","NC",16,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Emerson","Fittipaldi",2,"Lotus Ford","NC",14,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Henri","Pescarolo",27,"March Ford","NC",11,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Mario","Andretti",6,"Ferrari","NC",8,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Alex","Soler-Roig",19,"March Ford","NC",20,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Andrea","deAdamich",17,"March Alfa Romeo","NC",18,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Ronnie","Peterson",18,"March Ford","NC",13,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Clay","Regazzoni",5,"Ferrari","NC",2,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Rolf","Stommelen",25,"Surtees Ford","NC",19,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Graham","Hill",7,"Brabham Ford","NC",15,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Montjuïc Circuit, Spain",1971,"18 Apr 1971","Jo","Siffert",15,"BRM","NC",10,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Jackie","Stewart",11,"Tyrrell Ford","1",1,80,9,"1:52:21.300",NA,NA,"1:22.200",NA,"1:23.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Ronnie","Peterson",17,"March Ford","2",8,80,6,"1:52:46.899","25.600","25.5989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Jacky","Ickx",4,"Ferrari","3",2,80,4,"1:53:14.599","53.300","27.7000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Denny","Hulme",9,"McLaren Ford","4",6,80,3,"1:53:28.000","66.700","13.4010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Emerson","Fittipaldi",1,"Lotus Ford","5",17,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Rolf","Stommelen",24,"Surtees Ford","6",16,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","John","Surtees",22,"Surtees Ford","7",10,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Henri","Pescarolo",27,"March Ford","8",13,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Pedro","Rodriguez",15,"BRM","9",5,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Tim","Schenken",8,"Brabham Ford","10",18,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Jo","Siffert",14,"BRM","NC",3,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Jean-Pierre","Beltoise",21,"Matra","NC",7,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Chris","Amon",20,"Matra","NC",4,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Clay","Regazzoni",3,"Ferrari","NC",11,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Peter","Gethin",10,"McLaren Ford","NC",14,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Reine","Wisell",2,"Lotus Ford","NC",12,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Francois","Cevert",12,"Tyrrell Ford","NC",15,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1971,"23 May 1971","Graham","Hill",7,"Brabham Ford","NC",9,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Jacky","Ickx",2,"Ferrari","1",1,70,9,"1:56:20.090",NA,NA,"1:34.950",NA,"1:17.420",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Pedro","Rodriguez",8,"BRM","2",2,70,6,"1:56:28.079","7.990","7.98900008201599",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Clay","Regazzoni",3,"Ferrari","3",4,69,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Ronnie","Peterson",16,"March Ford","4",13,68,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","John","Surtees",23,"Surtees Ford","5",7,68,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Jo","Siffert",9,"BRM","6",8,68,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Howden","Ganley",10,"BRM","7",9,66,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Gijs","vanLennep",30,"Surtees Ford","8",21,65,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Jean-Pierre","Beltoise",21,"Matra","9",11,65,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Graham","Hill",24,"Brabham Ford","10",16,65,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Jackie","Stewart",5,"Tyrrell Ford","11",3,65,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Denny","Hulme",26,"McLaren Ford","12",14,63,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Henri","Pescarolo",31,"March Ford","NC",15,62,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Skip","Barber",22,"March Ford","NC",24,60,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Peter","Gethin",28,"McLaren Ford","NC",23,60,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Alex","Soler-Roig",19,"March Ford","NC",17,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Tim","Schenken",25,"Brabham Ford","NC",19,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Francois","Cevert",6,"Tyrrell Ford","NC",12,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Rolf","Stommelen",29,"Surtees Ford","DQ",10,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Reine","Wisell",14,"Lotus Ford","DQ",6,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Nanni","Galli",18,"March Alfa Romeo","NC",20,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Dave","Walker",15,"Lotus Pratt & Whitney","NC",22,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Mario","Andretti",4,"Ferrari","NC",18,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1971,"20 Jun 1971","Chris","Amon",20,"Matra","NC",5,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Jackie","Stewart",11,"Tyrrell Ford","1",1,55,9,"1:46:41.680",NA,NA,"1:54.090",NA,"1:50.710",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Francois","Cevert",12,"Tyrrell Ford","2",7,55,6,"1:47:09.799","28.120","28.1189999580383",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Emerson","Fittipaldi",1,"Lotus Ford","3",17,55,4,"1:47:15.750","34.070","5.95099997520447",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Jo","Siffert",14,"BRM","4",6,55,3,"1:47:18.850","37.170","3.09999990463257",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Chris","Amon",20,"Matra","5",9,55,2,"1:47:22.759","41.080","3.90900015830994",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Reine","Wisell",2,"Lotus Ford","6",15,55,1,"1:47:57.700","76.020","34.9409999847412",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Jean-Pierre","Beltoise",21,"Matra","7",8,55,0,"1:47:58.610","76.930","0.909999847412109",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","John","Surtees",22,"Surtees Ford","8",13,55,0,"1:48:06.590","84.910","7.98000001907349",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Peter","Gethin",10,"McLaren Ford","9",19,54,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Howden","Ganley",16,"BRM","10",16,54,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Rolf","Stommelen",24,"Surtees Ford","11",10,53,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Tim","Schenken",8,"Brabham Ford","12",14,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Francois","Mazet",34,"March Ford","13",23,50,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Max","Jean",28,"March Ford","NC",22,46,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Henri","Pescarolo",27,"March Ford","NC",18,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Graham","Hill",7,"Brabham Ford","NC",4,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Andrea","deAdamich",19,"March Alfa Romeo","NC",20,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Pedro","Rodriguez",15,"BRM","NC",5,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Clay","Regazzoni",5,"Ferrari","NC",2,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Ronnie","Peterson",17,"March Alfa Romeo","NC",12,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Denny","Hulme",9,"McLaren Ford","NC",11,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Jacky","Ickx",4,"Ferrari","NC",3,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1971,"04 Jul 1971","Alex","Soler-Roig",18,"March Alfa Romeo","NC",21,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Jackie","Stewart",12,"Tyrrell Ford","1",2,68,9,"1:31:31.500",NA,NA,"1:19.900",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Ronnie","Peterson",18,"March Ford","2",5,68,6,"1:32:07.599","36.100","36.0989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Emerson","Fittipaldi",1,"Lotus Ford","3",4,68,4,"1:32:22.000","50.500","14.4010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Henri","Pescarolo",26,"March Ford","4",17,67,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Rolf","Stommelen",24,"Surtees Ford","5",12,67,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","John","Surtees",23,"Surtees Ford","6",18,67,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Jean-Pierre","Beltoise",22,"Matra","7",15,66,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Howden","Ganley",17,"BRM","8",11,66,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Jo","Siffert",16,"BRM","9",3,66,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Francois","Cevert",14,"Tyrrell Ford","10",10,65,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Nanni","Galli",20,"March Ford","11",21,65,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Tim","Schenken",8,"Brabham Ford","12",7,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Reine","Wisell",3,"Lotus Ford","NC",19,57,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Andrea","deAdamich",19,"March Alfa Romeo","NC",24,56,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Peter","Gethin",10,"McLaren Ford","NC",14,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Jacky","Ickx",4,"Ferrari","NC",6,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Clay","Regazzoni",5,"Ferrari","NC",1,48,0,NA,NA,NA,NA,NA,"1:18.100",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Chris","Amon",21,"Matra","NC",9,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Denny","Hulme",9,"McLaren Ford","NC",8,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Derek","Bell",25,"Surtees Ford","NC",23,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Mike","Beuttler",6,"March Ford","NC",20,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Dave","Charlton",2,"Lotus Ford","NC",13,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Jackie","Oliver",11,"McLaren Ford","NC",22,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1971,"17 Jul 1971","Graham","Hill",7,"Brabham Ford","NC",16,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Jackie","Stewart",2,"Tyrrell Ford","1",1,12,9,"1:29:15.700",NA,NA,NA,NA,"7:19.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Francois","Cevert",3,"Tyrrell Ford","2",5,12,6,"1:29:45.799","30.100","30.0989999771118","7:20.100",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Clay","Regazzoni",6,"Ferrari","3",4,12,4,"1:29:52.799","37.100","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Mario","Andretti",5,"Ferrari","4",11,12,3,"1:31:20.700","125.000","1.46501666704814",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Ronnie","Peterson",15,"March Ford","5",7,12,2,"1:31:44.799","149.100","24.0989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Tim","Schenken",25,"Brabham Ford","6",9,12,1,"1:32:14.299","178.600","29.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","John","Surtees",7,"Surtees Ford","7",15,12,0,"1:32:34.700","199.000","20.4010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Reine","Wisell",9,"Lotus Ford","8",17,12,0,"1:35:47.400","391.700","3.2116666674614",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Graham","Hill",24,"Brabham Ford","9",13,12,0,"1:35:52.700","397.000","5.29999995231628",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Rolf","Stommelen",12,"Surtees Ford","10",12,11,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Vic","Elford",22,"BRM","11",18,11,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Nanni","Galli",17,"March Alfa Romeo","12",21,10,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Emerson","Fittipaldi",8,"Lotus Ford","NC",8,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Jo","Siffert",21,"BRM","NC",3,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Chris","Amon",10,"Matra","NC",16,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Peter","Gethin",20,"McLaren Ford","NC",19,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Henri","Pescarolo",14,"March Ford","NC",10,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Mike","Beuttler",28,"March Ford","DQ",22,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Denny","Hulme",18,"McLaren Ford","NC",6,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Andrea","deAdamich",16,"March Alfa Romeo","NC",20,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Howden","Ganley",23,"BRM","NC",14,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1971,"01 Aug 1971","Jacky","Ickx",4,"Ferrari","NC",2,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Jo","Siffert",14,"BRM","1",1,54,9,"1:30:23.910",NA,NA,"1:38.470",NA,"1:37.440",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Emerson","Fittipaldi",2,"Lotus Ford","2",5,54,6,"1:30:28.029","4.120","4.11899995803833",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Tim","Schenken",8,"Brabham Ford","3",7,54,4,"1:30:43.680","19.770","15.6510000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Reine","Wisell",3,"Lotus Ford","4",10,54,3,"1:30:55.779","31.870","12.0989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Graham","Hill",7,"Brabham Ford","5",8,54,2,"1:31:12.340","48.430","16.5609998703003",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Henri","Pescarolo",25,"March Ford","6",13,54,1,"1:31:48.420","84.510","36.0800001621246",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Rolf","Stommelen",24,"Surtees Ford","7",12,54,0,"1:32:01.330","97.420","12.9099998474121",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Ronnie","Peterson",17,"March Ford","8",11,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Jackie","Oliver",10,"McLaren Ford","9",22,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Peter","Gethin",23,"BRM","10",16,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Helmut","Marko",16,"BRM","11",17,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Nanni","Galli",19,"March Alfa Romeo","12",15,51,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Mike","Beuttler",27,"March Ford","NC",19,47,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Francois","Cevert",12,"Tyrrell Ford","NC",3,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Jackie","Stewart",11,"Tyrrell Ford","NC",2,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Jacky","Ickx",4,"Ferrari","NC",6,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Niki","Lauda",26,"March Ford","NC",21,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","John","Surtees",22,"Surtees Ford","NC",18,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Clay","Regazzoni",5,"Ferrari","NC",4,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Howden","Ganley",15,"BRM","NC",14,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1971,"15 Aug 1971","Denny","Hulme",9,"McLaren Ford","NC",9,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Peter","Gethin",18,"BRM","1",11,55,9,"1:18:12.600",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Ronnie","Peterson",25,"March Ford","2",6,55,6,"1:18:12.609","0.010","0.00900006294250488",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Francois","Cevert",2,"Tyrrell Ford","3",5,55,4,"1:18:12.689","0.090","0.0799999237060547",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Mike","Hailwood",9,"Surtees Ford","4",17,55,3,"1:18:12.779","0.180","0.0900001525878906",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Howden","Ganley",19,"BRM","5",4,55,2,"1:18:13.209","0.610","0.430000066757202",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Chris","Amon",12,"Matra","6",1,55,1,"1:18:44.959","32.360","31.75",NA,NA,"1:22.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Jackie","Oliver",14,"McLaren Ford","7",13,55,0,"1:19:37.429","84.830","52.4699997901917",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Emerson","Fittipaldi",5,"Lotus Ford","8",18,54,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Jo","Siffert",20,"BRM","9",3,53,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Jo","Bonnier",28,"McLaren Ford","10",21,51,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Graham","Hill",10,"Brabham Ford","NC",14,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Jean-Pierre","Jarier",26,"March Ford","NC",24,47,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Mike","Beuttler",24,"March Ford","NC",16,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Henri","Pescarolo",16,"March Ford","NC",10,40,0,NA,NA,NA,"1:23.800",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Andrea","deAdamich",23,"March Alfa Romeo","NC",20,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Clay","Regazzoni",4,"Ferrari","NC",8,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Jacky","Ickx",3,"Ferrari","NC",2,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Jackie","Stewart",30,"Tyrrell Ford","NC",7,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Nanni","Galli",22,"March Ford","NC",19,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Silvio","Moser",27,"Bellasi Ford","NC",22,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Tim","Schenken",11,"Brabham Ford","NC",9,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Helmut","Marko",21,"BRM","NC",12,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1971,"05 Sep 1971","Rolf","Stommelen",8,"Surtees Ford","NC",23,NA,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Jackie","Stewart",11,"Tyrrell Ford","1",1,64,9,"1:55:12.900",NA,NA,NA,NA,"1:15.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Ronnie","Peterson",17,"March Ford","2",6,64,6,"1:55:51.200","38.300","38.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Mark","Donohue",10,"McLaren Ford","3",8,64,4,"1:56:48.700","95.800","57.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Denny","Hulme",9,"McLaren Ford","4",10,63,3,"1","1","1","1:43.500",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Reine","Wisell",3,"Lotus Ford","5",7,63,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Francois","Cevert",12,"Tyrrell Ford","6",3,62,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Emerson","Fittipaldi",2,"Lotus Ford","7",4,62,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Jacky","Ickx",4,"Ferrari","8",12,62,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Jo","Siffert",14,"BRM","9",2,61,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Chris","Amon",20,"Matra","10",5,61,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","John","Surtees",22,"Surtees Ford","11",14,60,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Helmut","Marko",31,"BRM","12",19,60,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Mario","Andretti",6,"Ferrari","13",13,60,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Peter","Gethin",15,"BRM","14",16,59,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","George","Eaton",28,"BRM","15",21,59,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Nanni","Galli",18,"March Ford","16",20,57,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Mike","Beuttler",19,"March Ford","NC",22,56,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Pete","Lovely",35,"Lotus Ford","NC",25,55,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Rolf","Stommelen",24,"Surtees Ford","NC",23,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Jean-Pierre","Beltoise",21,"Matra","NC",11,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Skip","Barber",33,"March Ford","NC",24,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Clay","Regazzoni",5,"Ferrari","NC",18,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Graham","Hill",37,"Brabham Ford","NC",15,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1971,"19 Sep 1971","Tim","Schenken",8,"Brabham Ford","NC",17,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Francois","Cevert",9,"Tyrrell Ford","1",5,59,9,"1:43:51.991",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Jo","Siffert",14,"BRM","2",6,59,6,"1:44:32.052","40.062","40.0610001087189",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Ronnie","Peterson",25,"March Ford","3",11,59,4,"1:44:36.060","44.070","4.00799989700317",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Howden","Ganley",16,"BRM","4",12,59,3,"1:44:48.740","56.749","12.6800000667572",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Jackie","Stewart",8,"Tyrrell Ford","5",1,59,2,"1:44:51.993","60.003","3.25300002098083",NA,NA,"1:42.642",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Clay","Regazzoni",5,"Ferrari","6",4,59,1,"1:45:08.417","76.426","16.4240000247955",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Graham","Hill",22,"Brabham Ford","7",18,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Jean-Pierre","Beltoise",12,"Matra","8",10,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Peter","Gethin",15,"BRM","9",21,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","David","Hobbs",31,"McLaren Ford","10",22,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Andrea","deAdamich",27,"March Alfa Romeo","11",26,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Chris","Amon",11,"Matra","12",8,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Helmut","Marko",17,"BRM","13",16,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","John","Cannon",28,"BRM","14",24,56,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Mike","Hailwood",20,"Surtees Ford","15",14,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Jo","Bonnier",29,"McLaren Ford","16",28,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","John","Surtees",18,"Surtees Ford","17",13,54,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Skip","Barber",33,"March Ford","NC",25,52,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Emerson","Fittipaldi",2,"Lotus Ford","NC",2,49,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Pete","Lovely",30,"Lotus Ford","NC",29,49,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Jacky","Ickx",4,"Ferrari","NC",7,49,0,NA,NA,NA,"1:43.474",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Denny","Hulme",7,"McLaren Ford","NC",3,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Tim","Schenken",23,"Brabham Ford","NC",15,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Chris","Craft",24,"Brabham Ford","NC",27,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Henri","Pescarolo",21,"March Ford","NC",20,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Sam","Posey",19,"Surtees Ford","NC",17,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Nanni","Galli",26,"March Ford","NC",23,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Reine","Wisell",3,"Lotus Ford","NC",9,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1971,"03 Oct 1971","Peter","Revson",10,"Tyrrell Ford","NC",19,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

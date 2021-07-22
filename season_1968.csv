@@ -1,0 +1,227 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Jim","Clark",4,"Lotus Ford","1",1,80,9,"1:53:56.600",NA,NA,"1:23.700",NA,"1:21.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Graham","Hill",5,"Lotus Ford","2",2,80,6,"1:54:21.899","25.300","25.2990000247955",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Jochen","Rindt",3,"Brabham Repco","3",4,80,4,"1:54:27.000","30.400","5.1010000705719",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Chris","Amon",8,"Ferrari","4",8,78,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Denny","Hulme",1,"Mclaren BRM","5",9,78,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Jean-Pierre","Beltoise",21,"Matra Ford","6",18,77,1,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Jo","Siffert",19,"Cooper Maserati","7",16,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","John","Surtees",7,"Honda","8",6,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","John","Love",17,"Brabham Repco","9",17,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Jackie","Pretorius",23,"Brabham Climax","NC",23,70,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Dan","Gurney",6,"Eagle Weslake","NC",12,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Jacky","Ickx",9,"Ferrari","NC",11,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Jo","Bonnier",20,"Cooper Maserati","NC",19,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Jackie","Stewart",16,"Matra Ford","NC",3,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Sam","Tingle",18,"LDS Repco","NC",22,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Basil","vanRooyen",25,"Cooper Climax","NC",20,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Pedro","Rodriguez",11,"BRM","NC",10,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Jack","Brabham",2,"Brabham Repco","NC",5,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Andrea","deAdamich",10,"Ferrari","NC",7,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Mike","Spence",12,"BRM","NC",13,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Brian","Redman",14,"Cooper Maserati","NC",21,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Dave","Charlton",22,"Brabham Repco","NC",14,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1968,"01 Jan 1968","Ludovico","Scarfiotti",15,"Cooper Maserati","NC",15,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","Graham","Hill",10,"Lotus Ford","1",6,90,9,"2:15:20.100",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","Denny","Hulme",1,"McLaren Ford","2",3,90,6,"2:15:36.000","15.900","15.9000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","Brian","Redman",14,"Cooper BRM","3",13,89,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","Ludovico","Scarfiotti",15,"Cooper BRM","4",12,89,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","Jean-Pierre","Beltoise",6,"Matra Ford","5",5,81,2,"9","9","9","1:28.300",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","Bruce","McLaren",2,"McLaren Ford","NC",4,77,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","John","Surtees",7,"Honda","NC",7,74,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","Jo","Siffert",16,"Lotus Ford","NC",10,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","Chris","Amon",19,"Ferrari","NC",1,57,0,NA,NA,NA,NA,NA,"1:27.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","Piers","Courage",5,"BRM","NC",11,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","Pedro","Rodriguez",9,"BRM","NC",2,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","Jacky","Ickx",21,"Ferrari","NC",8,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1968,"12 May 1968","Jochen","Rindt",4,"Brabham Repco","NC",9,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Graham","Hill",9,"Lotus Ford","1",1,80,9,"2:00:32.300",NA,NA,NA,NA,"1:28.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Richard","Attwood",15,"BRM","2",6,80,6,"2:00:34.500","2.200","2.20000004768372","1:28.100",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Lucien","Bianchi",7,"Cooper BRM","3",14,76,4,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Ludovico","Scarfiotti",6,"Cooper BRM","4",15,76,3,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Denny","Hulme",12,"McLaren Ford","5",10,73,2,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","John","Surtees",8,"Honda","NC",4,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Pedro","Rodriguez",4,"BRM","NC",9,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Piers","Courage",16,"BRM","NC",11,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Jean-Pierre","Beltoise",1,"Matra","NC",8,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Jo","Siffert",17,"Lotus Ford","NC",3,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Dan","Gurney",19,"Eagle Weslake","NC",16,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Jochen","Rindt",3,"Brabham Repco","NC",5,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Jack","Brabham",2,"Brabham Repco","NC",12,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Johnny","Servoz-Gavin",11,"Matra Ford","NC",2,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Jackie","Oliver",10,"Lotus Ford","NC",13,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1968,"26 May 1968","Bruce","McLaren",14,"McLaren Ford","NC",7,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Bruce","McLaren",5,"McLaren Ford","1",6,28,9,"1:40:02.100",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Pedro","Rodriguez",11,"BRM","2",8,28,6,"1:40:14.199","12.100","12.0989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Jacky","Ickx",23,"Ferrari","3",3,28,4,"1:40:41.699","39.600","27.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Jackie","Stewart",7,"Matra Ford","4",2,27,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Jackie","Oliver",2,"Lotus Ford","5",15,26,2,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Lucien","Bianchi",15,"Cooper BRM","6",12,26,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Jo","Siffert",3,"Lotus Ford","7",9,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Jean-Pierre","Beltoise",10,"Matra","8",13,25,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Piers","Courage",14,"BRM","NC",7,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Denny","Hulme",6,"McLaren Ford","NC",5,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","John","Surtees",20,"Honda","NC",4,11,0,NA,NA,NA,"3:30.500",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Chris","Amon",22,"Ferrari","NC",1,8,0,NA,NA,NA,NA,NA,"3:28.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Richard","Attwood",12,"BRM","NC",11,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Jack","Brabham",18,"Brabham Repco","NC",18,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Brian","Redman",16,"Cooper BRM","NC",10,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Jochen","Rindt",19,"Brabham Repco","NC",17,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Graham","Hill",1,"Lotus Ford","NC",14,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1968,"09 Jun 1968","Jo","Bonnier",17,"Mclaren BRM","NC",16,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Jackie","Stewart",8,"Matra Ford","1",5,90,9,"2:46:11.260",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Jean-Pierre","Beltoise",17,"Matra","2",16,90,6,"2:47:45.190","93.930","1.56550000111262","1:45.910",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Pedro","Rodriguez",15,"BRM","3",11,89,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Jacky","Ickx",10,"Ferrari","4",6,88,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Silvio","Moser",22,"Brabham Repco","5",17,87,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Chris","Amon",9,"Ferrari","6",1,85,1,"5","5","5",NA,NA,"1:23.540",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Richard","Attwood",16,"BRM","7",15,85,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Jo","Bonnier",19,"Mclaren BRM","8",19,82,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Graham","Hill",3,"Lotus Ford","9",3,81,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Jackie","Oliver",4,"Lotus Ford","NC",10,80,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Dan","Gurney",18,"Brabham Repco","NC",12,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Jo","Siffert",21,"Lotus Ford","NC",13,55,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","John","Surtees",7,"Honda","NC",9,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Piers","Courage",20,"BRM","NC",14,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Jochen","Rindt",6,"Brabham Repco","NC",2,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Jack","Brabham",5,"Brabham Repco","NC",4,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Bruce","McLaren",2,"McLaren Ford","NC",8,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Denny","Hulme",1,"McLaren Ford","NC",7,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1968,"23 Jun 1968","Lucien","Bianchi",14,"Cooper BRM","NC",18,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Jacky","Ickx",26,"Ferrari","1",3,60,9,"2:25:40.900",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","John","Surtees",16,"Honda","2",7,60,6,"2:27:39.500","118.600","1.97666666507721",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Jackie","Stewart",28,"Matra Ford","3",2,59,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Vic","Elford",30,"Cooper BRM","4",17,58,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Denny","Hulme",8,"McLaren Ford","5",4,58,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Piers","Courage",36,"BRM","6",14,57,1,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Richard","Attwood",22,"BRM","7",12,57,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Bruce","McLaren",10,"McLaren Ford","8",6,56,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Jean-Pierre","Beltoise",6,"Matra","9",8,56,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Chris","Amon",24,"Ferrari","10",5,55,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Jo","Siffert",34,"Lotus Ford","11",11,54,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Pedro","Rodriguez",20,"BRM","NC",10,53,0,"7","7","7","2:11.500",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Jochen","Rindt",2,"Brabham Repco","NC",1,45,0,NA,NA,NA,NA,NA,"1:56.100",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Jack","Brabham",4,"Brabham Repco","NC",13,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Johnny","Servoz-Gavin",32,"Cooper BRM","NC",15,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Graham","Hill",12,"Lotus Ford","NC",9,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Rouen les Essarts, France",1968,"07 Jul 1968","Jo","Schlesser",18,"Honda","NC",16,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Jo","Siffert",22,"Lotus Ford","1",4,80,9,"2:01:20.300",NA,NA,"1:29.700",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Chris","Amon",5,"Ferrari","2",3,80,6,"2:01:24.700","4.400","4.40000009536743",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Jacky","Ickx",6,"Ferrari","3",12,79,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Denny","Hulme",1,"McLaren Ford","4",11,79,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","John","Surtees",7,"Honda","5",9,78,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Jackie","Stewart",14,"Matra Ford","6",7,78,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Bruce","McLaren",2,"McLaren Ford","7",10,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Piers","Courage",20,"BRM","8",16,72,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Jochen","Rindt",4,"Brabham Repco","NC",5,55,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Pedro","Rodriguez",10,"BRM","NC",13,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Silvio","Moser",19,"Brabham Repco","NC",19,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Jackie","Oliver",9,"Lotus Ford","NC",2,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Robin","Widdows",16,"Cooper BRM","NC",18,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Vic","Elford",15,"Cooper BRM","NC",17,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Graham","Hill",8,"Lotus Ford","NC",1,26,0,NA,NA,NA,NA,NA,"1:28.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Jean-Pierre","Beltoise",18,"Matra","NC",14,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Richard","Attwood",11,"BRM","NC",15,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Dan","Gurney",24,"Eagle Weslake","NC",6,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Jo","Bonnier",23,"Mclaren BRM","NC",20,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1968,"20 Jul 1968","Jack","Brabham",3,"Brabham Repco","NC",8,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Jackie","Stewart",6,"Matra Ford","1",6,14,9,"2:19:03.200",NA,NA,"9:36.000",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Graham","Hill",3,"Lotus Ford","2",4,14,6,"2:23:06.400","243.200","4.05333333412806",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Jochen","Rindt",5,"Brabham Repco","3",3,14,4,"2:23:12.600","249.400","6.19999980926514",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Jacky","Ickx",9,"Ferrari","4",1,14,3,"2:24:58.400","355.200","1.76333333651225",NA,NA,"9:04.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Jack","Brabham",4,"Brabham Repco","5",15,14,2,"2:25:24.299","381.100","25.8989999294281",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Pedro","Rodriguez",10,"BRM","6",14,14,1,"2:25:28.200","385.000","3.90100002288818",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Denny","Hulme",1,"McLaren Ford","7",11,14,0,"2:25:34.200","391.000","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Piers","Courage",22,"BRM","8",8,14,0,"2:26:59.600","476.400","1.42333333094915",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Dan","Gurney",14,"Eagle Weslake","9",10,14,0,"2:27:16.900","493.700","17.3000001907349",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Hubert","Hahne",18,"Lola BMW","10",18,14,0,"2:29:14.600","611.400","1.96166666348775",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Jackie","Oliver",21,"Lotus Ford","11",13,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Kurt","Ahrens",17,"Brabham Repco","12",17,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Bruce","McLaren",2,"McLaren Ford","13",16,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Richard","Attwood",11,"BRM","14",20,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Chris","Amon",8,"Ferrari","NC",2,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Jean-Pierre","Beltoise",12,"Matra","NC",12,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Lucien","Bianchi",19,"Cooper BRM","NC",19,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Jo","Siffert",16,"Lotus Ford","NC",9,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","John","Surtees",7,"Honda","NC",7,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1968,"04 Aug 1968","Vic","Elford",20,"Cooper BRM","NC",5,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Denny","Hulme",1,"McLaren Ford","1",7,68,9,"1:40:14.800",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Johnny","Servoz-Gavin",5,"Matra Ford","2",13,68,6,"1:41:43.200","88.400","1.47333333492279",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Jacky","Ickx",8,"Ferrari","3",4,68,4,"1:41:43.399","88.600","0.198999881744385",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Piers","Courage",27,"BRM","4",17,67,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Jean-Pierre","Beltoise",6,"Matra","5",18,66,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Jo","Bonnier",3,"Mclaren BRM","6",19,64,1,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Jo","Siffert",20,"Lotus Ford","NC",9,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Jack","Brabham",10,"Brabham Repco","NC",16,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","David","Hobbs",15,"Honda","NC",14,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Jackie","Stewart",4,"Matra Ford","NC",6,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Jackie","Oliver",19,"Lotus Ford","NC",11,38,0,NA,NA,NA,"1:26.500",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Bruce","McLaren",2,"McLaren Ford","NC",2,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Jochen","Rindt",11,"Brabham Repco","NC",10,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Pedro","Rodriguez",26,"BRM","NC",15,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Dan","Gurney",21,"Eagle Weslake","NC",12,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Graham","Hill",16,"Lotus Ford","NC",5,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","John","Surtees",14,"Honda","NC",1,8,0,NA,NA,NA,NA,NA,"1:26.070",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Chris","Amon",9,"Ferrari","NC",3,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Derek","Bell",7,"Ferrari","NC",8,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1968,"08 Sep 1968","Vic","Elford",23,"Cooper BRM","NC",20,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Denny","Hulme",1,"McLaren Ford","1",6,90,9,"2:27:11.200",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Bruce","McLaren",2,"McLaren Ford","2",8,89,6,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Pedro","Rodriguez",16,"BRM","3",12,88,4,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Graham","Hill",3,"Lotus Ford","4",5,86,3,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Vic","Elford",21,"Cooper BRM","5",16,86,2,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Jackie","Stewart",14,"Matra Ford","6",11,83,1,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Jean-Pierre","Beltoise",18,"Matra","NC",15,77,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Chris","Amon",9,"Ferrari","NC",2,72,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Johnny","Servoz-Gavin",15,"Matra Ford","NC",13,71,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Lucien","Bianchi",20,"Cooper BRM","NC",18,56,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Henri","Pescarolo",19,"Matra","NC",19,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Jochen","Rindt",6,"Brabham Repco","NC",1,39,0,NA,NA,NA,NA,NA,"1:33.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Jackie","Oliver",4,"Lotus Ford","NC",9,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Jack","Brabham",5,"Brabham Repco","NC",10,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Jo","Siffert",12,"Lotus Ford","NC",3,29,0,NA,NA,NA,"1:35.100",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Dan","Gurney",11,"McLaren Ford","NC",4,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Piers","Courage",24,"BRM","NC",14,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Bill","Brack",27,"Lotus Ford","NC",20,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","John","Surtees",8,"Honda","NC",7,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mont-Tremblant, Canada",1968,"22 Sep 1968","Jo","Bonnier",22,"Mclaren BRM","NC",17,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Jackie","Stewart",15,"Matra Ford","1",2,108,9,"1:59:20.290",NA,NA,"1:05.220",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Graham","Hill",10,"Lotus Ford","2",3,108,6,"1:59:44.970","24.680","24.6800000667572",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","John","Surtees",5,"Honda","3",9,107,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Dan","Gurney",14,"McLaren Ford","4",7,107,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Jo","Siffert",16,"Lotus Ford","5",12,105,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Bruce","McLaren",2,"McLaren Ford","6",10,103,1,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Piers","Courage",22,"BRM","NC",14,93,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Denny","Hulme",1,"McLaren Ford","NC",5,92,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Lucien","Bianchi",19,"Cooper BRM","NC",20,88,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Jack","Brabham",3,"Brabham Repco","NC",8,77,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Jochen","Rindt",4,"Brabham Repco","NC",6,73,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Vic","Elford",18,"Cooper BRM","NC",17,71,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Pedro","Rodriguez",8,"BRM","NC",11,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Jo","Bonnier",17,"Mclaren BRM","NC",18,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Chris","Amon",6,"Ferrari","NC",4,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Jean-Pierre","Beltoise",21,"Matra","NC",13,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Bobby","Unser",9,"BRM","NC",19,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Mario","Andretti",12,"Lotus Ford","NC",1,32,0,NA,NA,NA,NA,NA,"1:04.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1968,"06 Oct 1968","Derek","Bell",7,"Ferrari","NC",15,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Graham","Hill",10,"Lotus Ford","1",3,65,9,"1:56:43.950",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Bruce","McLaren",2,"McLaren Ford","2",9,65,6,"1:58:03.269","79.320","1.3219833334287",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Jackie","Oliver",11,"Lotus Ford","3",14,65,4,"1:58:24.600","100.650","21.3309998512268",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Pedro","Rodriguez",8,"BRM","4",12,65,3,"1:58:25.039","101.090","0.439000129699707",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Jo","Bonnier",17,"Honda","5",18,64,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Jo","Siffert",16,"Lotus Ford","6",1,64,1,"1","1","1","1:44.230",NA,"1:45.220",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Jackie","Stewart",15,"Matra Ford","7",7,64,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Vic","Elford",18,"Cooper BRM","8",17,63,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Henri","Pescarolo",9,"Matra","9",20,62,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Jack","Brabham",3,"Brabham Repco","10",8,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Johnny","Servoz-Gavin",23,"Matra Ford","NC",16,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Dan","Gurney",14,"McLaren Ford","NC",5,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Piers","Courage",22,"BRM","NC",19,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Lucien","Bianchi",19,"Cooper BRM","NC",21,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","John","Surtees",5,"Honda","NC",6,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Chris","Amon",6,"Ferrari","NC",2,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Moises","Solana",12,"Lotus Ford","NC",11,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Jean-Pierre","Beltoise",21,"Matra","NC",13,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Denny","Hulme",1,"McLaren Ford","NC",4,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Jacky","Ickx",7,"Ferrari","NC",15,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1968,"03 Nov 1968","Jochen","Rindt",4,"Brabham Repco","NC",10,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

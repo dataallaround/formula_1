@@ -1,0 +1,402 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Nelson","Piquet",6,"Williams Honda","1",2,61,9,"1:39:32.583",NA,NA,"1:33.546",NA,"1:26.266",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Ayrton","Senna",12,"Lotus Renault","2",1,61,6,"1:40:07.409","34.827","34.8259999752045","1:34.785",NA,"1:25.501",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Jacques","Laffite",26,"Ligier Renault","3",5,61,4,"1:40:32.342","59.759","24.933000087738","1:35.767",NA,"1:27.190",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Rene","Arnoux",25,"Ligier Renault","4",4,61,3,"1:41:01.011","88.429","28.6689999103546","1:36.414",NA,"1:27.133",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Martin","Brundle",3,"Tyrrell Renault","5",17,60,2,"1","1","1","1:37.869",NA,"1:32.009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Gerhard","Berger",20,"Benetton BMW","6",16,59,1,"2","2","2","1:36.958",NA,"1:31.313",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Philippe","Streiff",4,"Tyrrell Renault","7",18,59,0,"2","2","2","1:39.651",NA,"1:32.388",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Elio","deAngelis",8,"Brabham BMW","8",14,58,0,"3","3","3","1:35.121",NA,"1:31.074",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Johnny","Dumfries",11,"Lotus Renault","9",11,58,0,"3","3","3","1:35.033",NA,"1:29.503",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Teo","Fabi",19,"Benetton BMW","10",12,56,0,"5","5","5","1:33.998",NA,"1:29.748",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Thierry","Boutsen",18,"Arrows BMW","NC",15,37,0,NA,NA,NA,"1:38.591",NA,"1:31.244",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Michele","Alboreto",27,"Ferrari","NC",6,35,0,NA,NA,NA,"1:35.532",NA,"1:27.485",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Alain","Prost",1,"McLaren TAG","NC",9,30,0,NA,NA,NA,"1:35.381",NA,"1:28.099",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Christian","Danner",22,"Osella Alfa Romeo","NC",24,29,0,NA,NA,NA,"1:43.712",NA,"1:36.558",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Stefan","Johansson",28,"Ferrari","NC",8,26,0,NA,NA,NA,"1:36.983",NA,"1:27.711",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Patrick","Tambay",16,"Lola Hart","NC",13,24,0,NA,NA,NA,"1:38.674",NA,"1:30.594",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Riccardo","Patrese",7,"Brabham BMW","NC",10,21,0,NA,NA,NA,"1:38.409",NA,"1:29.294",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Jonathan","Palmer",14,"Zakspeed","NC",21,20,0,NA,NA,NA,"1:41.849",NA,"1:33.784",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Marc","Surer",17,"Arrows BMW","NC",20,19,0,NA,NA,NA,"1:39.970",NA,"1:33.781",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",25,18,0,NA,NA,NA,"1:40.461",NA,"1:37.466",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",22,16,0,NA,NA,NA,"1:36.475",NA,"1:34.646",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",23,16,0,NA,NA,NA,"1:43.412",NA,"1:35.988",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Keke","Rosberg",2,"McLaren TAG","NC",7,6,0,NA,NA,NA,"1:38.027",NA,"1:27.705",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Alan","Jones",15,"Lola Hart","NC",19,5,0,NA,NA,NA,"1:38.710",NA,"1:33.236",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1986,"23 Mar 1986","Nigel","Mansell",5,"Williams Honda","NC",3,NA,0,NA,NA,NA,NA,NA,"1:26.749",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Ayrton","Senna",12,"Lotus Renault","1",1,72,9,"1:48:47.735",NA,NA,"1:28.801",NA,"1:21.605",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Nigel","Mansell",5,"Williams Honda","2",3,72,6,"1:48:47.748","0.014","0.0130000114440918","1:27.176",NA,"1:22.576",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Alain","Prost",1,"McLaren TAG","3",4,72,4,"1:49:09.286","21.552","21.5380001068115","1:28.497",NA,"1:22.886",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Keke","Rosberg",2,"McLaren TAG","4",5,71,3,"1","1","1","1:27.991",NA,"1:23.004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Teo","Fabi",19,"Benetton BMW","5",9,71,2,"1","1","1","1:28.235",NA,"1:25.052",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Gerhard","Berger",20,"Benetton BMW","6",7,71,1,"1","1","1","1:29.690",NA,"1:24.501",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Thierry","Boutsen",18,"Arrows BMW","7",19,68,0,"4","4","4","1:31.457",NA,"1:27.169",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Patrick","Tambay",16,"Lola Hart","8",18,66,0,"6","6","6","1:31.512",NA,"1:26.992",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Johnny","Dumfries",11,"Lotus Renault","NC",10,52,0,NA,NA,NA,"1:30.962",NA,"1:25.107",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Martin","Brundle",3,"Tyrrell Renault","NC",12,41,0,NA,NA,NA,"1:31.236",NA,"1:25.831",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Jacques","Laffite",26,"Ligier Renault","NC",8,40,0,NA,NA,NA,"1:28.504",NA,"1:24.817",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Nelson","Piquet",6,"Williams Honda","NC",2,39,0,NA,NA,NA,"1:29.182",NA,"1:22.431",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Marc","Surer",17,"Arrows BMW","NC",22,39,0,NA,NA,NA,"1:32.230",NA,"1:28.443",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Elio","deAngelis",8,"Brabham BMW","NC",15,29,0,NA,NA,NA,"1:29.885",NA,"1:26.550",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Rene","Arnoux",25,"Ligier Renault","NC",6,79,0,NA,NA,NA,"1:28.332",NA,"1:24.274",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Michele","Alboreto",27,"Ferrari","NC",13,22,0,NA,NA,NA,"1:30.201",NA,"1:26.094",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Philippe","Streiff",4,"Tyrrell Renault","NC",20,22,0,NA,NA,NA,"1:32.240",NA,"1:27.637",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Christian","Danner",22,"Osella Alfa Romeo","NC",23,14,0,NA,NA,NA,"1:35.273",NA,"1:29.046",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Stefan","Johansson",28,"Ferrari","NC",11,11,0,NA,NA,NA,"1:30.467",NA,"1:25.466",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",21,10,0,NA,NA,NA,"1:34.027",NA,"1:28.423",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Riccardo","Patrese",7,"Brabham BMW","NC",14,8,0,NA,NA,NA,"1:33.212",NA,"1:26.231",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",24,1,0,NA,NA,NA,"1:52.175",NA,"1:29.195",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Alan","Jones",15,"Lola Hart","NC",17,NA,0,NA,NA,NA,NA,NA,"1:26.946",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Jonathan","Palmer",14,"Zakspeed","NC",16,NA,0,NA,NA,NA,NA,NA,"1:26.918",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1986,"13 Apr 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",25,NA,0,NA,NA,NA,NA,NA,"1:30.062",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Alain","Prost",1,"McLaren TAG","1",4,60,9,"1:32:28.408",NA,NA,"1:29.464",NA,"1:26.176",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Nelson","Piquet",6,"Williams Honda","2",2,60,6,"1:32:36.052","7.645","7.64400005340576","1:28.667",NA,"1:25.569",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Gerhard","Berger",20,"Benetton BMW","3",9,59,4,"1","1","1","1:29.141",NA,"1:27.444",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Stefan","Johansson",28,"Ferrari","4",7,59,3,"1","1","1","1:30.768",NA,"1:27.009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Keke","Rosberg",2,"McLaren TAG","5",6,58,2,NA,NA,NA,"1:29.652",NA,"1:26.385",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Riccardo","Patrese",7,"Brabham BMW","6",16,58,1,NA,NA,NA,"1:31.842",NA,"1:28.828",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Thierry","Boutsen",18,"Arrows BMW","7",12,58,0,"2","2","2","1:33.435",NA,"1:28.022",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Martin","Brundle",3,"Tyrrell Renault","8",13,58,0,"2","2","2","1:34.022",NA,"1:28.329",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Marc","Surer",17,"Arrows BMW","9",15,57,0,NA,NA,NA,"1:33.565",NA,"1:28.637",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Michele","Alboreto",27,"Ferrari","NC",5,56,0,NA,NA,NA,"1:30.316",NA,"1:26.263",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",26,52,0,NA,NA,NA,"1:35.748",NA,"1:34.461",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Rene","Arnoux",25,"Ligier Renault","NC",8,46,0,NA,NA,NA,"1:31.435",NA,"1:27.403",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Philippe","Streiff",4,"Tyrrell Renault","NC",22,41,0,NA,NA,NA,"1:34.811",NA,"1:30.123",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Teo","Fabi",19,"Benetton BMW","NC",10,39,0,NA,NA,NA,"1:32.246",NA,"1:27.538",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Jonathan","Palmer",14,"Zakspeed","NC",20,38,0,NA,NA,NA,"1:33.406",NA,"1:30.024",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Christian","Danner",22,"Osella Alfa Romeo","NC",25,31,0,NA,NA,NA,"1:34.558",NA,"1:33.806",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Alan","Jones",15,"Lola Ford","NC",21,28,0,NA,NA,NA,"1:32.615",NA,"1:30.087",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",23,20,0,NA,NA,NA,"1:34.134",NA,"1:30.131",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Elio","deAngelis",8,"Brabham BMW","NC",19,19,0,NA,NA,NA,"1:32.544",NA,"1:29.713",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Jacques","Laffite",26,"Ligier Renault","NC",14,14,0,NA,NA,NA,"1:33.223",NA,"1:28.389",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Ayrton","Senna",12,"Lotus Renault","NC",1,11,0,NA,NA,NA,"1:31.999",NA,"1:25.050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Nigel","Mansell",5,"Williams Honda","NC",3,8,0,NA,NA,NA,"1:32.145",NA,"1:26.159",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Johnny","Dumfries",11,"Lotus Renault","NC",18,8,0,NA,NA,NA,"1:34.540",NA,"1:29.244",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Huub","Rothengatter",29,"Zakspeed","NC",24,7,0,NA,NA,NA,"1:36.263",NA,"1:31.953",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Patrick","Tambay",16,"Lola Hart","NC",11,5,0,NA,NA,NA,"1:34.321",NA,"1:27.860",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1986,"27 Apr 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",17,NA,0,NA,NA,NA,NA,NA,"1:29.244",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Alain","Prost",1,"McLaren TAG","1",1,78,9,"1:55:41.060",NA,NA,"1:26.607",NA,"1:22.627",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Keke","Rosberg",2,"McLaren TAG","2",9,78,6,"1:56:06.082","25.022","25.0220000743866","1:26.971",NA,"1:24.701",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Ayrton","Senna",12,"Lotus Renault","3",3,78,4,"1:56:34.705","53.646","28.6229999065399","1:26.843",NA,"1:23.175",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Nigel","Mansell",5,"Williams Honda","4",2,78,3,"1:56:52.461","71.402","17.7560000419617","1:27.405",NA,"1:23.047",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Rene","Arnoux",25,"Ligier Renault","5",12,77,2,"1","1","1","1:27.988",NA,"1:25.538",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Jacques","Laffite",26,"Ligier Renault","6",7,77,1,"1","1","1","1:27.873",NA,"1:24.402",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Nelson","Piquet",6,"Williams Honda","7",11,77,0,"1","1","1","1:27.797",NA,"1:25.287",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Thierry","Boutsen",18,"Arrows BMW","8",14,75,0,"3","3","3","1:30.621",NA,"1:25.832",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Marc","Surer",17,"Arrows BMW","9",17,75,0,"3","3","3","1:30.509",NA,"1:26.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Stefan","Johansson",28,"Ferrari","10",15,75,0,"3","3","3","1:29.305",NA,"1:25.907",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Philippe","Streiff",4,"Tyrrell Renault","11",13,74,0,"4","4","4","1:31.098",NA,"1:25.720",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Jonathan","Palmer",14,"Zakspeed","12",19,74,0,"4","4","4","1:31.679",NA,"1:26.644",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Martin","Brundle",3,"Tyrrell Renault","NC",10,67,0,NA,NA,NA,"1:28.649",NA,"1:24.860",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Patrick","Tambay",16,"Lola Ford","NC",8,67,0,NA,NA,NA,"1:27.769",NA,"1:24.686",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Gerhard","Berger",20,"Benetton BMW","NC",5,42,0,NA,NA,NA,"1:28.944",NA,"1:23.960",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Michele","Alboreto",27,"Ferrari","NC",4,38,0,NA,NA,NA,"1:28.776",NA,"1:23.904",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Riccardo","Patrese",7,"Brabham BMW","NC",6,38,0,NA,NA,NA,"1:27.585",NA,"1:24.102",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Elio","deAngelis",8,"Brabham BMW","NC",20,31,0,NA,NA,NA,"1:31.236",NA,"1:27.191",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Teo","Fabi",19,"Benetton BMW","NC",16,17,0,NA,NA,NA,"1:31.647",NA,"1:25.926",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1986,"11 May 1986","Alan","Jones",15,"Lola Ford","NC",18,2,0,NA,NA,NA,"1:35.510",NA,"1:26.456",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Nigel","Mansell",5,"Williams Honda","1",5,43,9,"1:27:57.925",NA,NA,"1:59.879",NA,"1:54.582",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Ayrton","Senna",12,"Lotus Renault","2",4,43,6,"1:28:17.751","19.827","19.8259999752045","1:59.867",NA,"1:54.576",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Stefan","Johansson",28,"Ferrari","3",11,43,4,"1:28:24.516","26.592","6.76500010490417","2:00.221",NA,"1:56.496",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Michele","Alboreto",27,"Ferrari","4",9,43,3,"1:28:27.559","29.634","3.04299998283386","2:00.828",NA,"1:56.242",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Jacques","Laffite",26,"Ligier Renault","5",17,43,2,"1:29:08.615","70.690","41.055999994278","2:01.655",NA,"1:58.238",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Alain","Prost",1,"McLaren TAG","6",3,43,1,"1:30:15.697","137.772","1.11803333361944","1:59.282",NA,"1:54.501",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Teo","Fabi",19,"Benetton BMW","7",6,42,0,"1","1","1","2:01.204",NA,"1:54.765",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Riccardo","Patrese",7,"Brabham BMW","8",15,42,0,"1","1","1","2:01.241",NA,"1:57.612",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Marc","Surer",17,"Arrows BMW","9",21,41,0,NA,NA,NA,"2:04.435",NA,"2:01.320",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Gerhard","Berger",20,"Benetton BMW","10",2,41,0,"2","2","2","2:00.877",NA,"1:54.468",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Alan","Jones",15,"Lola Ford","11",16,40,0,NA,NA,NA,"2:01.584",NA,"1:57.815",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Philippe","Streiff",4,"Tyrrell Renault","12",18,40,0,"3","3","3","2:03.183",NA,"1:58.603",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Jonathan","Palmer",14,"Zakspeed","NC",20,37,0,NA,NA,NA,"2:04.287",NA,"2:00.148",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",19,35,0,NA,NA,NA,"2:03.916",NA,"1:59.960",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Martin","Brundle",3,"Tyrrell Renault","NC",12,25,0,NA,NA,NA,"2:01.555",NA,"1:56.537",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Huub","Rothengatter",29,"Zakspeed","NC",23,25,0,NA,NA,NA,"2:08.018",NA,"2:03.842",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",22,24,0,NA,NA,NA,"2:07.875",NA,"2:01.354",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Rene","Arnoux",25,"Ligier Renault","NC",7,23,0,NA,NA,NA,"2:00.751",NA,"1:55.576",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Nelson","Piquet",6,"Williams Honda","NC",1,16,0,NA,NA,NA,"2:01.663",NA,"1:54.331",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Thierry","Boutsen",18,"Arrows BMW","NC",14,7,0,NA,NA,NA,"2:05.545",NA,"1:57.612",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Johnny","Dumfries",11,"Lotus Renault","NC",13,7,0,NA,NA,NA,"2:04.781",NA,"1:57.462",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Keke","Rosberg",2,"McLaren TAG","NC",8,6,0,NA,NA,NA,"2:04.546",NA,"1:55.662",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",24,3,0,NA,NA,NA,"2:17.068",NA,"2:05.092",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Christian","Danner",22,"Osella Alfa Romeo","NC",25,2,0,NA,NA,NA,"2:34.035",NA,"2:06.219",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1986,"25 May 1986","Patrick","Tambay",16,"Lola Ford","NC",10,0,0,NA,NA,NA,NA,NA,"1:56.309",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Nigel","Mansell",5,"Williams Honda","1",1,69,9,"1:42:26.415",NA,NA,"1:26.552",NA,"1:24.118",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Alain","Prost",1,"McLaren TAG","2",4,69,6,"1:42:47.073","20.659","20.6579999923706","1:26.859",NA,"1:25.192",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Nelson","Piquet",6,"Williams Honda","3",3,69,4,"1:43:02.677","36.262","15.6040000915527","1:25.443",NA,"1:24.384",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Keke","Rosberg",2,"McLaren TAG","4",6,69,3,"1:44:02.088","95.673","59.4110000133514","1:27.479",NA,"1:25.533",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Ayrton","Senna",12,"Lotus Renault","5",2,68,2,"1","1","1","1:27.503",NA,"1:24.188",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Rene","Arnoux",25,"Ligier Renault","6",5,68,1,"1","1","1","1:27.981",NA,"1:25.224",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Jacques","Laffite",26,"Ligier Renault","7",8,68,0,"1","1","1","1:27.742",NA,"1:26.447",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Michele","Alboreto",27,"Ferrari","8",11,68,0,"1","1","1","1:28.408",NA,"1:27.495",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Martin","Brundle",3,"Tyrrell Renault","9",18,67,0,"2","2","2","1:29.553",NA,"1:29.111",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Alan","Jones",15,"Lola Ford","10",13,66,0,"3","3","3","1:29.366",NA,"1:28.058",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Philippe","Streiff",4,"Tyrrell Renault","11",16,65,0,"4","4","4","1:32.209",NA,"1:28.639",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Huub","Rothengatter",29,"Zakspeed","12",23,63,0,"6","6","6","1:33.568",NA,"1:32.113",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Riccardo","Patrese",7,"Brabham BMW","NC",9,44,0,NA,NA,NA,"1:30.731",NA,"1:26.483",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",22,43,0,NA,NA,NA,"1:33.598",NA,"1:31.479",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",20,40,0,NA,NA,NA,"1:30.514",NA,"1:29.854",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Thierry","Boutsen",18,"Arrows BMW","NC",12,38,0,NA,NA,NA,"1:30.975",NA,"1:27.614",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Gerhard","Berger",20,"Benetton BMW","NC",7,34,0,NA,NA,NA,"1:30.361",NA,"1:26.439",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Stefan","Johansson",28,"Ferrari","NC",17,29,0,NA,NA,NA,"1:28.853",NA,"1:28.881",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Johnny","Dumfries",11,"Lotus Renault","NC",15,28,0,NA,NA,NA,"1:31.623",NA,"1:28.521",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Jonathan","Palmer",14,"Zakspeed","NC",21,24,0,NA,NA,NA,"1:33.764",NA,"1:30.005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Derek","Warwick",8,"Brabham BMW","NC",10,20,0,NA,NA,NA,"1:31.139",NA,"1:27.413",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",19,17,0,NA,NA,NA,"1:33.173",NA,"1:29.653",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Teo","Fabi",19,"Benetton BMW","NC",14,13,0,NA,NA,NA,"1:32.317",NA,"1:28.102",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1986,"15 Jun 1986","Christian","Danner",22,"Osella Alfa Romeo","NC",24,6,0,NA,NA,NA,"1:37.444",NA,"1:41.436",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Ayrton","Senna",12,"Lotus Renault","1",1,63,9,"1:51:12.847",NA,NA,"1:41.981",NA,"1:38.301",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Jacques","Laffite",26,"Ligier Renault","2",6,63,6,"1:51:43.863","31.017","31.0160000324249","1:43.416",NA,"1:40.676",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Alain","Prost",1,"McLaren TAG","3",7,63,4,"1:51:44.670","31.824","0.807000160217285","1:43.293",NA,"1:40.715",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Michele","Alboreto",27,"Ferrari","4",11,63,3,"1:52:43.782","90.936","59.1119999885559","1:43.619",NA,"1:41.606",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Nigel","Mansell",5,"Williams Honda","5",2,62,2,"1","1","1","1:43.051",NA,"1:38.839",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Riccardo","Patrese",7,"Brabham BMW","6",8,62,1,"1","1","1","1:44.698",NA,"1:40.819",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Johnny","Dumfries",11,"Lotus Renault","7",14,61,0,"2","2","2","1:45.434",NA,"1:42.511",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Jonathan","Palmer",14,"Zakspeed","8",20,61,0,"2","2","2","1:46.756",NA,"1:44.401",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Philippe","Streiff",4,"Tyrrell Renault","9",18,61,0,"2","2","2","1:46.869",NA,"1:43.796",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Derek","Warwick",8,"Brabham BMW","10",15,60,0,"3","3","3","1:46.136",NA,"1:42.558",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Christian","Danner",17,"Arrows BMW","NC",19,51,0,NA,NA,NA,"1:49.499",NA,"1:44.259",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Rene","Arnoux",25,"Ligier Renault","NC",4,46,0,NA,NA,NA,"1:42.921",NA,"1:39.689",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Thierry","Boutsen",18,"Arrows BMW","NC",13,44,0,NA,NA,NA,"1:47.005",NA,"1:42.279",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",23,43,0,NA,NA,NA,"1:46.621",NA,"1:46.705",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Nelson","Piquet",6,"Williams Honda","NC",3,41,0,NA,NA,NA,"1:41.233",NA,"1:39.076",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Stefan","Johansson",28,"Ferrari","NC",5,40,0,NA,NA,NA,"1:44.864",NA,"1:40.312",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Teo","Fabi",19,"Benetton BMW","NC",17,38,0,NA,NA,NA,"1:47.122",NA,"1:43.658",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Eddie","Cheever",16,"Lola Ford","NC",10,37,0,NA,NA,NA,"1:45.836",NA,"1:41.540",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Alan","Jones",15,"Lola Ford","NC",21,33,0,NA,NA,NA,"1:46.579",NA,"1:44.450",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Allen","Berg",22,"Osella Alfa Romeo","NC",25,28,0,NA,NA,NA,"1:53.507",NA,"1:48.682",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Martin","Brundle",3,"Tyrrell Renault","NC",16,15,0,NA,NA,NA,"1:47.819",NA,"1:42.815",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",22,14,0,NA,NA,NA,"1:51.711",NA,"1:45.059",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Keke","Rosberg",2,"McLaren TAG","NC",9,12,0,NA,NA,NA,"1:45.254",NA,"1:40.848",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Gerhard","Berger",20,"Benetton BMW","NC",12,8,0,NA,NA,NA,"1:45.914",NA,"1:41.836",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",24,3,0,NA,NA,NA,"1:53.122",NA,"1:47.230",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1986,"22 Jun 1986","Huub","Rothengatter",29,"Zakspeed","NC",26,NA,0,NA,NA,NA,NA,NA,"1:49.680",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Nigel","Mansell",5,"Williams Honda","1",2,80,9,"1:37:19.272",NA,NA,"1:09.993",NA,"1:06.755",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Alain","Prost",1,"McLaren TAG","2",5,80,6,"1:37:36.400","17.128","17.1280000209808","1:10.859",NA,"1:07.266",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Nelson","Piquet",6,"Williams Honda","3",3,80,4,"1:37:56.817","37.545","20.4169998168945","1:10.582",NA,"1:06.797",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Keke","Rosberg",2,"McLaren TAG","4",7,80,3,"1:38:07.975","48.703","11.1579999923706","1:11.402",NA,"1:07.545",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Rene","Arnoux",25,"Ligier Renault","5",4,79,2,"1","1","1","1:10.227",NA,"1:07.075",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Jacques","Laffite",26,"Ligier Renault","6",11,79,1,"1","1","1","1:11.220",NA,"1:07.913",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Riccardo","Patrese",7,"Brabham BMW","7",16,78,0,"2","2","2","1:12.702",NA,"1:09.436",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Michele","Alboreto",27,"Ferrari","8",6,78,0,"2","2","2","1:11.747",NA,"1:07.365",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Derek","Warwick",8,"Brabham BMW","9",14,77,0,"3","3","3","1:12.976",NA,"1:08.905",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Martin","Brundle",3,"Tyrrell Renault","10",15,77,0,"3","3","3","1:12.998",NA,"1:09.044",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Christian","Danner",17,"Arrows BMW","11",18,76,0,"4","4","4","1:14.208",NA,"1:09.737",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Thierry","Boutsen",18,"Arrows BMW","NC",21,67,0,"1","1","1","1:12.847",NA,"1:09.987",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Patrick","Tambay",16,"Lola Ford","NC",13,64,0,NA,NA,NA,"1:12.472",NA,"1:08.616",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Johnny","Dumfries",11,"Lotus Renault","NC",12,56,0,NA,NA,NA,"1:12.572",NA,"1:08.544",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Jonathan","Palmer",14,"Zakspeed","NC",22,46,0,NA,NA,NA,"1:14.689",NA,"1:10.305",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Philippe","Streiff",4,"Tyrrell Renault","NC",17,43,0,NA,NA,NA,"1:13.810",NA,"1:09.700",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Huub","Rothengatter",29,"Zakspeed","NC",24,32,0,NA,NA,NA,"1:17.441",NA,"1:12.163",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Allen","Berg",22,"Osella Alfa Romeo","NC",26,25,0,NA,NA,NA,"1:19.574",NA,"1:14.264",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Gerhard","Berger",20,"Benetton BMW","NC",8,22,0,NA,NA,NA,"1:12.436",NA,"1:07.554",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Teo","Fabi",19,"Benetton BMW","NC",9,7,0,NA,NA,NA,"1:18.154",NA,"1:07.818",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Stefan","Johansson",28,"Ferrari","NC",10,5,0,NA,NA,NA,"1:21.581",NA,"1:07.874",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Ayrton","Senna",12,"Lotus Renault","NC",1,3,0,NA,NA,NA,"1:12.882",NA,"1:06.526",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",25,3,0,NA,NA,NA,"1:17.832",NA,"1:12.443",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",19,3,0,NA,NA,NA,"1:17.795",NA,"1:09.792",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",23,3,0,NA,NA,NA,"1:17.683",NA,"1:11.483",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1986,"06 Jul 1986","Alan","Jones",15,"Lola Ford","NC",20,2,0,NA,NA,NA,"1:17.860",NA,"1:09.929",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Nigel","Mansell",5,"Williams Honda","1",2,75,9,"1:30:38.471",NA,NA,"1:09.593",NA,"1:07.399",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Nelson","Piquet",6,"Williams Honda","2",1,75,6,"1:30:44.044","5.574","5.57299995422363","1:09.805",NA,"1:06.961",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Alain","Prost",1,"McLaren TAG","3",6,74,4,"1","1","1","1:10.827",NA,"1:09.334",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Rene","Arnoux",25,"Ligier Renault","4",8,73,3,"2","2","2","1:12.790",NA,"1:09.543",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Martin","Brundle",3,"Tyrrell Renault","5",11,72,2,"3","3","3","1:13.386",NA,"1:10.334",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Philippe","Streiff",4,"Tyrrell Renault","6",16,72,1,"3","3","3","1:13.553",NA,"1:11.450",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Johnny","Dumfries",11,"Lotus Renault","7",10,72,0,"3","3","3","1:13.077",NA,"1:10.304",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Derek","Warwick",8,"Brabham BMW","8",9,72,0,"3","3","3","1:12.926",NA,"1:10.209",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Jonathan","Palmer",14,"Zakspeed","9",22,69,0,"6","6","6","1:16.985",NA,"1:13.009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Thierry","Boutsen",18,"Arrows BMW","NC",13,62,0,"1","1","1","1:17.103",NA,"1:10.941",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Patrick","Tambay",16,"Lola Ford","NC",17,60,0,NA,NA,NA,"1:13.460",NA,"1:11.458",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Michele","Alboreto",27,"Ferrari","NC",12,51,0,NA,NA,NA,"1:12.741",NA,"1:10.338",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",20,50,0,NA,NA,NA,"1:16.427",NA,"1:12.848",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Teo","Fabi",19,"Benetton BMW","NC",7,45,0,NA,NA,NA,"1:12.644",NA,"1:09.409",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Riccardo","Patrese",7,"Brabham BMW","NC",15,39,0,NA,NA,NA,"1:12.422",NA,"1:11.267",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Ayrton","Senna",12,"Lotus Renault","NC",3,27,0,NA,NA,NA,"1:14.024",NA,"1:07.524",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Huub","Rothengatter",29,"Zakspeed","NC",25,24,0,NA,NA,NA,"1:17.814",NA,"1:16.854",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",21,23,0,NA,NA,NA,"1:16.380",NA,"1:12.980",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Gerhard","Berger",20,"Benetton BMW","NC",4,22,0,NA,NA,NA,"1:13.247",NA,"1:08.196",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Alan","Jones",15,"Lola Ford","NC",14,22,0,NA,NA,NA,"1:14.992",NA,"1:11.121",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Stefan","Johansson",28,"Ferrari","NC",18,20,0,NA,NA,NA,"1:15.490",NA,"1:11.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1986,"13 Jul 1986","Keke","Rosberg",2,"McLaren TAG","NC",5,7,0,NA,NA,NA,"1:14.639",NA,"1:08.477",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Nelson","Piquet",6,"Williams Honda","1",5,44,9,"1:22:08.263",NA,NA,"1:47.721",NA,"1:42.545",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Ayrton","Senna",12,"Lotus Renault","2",3,44,6,"1:22:23.700","15.437","15.4370000362396","1:49.424",NA,"1:42.329",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Nigel","Mansell",5,"Williams Honda","3",6,44,4,"1:22:52.842","44.580","29.1419999599457","1:47.899",NA,"1:42.696",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Rene","Arnoux",25,"Ligier Renault","4",8,44,3,"1:23:23.439","75.176","30.5969998836517","1:50.374",NA,"1:43.693",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Keke","Rosberg",2,"McLaren TAG","5",1,43,2,NA,NA,NA,"1:49.552",NA,"1:42.013",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Alain","Prost",1,"McLaren TAG","6",2,43,1,NA,NA,NA,"1:49.649",NA,"1:42.166",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Derek","Warwick",8,"Brabham BMW","7",20,43,0,"1","1","1","1:52.955",NA,"1:48.206",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Patrick","Tambay",16,"Lola Ford","8",13,43,0,"1","1","1","1:51.629",NA,"1:44.979",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Alan","Jones",15,"Lola Ford","9",19,42,0,"2","2","2","1:52.577",NA,"1:47.518",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Gerhard","Berger",20,"Benetton BMW","10",4,42,0,"2","2","2","1:46.604",NA,"1:42.541",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Stefan","Johansson",28,"Ferrari","11",11,41,0,NA,NA,NA,"1:50.932",NA,"1:44.346",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Allen","Berg",22,"Osella Alfa Romeo","12",26,40,0,"4","4","4","1:58.449",NA,"1:56.959",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Christian","Danner",17,"Arrows BMW","NC",17,38,0,NA,NA,NA,"1:54.975",NA,"1:46.355",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Huub","Rothengatter",29,"Zakspeed","NC",24,38,0,"6","6","6","1:56.401",NA,"1:50.918",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Jonathan","Palmer",14,"Zakspeed","NC",16,37,0,NA,NA,NA,"1:56.145",NA,"1:45.887",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Martin","Brundle",3,"Tyrrell Renault","NC",15,34,0,NA,NA,NA,"1:53.682",NA,"1:45.432",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Riccardo","Patrese",7,"Brabham BMW","NC",7,22,0,NA,NA,NA,"1:52.818",NA,"1:43.348",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",23,20,0,NA,NA,NA,"1:54.826",NA,"1:50.066",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",22,19,0,NA,NA,NA,"1:56.721",NA,"1:49.369",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Johnny","Dumfries",11,"Lotus Renault","NC",12,17,0,NA,NA,NA,"1:53.756",NA,"1:44.768",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Thierry","Boutsen",18,"Arrows BMW","NC",21,13,0,NA,NA,NA,"1:56.803",NA,"1:49.240",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Philippe","Alliot",26,"Ligier Renault","NC",14,11,0,NA,NA,NA,"1:54.145",NA,"1:45.047",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",25,10,0,NA,NA,NA,"2:00.492",NA,"1:56.468",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Philippe","Streiff",4,"Tyrrell Renault","NC",18,7,0,NA,NA,NA,"1:54.025",NA,"1:47.371",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Michele","Alboreto",27,"Ferrari","NC",10,6,0,NA,NA,NA,"1:52.570",NA,"1:44.308",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1986,"27 Jul 1986","Teo","Fabi",19,"Benetton BMW","NC",9,NA,0,NA,NA,NA,NA,NA,"1:44.001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Nelson","Piquet",6,"Williams Honda","1",2,76,9,"2:00:34.508",NA,NA,"1:31.001",NA,"1:29.785",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Ayrton","Senna",12,"Lotus Renault","2",1,76,6,"2:00:52.180","17.673","17.672000169754","1:31.261",NA,"1:29.450",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Nigel","Mansell",5,"Williams Honda","3",4,75,4,"1","1","1","1:32.965",NA,"1:30.072",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Stefan","Johansson",28,"Ferrari","4",7,75,3,"1","1","1","1:33.474",NA,"1:31.850",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Johnny","Dumfries",11,"Lotus Renault","5",8,74,2,"2","2","2","1:35.414",NA,"1:31.886",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Martin","Brundle",3,"Tyrrell Renault","6",16,74,1,"2","2","2","1:34.633",NA,"1:33.368",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Patrick","Tambay",16,"Lola Ford","7",6,74,0,"2","2","2","1:33.840",NA,"1:31.715",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Philippe","Streiff",4,"Tyrrell Renault","8",18,74,0,"2","2","2","1:35.832",NA,"1:34.414",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Philippe","Alliot",26,"Ligier Renault","9",12,73,0,"3","3","3","1:35.042",NA,"1:32.575",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Jonathan","Palmer",14,"Zakspeed","10",24,70,0,"6","6","6","1:38.091",NA,"1:36.485",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Rene","Arnoux",25,"Ligier Renault","NC",9,48,0,NA,NA,NA,"1:35.144",NA,"1:31.970",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Alan","Jones",15,"Lola Ford","NC",10,46,0,NA,NA,NA,"1:33.896",NA,"1:32.401",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Gerhard","Berger",20,"Benetton BMW","NC",11,44,0,NA,NA,NA,"1:35.501",NA,"1:32.491",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Thierry","Boutsen",18,"Arrows BMW","NC",22,40,0,NA,NA,NA,"1:39.022",NA,"1:35.392",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Keke","Rosberg",2,"McLaren TAG","NC",5,34,0,NA,NA,NA,"1:32.684",NA,"1:30.628",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Teo","Fabi",19,"Benetton BMW","NC",13,32,0,NA,NA,NA,"1:35.887",NA,"1:32.707",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",17,30,0,NA,NA,NA,"1:39.204",NA,"1:33.656",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Michele","Alboreto",27,"Ferrari","NC",15,29,0,NA,NA,NA,"1:34.846",NA,"1:33.063",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Derek","Warwick",8,"Brabham BMW","NC",19,28,0,NA,NA,NA,"1:36.084",NA,"1:34.502",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Alain","Prost",1,"McLaren TAG","NC",3,23,0,NA,NA,NA,"1:33.422",NA,"1:29.945",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",23,15,0,NA,NA,NA,"1:43.280",NA,"1:36.232",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Christian","Danner",17,"Arrows BMW","NC",21,7,0,NA,NA,NA,"1:38.631",NA,"1:35.294",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Riccardo","Patrese",7,"Brabham BMW","NC",14,5,0,NA,NA,NA,"1:37.263",NA,"1:32.956",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",20,5,0,NA,NA,NA,"1:40.570",NA,"1:34.670",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Huub","Rothengatter",29,"Zakspeed","NC",25,2,0,NA,NA,NA,"1:57.208",NA,"1:38.527",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1986,"10 Aug 1986","Allen","Berg",22,"Osella Alfa Romeo","NC",26,1,0,NA,NA,NA,"3:00.202",NA,"1:40.984",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Alain","Prost",1,"McLaren TAG","1",5,52,9,"1:21:22.531",NA,NA,"1:30.751",NA,"1:24.346",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Michele","Alboreto",27,"Ferrari","2",9,51,6,"1","1","1","1:33.915",NA,"1:25.561",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Stefan","Johansson",28,"Ferrari","3",14,50,4,"2","2","2","1:33.400",NA,"1:26.646",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Alan","Jones",15,"Lola Ford","4",16,50,3,"2","2","2","1:34.431",NA,"1:27.420",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Patrick","Tambay",16,"Lola Ford","5",13,50,2,"2","2","2","1:34.103",NA,"1:26.489",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Christian","Danner",17,"Arrows BMW","6",22,49,1,"3","3","3","1:34.844",NA,"1:29.430",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Gerhard","Berger",20,"Benetton BMW","7",2,49,0,"3","3","3","1:29.444",NA,"1:23.743",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Huub","Rothengatter",29,"Zakspeed","8",24,48,0,NA,NA,NA,"1:36.990",NA,"1:32.512",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Keke","Rosberg",2,"McLaren TAG","9",3,47,0,NA,NA,NA,"1:31.704",NA,"1:23.903",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Rene","Arnoux",25,"Ligier Renault","10",12,47,0,"5","5","5","1:30.958",NA,"1:26.312",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","11",25,46,0,"6","6","6","1:39.607",NA,"1:33.988",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Nigel","Mansell",5,"Williams Honda","NC",6,32,0,NA,NA,NA,"1:31.831",NA,"1:24.635",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Nelson","Piquet",6,"Williams Honda","NC",7,29,0,NA,NA,NA,"1:32.633",NA,"1:24.697",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Thierry","Boutsen",18,"Arrows BMW","NC",18,25,0,NA,NA,NA,"1:36.132",NA,"1:28.598",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Teo","Fabi",19,"Benetton BMW","NC",1,17,0,NA,NA,NA,"1:31.522",NA,"1:23.549",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Philippe","Alliot",26,"Ligier Renault","NC",11,16,0,NA,NA,NA,"1:33.845",NA,"1:25.917",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",19,13,0,NA,NA,NA,"1:35.459",NA,"1:28.645",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",23,13,0,NA,NA,NA,"1:36.392",NA,"1:29.615",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Ayrton","Senna",12,"Lotus Renault","NC",8,13,0,NA,NA,NA,"1:33.437",NA,"1:25.249",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Martin","Brundle",3,"Tyrrell Renault","NC",17,12,0,NA,NA,NA,"1:34.997",NA,"1:28.018",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Philippe","Streiff",4,"Tyrrell Renault","NC",20,10,0,NA,NA,NA,"1:35.965",NA,"1:28.951",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Johnny","Dumfries",11,"Lotus Renault","NC",15,9,0,NA,NA,NA,"1:35.941",NA,"1:27.212",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Jonathan","Palmer",14,"Zakspeed","NC",21,8,0,NA,NA,NA,"1:36.560",NA,"1:29.073",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Allen","Berg",22,"Osella Alfa Romeo","NC",26,6,0,NA,NA,NA,"1:39.234",NA,"1:36.150",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1986,"17 Aug 1986","Riccardo","Patrese",7,"Brabham BMW","NC",4,2,0,NA,NA,NA,"1:46.938",NA,"1:24.044",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Nelson","Piquet",6,"Williams Honda","1",6,51,9,"1:17:42.889",NA,NA,"1:28.173",NA,"1:25.137",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Nigel","Mansell",5,"Williams Honda","2",3,51,6,"1:17:52.717","9.828","9.82800006866455","1:28.803",NA,"1:24.882",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Stefan","Johansson",28,"Ferrari","3",12,51,4,"1:18:05.803","22.915","13.0859999656677","1:28.625",NA,"1:26.422",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Keke","Rosberg",2,"McLaren TAG","4",8,51,3,"1:18:36.697","53.809","30.8940000534058","1:29.221",NA,"1:25.378",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Gerhard","Berger",20,"Benetton BMW","5",4,50,2,NA,NA,NA,"1:28.191",NA,"1:24.885",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Alan","Jones",15,"Lola Ford","6",18,49,1,"2","2","2","1:31.050",NA,"1:28.043",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Thierry","Boutsen",18,"Arrows BMW","7",13,49,0,"2","2","2","1:32.934",NA,"1:26.754",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Christian","Danner",17,"Arrows BMW","8",16,49,0,"2","2","2","1:32.224",NA,"1:27.923",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Philippe","Streiff",4,"Tyrrell Renault","9",23,49,0,"2","2","2","1:33.625",NA,"1:30.199",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Martin","Brundle",3,"Tyrrell Renault","10",20,49,0,"2","2","2","1:33.391",NA,"1:29.125",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Alex","Caffi",22,"Osella Alfa Romeo","11",27,45,0,"6","6","6","1:39.818",NA,"1:36.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Teo","Fabi",19,"Benetton BMW","NC",1,44,0,NA,NA,NA,"1:28.099",NA,"1:24.078",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Michele","Alboreto",27,"Ferrari","NC",9,33,0,NA,NA,NA,"1:30.141",NA,"1:25.549",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",21,33,0,NA,NA,NA,"1:33.776",NA,"1:29.561",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Ivan","Capelli",31,"AGS Motori Moderni","NC",25,31,0,NA,NA,NA,"1:36.290",NA,"1:33.844",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Rene","Arnoux",25,"Ligier Renault","NC",11,30,0,NA,NA,NA,"1:31.514",NA,"1:26.187",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Alain","Prost",1,"McLaren TAG","NC",2,27,0,NA,NA,NA,"1:29.501",NA,"1:24.514",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Jonathan","Palmer",14,"Zakspeed","NC",22,27,0,NA,NA,NA,"1:35.845",NA,"1:29.659",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Philippe","Alliot",26,"Ligier Renault","NC",14,22,0,NA,NA,NA,"1:32.244",NA,"1:27.269",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Johnny","Dumfries",11,"Lotus Renault","NC",17,18,0,NA,NA,NA,"1:32.605",NA,"1:28.024",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Derek","Warwick",8,"Brabham BMW","NC",7,16,0,NA,NA,NA,"1:32.444",NA,"1:25.175",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",19,15,0,NA,NA,NA,"1:34.401",NA,"1:28.690",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",26,12,0,NA,NA,NA,"1:37.179",NA,"1:36.128",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Patrick","Tambay",16,"Lola Ford","NC",15,2,0,NA,NA,NA,"1:34.443",NA,"1:27.808",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Riccardo","Patrese",7,"Brabham BMW","NC",10,2,0,NA,NA,NA,"1:34.972",NA,"1:26.111",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Huub","Rothengatter",29,"Zakspeed","NC",24,1,0,NA,NA,NA,"1:58.761",NA,"1:30.904",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1986,"07 Sep 1986","Ayrton","Senna",12,"Lotus Renault","NC",5,NA,0,NA,NA,NA,NA,NA,"1:24.916",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Nigel","Mansell",5,"Williams Honda","1",2,70,9,"1:37:21.900",NA,NA,"1:20.943",NA,"1:17.489",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Alain","Prost",1,"McLaren TAG","2",3,70,6,"1:37:40.672","18.772","18.771999835968","1:21.092",NA,"1:17.710",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Nelson","Piquet",6,"Williams Honda","3",6,70,4,"1:38:11.174","49.274","30.5020000934601","1:21.100",NA,"1:18.180",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Ayrton","Senna",12,"Lotus Renault","4",1,69,3,NA,NA,NA,"1:21.283",NA,"1:16.673",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Michele","Alboreto",27,"Ferrari","5",13,69,2,"1","1","1","1:22.073",NA,"1:20.019",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Stefan","Johansson",28,"Ferrari","6",8,69,1,"1","1","1","1:22.347",NA,"1:19.332",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Rene","Arnoux",25,"Ligier Renault","7",10,69,0,"1","1","1","1:24.356",NA,"1:19.657",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Teo","Fabi",19,"Benetton BMW","8",5,68,0,NA,NA,NA,"1:22.999",NA,"1:18.071",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Johnny","Dumfries",11,"Lotus Renault","9",15,68,0,"2","2","2","1:23.737",NA,"1:21.594",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Thierry","Boutsen",18,"Arrows BMW","10",21,67,0,"3","3","3","1:24.350",NA,"1:22.068",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Christian","Danner",17,"Arrows BMW","11",22,67,0,"3","3","3","1:24.268",NA,"1:22.274",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Jonathan","Palmer",14,"Zakspeed","12",20,67,0,"3","3","3","1:24.947",NA,"1:21.929",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Allen","Berg",22,"Osella Alfa Romeo","13",27,63,0,"7","7","7","1:30.477",NA,"1:26.861",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Riccardo","Patrese",7,"Brabham BMW","NC",9,62,0,NA,NA,NA,"1:24.243",NA,"1:19.637",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Patrick","Tambay",16,"Lola Ford","NC",14,62,0,"8","8","8","1:23.889",NA,"1:20.761",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",18,60,0,NA,NA,NA,"1:27.910",NA,"1:21.702",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Gerhard","Berger",20,"Benetton BMW","NC",4,44,0,NA,NA,NA,"1:23.850",NA,"1:17.742",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",16,43,0,NA,NA,NA,"1:26.034",NA,"1:21.611",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Keke","Rosberg",2,"McLaren TAG","NC",7,41,0,NA,NA,NA,"1:22.242",NA,"1:18.360",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Derek","Warwick",8,"Brabham BMW","NC",12,41,0,NA,NA,NA,"1:25.113",NA,"1:19.882",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Philippe","Alliot",26,"Ligier Renault","NC",11,39,0,NA,NA,NA,"1:24.516",NA,"1:19.769",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Philippe","Streiff",4,"Tyrrell Renault","NC",23,28,0,NA,NA,NA,"1:26.242",NA,"1:22.388",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Martin","Brundle",3,"Tyrrell Renault","NC",19,18,0,NA,NA,NA,"1:26.612",NA,"1:21.835",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Alan","Jones",15,"Lola Ford","NC",17,10,0,NA,NA,NA,"1:25.681",NA,"1:21.646",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Huub","Rothengatter",29,"Zakspeed","NC",26,9,0,NA,NA,NA,"1:28.397",NA,"1:24.105",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",24,8,0,NA,NA,NA,"1:30.016",NA,"1:23.566",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1986,"21 Sep 1986","Ivan","Capelli",31,"AGS Motori Moderni","NC",25,6,0,NA,NA,NA,"1:27.861",NA,"1:23.987",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Gerhard","Berger",20,"Benetton BMW","1",4,68,9,"1:33:18.700",NA,NA,"1:20.543",NA,"1:17.609",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Alain","Prost",1,"McLaren TAG","2",6,68,6,"1:33:44.138","25.438","25.4379999637604","1:20.357",NA,"1:18.421",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Ayrton","Senna",12,"Lotus Renault","3",1,68,4,"1:34:11.213","52.513","27.0750000476837","1:20.237",NA,"1:16.990",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Nelson","Piquet",6,"Williams Honda","4",2,67,3,"1","1","1","1:19.360",NA,"1:17.279",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Nigel","Mansell",5,"Williams Honda","5",3,67,2,"1","1","1","1:19.441",NA,"1:17.514",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Philippe","Alliot",26,"Ligier Renault","6",10,67,1,"1","1","1","1:21.630",NA,"1:19.257",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Thierry","Boutsen",18,"Arrows BMW","7",21,66,0,"2","2","2","1:22.315",NA,"1:21.171",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","8",22,66,0,"2","2","2","1:22.430",NA,"1:22.470",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Christian","Danner",17,"Arrows BMW","9",20,66,0,"2","2","2","1:23.551",NA,"1:21.069",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Jonathan","Palmer",14,"Zakspeed","10",18,65,0,NA,NA,NA,"1:21.732",NA,"1:20.668",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Martin","Brundle",3,"Tyrrell Renault","11",16,65,0,"3","3","3","1:23.337",NA,"1:20.198",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Stefan","Johansson",28,"Ferrari","12",14,64,0,NA,NA,NA,"1:20.182",NA,"1:19.769",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Riccardo","Patrese",7,"Brabham BMW","13",5,64,0,NA,NA,NA,"1:21.060",NA,"1:18.285",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","14",24,64,0,"4","4","4","1:24.978",NA,"1:23.457",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Rene","Arnoux",25,"Ligier Renault","15",13,63,0,NA,NA,NA,"1:22.020",NA,"1:19.624",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Allen","Berg",22,"Osella Alfa Romeo","16",26,61,0,"7","7","7","1:28.736",NA,"1:26.573",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Johnny","Dumfries",11,"Lotus Renault","NC",17,53,0,NA,NA,NA,"1:22.036",NA,"1:20.479",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Derek","Warwick",8,"Brabham BMW","NC",7,37,0,NA,NA,NA,"1:21.890",NA,"1:18.527",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Alan","Jones",15,"Lola Ford","NC",15,35,0,NA,NA,NA,"1:22.024",NA,"1:20.090",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Keke","Rosberg",2,"McLaren TAG","NC",11,32,0,NA,NA,NA,"1:21.298",NA,"1:19.342",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Michele","Alboreto",27,"Ferrari","NC",12,10,0,NA,NA,NA,"1:22.546",NA,"1:19.388",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Philippe","Streiff",4,"Tyrrell Renault","NC",19,8,0,NA,NA,NA,"1:24.525",NA,"1:20.946",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",25,8,0,NA,NA,NA,"1:30.412",NA,"1:24.176",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Teo","Fabi",19,"Benetton BMW","NC",9,4,0,NA,NA,NA,"1:25.615",NA,"1:18.893",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1986,"12 Oct 1986","Patrick","Tambay",16,"Lola Ford","NC",8,NA,0,NA,NA,NA,NA,NA,"1:18.839",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Alain","Prost",1,"McLaren TAG","1",4,82,9,"1:54:20.388",NA,NA,"1:20.979",NA,"1:19.654",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Nelson","Piquet",6,"Williams Honda","2",2,82,6,"1:54:24.592","4.205","4.2039999961853","1:20.787",NA,"1:18.714",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Stefan","Johansson",28,"Ferrari","3",12,81,4,"1","1","1","1:22.136",NA,"1:22.050",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Martin","Brundle",3,"Tyrrell Renault","4",16,81,3,"1","1","1","1:22.950",NA,"1:23.004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Philippe","Streiff",4,"Tyrrell Renault","5",10,80,2,NA,NA,NA,"1:22.681",NA,"1:21.720",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Johnny","Dumfries",11,"Lotus Renault","6",14,80,1,"2","2","2","1:22.464",NA,"1:22.664",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Rene","Arnoux",25,"Ligier Renault","7",5,79,0,"3","3","3","1:22.955",NA,"1:19.976",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Philippe","Alliot",26,"Ligier Renault","8",8,79,0,"3","3","3","1:25.798",NA,"1:20.981",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Jonathan","Palmer",14,"Zakspeed","9",21,77,0,"5","5","5","1:23.866",NA,"1:23.476",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Teo","Fabi",19,"Benetton BMW","10",13,77,0,"5","5","5","1:25.895",NA,"1:22.129",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Patrick","Tambay",16,"Lola Ford","NC",17,70,0,"1","1","1","1:24.182",NA,"1:23.008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Nigel","Mansell",5,"Williams Honda","NC",1,63,0,NA,NA,NA,"1:21.194",NA,"1:18.403",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Riccardo","Patrese",7,"Brabham BMW","NC",19,63,0,NA,NA,NA,"1:23.095",NA,"1:23.230",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Keke","Rosberg",2,"McLaren TAG","NC",7,62,0,NA,NA,NA,"1:21.900",NA,"1:20.778",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Allen","Berg",22,"Osella Alfa Romeo","NC",26,61,0,"2","2","2","1:33.172",NA,"1:27.208",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Derek","Warwick",8,"Brabham BMW","NC",20,57,0,NA,NA,NA,"1:23.695",NA,"1:23.313",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Christian","Danner",17,"Arrows BMW","NC",24,52,0,NA,NA,NA,"1:25.635",NA,"1:25.233",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Thierry","Boutsen",18,"Arrows BMW","NC",22,50,0,NA,NA,NA,"1:25.351",NA,"1:24.295",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Ayrton","Senna",12,"Lotus Renault","NC",3,43,0,NA,NA,NA,"1:24.149",NA,"1:18.906",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Gerhard","Berger",20,"Benetton BMW","NC",6,40,0,NA,NA,NA,"1:24.807",NA,"1:20.554",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Andrea","deCesaris",23,"Minardi Motori Moderni","NC",11,40,0,NA,NA,NA,"1:26.591",NA,"1:22.012",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Huub","Rothengatter",29,"Zakspeed","NC",23,29,0,NA,NA,NA,"1:26.479",NA,"1:25.181",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Alan","Jones",15,"Lola Ford","NC",15,16,0,NA,NA,NA,"1:24.585",NA,"1:22.796",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Alessandro","Nannini",24,"Minardi Motori Moderni","NC",18,10,0,NA,NA,NA,"1:27.821",NA,"1:23.052",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Piercarlo","Ghinzani",21,"Osella Alfa Romeo","NC",25,2,0,NA,NA,NA,"1:34.172",NA,"1:25.257",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1986,"26 Oct 1986","Michele","Alboreto",27,"Ferrari","NC",9,NA,0,NA,NA,NA,NA,NA,"1:21.709",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

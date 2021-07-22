@@ -1,0 +1,356 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Alan","Jones",1,"Williams Ford","1",2,80,9,"1:50:41.330",NA,NA,"1:20.901",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Carlos","Reutemann",2,"Williams Ford","2",3,80,6,"1:50:50.519","9.190","9.18900012969971",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Nelson","Piquet",5,"Brabham Ford","3",4,80,4,"1:51:16.250","34.920","25.7309999465942",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Mario","Andretti",22,"Alfa Romeo","4",6,80,3,"1:51:30.639","49.310","14.3889999389648",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Eddie","Cheever",3,"Tyrrell Ford","5",8,80,2,"1:51:48.029","66.700","17.3900001049042",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Patrick","Tambay",33,"Theodore Ford","6",17,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Chico","Serra",21,"Fittipaldi Ford","7",18,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Rene","Arnoux",16,"Renault","8",20,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Marc","Surer",14,"Ensign Ford","NC",19,70,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Didier","Pironi",28,"Ferrari","NC",11,67,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Jean-Pierre","Jarier",25,"Ligier Matra","NC",10,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Hector","Rebaque",6,"Brabham Ford","NC",15,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Bruno","Giacomelli",23,"Alfa Romeo","NC",9,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Jacques","Laffite",26,"Ligier Matra","NC",12,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Keke","Rosberg",20,"Fittipaldi Ford","NC",16,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Jan","Lammers",9,"ATS Ford","NC",21,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Riccardo","Patrese",29,"Arrows Ford","NC",1,33,0,NA,NA,NA,NA,NA,"1:19.399",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Beppe","Gabbiani",32,"Osella Hart","NC",24,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Nigel","Mansell",12,"Lotus Ford","NC",7,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Gilles","Villeneuve",27,"Ferrari","NC",5,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","John","Watson",7,"McLaren Ford","NC",23,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Elio","deAngelis",11,"Lotus Ford","NC",13,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Alain","Prost",15,"Renault","NC",14,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1981,"15 Mar 1981","Andrea","deCesaris",8,"McLaren Ford","NC",22,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Carlos","Reutemann",2,"Williams Ford","1",2,62,9,"2:00:23.660",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Alan","Jones",1,"Williams Ford","2",3,62,6,"2:00:28.100","4.440","4.43999981880188",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Riccardo","Patrese",29,"Arrows Ford","3",4,62,4,"2:01:26.740","63.080","58.6400001049042",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Marc","Surer",14,"Ensign Ford","4",18,62,3,"2:01:40.690","77.030","13.9500000476837","1:54.302",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Elio","deAngelis",11,"Lotus Ford","5",10,62,2,"2:01:50.080","86.420","9.3899998664856",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Jacques","Laffite",26,"Ligier Matra","6",16,62,1,"2:01:50.490","86.830","0.410000085830688",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Jean-Pierre","Jarier",25,"Ligier Matra","7",23,62,0,"2:01:53.910","90.250","3.42000007629395",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","John","Watson",7,"McLaren Ford","8",15,61,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Keke","Rosberg",20,"Fittipaldi Ford","9",12,61,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Patrick","Tambay",33,"Theodore Ford","10",19,61,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Nigel","Mansell",12,"Lotus Ford","11",13,61,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Nelson","Piquet",5,"Brabham Ford","12",1,60,0,"2","2","2",NA,NA,"1:35.079",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Ricardo","Zunino",4,"Tyrrell Ford","13",24,57,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Eddie","Cheever",3,"Tyrrell Ford","NC",14,49,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Bruno","Giacomelli",23,"Alfa Romeo","NC",6,40,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Gilles","Villeneuve",27,"Ferrari","NC",7,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Hector","Rebaque",6,"Brabham Ford","NC",11,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Alain","Prost",15,"Renault","NC",5,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Siegfried","Stohr",30,"Arrows Ford","NC",21,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Didier","Pironi",28,"Ferrari","NC",17,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Andrea","deCesaris",8,"McLaren Ford","NC",20,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Chico","Serra",21,"Fittipaldi Ford","NC",22,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Rene","Arnoux",16,"Renault","NC",8,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1981,"29 Mar 1981","Mario","Andretti",22,"Alfa Romeo","NC",9,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Nelson","Piquet",5,"Brabham Ford","1",1,53,9,"1:34:32.740",NA,NA,"1:45.287",NA,"1:42.665",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Carlos","Reutemann",2,"Williams Ford","2",4,53,6,"1:34:59.349","26.610","26.6089999675751",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Alain","Prost",15,"Renault","3",2,53,4,"1:35:22.720","49.980","23.3710000514984",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Alan","Jones",1,"Williams Ford","4",3,53,3,"1:35:40.620","67.880","17.8999998569489",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Rene","Arnoux",16,"Renault","5",5,53,2,"1:36:04.589","91.850","23.9690001010895",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Elio","deAngelis",11,"Lotus Ford","6",10,52,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Riccardo","Patrese",29,"Arrows Ford","7",9,52,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Mario","Andretti",22,"Alfa Romeo","8",17,52,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Siegfried","Stohr",30,"Arrows Ford","9",19,52,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Bruno","Giacomelli",23,"Alfa Romeo","10",22,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Andrea","deCesaris",8,"McLaren Ford","11",18,51,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Jan","Lammers",9,"ATS Ford","12",23,51,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Ricardo","Zunino",4,"Tyrrell Ford","13",24,51,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Gilles","Villeneuve",27,"Ferrari","NC",7,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Patrick","Tambay",33,"Theodore Ford","NC",14,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","John","Watson",7,"McLaren Ford","NC",11,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Hector","Rebaque",6,"Brabham Ford","NC",6,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Chico","Serra",21,"Fittipaldi Ford","NC",20,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Jacques","Laffite",26,"Ligier Matra","NC",21,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Marc","Surer",14,"Ensign Ford","NC",16,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Keke","Rosberg",20,"Fittipaldi Ford","NC",8,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Nigel","Mansell",12,"Lotus Ford","NC",15,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Didier","Pironi",28,"Ferrari","NC",12,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1981,"12 Apr 1981","Eddie","Cheever",3,"Tyrrell Ford","NC",13,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Nelson","Piquet",5,"Brabham Ford","1",5,60,9,"1:51:23.970",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Riccardo","Patrese",29,"Arrows Ford","2",9,60,6,"1:51:28.549","4.580","4.5789999961853",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Carlos","Reutemann",2,"Williams Ford","3",2,60,4,"1:51:30.309","6.340","1.75999999046326",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Hector","Rebaque",6,"Brabham Ford","4",13,60,3,"1:51:46.860","22.890","16.550999879837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Didier","Pironi",28,"Ferrari","5",6,60,2,"1:51:49.839","25.870","2.97900009155273",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Andrea","deCesaris",8,"McLaren Ford","6",14,60,1,"1:52:30.579","66.610","40.7400000095367",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Gilles","Villeneuve",27,"Ferrari","7",1,60,0,"1:53:05.940","101.970","35.3610000610352","1:48.064",NA,"1:34.523",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Rene","Arnoux",16,"Renault","8",3,59,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Marc","Surer",14,"Ensign Ford","9",21,59,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","John","Watson",7,"McLaren Ford","10",7,58,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Patrick","Tambay",33,"Theodore Ford","11",16,58,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Alan","Jones",1,"Williams Ford","12",8,58,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Slim","Borgudd",10,"ATS Ford","13",24,57,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Jean-Pierre","Jabouille",25,"Ligier Matra","NC",18,45,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Eliseo","Salazar",17,"March Ford","NC",23,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Michele","Alboreto",4,"Tyrrell Ford","NC",17,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Beppe","Gabbiani",32,"Osella Hart","NC",20,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Bruno","Giacomelli",23,"Alfa Romeo","NC",11,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Eddie","Cheever",3,"Tyrrell Ford","NC",19,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Mario","Andretti",22,"Alfa Romeo","NC",12,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Keke","Rosberg",20,"Fittipaldi Ford","NC",15,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Jacques","Laffite",26,"Ligier Matra","NC",10,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","Alain","Prost",15,"Renault","NC",4,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1981,"03 May 1981","MiguelAngel","Guerra",31,"Osella Hart","NC",22,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Carlos","Reutemann",2,"Williams Ford","1",1,54,9,"1:16:31.610",NA,NA,"1:23.300",NA,"1:22.280",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Jacques","Laffite",26,"Ligier Matra","2",9,54,6,"1:17:07.669","36.060","36.0590000152588",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Nigel","Mansell",12,"Lotus Ford","3",10,54,4,"1:17:15.299","43.690","7.63000011444092",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Gilles","Villeneuve",27,"Ferrari","4",7,54,3,"1:17:19.250","47.640","3.95099997520447",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Elio","deAngelis",11,"Lotus Ford","5",14,54,2,"1:17:20.809","49.200","1.55900001525879",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Eddie","Cheever",3,"Tyrrell Ford","6",8,54,1,"1:17:24.119","52.510","3.30999994277954",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","John","Watson",7,"McLaren Ford","7",5,54,0,"1:17:33.269","61.660","9.15000009536743",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Didier","Pironi",28,"Ferrari","8",3,54,0,"1:18:03.649","92.040","30.3799998760223",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Bruno","Giacomelli",23,"Alfa Romeo","9",17,54,0,"1:18:07.189","95.580","3.53999996185303",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Mario","Andretti",22,"Alfa Romeo","10",18,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Marc","Surer",14,"Ensign Ford","11",15,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Michele","Alboreto",4,"Tyrrell Ford","12",19,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Piercarlo","Ghinzani",31,"Osella Hart","13",24,50,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Hector","Rebaque",6,"Brabham Ford","NC",21,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Jean-Pierre","Jabouille",25,"Ligier Matra","NC",16,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Chico","Serra",21,"Fittipaldi Ford","NC",20,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Beppe","Gabbiani",32,"Osella Hart","NC",22,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Alan","Jones",1,"Williams Ford","NC",6,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Andrea","deCesaris",8,"McLaren Ford","NC",23,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Nelson","Piquet",5,"Brabham Ford","NC",2,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Keke","Rosberg",20,"Fittipaldi Ford","NC",11,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Alain","Prost",15,"Renault","NC",12,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Siegfried","Stohr",30,"Arrows Ford","NC",13,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1981,"17 May 1981","Riccardo","Patrese",29,"Arrows Ford","NC",4,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Gilles","Villeneuve",27,"Ferrari","1",2,76,9,"1:54:23.380",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Alan","Jones",1,"Williams Ford","2",7,76,6,"1:55:03.290","39.910","39.9099998474121","1:27.470",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Jacques","Laffite",26,"Ligier Matra","3",8,76,4,"1:55:52.620","89.240","49.3299999237061",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Didier","Pironi",28,"Ferrari","4",17,75,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Eddie","Cheever",3,"Tyrrell Ford","5",15,74,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Marc","Surer",14,"Ensign Ford","6",19,74,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Patrick","Tambay",33,"Theodore Ford","7",16,72,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Nelson","Piquet",5,"Brabham Ford","NC",1,53,0,NA,NA,NA,NA,NA,"1:25.710",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","John","Watson",7,"McLaren Ford","NC",10,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Michele","Alboreto",4,"Tyrrell Ford","NC",20,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Bruno","Giacomelli",23,"Alfa Romeo","NC",18,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Alain","Prost",15,"Renault","NC",9,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Carlos","Reutemann",2,"Williams Ford","NC",4,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Elio","deAngelis",11,"Lotus Ford","NC",6,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Rene","Arnoux",16,"Renault","NC",13,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Riccardo","Patrese",29,"Arrows Ford","NC",5,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Nigel","Mansell",12,"Lotus Ford","NC",3,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Siegfried","Stohr",30,"Arrows Ford","NC",14,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Andrea","deCesaris",8,"McLaren Ford","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1981,"31 May 1981","Mario","Andretti",22,"Alfa Romeo","NC",12,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Gilles","Villeneuve",27,"Ferrari","1",7,80,9,"1:46:35.010",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Jacques","Laffite",26,"Ligier Matra","2",1,80,6,"1:46:35.230","0.220","0.220000028610229",NA,NA,"1:13.754",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","John","Watson",7,"McLaren Ford","3",4,80,4,"1:46:35.589","0.580","0.358999967575073",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Carlos","Reutemann",2,"Williams Ford","4",3,80,3,"1:46:36.019","1.010","0.430000066757202",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Elio","deAngelis",11,"Lotus Ford","5",10,80,2,"1:46:36.250","1.240","0.230999946594238",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Nigel","Mansell",12,"Lotus Ford","6",11,80,1,"1:47:03.589","28.580","27.3389999866486",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Alan","Jones",1,"Williams Ford","7",2,80,0,"1:47:31.589","56.580","28","1:17.818",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Mario","Andretti",22,"Alfa Romeo","8",8,80,0,"1:47:35.809","60.800","4.22000002861023",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Rene","Arnoux",16,"Renault","9",17,80,0,"1:47:42.089","67.080","6.27999997138977",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Bruno","Giacomelli",23,"Alfa Romeo","10",6,80,0,"1:47:48.660","73.650","6.57100009918213",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Chico","Serra",21,"Fittipaldi Ford","11",21,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Keke","Rosberg",20,"Fittipaldi Ford","12",15,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Patrick","Tambay",33,"Theodore Ford","13",16,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Eliseo","Salazar",14,"Ensign Ford","14",24,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Didier","Pironi",28,"Ferrari","15",13,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Derek","Daly",17,"March Ford","16",22,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Eddie","Cheever",3,"Tyrrell Ford","NC",20,61,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Jean-Pierre","Jabouille",25,"Ligier Matra","NC",19,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Hector","Rebaque",6,"Brabham Ford","NC",18,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Siegfried","Stohr",30,"Arrows Ford","NC",23,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Nelson","Piquet",5,"Brabham Ford","NC",9,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Alain","Prost",15,"Renault","NC",5,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Riccardo","Patrese",29,"Arrows Ford","NC",12,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1981,"21 Jun 1981","Andrea","deCesaris",8,"McLaren Ford","NC",14,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Alain","Prost",15,"Renault","1",3,80,9,"1:35:48.130",NA,NA,"1:09.140",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","John","Watson",7,"McLaren Ford","2",2,80,6,"1:35:50.420","2.290","2.28999996185303",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Nelson","Piquet",5,"Brabham Ford","3",4,80,4,"1:36:12.350","24.220","21.9299998283386",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Rene","Arnoux",16,"Renault","4",1,80,3,"1:36:30.430","42.300","18.0800001621246",NA,NA,"1:05.950",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Didier","Pironi",28,"Ferrari","5",14,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Elio","deAngelis",11,"Lotus Ford","6",8,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Nigel","Mansell",12,"Lotus Ford","7",13,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Mario","Andretti",22,"Alfa Romeo","8",10,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Hector","Rebaque",6,"Brabham Ford","9",15,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Carlos","Reutemann",2,"Williams Ford","10",7,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Andrea","deCesaris",8,"McLaren Ford","11",5,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Marc","Surer",33,"Theodore Ford","12",21,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Eddie","Cheever",3,"Tyrrell Ford","13",19,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Riccardo","Patrese",29,"Arrows Ford","14",18,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Bruno","Giacomelli",23,"Alfa Romeo","15",12,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Michele","Alboreto",4,"Tyrrell Ford","16",23,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Alan","Jones",1,"Williams Ford","17",9,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Jacques","Laffite",26,"Ligier Matra","NC",6,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Derek","Daly",17,"March Ford","NC",20,55,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Gilles","Villeneuve",27,"Ferrari","NC",11,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Patrick","Tambay",25,"Ligier Matra","NC",16,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Keke","Rosberg",20,"Fittipaldi Ford","NC",17,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Dijon-Prenois, France",1981,"05 Jul 1981","Eliseo","Salazar",14,"Ensign Ford","NC",22,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","John","Watson",7,"McLaren Ford","1",5,68,9,"1:26:54.800",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Carlos","Reutemann",2,"Williams Ford","2",9,68,6,"1:27:35.450","40.650","40.6500000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Jacques","Laffite",26,"Ligier Matra","3",14,67,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Eddie","Cheever",3,"Tyrrell Ford","4",23,67,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Hector","Rebaque",6,"Brabham Ford","5",13,67,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Slim","Borgudd",10,"ATS Ford","6",21,67,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Derek","Daly",17,"March Ford","7",17,66,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Jean-Pierre","Jarier",32,"Osella Hart","8",20,65,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Rene","Arnoux",16,"Renault","9",1,64,0,NA,NA,NA,"1:15.067",NA,"1:11.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Riccardo","Patrese",29,"Arrows Ford","10",10,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Marc","Surer",33,"Theodore Ford","11",24,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Mario","Andretti",22,"Alfa Romeo","NC",11,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Keke","Rosberg",20,"Fittipaldi Ford","NC",16,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Elio","deAngelis",11,"Lotus Ford","NC",22,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Alain","Prost",15,"Renault","NC",2,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Patrick","Tambay",25,"Ligier Matra","NC",15,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Didier","Pironi",28,"Ferrari","NC",4,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Nelson","Piquet",5,"Brabham Ford","NC",3,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Bruno","Giacomelli",23,"Alfa Romeo","NC",12,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Gilles","Villeneuve",27,"Ferrari","NC",8,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Alan","Jones",1,"Williams Ford","NC",7,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Andrea","deCesaris",8,"McLaren Ford","NC",6,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Michele","Alboreto",4,"Tyrrell Ford","NC",19,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1981,"18 Jul 1981","Siegfried","Stohr",30,"Arrows Ford","NC",18,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Nelson","Piquet",5,"Brabham Ford","1",6,45,9,"1:25:55.600",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Alain","Prost",15,"Renault","2",1,45,6,"1:26:07.119","11.520","11.5190000534058",NA,NA,"1:47.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Jacques","Laffite",26,"Ligier Matra","3",7,45,4,"1:27:00.199","64.600","53.0799999237061",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Hector","Rebaque",6,"Brabham Ford","4",16,45,3,"1:27:35.289","99.690","35.0900001525879",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Eddie","Cheever",3,"Tyrrell Ford","5",18,45,2,"1:27:46.119","110.520","10.8299999237061",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","John","Watson",7,"McLaren Ford","6",9,44,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Elio","deAngelis",11,"Lotus Ford","7",14,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Jean-Pierre","Jarier",32,"Osella Hart","8",17,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Mario","Andretti",22,"Alfa Romeo","9",12,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Gilles","Villeneuve",27,"Ferrari","10",8,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Alan","Jones",1,"Williams Ford","11",4,44,0,"1","1","1","1:52.420",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Siegfried","Stohr",30,"Arrows Ford","12",24,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Rene","Arnoux",16,"Renault","13",2,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Marc","Surer",33,"Theodore Ford","14",22,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Bruno","Giacomelli",23,"Alfa Romeo","15",19,43,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Eliseo","Salazar",14,"Ensign Ford","NC",23,39,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Slim","Borgudd",10,"ATS Ford","NC",20,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Carlos","Reutemann",2,"Williams Ford","NC",3,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Riccardo","Patrese",29,"Arrows Ford","NC",13,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Patrick","Tambay",25,"Ligier Matra","NC",11,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Derek","Daly",17,"March Ford","NC",21,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Nigel","Mansell",12,"Lotus Ford","NC",15,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Andrea","deCesaris",8,"McLaren Ford","NC",10,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1981,"02 Aug 1981","Didier","Pironi",28,"Ferrari","NC",5,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Jacques","Laffite",26,"Ligier Matra","1",4,53,9,"1:27:36.470",NA,NA,"1:37.620",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Rene","Arnoux",16,"Renault","2",1,53,6,"1:27:41.640","5.170","5.17000007629395",NA,NA,"1:32.018",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Nelson","Piquet",5,"Brabham Ford","3",7,53,4,"1:27:43.809","7.340","2.16899991035461",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Alan","Jones",1,"Williams Ford","4",6,53,3,"1:27:48.509","12.040","4.70000004768372",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Carlos","Reutemann",2,"Williams Ford","5",5,53,2,"1:28:08.319","31.850","19.8099999427795",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","John","Watson",7,"McLaren Ford","6",12,53,1,"1:29:07.610","91.140","59.2909998893738",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Elio","deAngelis",11,"Lotus Ford","7",9,52,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Andrea","deCesaris",8,"McLaren Ford","8",18,52,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Didier","Pironi",28,"Ferrari","9",8,52,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Jean-Pierre","Jarier",32,"Osella Hart","10",14,51,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Derek","Daly",17,"March Ford","11",19,47,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Mario","Andretti",22,"Alfa Romeo","NC",13,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Slim","Borgudd",10,"ATS Ford","NC",21,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Riccardo","Patrese",29,"Arrows Ford","NC",10,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Eliseo","Salazar",14,"Ensign Ford","NC",20,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Michele","Alboreto",4,"Tyrrell Ford","NC",22,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Bruno","Giacomelli",23,"Alfa Romeo","NC",16,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Hector","Rebaque",6,"Brabham Ford","NC",15,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Siegfried","Stohr",30,"Arrows Ford","NC",24,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Alain","Prost",15,"Renault","NC",2,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Patrick","Tambay",25,"Ligier Matra","NC",17,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Nigel","Mansell",12,"Lotus Ford","NC",11,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Gilles","Villeneuve",27,"Ferrari","NC",3,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1981,"16 Aug 1981","Marc","Surer",33,"Theodore Ford","NC",23,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Alain","Prost",15,"Renault","1",1,72,9,"1:40:22.430",NA,NA,NA,NA,"1:18.176",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Nelson","Piquet",5,"Brabham Ford","2",3,72,6,"1:40:30.670","8.240","8.24000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Alan","Jones",1,"Williams Ford","3",4,72,4,"1:40:57.930","35.500","27.2599999904633","1:21.830",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Hector","Rebaque",6,"Brabham Ford","4",15,71,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Elio","deAngelis",11,"Lotus Ford","5",9,71,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Eliseo","Salazar",14,"Ensign Ford","6",24,70,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Siegfried","Stohr",30,"Arrows Ford","7",21,69,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Marc","Surer",33,"Theodore Ford","8",20,69,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Michele","Alboreto",4,"Tyrrell Ford","9",25,68,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Slim","Borgudd",10,"ATS Ford","10",23,68,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Mario","Andretti",22,"Alfa Romeo","NC",7,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","John","Watson",7,"McLaren Ford","NC",8,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Eddie","Cheever",3,"Tyrrell Ford","NC",22,46,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Jean-Pierre","Jarier",32,"Osella Hart","NC",18,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Rene","Arnoux",16,"Renault","NC",2,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Bruno","Giacomelli",23,"Alfa Romeo","NC",14,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Jacques","Laffite",26,"Ligier Matra","NC",6,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Carlos","Reutemann",2,"Williams Ford","NC",5,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Riccardo","Patrese",29,"Arrows Ford","NC",10,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Derek","Daly",17,"March Ford","NC",19,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Didier","Pironi",28,"Ferrari","NC",12,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Nigel","Mansell",12,"Lotus Ford","NC",17,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Patrick","Tambay",25,"Ligier Matra","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1981,"30 Aug 1981","Gilles","Villeneuve",27,"Ferrari","NC",16,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Alain","Prost",15,"Renault","1",3,52,9,"1:26:33.897",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Alan","Jones",1,"Williams Ford","2",5,52,6,"1:26:56.072","22.175","22.1749999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Carlos","Reutemann",2,"Williams Ford","3",2,52,4,"1:27:24.483","50.587","28.4110000133514","1:37.528",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Elio","deAngelis",11,"Lotus Ford","4",11,52,3,"1:28:06.799","92.902","42.3159999847412",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Didier","Pironi",28,"Ferrari","5",8,52,2,"1:28:08.419","94.522","1.61999988555908",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Nelson","Piquet",5,"Brabham Ford","6",6,51,1,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Andrea","deCesaris",8,"McLaren Ford","7",16,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Bruno","Giacomelli",23,"Alfa Romeo","8",10,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Jean-Pierre","Jarier",32,"Osella Hart","9",18,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Brian","Henton",35,"Toleman Hart","10",23,49,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Mario","Andretti",22,"Alfa Romeo","NC",13,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Derek","Daly",17,"March Ford","NC",19,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Patrick","Tambay",25,"Ligier Matra","NC",15,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Nigel","Mansell",12,"Lotus Ford","NC",12,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","John","Watson",7,"McLaren Ford","NC",7,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Riccardo","Patrese",29,"Arrows Ford","NC",20,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Michele","Alboreto",4,"Tyrrell Ford","NC",22,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Eliseo","Salazar",14,"Ensign Ford","NC",24,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Rene","Arnoux",16,"Renault","NC",1,12,0,NA,NA,NA,NA,NA,"1:33.467",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Jacques","Laffite",26,"Ligier Matra","NC",4,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Eddie","Cheever",3,"Tyrrell Ford","NC",17,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Slim","Borgudd",10,"ATS Ford","NC",21,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Gilles","Villeneuve",27,"Ferrari","NC",9,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1981,"13 Sep 1981","Hector","Rebaque",6,"Brabham Ford","NC",14,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Jacques","Laffite",26,"Ligier Matra","1",10,63,9,"2:01:25.205",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","John","Watson",7,"McLaren Ford","2",9,63,6,"2:01:31.437","6.233","6.23200011253357","1:49.475",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Gilles","Villeneuve",27,"Ferrari","3",11,63,4,"2:03:15.480","110.275","1.7340499997139",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Bruno","Giacomelli",23,"Alfa Romeo","4",15,62,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Nelson","Piquet",5,"Brabham Ford","5",1,62,2,"1","1","1",NA,NA,"1:29.211",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Elio","deAngelis",11,"Lotus Ford","6",7,62,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Mario","Andretti",22,"Alfa Romeo","7",16,62,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Derek","Daly",17,"March Ford","8",20,61,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Marc","Surer",33,"Theodore Ford","9",19,61,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Carlos","Reutemann",2,"Williams Ford","10",2,60,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Michele","Alboreto",4,"Tyrrell Ford","11",22,59,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Eddie","Cheever",3,"Tyrrell Ford","12",14,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Andrea","deCesaris",8,"McLaren Ford","NC",13,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Alain","Prost",15,"Renault","NC",4,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Nigel","Mansell",12,"Lotus Ford","NC",5,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Slim","Borgudd",10,"ATS Ford","NC",21,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Hector","Rebaque",6,"Brabham Ford","NC",6,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Jean-Pierre","Jarier",32,"Osella Hart","NC",23,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Alan","Jones",1,"Williams Ford","NC",3,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Didier","Pironi",28,"Ferrari","NC",12,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Eliseo","Salazar",14,"Ensign Ford","NC",24,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Patrick","Tambay",25,"Ligier Matra","NC",17,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Riccardo","Patrese",29,"Arrows Ford","NC",18,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Île Notre-Dame, Canada",1981,"27 Sep 1981","Rene","Arnoux",16,"Renault","NC",8,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Alan","Jones",1,"Williams Ford","1",2,75,9,"1:44:09.077",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Alain","Prost",15,"Renault","2",5,75,6,"1:44:29.126","20.050","20.0490000247955",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Bruno","Giacomelli",23,"Alfa Romeo","3",8,75,4,"1:44:29.506","20.430","0.380000114440918",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Nigel","Mansell",12,"Lotus Ford","4",9,75,3,"1:44:56.546","47.470","27.039999961853",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Nelson","Piquet",5,"Brabham Ford","5",4,75,2,"1:45:25.516","76.440","28.9700000286102",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Jacques","Laffite",26,"Ligier Matra","6",12,75,1,"1:45:27.256","78.180","1.74000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","John","Watson",7,"McLaren Ford","7",6,75,0,"1:45:27.576","78.500","0.319999933242798",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Carlos","Reutemann",2,"Williams Ford","8",1,74,0,"1","1","1",NA,NA,"1:17.821",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Didier","Pironi",28,"Ferrari","9",18,73,0,"2","2","2","1:20.156",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Keke","Rosberg",20,"Fittipaldi Ford","10",20,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Riccardo","Patrese",29,"Arrows Ford","11",11,71,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Andrea","deCesaris",8,"McLaren Ford","12",14,69,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Michele","Alboreto",4,"Tyrrell Ford","13",17,67,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Eliseo","Salazar",14,"Ensign Ford","NC",24,61,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Derek","Warwick",36,"Toleman Hart","NC",22,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Mario","Andretti",22,"Alfa Romeo","NC",10,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Gilles","Villeneuve",27,"Ferrari","DQ",3,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Hector","Rebaque",6,"Brabham Ford","NC",16,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Marc","Surer",33,"Theodore Ford","NC",23,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Eddie","Cheever",3,"Tyrrell Ford","NC",19,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Rene","Arnoux",16,"Renault","NC",13,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Patrick","Tambay",25,"Ligier Matra","NC",7,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Elio","deAngelis",11,"Lotus Ford","NC",15,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1981,"17 Oct 1981","Jean-Pierre","Jarier",32,"Osella Hart","NC",21,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

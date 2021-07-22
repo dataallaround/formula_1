@@ -1,0 +1,305 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Jackie","Stewart",21,"Tyrrell Ford","1",2,95,9,"1:57:58.820",NA,NA,"1:13.660",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Denny","Hulme",17,"McLaren Ford","2",4,95,6,"1:58:24.779","25.960","25.9590001106262",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Jacky","Ickx",8,"Ferrari","3",8,95,4,"1:58:58.210","59.390","33.430999994278",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Clay","Regazzoni",9,"Ferrari","4",6,95,3,"1:59:05.539","66.720","7.3289999961853",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Tim","Schenken",19,"Surtees Ford","5",11,95,2,"1:59:07.929","69.110","2.3899998664856",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Ronnie","Peterson",14,"March Ford","6",10,94,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Carlos","Reutemann",2,"Brabham Ford","7",1,93,0,"2","2","2",NA,NA,"1:12.460",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Henri","Pescarolo",23,"March Ford","8",15,93,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Howden","Ganley",3,"BRM","9",13,93,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Helmut","Marko",7,"BRM","10",19,93,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Niki","Lauda",15,"March Ford","11",22,93,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Emerson","Fittipaldi",11,"Lotus Ford","NC",5,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Reine","Wisell",4,"BRM","NC",17,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Francois","Cevert",22,"Tyrrell Ford","NC",7,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Peter","Revson",18,"McLaren Ford","NC",3,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Mario","Andretti",10,"Ferrari","NC",9,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Graham","Hill",1,"Brabham Ford","NC",16,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Andrea","deAdamich",20,"Surtees Ford","NC",14,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Dave","Walker",12,"Lotus Ford","DQ",20,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Peter","Gethin",5,"BRM","NC",18,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1972,"23 Jan 1972","Alex","Soler-Roig",6,"BRM","NC",21,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Denny","Hulme",12,"McLaren Ford","1",5,79,9,"1:45:49.100",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Emerson","Fittipaldi",8,"Lotus Ford","2",3,79,6,"1:46:03.199","14.100","14.0989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Peter","Revson",14,"McLaren Ford","3",12,79,4,"1:46:14.899","25.800","11.7000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Mario","Andretti",7,"Ferrari","4",6,79,3,"1:46:27.599","38.500","12.7000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Ronnie","Peterson",3,"March Ford","5",9,79,2,"1:46:38.099","49.000","10.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Graham","Hill",19,"Brabham Ford","6",14,78,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Niki","Lauda",4,"March Ford","7",21,78,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Jacky","Ickx",5,"Ferrari","8",7,78,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Francois","Cevert",2,"Tyrrell Ford","9",8,78,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Dave","Walker",9,"Lotus Ford","10",19,78,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Henri","Pescarolo",21,"March Ford","11",22,77,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Clay","Regazzoni",6,"Ferrari","12",2,77,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Rolf","Stommelen",25,"Eifelland Ford","13",25,77,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Helmut","Marko",24,"BRM","14",23,76,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Chris","Amon",15,"Matra","15",13,76,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","John","Love",27,"Surtees Ford","16",26,73,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Carlos","Pace",22,"March Ford","17",24,73,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Howden","Ganley",23,"BRM","NC",16,70,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Andrea","deAdamich",18,"Surtees Ford","NC",20,69,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Peter","Gethin",11,"BRM","NC",18,65,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Jean-Pierre","Beltoise",10,"BRM","NC",11,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Jackie","Stewart",1,"Tyrrell Ford","NC",1,45,0,NA,NA,NA,NA,NA,"1:17.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Mike","Hailwood",17,"Surtees Ford","NC",4,28,0,NA,NA,NA,"1:18.900",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Carlos","Reutemann",20,"Brabham Ford","NC",15,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Tim","Schenken",16,"Surtees Ford","NC",10,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1972,"04 Mar 1972","Dave","Charlton",26,"Lotus Ford","NC",17,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Emerson","Fittipaldi",5,"Lotus Ford","1",3,90,9,"2:03:41.230",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Jacky","Ickx",4,"Ferrari","2",1,90,6,"2:04:00.150","18.920","18.9200000762939","1:21.010",NA,"1:18.430",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Clay","Regazzoni",6,"Ferrari","3",8,89,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Andrea","deAdamich",26,"Surtees Ford","4",13,89,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Peter","Revson",20,"McLaren Ford","5",11,89,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Carlos","Pace",29,"March Ford","6",16,89,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Wilson","Fittipaldi",22,"Brabham Ford","7",14,88,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Tim","Schenken",12,"Surtees Ford","8",18,88,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Dave","Walker",21,"Lotus Ford","9",24,87,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Graham","Hill",18,"Brabham Ford","10",23,86,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Henri","Pescarolo",14,"March Ford","11",19,86,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Jackie","Stewart",1,"Tyrrell Ford","NC",4,69,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Chris","Amon",9,"Matra","NC",6,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Francois","Cevert",3,"Tyrrell Ford","NC",12,65,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Peter","Gethin",8,"BRM","NC",21,65,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Denny","Hulme",11,"McLaren Ford","NC",2,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Howden","Ganley",25,"BRM","NC",20,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Reine","Wisell",10,"BRM","NC",10,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Mario","Andretti",7,"Ferrari","NC",5,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Mike","Hailwood",15,"Surtees Ford","NC",15,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Ronnie","Peterson",2,"March Ford","NC",9,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Rolf","Stommelen",16,"Eifelland Ford","NC",17,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Jean-Pierre","Beltoise",19,"BRM","NC",7,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Niki","Lauda",24,"March Ford","NC",25,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente del Jarama, Spain",1972,"01 May 1972","Alex","Soler-Roig",28,"BRM","NC",22,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Jean-Pierre","Beltoise",17,"BRM","1",4,80,9,"2:26:54.700",NA,NA,"1:40.000",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Jacky","Ickx",6,"Ferrari","2",2,80,6,"2:27:32.900","38.200","38.2000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Emerson","Fittipaldi",8,"Lotus Ford","3",1,79,4,"1","1","1",NA,NA,"1:21.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Jackie","Stewart",1,"Tyrrell Ford","4",8,78,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Brian","Redman",15,"McLaren Ford","5",10,77,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Chris","Amon",16,"Matra","6",6,77,1,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Andrea","deAdamich",12,"Surtees Ford","7",18,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Helmut","Marko",26,"BRM","8",17,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Wilson","Fittipaldi",21,"Brabham Ford","9",21,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Rolf","Stommelen",27,"Eifelland Ford","10",25,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Ronnie","Peterson",3,"March Ford","11",15,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Graham","Hill",20,"Brabham Ford","12",19,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Mike","Beuttler",5,"March Ford","13",23,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Dave","Walker",9,"Lotus Ford","14",14,75,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Denny","Hulme",14,"McLaren Ford","15",7,74,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Niki","Lauda",4,"March Ford","16",22,74,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Carlos","Pace",23,"March Ford","17",24,72,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Francois","Cevert",2,"Tyrrell Ford","NC",12,70,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Henri","Pescarolo",22,"March Ford","NC",9,58,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Clay","Regazzoni",7,"Ferrari","NC",3,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Mike","Hailwood",11,"Surtees Ford","NC",11,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Howden","Ganley",19,"BRM","NC",20,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Tim","Schenken",10,"Surtees Ford","NC",13,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Peter","Gethin",18,"BRM","DQ",5,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1972,"14 May 1972","Reine","Wisell",28,"BRM","NC",16,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Emerson","Fittipaldi",32,"Lotus Ford","1",1,85,9,"1:44:06.700",NA,NA,NA,NA,"1:11.430",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Francois","Cevert",8,"Tyrrell Ford","2",5,85,6,"1:44:33.299","26.600","26.5989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Denny","Hulme",9,"McLaren Ford","3",3,85,4,"1:45:04.799","58.100","31.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Mike","Hailwood",34,"Surtees Ford","4",8,85,3,"1:45:18.700","72.000","13.9010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Carlos","Pace",16,"March Ford","5",11,84,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Chris","Amon",5,"Matra","6",13,84,1,"1","1","1","1:12.120",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Peter","Revson",10,"McLaren Ford","7",7,83,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Howden","Ganley",25,"BRM","8",15,83,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Ronnie","Peterson",11,"March Ford","9",14,83,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Helmut","Marko",27,"BRM","10",23,83,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Rolf","Stommelen",6,"Eifelland Ford","11",20,83,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Niki","Lauda",12,"March Ford","12",25,82,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Carlos","Reutemann",19,"Brabham Ford","13",9,81,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Dave","Walker",33,"Lotus Ford","14",12,79,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Graham","Hill",17,"Brabham Ford","NC",16,73,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Henri","Pescarolo",15,"March Ford","NC",19,59,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Clay","Regazzoni",30,"Ferrari","NC",2,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Andrea","deAdamich",36,"Surtees Ford","NC",10,55,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Nanni","Galli",22,"Tecno","NC",24,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Jacky","Ickx",29,"Ferrari","NC",4,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Mike","Beuttler",14,"March Ford","NC",22,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Wilson","Fittipaldi",18,"Brabham Ford","NC",18,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Peter","Gethin",24,"BRM","NC",17,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Jean-Pierre","Beltoise",23,"BRM","NC",6,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Complexe Européen de Nivelles-Baulers, Belgium",1972,"04 Jun 1972","Tim","Schenken",35,"Surtees Ford","NC",21,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Jackie","Stewart",4,"Tyrrell Ford","1",3,38,9,"1:52:21.500",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Emerson","Fittipaldi",1,"Lotus Ford","2",8,38,6,"1:52:49.200","27.700","27.7000000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Chris","Amon",9,"Matra","3",1,38,4,"1:52:53.400","31.900","4.20000004768372","2:53.900",NA,"2:53.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Francois","Cevert",7,"Tyrrell Ford","4",7,38,3,"1:53:10.799","49.300","17.3989999294281",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Ronnie","Peterson",12,"March Ford","5",9,38,2,"1:53:18.299","56.800","7.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Mike","Hailwood",26,"Surtees Ford","6",10,38,1,"1:53:57.599","96.100","39.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Denny","Hulme",2,"McLaren Ford","7",2,38,0,"1:54:09.599","108.100","12",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Wilson","Fittipaldi",19,"Brabham Ford","8",14,38,0,"1:54:46.599","145.100","37",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Brian","Redman",11,"McLaren Ford","9",13,38,0,"1:55:17.000","175.500","30.4010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Graham","Hill",18,"Brabham Ford","10",20,38,0,"1:55:21.000","179.500","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Jacky","Ickx",3,"Ferrari","11",4,37,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Carlos","Reutemann",20,"Brabham Ford","12",17,37,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Nanni","Galli",30,"Ferrari","13",19,37,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Andrea","deAdamich",28,"Surtees Ford","14",12,37,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Jean-Pierre","Beltoise",5,"BRM","15",24,37,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Rolf","Stommelen",10,"Eifelland Ford","16",15,37,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Tim","Schenken",27,"Surtees Ford","17",5,36,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Dave","Walker",6,"Lotus Ford","18",22,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Mike","Beuttler",15,"March Ford","NC",23,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Patrick","Depailler",8,"Tyrrell Ford","NC",16,33,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Reine","Wisell",24,"BRM","NC",18,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Carlos","Pace",17,"March Ford","NC",11,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Helmut","Marko",25,"BRM","NC",6,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Charade Circuit, France",1972,"02 Jul 1972","Niki","Lauda",14,"March Ford","NC",21,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Emerson","Fittipaldi",8,"Lotus Ford","1",2,76,9,"1:47:50.200",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Jackie","Stewart",1,"Tyrrell Ford","2",4,76,6,"1:47:54.299","4.100","4.09899997711182","1:24.000",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Peter","Revson",19,"McLaren Ford","3",3,76,4,"1:49:02.700","72.500","1.14001666704814",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Chris","Amon",17,"Matra","4",17,75,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Denny","Hulme",18,"McLaren Ford","5",11,75,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Arturo","Merzario",6,"Ferrari","6",9,75,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Ronnie","Peterson",3,"March Ford","7",8,74,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Carlos","Reutemann",27,"Brabham Ford","8",10,73,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Niki","Lauda",4,"March Ford","9",19,73,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Rolf","Stommelen",33,"Eifelland Ford","10",25,71,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Jean-Pierre","Beltoise",11,"BRM","11",6,70,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Wilson","Fittipaldi",28,"Brabham Ford","12",22,69,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Mike","Beuttler",31,"March Ford","13",23,69,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Tim","Schenken",22,"Surtees Ford","NC",5,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Francois","Cevert",2,"Tyrrell Ford","NC",12,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Dave","Walker",9,"Lotus Ford","NC",15,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Jacky","Ickx",5,"Ferrari","NC",1,49,0,NA,NA,NA,NA,NA,"1:22.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Graham","Hill",26,"Brabham Ford","NC",21,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Carlos","Pace",25,"March Ford","NC",13,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Jackie","Oliver",14,"BRM","NC",14,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Mike","Hailwood",21,"Surtees Ford","NC",7,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Dave","Charlton",29,"Lotus Ford","NC",24,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Nanni","Galli",30,"Tecno","NC",18,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Henri","Pescarolo",24,"Politoys Ford","NC",26,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Peter","Gethin",12,"BRM","NC",16,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1972,"15 Jul 1972","Andrea","deAdamich",23,"Surtees Ford","NC",20,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Jacky","Ickx",4,"Ferrari","1",1,14,9,"1:42:12.300",NA,NA,"7:13.600",NA,"7:07.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Clay","Regazzoni",9,"Ferrari","2",7,14,6,"1:43:00.599","48.300","48.2990000247955",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Ronnie","Peterson",10,"March Ford","3",4,14,4,"1:43:19.000","66.700","18.4010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Howden","Ganley",17,"BRM","4",18,14,3,"1:44:32.500","140.200","1.225",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Brian","Redman",5,"McLaren Ford","5",19,14,2,"1:44:48.000","155.700","15.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Graham","Hill",11,"Brabham Ford","6",15,14,1,"1:45:11.899","179.600","23.8989999294281",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Wilson","Fittipaldi",26,"Brabham Ford","7",21,14,0,"1:45:12.399","180.100","0.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Mike","Beuttler",28,"March Ford","8",27,14,0,"1:47:23.000","310.700","2.17668333450953",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Jean-Pierre","Beltoise",6,"BRM","9",13,14,0,"1:47:32.500","320.200","9.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Francois","Cevert",7,"Tyrrell Ford","10",5,14,0,"1:47:56.000","343.700","23.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Jackie","Stewart",1,"Tyrrell Ford","11",2,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Arturo","Merzario",19,"Ferrari","12",22,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Andrea","deAdamich",16,"Surtees Ford","13",20,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Tim","Schenken",15,"Surtees Ford","14",12,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Chris","Amon",8,"Matra","15",8,13,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Carlos","Pace",21,"March Ford","NC",11,11,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Henri","Pescarolo",20,"March Ford","NC",9,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Emerson","Fittipaldi",2,"Lotus Ford","NC",3,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Denny","Hulme",3,"McLaren Ford","NC",10,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Mike","Hailwood",14,"Surtees Ford","NC",16,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Carlos","Reutemann",12,"Brabham Ford","NC",6,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Rolf","Stommelen",22,"Eifelland Ford","NC",14,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Dave","Walker",25,"Lotus Ford","NC",23,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Derek","Bell",27,"Tecno","NC",25,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Dave","Charlton",29,"Lotus Ford","NC",26,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Niki","Lauda",23,"March Ford","NC",24,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Nürburgring, Germany",1972,"30 Jul 1972","Reine","Wisell",18,"BRM","NC",17,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Emerson","Fittipaldi",31,"Lotus Ford","1",1,54,9,"1:29:16.660",NA,NA,NA,NA,"1:35.970",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Denny","Hulme",12,"McLaren Ford","2",7,54,6,"1:29:17.840","1.180","1.17999982833862","1:38.320",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Peter","Revson",14,"McLaren Ford","3",4,54,4,"1:29:53.190","36.530","35.3500001430511",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Mike","Hailwood",25,"Surtees Ford","4",12,54,3,"1:30:01.420","44.760","8.23000001907349",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Chris","Amon",10,"Matra","5",6,54,2,"1:30:02.300","45.640","0.879999876022339",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Howden","Ganley",9,"BRM","6",10,54,1,"1:30:17.850","61.190","15.5499999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Jackie","Stewart",1,"Tyrrell Ford","7",3,54,0,"1:30:25.750","69.090","7.90000009536743",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Jean-Pierre","Beltoise",7,"BRM","8",21,54,0,"1:30:38.110","81.450","12.3599998950958",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Francois","Cevert",2,"Tyrrell Ford","9",20,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Niki","Lauda",4,"March Ford","10",22,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Tim","Schenken",24,"Surtees Ford","11",8,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Ronnie","Peterson",5,"March Ford","12",11,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Peter","Gethin",6,"BRM","13",16,51,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Andrea","deAdamich",11,"Surtees Ford","14",13,51,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Rolf","Stommelen",27,"Eifelland Ford","15",17,48,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Carlos","Pace",23,"March Ford","NC",18,46,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Nanni","Galli",15,"Tecno","NC",23,45,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Graham","Hill",16,"Brabham Ford","NC",14,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Wilson","Fittipaldi",28,"Brabham Ford","NC",15,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Mike","Beuttler",3,"March Ford","NC",24,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Francois","Migault",29,"Connew Ford","NC",25,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Jacky","Ickx",18,"Ferrari","NC",9,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Carlos","Reutemann",17,"Brabham Ford","NC",5,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Clay","Regazzoni",19,"Ferrari","NC",2,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1972,"13 Aug 1972","Dave","Walker",21,"Lotus Ford","NC",19,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Emerson","Fittipaldi",6,"Lotus Ford","1",6,55,9,"1:29:58.400",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Mike","Hailwood",10,"Surtees Ford","2",9,55,6,"1:30:12.900","14.500","14.5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Denny","Hulme",14,"McLaren Ford","3",5,55,4,"1:30:22.200","23.800","9.29999995231628",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Peter","Revson",15,"McLaren Ford","4",8,55,3,"1:30:34.100","35.700","11.8999998569489",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Graham","Hill",28,"Brabham Ford","5",13,55,2,"1:31:04.000","65.600","29.9000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Peter","Gethin",23,"BRM","6",12,55,1,"1:31:20.300","81.900","16.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Mario","Andretti",3,"Ferrari","7",7,54,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Jean-Pierre","Beltoise",21,"BRM","8",16,54,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Ronnie","Peterson",19,"March Ford","9",24,54,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Mike","Beuttler",16,"March Ford","10",25,54,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Howden","Ganley",22,"BRM","11",17,52,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Reine","Wisell",24,"BRM","12",10,51,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Niki","Lauda",18,"March Ford","13",20,50,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Jacky","Ickx",4,"Ferrari","NC",1,46,0,NA,NA,NA,"1:36.300",NA,"1:35.650",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Chris","Amon",20,"Matra","NC",2,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Andrea","deAdamich",9,"Surtees Ford","NC",21,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","John","Surtees",7,"Surtees Ford","NC",19,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Tim","Schenken",8,"Surtees Ford","NC",22,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Wilson","Fittipaldi",29,"Brabham Ford","NC",15,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Clay","Regazzoni",5,"Ferrari","NC",4,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Carlos","Pace",26,"March Ford","NC",18,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Carlos","Reutemann",30,"Brabham Ford","NC",11,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Francois","Cevert",2,"Tyrrell Ford","NC",14,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Nanni","Galli",11,"Tecno","NC",23,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1972,"10 Sep 1972","Jackie","Stewart",1,"Tyrrell Ford","NC",3,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Jackie","Stewart",1,"Tyrrell Ford","1",5,80,9,"1:43:16.900",NA,NA,"1:15.700",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Peter","Revson",19,"McLaren Ford","2",1,80,6,"1:44:05.100","48.200","48.1999998092651",NA,NA,"1:13.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Denny","Hulme",18,"McLaren Ford","3",2,80,4,"1:44:11.500","54.600","6.40000009536743",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Carlos","Reutemann",8,"Brabham Ford","4",9,80,3,"1:44:17.600","60.700","6.09999990463257",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Clay","Regazzoni",11,"Ferrari","5",7,80,2,"1:44:23.900","67.000","6.30000019073486",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Chris","Amon",4,"Matra","6",10,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Tim","Schenken",22,"Surtees Ford","7",13,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Graham","Hill",7,"Brabham Ford","8",17,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Carlos","Pace",29,"March Ford","9",18,78,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Howden","Ganley",15,"BRM","10",14,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Emerson","Fittipaldi",5,"Lotus Ford","11",4,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Jacky","Ickx",10,"Ferrari","12",8,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Henri","Pescarolo",28,"March Ford","13",21,73,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Reine","Wisell",6,"Lotus Ford","NC",16,65,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Niki","Lauda",26,"March Ford","DQ",19,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Ronnie","Peterson",25,"March Ford","DQ",3,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Mike","Beuttler",27,"March Ford","NC",24,59,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Francois","Cevert",2,"Tyrrell Ford","NC",6,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Peter","Gethin",16,"BRM","NC",12,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Skip","Barber",33,"March Ford","NC",22,24,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Jean-Pierre","Beltoise",14,"BRM","NC",20,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Bill","Brack",17,"BRM","NC",23,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Wilson","Fittipaldi",9,"Brabham Ford","NC",11,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Mosport International Raceway, Canada",1972,"24 Sep 1972","Andrea","deAdamich",23,"Surtees Ford","NC",15,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Jackie","Stewart",1,"Tyrrell Ford","1",1,59,9,"1:41:45.354",NA,NA,"1:41.644",NA,"1:40.481",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Francois","Cevert",2,"Tyrrell Ford","2",4,59,6,"1:42:17.621","32.268","32.2669999599457",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Denny","Hulme",19,"McLaren Ford","3",3,59,4,"1:42:22.882","37.528","5.26099991798401",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Ronnie","Peterson",4,"March Ford","4",26,59,3,"1:43:07.870","82.516","44.9879999160767",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Jacky","Ickx",7,"Ferrari","5",12,59,2,"1:43:08.473","83.119","0.603000164031982",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Mario","Andretti",9,"Ferrari","6",10,58,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Patrick","Depailler",3,"Tyrrell Ford","7",11,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Clay","Regazzoni",8,"Ferrari","8",6,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Jody","Scheckter",21,"McLaren Ford","9",8,58,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Reine","Wisell",12,"Lotus Ford","10",16,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Graham","Hill",28,"Brabham Ford","11",27,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Sam","Posey",34,"Surtees Ford","12",23,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Mike","Beuttler",6,"March Ford","13",21,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Henri","Pescarolo",26,"March Ford","14",22,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Chris","Amon",18,"Matra","15",7,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Skip","Barber",33,"March Ford","16",20,57,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Mike","Hailwood",23,"Surtees Ford","17",14,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Peter","Revson",20,"McLaren Ford","18",2,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Niki","Lauda",5,"March Ford","NC",25,49,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Carlos","Pace",27,"March Ford","NC",15,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Peter","Gethin",14,"BRM","NC",28,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Howden","Ganley",16,"BRM","NC",17,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Dave","Walker",11,"Lotus Ford","NC",30,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Wilson","Fittipaldi",30,"Brabham Ford","NC",13,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Jean-Pierre","Beltoise",17,"BRM","NC",18,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Brian","Redman",15,"BRM","NC",24,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Carlos","Reutemann",29,"Brabham Ford","NC",5,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Andrea","deAdamich",25,"Surtees Ford","NC",19,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Tim","Schenken",22,"Surtees Ford","NC",31,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Emerson","Fittipaldi",10,"Lotus Ford","NC",9,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Watkins Glen International, United States",1972,"08 Oct 1972","Derek","Bell",31,"Tecno","NC",29,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

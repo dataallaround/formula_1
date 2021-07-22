@@ -1,0 +1,393 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Alain","Prost",15,"Renault","1",5,77,9,"1:32:08.401",NA,NA,"1:08.278",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Carlos","Reutemann",5,"Williams Ford","2",8,77,6,"1:32:23.351","14.950","14.9500000476837",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Rene","Arnoux",16,"Renault","3",1,77,4,"1:32:36.301","27.900","12.9500000476837",NA,NA,"1:06.351",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Niki","Lauda",8,"McLaren Ford","4",13,77,3,"1:32:40.510","32.110","4.20899987220764",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Keke","Rosberg",6,"Williams Ford","5",7,77,2,"1:32:54.541","46.140","14.0309998989105",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","John","Watson",7,"McLaren Ford","6",9,77,1,"1:32:59.391","50.990","4.85000014305115",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Michele","Alboreto",3,"Tyrrell Ford","7",10,76,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Elio","deAngelis",11,"Lotus Ford","8",15,76,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Eliseo","Salazar",10,"ATS Ford","9",12,75,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Manfred","Winkelhock",9,"ATS Ford","10",20,75,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Bruno","Giacomelli",23,"Alfa Romeo","11",19,74,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Jochen","Mass",17,"March Ford","12",22,74,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Andrea","deCesaris",22,"Alfa Romeo","13",16,73,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Derek","Daly",33,"Theodore Ford","14",24,73,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Raul","Boesel",18,"March Ford","15",21,72,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Slim","Borgudd",4,"Tyrrell Ford","16",23,72,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Chico","Serra",20,"Fittipaldi Ford","17",25,72,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Didier","Pironi",28,"Ferrari","18",6,71,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Jacques","Laffite",26,"Ligier Matra","NC",11,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Derek","Warwick",35,"Toleman Hart","NC",14,43,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Riccardo","Patrese",2,"Brabham BMW","NC",4,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Eddie","Cheever",25,"Ligier Matra","NC",17,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Gilles","Villeneuve",27,"Ferrari","NC",3,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Nelson","Piquet",1,"Brabham BMW","NC",2,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Nigel","Mansell",12,"Lotus Ford","NC",18,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"South Africa","Kyalami Grand Prix Circuit, South Africa",1982,"23 Jan 1982","Jean-Pierre","Jarier",31,"Osella Ford","NC",26,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Nelson","Piquet",1,"Brabham Ford","DQ",7,63,0,"DSQ",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Keke","Rosberg",6,"Williams Ford","DQ",3,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Alain","Prost",15,"Renault","1",1,63,9,NA,NA,NA,"1:37.016",NA,"1:28.808",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","John","Watson",7,"McLaren Ford","2",12,63,6,NA,"2.990",NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Nigel","Mansell",12,"Lotus Ford","3",14,63,4,NA,"36.860",NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Michele","Alboreto",3,"Tyrrell Ford","4",13,63,3,NA,"50.760",NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Manfred","Winkelhock",9,"ATS Ford","5",15,62,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Didier","Pironi",28,"Ferrari","6",8,62,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Slim","Borgudd",4,"Tyrrell Ford","7",21,61,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Jochen","Mass",17,"March Ford","8",22,61,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Jean-Pierre","Jarier",31,"Osella Ford","9",23,60,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Mauro","Baldi",30,"Arrows Ford","10",19,57,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Eliseo","Salazar",10,"ATS Ford","NC",18,38,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Chico","Serra",20,"Fittipaldi Ford","NC",25,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Riccardo","Patrese",2,"Brabham Ford","NC",9,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Gilles","Villeneuve",27,"Ferrari","NC",2,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Niki","Lauda",8,"McLaren Ford","NC",5,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Rene","Arnoux",16,"Renault","NC",4,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Carlos","Reutemann",5,"Williams Ford","NC",6,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Elio","deAngelis",11,"Lotus Ford","NC",11,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Eddie","Cheever",25,"Ligier Matra","NC",26,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Bruno","Giacomelli",23,"Alfa Romeo","NC",16,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Jacques","Laffite",26,"Ligier Matra","NC",24,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Andrea","deCesaris",22,"Alfa Romeo","NC",10,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Derek","Daly",33,"Theodore Ford","NC",20,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1982,"21 Mar 1982","Raul","Boesel",18,"March Ford","NC",17,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Niki","Lauda",8,"McLaren Ford","1",2,75,9,"1:58:25.318",NA,NA,"1:30.831",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Keke","Rosberg",6,"Williams Ford","2",8,75,6,"1:58:39.978","14.660","14.6599998474121",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Gilles","Villeneuve",27,"Ferrari","DQ",7,75,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Riccardo","Patrese",2,"Brabham Ford","3",18,75,4,"1:59:44.458","79.140",NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Michele","Alboreto",3,"Tyrrell Ford","4",12,75,3,"1:59:46.268","80.950","1.80999994277954",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Elio","deAngelis",11,"Lotus Ford","5",16,74,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","John","Watson",7,"McLaren Ford","6",11,74,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Nigel","Mansell",12,"Lotus Ford","7",17,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Jochen","Mass",17,"March Ford","8",21,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Raul","Boesel",18,"March Ford","9",23,70,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Slim","Borgudd",4,"Tyrrell Ford","10",24,68,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Eddie","Cheever",25,"Ligier Matra","NC",13,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Andrea","deCesaris",22,"Alfa Romeo","NC",1,33,0,NA,NA,NA,NA,NA,"1:27.316",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Brian","Henton",29,"Arrows Ford","NC",20,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Roberto","Guerrero",14,"Ensign Ford","NC",19,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Jacques","Laffite",26,"Ligier Matra","NC",15,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Jean-Pierre","Jarier",31,"Osella Ford","NC",10,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Nelson","Piquet",1,"Brabham Ford","NC",6,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Derek","Daly",33,"Theodore Ford","NC",22,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Mario","Andretti",5,"Williams Ford","NC",14,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Alain","Prost",15,"Renault","NC",4,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Didier","Pironi",28,"Ferrari","NC",9,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Rene","Arnoux",16,"Renault","NC",3,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Bruno","Giacomelli",23,"Alfa Romeo","NC",5,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Eliseo","Salazar",10,"ATS Ford","NC",26,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"USA West","Long Beach Street Circuit, United States",1982,"04 Apr 1982","Manfred","Winkelhock",9,"ATS Ford","NC",25,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Didier","Pironi",28,"Ferrari","1",4,60,9,"1:36:38.887",NA,NA,"1:35.036",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Gilles","Villeneuve",27,"Ferrari","2",3,60,6,"1:36:39.256","0.370","0.36899995803833",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Michele","Alboreto",3,"Tyrrell Ford","3",5,60,4,"1:37:46.567","67.680","1.12184999783834",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Jean-Pierre","Jarier",31,"Osella Ford","4",9,59,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Eliseo","Salazar",10,"ATS Ford","5",14,57,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Manfred","Winkelhock",9,"ATS Ford","DQ",12,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Teo","Fabi",36,"Toleman Hart","NC",10,52,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Rene","Arnoux",16,"Renault","NC",1,44,0,NA,NA,NA,NA,NA,"1:29.765",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Bruno","Giacomelli",23,"Alfa Romeo","NC",6,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Riccardo","Paletti",32,"Osella Ford","NC",13,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Alain","Prost",15,"Renault","NC",2,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Andrea","deCesaris",22,"Alfa Romeo","NC",7,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Dino Ferrari, San Marino",1982,"25 Apr 1982","Brian","Henton",4,"Tyrrell Ford","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","John","Watson",7,"McLaren Ford","1",10,70,9,"1:35:41.995",NA,NA,"1:20.214",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Keke","Rosberg",6,"Williams Ford","2",3,70,6,"1:35:49.262","7.268","7.26700019836426",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Niki","Lauda",8,"McLaren Ford","DQ",4,70,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Eddie","Cheever",25,"Ligier Matra","3",14,69,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Elio","deAngelis",11,"Lotus Ford","4",11,68,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Nelson","Piquet",1,"Brabham BMW","5",8,67,2,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Chico","Serra",20,"Fittipaldi Ford","6",23,67,1,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Marc","Surer",29,"Arrows Ford","7",22,66,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Raul","Boesel",18,"March Ford","8",24,66,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Jacques","Laffite",26,"Ligier Matra","9",17,66,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Derek","Daly",5,"Williams Ford","NC",13,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Jochen","Mass",17,"March Ford","NC",25,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Alain","Prost",15,"Renault","NC",1,59,0,NA,NA,NA,NA,NA,"1:15.701",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Riccardo","Patrese",2,"Brabham BMW","NC",9,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Mauro","Baldi",30,"Arrows Ford","NC",26,51,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Jean-Pierre","Jarier",31,"Osella Ford","NC",16,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Andrea","deCesaris",22,"Alfa Romeo","NC",6,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Brian","Henton",4,"Tyrrell Ford","NC",20,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Michele","Alboreto",3,"Tyrrell Ford","NC",5,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Derek","Warwick",35,"Toleman Hart","NC",19,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Teo","Fabi",36,"Toleman Hart","NC",21,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Nigel","Mansell",12,"Lotus Ford","NC",7,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Rene","Arnoux",16,"Renault","NC",2,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Manfred","Winkelhock",9,"ATS Ford","NC",12,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Eliseo","Salazar",10,"ATS Ford","NC",18,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit Zolder, Belgium",1982,"09 May 1982","Bruno","Giacomelli",23,"Alfa Romeo","NC",15,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Riccardo","Patrese",2,"Brabham Ford","1",2,76,9,"1:54:11.259",NA,NA,"1:26.354",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Didier","Pironi",28,"Ferrari","2",5,75,6,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Andrea","deCesaris",22,"Alfa Romeo","3",7,75,4,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Nigel","Mansell",12,"Lotus Ford","4",11,75,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Elio","deAngelis",11,"Lotus Ford","5",15,75,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Derek","Daly",5,"Williams Ford","6",8,74,1,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Alain","Prost",15,"Renault","7",4,73,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Brian","Henton",4,"Tyrrell Ford","8",17,72,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Marc","Surer",29,"Arrows Ford","9",19,70,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Michele","Alboreto",3,"Tyrrell Ford","10",9,69,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Keke","Rosberg",6,"Williams Ford","NC",6,64,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Niki","Lauda",8,"McLaren Ford","NC",12,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Nelson","Piquet",1,"Brabham BMW","NC",13,49,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","John","Watson",7,"McLaren Ford","NC",10,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Manfred","Winkelhock",9,"ATS Ford","NC",14,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Jacques","Laffite",26,"Ligier Matra","NC",18,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Eddie","Cheever",25,"Ligier Matra","NC",16,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Eliseo","Salazar",10,"ATS Ford","NC",20,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Rene","Arnoux",16,"Renault","NC",1,14,0,NA,NA,NA,NA,NA,"1:23.281",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1982,"23 May 1982","Bruno","Giacomelli",23,"Alfa Romeo","NC",3,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","John","Watson",7,"McLaren Ford","1",17,62,9,"1:58:41.043",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Eddie","Cheever",25,"Ligier Matra","2",9,62,6,"1:58:56.773","15.730","15.7300000190735",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Didier","Pironi",28,"Ferrari","3",4,62,4,"1:59:09.122","28.080","12.3489999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Keke","Rosberg",6,"Williams Ford","4",3,62,3,"1:59:53.023","71.980","43.9010000228882",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Derek","Daly",5,"Williams Ford","5",12,62,2,"2:00:04.802","83.760","11.779000043869",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Jacques","Laffite",26,"Ligier Matra","6",13,61,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Jochen","Mass",17,"March Ford","7",18,61,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Marc","Surer",29,"Arrows Ford","8",19,61,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Brian","Henton",4,"Tyrrell Ford","9",20,60,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Rene","Arnoux",16,"Renault","10",15,59,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Chico","Serra",20,"Fittipaldi Ford","11",26,59,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Alain","Prost",15,"Renault","NC",1,54,0,"8","8","8","1:50.438",NA,"1:48.537",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Nigel","Mansell",12,"Lotus Ford","NC",7,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Niki","Lauda",8,"McLaren Ford","NC",10,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Michele","Alboreto",3,"Tyrrell Ford","NC",16,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Bruno","Giacomelli",23,"Alfa Romeo","NC",6,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Elio","deAngelis",11,"Lotus Ford","NC",8,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Eliseo","Salazar",10,"ATS Ford","NC",25,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Roberto","Guerrero",14,"Ensign Ford","NC",11,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Riccardo","Patrese",2,"Brabham Ford","NC",14,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Andrea","deCesaris",22,"Alfa Romeo","NC",2,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Jean-Pierre","Jarier",31,"Osella Ford","NC",22,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Manfred","Winkelhock",9,"ATS Ford","NC",5,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Raul","Boesel",18,"March Ford","NC",21,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1982,"06 Jun 1982","Mauro","Baldi",30,"Arrows Ford","NC",24,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Nelson","Piquet",1,"Brabham BMW","1",4,70,9,"1:46:39.577",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Riccardo","Patrese",2,"Brabham Ford","2",8,70,6,"1:46:53.376","13.800","13.7990000247955",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","John","Watson",7,"McLaren Ford","3",6,70,4,"1:47:41.416","61.840","48.039999961853",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Elio","deAngelis",11,"Lotus Ford","4",10,69,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Marc","Surer",29,"Arrows Ford","5",16,69,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Andrea","deCesaris",22,"Alfa Romeo","6",9,68,1,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Derek","Daly",5,"Williams Ford","7",13,68,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Mauro","Baldi",30,"Arrows Ford","8",17,68,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Didier","Pironi",28,"Ferrari","9",1,67,0,"3","3","3","1:28.323",NA,"1:27.509",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Eddie","Cheever",25,"Ligier Matra","10",12,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Jochen","Mass",17,"March Ford","11",22,66,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Brian","Henton",4,"Tyrrell Ford","NC",26,59,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Keke","Rosberg",6,"Williams Ford","NC",7,52,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Raul","Boesel",18,"March Ford","NC",21,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Michele","Alboreto",3,"Tyrrell Ford","NC",15,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Alain","Prost",15,"Renault","NC",3,30,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Rene","Arnoux",16,"Renault","NC",2,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Eliseo","Salazar",10,"ATS Ford","NC",24,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Niki","Lauda",8,"McLaren Ford","NC",11,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Jacques","Laffite",26,"Ligier Matra","NC",19,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Roberto","Guerrero",14,"Ensign Ford","NC",20,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Bruno","Giacomelli",23,"Alfa Romeo","NC",5,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Nigel","Mansell",12,"Lotus Ford","NC",14,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Geoff","Lees",33,"Theodore Ford","NC",25,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Jean-Pierre","Jarier",31,"Osella Ford","NC",18,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles Villeneuve, Canada",1982,"13 Jun 1982","Riccardo","Paletti",32,"Osella Ford","NC",23,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Didier","Pironi",28,"Ferrari","1",4,72,9,"1:38:03.254",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Nelson","Piquet",1,"Brabham BMW","2",3,72,6,"1:38:24.904","21.650","21.6500000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Keke","Rosberg",6,"Williams Ford","3",7,72,4,"1:38:25.623","22.370","0.718999862670898",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Niki","Lauda",8,"McLaren Ford","4",5,72,3,"1:39:26.973","83.720","1.02250000238419",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Derek","Daly",5,"Williams Ford","5",12,71,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Mauro","Baldi",30,"Arrows Ford","6",16,71,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Michele","Alboreto",3,"Tyrrell Ford","7",14,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Patrick","Tambay",27,"Ferrari","8",6,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","John","Watson",7,"McLaren Ford","9",11,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Marc","Surer",29,"Arrows Ford","10",17,71,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Bruno","Giacomelli",23,"Alfa Romeo","11",8,70,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Manfred","Winkelhock",9,"ATS Ford","12",18,70,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Eliseo","Salazar",10,"ATS Ford","13",25,70,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Jean-Pierre","Jarier",31,"Osella Ford","14",23,69,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Riccardo","Patrese",2,"Brabham BMW","15",10,69,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Jochen","Mass",17,"March Ford","NC",24,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Jan","Lammers",33,"Theodore Ford","NC",26,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Elio","deAngelis",11,"Lotus Ford","NC",15,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Andrea","deCesaris",22,"Alfa Romeo","NC",9,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Alain","Prost",15,"Renault","NC",2,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Rene","Arnoux",16,"Renault","NC",1,21,0,NA,NA,NA,NA,NA,"1:14.233",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Brian","Henton",4,"Tyrrell Ford","NC",20,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Raul","Boesel",18,"March Ford","NC",22,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Chico","Serra",20,"Fittipaldi Ford","NC",19,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Derek","Warwick",35,"Toleman Hart","NC",13,15,0,NA,NA,NA,"1:19.780",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1982,"03 Jul 1982","Jacques","Laffite",26,"Ligier Matra","NC",21,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Niki","Lauda",8,"McLaren Ford","1",5,76,9,"1:35:33.812",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Didier","Pironi",28,"Ferrari","2",4,76,6,"1:35:59.542","25.730","25.7300000190735",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Patrick","Tambay",27,"Ferrari","3",13,76,4,"1:36:12.252","38.440","12.710000038147",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Elio","deAngelis",11,"Lotus Ford","4",7,76,3,"1:36:15.052","41.240","2.79999995231628",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Derek","Daly",5,"Williams Ford","5",10,76,2,"1:36:15.242","41.430","0.190000057220459",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Alain","Prost",15,"Renault","6",8,76,1,"1:36:15.452","41.640","0.209999799728394",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Bruno","Giacomelli",23,"Alfa Romeo","7",14,75,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Brian","Henton",4,"Tyrrell Ford","8",17,75,0,"1","1","1","1:13.028",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Mauro","Baldi",30,"Arrows Ford","9",26,74,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Jochen","Mass",17,"March Ford","10",25,73,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Andrea","deCesaris",22,"Alfa Romeo","NC",11,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Eddie","Cheever",25,"Ligier Matra","NC",24,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Marc","Surer",29,"Arrows Ford","NC",22,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Keke","Rosberg",6,"Williams Ford","NC",1,50,0,NA,NA,NA,NA,NA,"1:09.540",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Michele","Alboreto",3,"Tyrrell Ford","NC",9,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Jacques","Laffite",26,"Ligier Matra","NC",20,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Derek","Warwick",35,"Toleman Hart","NC",16,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Nigel","Mansell",12,"Lotus Ford","NC",23,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Nelson","Piquet",1,"Brabham BMW","NC",3,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Roberto","Guerrero",14,"Ensign Ford","NC",19,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Jean-Pierre","Jarier",31,"Osella Ford","NC",18,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Chico","Serra",20,"Fittipaldi Ford","NC",21,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","John","Watson",7,"McLaren Ford","NC",12,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Teo","Fabi",36,"Toleman Hart","NC",15,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Rene","Arnoux",16,"Renault","NC",6,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Brands Hatch Circuit, Great Britain",1982,"18 Jul 1982","Riccardo","Patrese",2,"Brabham BMW","NC",2,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Rene","Arnoux",16,"Renault","1",1,54,9,"1:33:33.217",NA,NA,NA,NA,"1:34.406",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Alain","Prost",15,"Renault","2",2,54,6,"1:33:50.526","17.310","17.3090000152588",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Didier","Pironi",28,"Ferrari","3",3,54,4,"1:34:15.347","42.130","24.8209998607635",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Patrick","Tambay",27,"Ferrari","4",5,54,3,"1:34:49.457","76.240","34.1100001335144",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Keke","Rosberg",6,"Williams Ford","5",10,54,2,"1:35:04.207","90.990","14.75",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Michele","Alboreto",3,"Tyrrell Ford","6",15,54,1,"1:35:05.556","92.340","1.34899997711182",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Derek","Daly",5,"Williams Ford","7",11,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Niki","Lauda",8,"McLaren Ford","8",9,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Bruno","Giacomelli",23,"Alfa Romeo","9",8,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Brian","Henton",4,"Tyrrell Ford","10",23,53,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Manfred","Winkelhock",9,"ATS Ford","11",18,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Geoff","Lees",12,"Lotus Ford","12",24,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Marc","Surer",29,"Arrows Ford","13",20,52,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Jacques","Laffite",26,"Ligier Matra","14",16,51,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Derek","Warwick",35,"Toleman Hart","15",14,50,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Eddie","Cheever",25,"Ligier Matra","16",19,49,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Andrea","deCesaris",22,"Alfa Romeo","NC",7,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Nelson","Piquet",1,"Brabham BMW","NC",6,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Elio","deAngelis",11,"Lotus Ford","NC",13,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","John","Watson",7,"McLaren Ford","NC",12,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Jochen","Mass",17,"March Ford","NC",26,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Mauro","Baldi",30,"Arrows Ford","NC",25,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Riccardo","Patrese",2,"Brabham BMW","NC",4,8,0,NA,NA,NA,"1:40.075",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Eliseo","Salazar",10,"ATS Ford","NC",22,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Teo","Fabi",36,"Toleman Hart","NC",21,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1982,"25 Jul 1982","Jean-Pierre","Jarier",31,"Osella Ford","NC",17,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Patrick","Tambay",27,"Ferrari","1",5,45,9,"1:27:25.178",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Rene","Arnoux",16,"Renault","2",3,45,6,"1:27:41.558","16.380","16.3800001144409",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Keke","Rosberg",6,"Williams Ford","3",9,44,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Michele","Alboreto",3,"Tyrrell Ford","4",7,44,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Bruno","Giacomelli",23,"Alfa Romeo","5",11,44,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Marc","Surer",29,"Arrows Ford","6",26,44,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Brian","Henton",4,"Tyrrell Ford","7",17,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Roberto","Guerrero",14,"Ensign Ford","8",21,44,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Nigel","Mansell",12,"Lotus Ford","9",18,43,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Derek","Warwick",35,"Toleman Hart","10",14,43,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Chico","Serra",20,"Fittipaldi Ford","11",25,43,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","John","Watson",7,"McLaren Ford","NC",10,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Jacques","Laffite",26,"Ligier Matra","NC",15,36,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Derek","Daly",5,"Williams Ford","NC",19,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Raul","Boesel",18,"March Ford","NC",24,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Elio","deAngelis",11,"Lotus Ford","NC",13,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Nelson","Piquet",1,"Brabham BMW","NC",4,18,0,NA,NA,NA,"1:54.035",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Eliseo","Salazar",10,"ATS Ford","NC",22,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Alain","Prost",15,"Renault","NC",2,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Riccardo","Patrese",2,"Brabham BMW","NC",6,13,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Andrea","deCesaris",22,"Alfa Romeo","NC",8,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Eddie","Cheever",25,"Ligier Matra","NC",12,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Mauro","Baldi",30,"Arrows Ford","NC",23,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Jean-Pierre","Jarier",31,"Osella Ford","NC",20,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1982,"08 Aug 1982","Manfred","Winkelhock",9,"ATS Ford","NC",16,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Elio","deAngelis",11,"Lotus Ford","1",7,53,9,"1:25:02.212",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Keke","Rosberg",6,"Williams Ford","2",6,53,6,"1:25:02.261","0.050","0.0490000247955322",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Jacques","Laffite",26,"Ligier Matra","3",14,52,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Patrick","Tambay",27,"Ferrari","4",4,52,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Niki","Lauda",8,"McLaren Ford","5",10,52,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Mauro","Baldi",30,"Arrows Ford","6",23,52,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Chico","Serra",20,"Fittipaldi Ford","7",20,51,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Alain","Prost",15,"Renault","8",3,48,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","John","Watson",7,"McLaren Ford","NC",18,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Brian","Henton",4,"Tyrrell Ford","NC",19,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Nelson","Piquet",1,"Brabham BMW","NC",1,31,0,NA,NA,NA,"1:33.699",NA,"1:27.612",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Tommy","Byrne",33,"Theodore Ford","NC",26,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Marc","Surer",29,"Arrows Ford","NC",21,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Riccardo","Patrese",2,"Brabham BMW","NC",2,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Eddie","Cheever",25,"Ligier Matra","NC",22,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Nigel","Mansell",12,"Lotus Ford","NC",12,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Rene","Arnoux",16,"Renault","NC",5,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Manfred","Winkelhock",9,"ATS Ford","NC",25,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Derek","Warwick",35,"Toleman Hart","NC",15,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Teo","Fabi",36,"Toleman Hart","NC",17,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Roberto","Guerrero",14,"Ensign Ford","NC",16,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Michele","Alboreto",3,"Tyrrell Ford","NC",8,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Rupert","Keegan",17,"March Ford","NC",24,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Andrea","deCesaris",22,"Alfa Romeo","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Derek","Daly",5,"Williams Ford","NC",9,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austria","Österreichring, Austria",1982,"15 Aug 1982","Bruno","Giacomelli",23,"Alfa Romeo","NC",13,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Keke","Rosberg",6,"Williams Ford","1",8,80,9,"1:32:41.087",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Alain","Prost",15,"Renault","2",1,80,6,"1:32:45.526","4.440","4.43900012969971","1:07.477",NA,"1:01.380",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Niki","Lauda",8,"McLaren Ford","3",4,80,4,"1:33:41.426","60.340","55.9000000953674",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Nelson","Piquet",1,"Brabham BMW","4",6,79,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Riccardo","Patrese",2,"Brabham BMW","5",3,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Elio","deAngelis",11,"Lotus Ford","6",15,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Michele","Alboreto",3,"Tyrrell Ford","7",12,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Nigel","Mansell",12,"Lotus Ford","8",26,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Derek","Daly",5,"Williams Ford","9",7,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Andrea","deCesaris",22,"Alfa Romeo","10",5,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Brian","Henton",4,"Tyrrell Ford","11",18,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Bruno","Giacomelli",23,"Alfa Romeo","12",9,78,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","John","Watson",7,"McLaren Ford","13",11,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Eliseo","Salazar",10,"ATS Ford","14",25,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Marc","Surer",29,"Arrows Ford","15",14,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Rene","Arnoux",16,"Renault","16",2,75,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Eddie","Cheever",25,"Ligier Matra","NC",16,70,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Manfred","Winkelhock",9,"ATS Ford","NC",20,55,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Jean-Pierre","Jarier",31,"Osella Ford","NC",17,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Jacques","Laffite",26,"Ligier Matra","NC",13,33,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Teo","Fabi",36,"Toleman Hart","NC",23,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Raul","Boesel",18,"March Ford","NC",24,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Rupert","Keegan",17,"March Ford","NC",22,25,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Derek","Warwick",35,"Toleman Hart","NC",21,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Switzerland","Circuit Dijon-Prenois, France",1982,"29 Aug 1982","Roberto","Guerrero",14,"Ensign Ford","NC",19,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Rene","Arnoux",16,"Renault","1",6,52,9,"1:22:25.734",NA,NA,"1:33.619",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Patrick","Tambay",27,"Ferrari","2",3,52,6,"1:22:39.793","14.060","14.0590000152588",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Mario","Andretti",28,"Ferrari","3",1,52,4,"1:23:14.184","48.450","34.3910000324249",NA,NA,"1:28.473",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","John","Watson",7,"McLaren Ford","4",12,52,3,"1:23:53.583","87.850","39.3989999294281",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Michele","Alboreto",3,"Tyrrell Ford","5",11,51,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Eddie","Cheever",25,"Ligier Matra","6",14,51,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Nigel","Mansell",12,"Lotus Ford","7",23,51,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Keke","Rosberg",6,"Williams Ford","8",7,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Eliseo","Salazar",10,"ATS Ford","9",25,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Andrea","deCesaris",22,"Alfa Romeo","10",9,50,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Chico","Serra",20,"Fittipaldi Ford","11",26,49,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Mauro","Baldi",30,"Arrows Ford","12",24,49,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Roberto","Guerrero",14,"Ensign Ford","NC",18,40,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Elio","deAngelis",11,"Lotus Ford","NC",17,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Bruno","Giacomelli",23,"Alfa Romeo","NC",8,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Marc","Surer",29,"Arrows Ford","NC",19,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Alain","Prost",15,"Renault","NC",5,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Niki","Lauda",8,"McLaren Ford","NC",10,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Jean-Pierre","Jarier",31,"Osella Ford","NC",15,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Nelson","Piquet",1,"Brabham BMW","NC",2,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Riccardo","Patrese",2,"Brabham BMW","NC",4,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Jacques","Laffite",26,"Ligier Matra","NC",21,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Teo","Fabi",36,"Toleman Hart","NC",22,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Derek","Daly",5,"Williams Ford","NC",13,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Derek","Warwick",35,"Toleman Hart","NC",16,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1982,"12 Sep 1982","Brian","Henton",4,"Tyrrell Ford","NC",20,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Michele","Alboreto",3,"Tyrrell Ford","1",3,75,9,"1:41:56.888",NA,NA,"1:19.639",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","John","Watson",7,"McLaren Ford","2",9,75,6,"1:42:24.177","27.290","27.2890000343323",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Eddie","Cheever",25,"Ligier Matra","3",4,75,4,"1:42:53.338","56.450","29.1610000133514",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Alain","Prost",15,"Renault","4",1,75,3,"1:43:05.538","68.650","12.2000000476837",NA,NA,"1:16.356",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Keke","Rosberg",6,"Williams Ford","5",6,75,2,"1:43:08.268","71.380","2.72999978065491",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Derek","Daly",5,"Williams Ford","6",14,74,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Marc","Surer",29,"Arrows Ford","7",17,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Brian","Henton",4,"Tyrrell Ford","8",19,74,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Andrea","deCesaris",22,"Alfa Romeo","9",18,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Bruno","Giacomelli",23,"Alfa Romeo","10",16,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Mauro","Baldi",30,"Arrows Ford","11",23,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Rupert","Keegan",17,"March Ford","12",25,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Raul","Boesel",18,"March Ford","13",24,69,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Manfred","Winkelhock",9,"ATS Ford","NC",22,62,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Niki","Lauda",8,"McLaren Ford","NC",13,53,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Tommy","Byrne",33,"Theodore Ford","NC",26,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Derek","Warwick",35,"Toleman Hart","NC",10,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Elio","deAngelis",11,"Lotus Ford","NC",20,28,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Mario","Andretti",28,"Ferrari","NC",7,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Nelson","Piquet",1,"Brabham BMW","NC",12,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Rene","Arnoux",16,"Renault","NC",2,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Riccardo","Patrese",2,"Brabham BMW","NC",5,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Nigel","Mansell",12,"Lotus Ford","NC",21,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Las Vegas","Caesars Palace, United States",1982,"25 Sep 1982","Jacques","Laffite",26,"Ligier Matra","NC",11,5,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

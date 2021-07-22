@@ -1,0 +1,406 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Alain","Prost",11,"McLaren Honda","1",3,60,9,"1:36:06.857",NA,NA,"1:33.540",NA,"1:28.782",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Gerhard","Berger",28,"Ferrari","2",4,60,6,"1:36:16.730","9.873","9.87299990653992","1:32.943",NA,"1:29.026",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Nelson","Piquet",1,"Lotus Honda","3",5,60,4,"1:37:15.438","68.581","58.7079999446869","1:33.597",NA,"1:30.087",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Derek","Warwick",17,"Arrows Megatron","4",11,60,3,"1:37:20.205","73.348","4.76699995994568","1:35.020",NA,"1:31.723",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Michele","Alboreto",27,"Ferrari","5",6,60,2,"1:37:21.413","74.556","1.20800018310547","1:33.193",NA,"1:30.114",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Satoru","Nakajima",2,"Lotus Honda","6",10,59,1,"1","1","1","1:33.903",NA,"1:31.280",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Thierry","Boutsen",20,"Benetton Ford","7",7,59,0,"1","1","1","1:34.457",NA,"1:30.140",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Eddie","Cheever",18,"Arrows Megatron","8",15,59,0,"1","1","1","1:34.632",NA,"1:32.843",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Stefan","Johansson",26,"Ligier Judd","9",21,57,0,"3","3","3","1:36.429",NA,"1:34.579",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Andrea","deCesaris",22,"Rial Ford","NC",14,53,0,NA,NA,NA,"1:34.440",NA,"1:32.275",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Jonathan","Palmer",3,"Tyrrell Ford","NC",22,47,0,NA,NA,NA,"1:36.758",NA,"1:34.686",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Luis","Perez-Sala",24,"Minardi Ford","NC",20,46,0,NA,NA,NA,"1:36.929",NA,"1:34.532",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Philippe","Alliot",30,"Lola Ford","NC",16,40,0,NA,NA,NA,"1:36.613",NA,"1:32.933",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Gabriele","Tarquini",31,"Coloni Ford","NC",25,35,0,NA,NA,NA,"1:37.112",NA,"1:35.407",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Philippe","Streiff",14,"AGS Ford","NC",19,35,0,NA,NA,NA,"1:36.451",NA,"1:34.481",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Yannick","Dalmas",29,"Lola Ford","NC",17,32,0,NA,NA,NA,"1:35.003",NA,"1:33.408",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Ayrton","Senna",12,"McLaren Honda","NC",1,31,0,NA,NA,NA,"1:34.657",NA,"1:28.096",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Rene","Arnoux",25,"Ligier Judd","NC",18,23,0,NA,NA,NA,"1:38.556",NA,"1:34.474",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Stefano","Modena",33,"Euro Brun Ford","NC",24,20,0,NA,NA,NA,"1:38.401",NA,"1:34.910",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Nigel","Mansell",5,"Williams Judd","NC",2,18,0,NA,NA,NA,"1:35.346",NA,"1:28.632",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Alessandro","Nannini",19,"Benetton Ford","NC",12,7,0,NA,NA,NA,"1:36.616",NA,"1:31.772",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Riccardo","Patrese",6,"Williams Judd","NC",8,6,0,NA,NA,NA,"1:37.003",NA,"1:30.439",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Ivan","Capelli",16,"March Judd","NC",9,6,0,NA,NA,NA,"1:37.024",NA,"1:30.929",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo Internacional do Rio de Janeiro, Brazil",1988,"03 Apr 1988","Adrian","Campos",23,"Minardi Ford","NC",23,5,0,NA,NA,NA,"1:41.641",NA,"1:34.886",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Ayrton","Senna",12,"McLaren Honda","1",1,60,9,"1:32:41.264",NA,NA,"1:29.815",NA,"1:27.148",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Alain","Prost",11,"McLaren Honda","2",2,60,6,"1:32:43.598","2.334","2.33400011062622","1:29.685",NA,"1:27.919",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Nelson","Piquet",1,"Lotus Honda","3",3,59,4,"1","1","1","1:32.414",NA,"1:30.500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Thierry","Boutsen",20,"Benetton Ford","4",8,59,3,"1","1","1","1:32.317",NA,"1:31.414",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Gerhard","Berger",28,"Ferrari","5",5,59,2,"1","1","1","1:31.394",NA,"1:30.683",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Alessandro","Nannini",19,"Benetton Ford","6",4,59,1,"1","1","1","1:32.034",NA,"1:30.590",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Eddie","Cheever",18,"Arrows Megatron","7",7,59,0,"1","1","1","1:32.017",NA,"1:31.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Satoru","Nakajima",2,"Lotus Honda","8",12,59,0,"1","1","1","1:33.209",NA,"1:31.647",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Derek","Warwick",17,"Arrows Megatron","9",14,58,0,"2","2","2","1:34.056",NA,"1:32.483",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Philippe","Streiff",14,"AGS Ford","10",13,58,0,"2","2","2","1:34.226",NA,"1:32.013",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Luis","Perez-Sala",24,"Minardi Ford","11",18,58,0,"2","2","2","1:34.014",NA,"1:33.239",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Yannick","Dalmas",29,"Lola Ford","12",19,58,0,"2","2","2","1:33.623",NA,"1:33.374",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Riccardo","Patrese",6,"Williams Judd","13",6,58,0,"2","2","2","1:32.758",NA,"1:30.952",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Jonathan","Palmer",3,"Tyrrell Ford","14",23,58,0,"2","2","2","1:33.660",NA,"1:33.972",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Mauricio","Gugelmin",15,"March Judd","15",20,58,0,"2","2","2","1:33.890",NA,"1:33.448",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Adrian","Campos",23,"Minardi Ford","16",22,57,0,"3","3","3","1:35.708",NA,"1:33.903",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Philippe","Alliot",30,"Lola Ford","17",15,57,0,"3","3","3","1:32.863",NA,"1:32.712",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Michele","Alboreto",27,"Ferrari","18",10,54,0,NA,NA,NA,"1:31.864",NA,"1:31.520",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Stefano","Modena",33,"Euro Brun Ford","NC",26,52,0,"8","8","8","1:33.214",NA,"1:34.782",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Julian","Bailey",4,"Tyrrell Ford","NC",21,48,0,NA,NA,NA,"1:35.288",NA,"1:33.874",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Nigel","Mansell",5,"Williams Judd","NC",11,42,0,NA,NA,NA,"1:32.372",NA,"1:31.635",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Gabriele","Tarquini",31,"Coloni Ford","NC",17,40,0,NA,NA,NA,"1:35.395",NA,"1:33.236",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Alex","Caffi",36,"Dallara Ford","NC",24,18,0,NA,NA,NA,"1:36.285",NA,"1:34.204",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Piercarlo","Ghinzani",9,"Zakspeed","NC",25,16,0,NA,NA,NA,"1:36.122",NA,"1:34.567",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1988,"01 May 1988","Ivan","Capelli",16,"March Judd","NC",9,2,0,NA,NA,NA,"1:37.842",NA,"1:31.519",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Alain","Prost",11,"McLaren Honda","1",2,78,9,"1:57:17.077",NA,NA,"1:26.714",NA,"1:25.425",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Gerhard","Berger",28,"Ferrari","2",3,78,6,"1:57:37.529","20.453","20.4520001411438","1:28.899",NA,"1:26.685",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Michele","Alboreto",27,"Ferrari","3",4,78,4,"1:57:58.305","41.229","20.7760000228882","1:28.931",NA,"1:27.297",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Derek","Warwick",17,"Arrows Megatron","4",7,77,3,"1","1","1","1:29.618",NA,"1:27.872",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Jonathan","Palmer",3,"Tyrrell Ford","5",10,77,2,"1","1","1","1:30.171",NA,"1:28.358",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Riccardo","Patrese",6,"Williams Judd","6",8,77,1,"1","1","1","1:28.411",NA,"1:28.016",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Yannick","Dalmas",29,"Lola Ford","7",21,77,0,"1","1","1","1:28.465",NA,"1:29.601",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Thierry","Boutsen",20,"Benetton Ford","8",16,76,0,"2","2","2","1:29.831",NA,"1:28.640",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Nicola","Larini",21,"Osella","9",25,75,0,"3","3","3","1:31.635",NA,"1:30.335",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Ivan","Capelli",16,"March Judd","10",22,72,0,"6","6","6","1:29.642",NA,"1:29.603",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Ayrton","Senna",12,"McLaren Honda","NC",1,66,0,NA,NA,NA,"1:26.321",NA,"1:23.998",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Philippe","Alliot",30,"Lola Ford","NC",13,50,0,NA,NA,NA,"1:30.749",NA,"1:28.536",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Mauricio","Gugelmin",15,"March Judd","NC",14,45,0,NA,NA,NA,"1:29.934",NA,"1:28.610",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Piercarlo","Ghinzani",9,"Zakspeed","NC",23,43,0,NA,NA,NA,"1:32.308",NA,"1:30.121",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Alessandro","Nannini",19,"Benetton Ford","NC",6,38,0,NA,NA,NA,"1:29.693",NA,"1:27.869",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Luis","Perez-Sala",24,"Minardi Ford","NC",15,36,0,NA,NA,NA,"1:30.226",NA,"1:28.625",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Nigel","Mansell",5,"Williams Judd","NC",5,32,0,NA,NA,NA,"1:28.975",NA,"1:27.665",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Andrea","deCesaris",22,"Rial Ford","NC",19,28,0,NA,NA,NA,"1:30.397",NA,"1:29.298",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Rene","Arnoux",25,"Ligier Judd","NC",20,17,0,NA,NA,NA,"1:32.797",NA,"1:29.480",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Oscar","Larrauri",32,"Euro Brun Ford","NC",18,14,0,NA,NA,NA,"1:32.320",NA,"1:29.093",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Eddie","Cheever",18,"Arrows Megatron","NC",9,8,0,NA,NA,NA,"1:31.757",NA,"1:28.227",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Stefan","Johansson",26,"Ligier Judd","NC",26,6,0,NA,NA,NA,"1:34.016",NA,"1:30.505",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1988,"15 May 1988","Gabriele","Tarquini",31,"Coloni Ford","NC",24,5,0,NA,NA,NA,"1:33.570",NA,"1:30.252",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Alain","Prost",11,"McLaren Honda","1",2,67,9,"1:30:15.737",NA,NA,"1:18.608",NA,"1:18.097",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Ayrton","Senna",12,"McLaren Honda","2",1,67,6,"1:30:22.841","7.104","7.10400009155273","1:18.776",NA,"1:17.468",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Gerhard","Berger",28,"Ferrari","3",3,67,4,"1:31:13.050","57.314","50.2089998722076","1:20.160",NA,"1:18.120",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Michele","Alboreto",27,"Ferrari","4",5,66,3,"1","1","1","1:20.186",NA,"1:19.626",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Derek","Warwick",17,"Arrows Megatron","5",9,66,2,"1","1","1","1:21.068",NA,"1:20.775",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Eddie","Cheever",18,"Arrows Megatron","6",7,66,1,"1","1","1","1:21.056",NA,"1:20.451",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Alessandro","Nannini",19,"Benetton Ford","7",8,65,0,"2","2","2","1:22.483",NA,"1:20.740",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Thierry","Boutsen",20,"Benetton Ford","8",11,64,0,"3","3","3","1:22.822",NA,"1:22.029",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Yannick","Dalmas",29,"Lola Ford","9",22,64,0,"3","3","3","1:23.409",NA,"1:23.606",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Stefan","Johansson",26,"Ligier Judd","10",24,63,0,"4","4","4","1:23.553",NA,"1:23.721",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Luis","Perez-Sala",24,"Minardi Ford","11",25,63,0,"4","4","4","1:24.369",NA,"1:23.857",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Philippe","Streiff",14,"AGS Ford","12",19,63,0,"4","4","4","1:22.703",NA,"1:23.191",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Oscar","Larrauri",32,"Euro Brun Ford","13",26,63,0,"4","4","4","1:25.057",NA,"1:24.032",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Gabriele","Tarquini",31,"Coloni Ford","14",21,62,0,"5","5","5","1:25.072",NA,"1:23.603",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Piercarlo","Ghinzani",9,"Zakspeed","15",18,61,0,"6","6","6","1:24.660",NA,"1:23.078",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Ivan","Capelli",16,"March Judd","16",10,61,0,"6","6","6","1:22.375",NA,"1:21.952",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Nelson","Piquet",1,"Lotus Honda","NC",4,58,0,NA,NA,NA,"1:20.124",NA,"1:18.946",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Andrea","deCesaris",22,"Rial Ford","NC",12,52,0,NA,NA,NA,"1:23.118",NA,"1:22.245",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Satoru","Nakajima",2,"Lotus Honda","NC",6,27,0,NA,NA,NA,"1:22.477",NA,"1:20.275",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Nigel","Mansell",5,"Williams Judd","NC",14,20,0,NA,NA,NA,"1:26.061",NA,"1:22.363",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Bernd","Schneider",10,"Zakspeed","NC",15,16,0,NA,NA,NA,"1:24.704",NA,"1:22.642",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Riccardo","Patrese",6,"Williams Judd","NC",17,16,0,NA,NA,NA,"1:25.697",NA,"1:22.972",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Rene","Arnoux",25,"Ligier Judd","NC",20,13,0,NA,NA,NA,"1:27.524",NA,"1:23.287",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Alex","Caffi",36,"Dallara Ford","NC",23,13,0,NA,NA,NA,"1:27.076",NA,"1:23.716",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1988,"29 May 1988","Mauricio","Gugelmin",15,"March Judd","NC",16,10,0,NA,NA,NA,"1:25.246",NA,"1:22.801",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Ayrton","Senna",12,"McLaren Honda","1",1,69,9,"1:39:46.618",NA,NA,"1:24.973",NA,"1:21.681",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Alain","Prost",11,"McLaren Honda","2",2,69,6,"1:39:52.552","5.934","5.93400001525879","1:25.045",NA,"1:21.863",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Thierry","Boutsen",20,"Benetton Ford","3",7,69,4,"1:40:38.026","51.409","45.4739999771118","1:26.193",NA,"1:24.115",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Nelson","Piquet",1,"Lotus Honda","4",6,68,3,"1","1","1","1:27.038",NA,"1:23.995",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Ivan","Capelli",16,"March Judd","5",14,68,2,"1","1","1","1:27.614",NA,"1:25.609",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Jonathan","Palmer",3,"Tyrrell Ford","6",19,67,1,"2","2","2","1:28.108",NA,"1:26.092",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Derek","Warwick",17,"Arrows Megatron","7",16,67,0,"2","2","2","1:28.234",NA,"1:25.740",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Gabriele","Tarquini",31,"Coloni Ford","8",26,67,0,"2","2","2","1:28.206",NA,"1:27.665",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Andrea","deCesaris",22,"Rial Ford","9",12,66,0,NA,NA,NA,"1:27.224",NA,"1:24.988",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Philippe","Alliot",30,"Lola Ford","10",17,66,0,NA,NA,NA,"1:27.068",NA,"1:25.765",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Satoru","Nakajima",2,"Lotus Honda","11",13,66,0,"3","3","3","1:29.317",NA,"1:25.373",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Stefano","Modena",33,"Euro Brun Ford","12",15,66,0,"3","3","3","1:27.549",NA,"1:25.713",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Luis","Perez-Sala",24,"Minardi Ford","13",21,64,0,"5","5","5","1:27.316",NA,"1:26.437",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Piercarlo","Ghinzani",9,"Zakspeed","14",22,63,0,NA,NA,NA,"1:29.202",NA,"1:26.784",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Mauricio","Gugelmin",15,"March Judd","NC",18,54,0,NA,NA,NA,"1:28.750",NA,"1:25.910",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Philippe","Streiff",14,"AGS Ford","NC",10,41,0,NA,NA,NA,"1:26.554",NA,"1:24.968",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Rene","Arnoux",25,"Ligier Judd","NC",20,36,0,NA,NA,NA,"1:28.586",NA,"1:26.327",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Michele","Alboreto",27,"Ferrari","NC",4,33,0,NA,NA,NA,"1:27.282",NA,"1:23.296",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Riccardo","Patrese",6,"Williams Judd","NC",11,32,0,NA,NA,NA,"1:28.175",NA,"1:24.971",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Eddie","Cheever",18,"Arrows Megatron","NC",8,31,0,NA,NA,NA,"1:29.115",NA,"1:24.679",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Nigel","Mansell",5,"Williams Judd","NC",9,28,0,NA,NA,NA,"1:27.275",NA,"1:24.844",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Stefan","Johansson",26,"Ligier Judd","NC",25,24,0,NA,NA,NA,"1:28.850",NA,"1:27.637",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Gerhard","Berger",28,"Ferrari","NC",3,22,0,NA,NA,NA,"1:26.947",NA,"1:22.719",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Alessandro","Nannini",19,"Benetton Ford","NC",5,15,0,NA,NA,NA,"1:26.713",NA,"1:23.968",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1988,"12 Jun 1988","Oscar","Larrauri",32,"Euro Brun Ford","NC",24,8,0,NA,NA,NA,"1:30.049",NA,"1:27.321",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Ayrton","Senna",12,"McLaren Honda","1",1,63,9,"1:54:56.035",NA,NA,"1:44.992",NA,"1:40.606",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Alain","Prost",11,"McLaren Honda","2",4,63,6,"1:55:34.748","38.713","38.7129998207092","1:44.836",NA,"1:42.019",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Thierry","Boutsen",20,"Benetton Ford","3",5,62,4,"1","1","1","1:45.714",NA,"1:42.690",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Andrea","deCesaris",22,"Rial Ford","4",12,62,3,"1","1","1","1:47.594",NA,"1:44.216",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Jonathan","Palmer",3,"Tyrrell Ford","5",17,62,2,"1","1","1","1:46.905",NA,"1:45.268",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Pierluigi","Martini",23,"Minardi Ford","6",16,62,1,"1","1","1","1:49.236",NA,"1:45.048",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Yannick","Dalmas",29,"Lola Ford","7",25,61,0,"2","2","2","1:49.946",NA,"1:46.422",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Alex","Caffi",36,"Dallara Ford","8",22,61,0,"2","2","2","1:48.951",NA,"1:45.750",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Julian","Bailey",4,"Tyrrell Ford","9",23,59,0,NA,NA,NA,"1:49.330",NA,"1:46.286",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Luis","Perez-Sala",24,"Minardi Ford","NC",26,54,0,NA,NA,NA,"1:51.855",NA,"1:46.593",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Philippe","Alliot",30,"Lola Ford","NC",14,46,0,NA,NA,NA,"1:50.223",NA,"1:44.590",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Stefano","Modena",33,"Euro Brun Ford","NC",19,46,0,NA,NA,NA,"1:48.243",NA,"1:45.304",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Michele","Alboreto",27,"Ferrari","NC",3,45,0,NA,NA,NA,"1:45.878",NA,"1:41.700",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Rene","Arnoux",25,"Ligier Judd","NC",20,45,0,NA,NA,NA,"1:49.554",NA,"1:45.437",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Mauricio","Gugelmin",15,"March Judd","NC",13,34,0,NA,NA,NA,"1:49.224",NA,"1:44.474",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Riccardo","Patrese",6,"Williams Judd","NC",10,26,0,NA,NA,NA,"1:46.632",NA,"1:43.810",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Nelson","Piquet",1,"Lotus Honda","NC",8,26,0,NA,NA,NA,"1:47.137",NA,"1:43.314",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Oscar","Larrauri",32,"Euro Brun Ford","NC",24,26,0,NA,NA,NA,"1:49.782",NA,"1:46.390",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Derek","Warwick",17,"Arrows Megatron","NC",9,24,0,NA,NA,NA,"1:47.030",NA,"1:43.799",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Nigel","Mansell",5,"Williams Judd","NC",6,18,0,NA,NA,NA,"1:46.044",NA,"1:42.897",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Philippe","Streiff",14,"AGS Ford","NC",11,15,0,NA,NA,NA,"1:47.326",NA,"1:44.204",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Alessandro","Nannini",19,"Benetton Ford","NC",7,14,0,NA,NA,NA,"1:46.125",NA,"1:43.117",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Eddie","Cheever",18,"Arrows Megatron","NC",15,14,0,NA,NA,NA,"1:47.739",NA,"1:44.948",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Nicola","Larini",21,"Osella","NC",NA,7,0,NA,NA,NA,"1:50.703",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Gerhard","Berger",28,"Ferrari","NC",2,6,0,NA,NA,NA,"1:45.508",NA,"1:41.464",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Detroit","Detroit Street Circuit, United States",1988,"19 Jun 1988","Stefan","Johansson",26,"Ligier Judd","NC",18,2,0,NA,NA,NA,"1:50.260",NA,"1:45.275",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Alain","Prost",11,"McLaren Honda","1",1,80,9,"1:37:37.328",NA,NA,"1:11.737",NA,"1:07.589",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Ayrton","Senna",12,"McLaren Honda","2",2,80,6,"1:38:09.080","31.752","31.7519998550415","1:11.856",NA,"1:08.067",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Michele","Alboreto",27,"Ferrari","3",4,80,4,"1:38:43.833","66.505","34.7530000209808","1:12.002",NA,"1:09.422",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Gerhard","Berger",28,"Ferrari","4",3,79,3,"1","1","1","1:11.866",NA,"1:08.282",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Nelson","Piquet",1,"Lotus Honda","5",7,79,2,"1","1","1","1:12.357",NA,"1:09.734",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Alessandro","Nannini",19,"Benetton Ford","6",6,79,1,"1","1","1","1:12.570",NA,"1:09.718",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Satoru","Nakajima",2,"Lotus Honda","7",8,79,0,"1","1","1","1:12.979",NA,"1:10.250",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Mauricio","Gugelmin",15,"March Judd","8",16,79,0,"1","1","1","1:13.567",NA,"1:11.315",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Ivan","Capelli",16,"March Judd","9",10,79,0,"1","1","1","1:13.143",NA,"1:10.496",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Andrea","deCesaris",22,"Rial Ford","10",12,78,0,"2","2","2","1:12.814",NA,"1:10.861",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Eddie","Cheever",18,"Arrows Megatron","11",13,78,0,"2","2","2","1:13.321",NA,"1:10.979",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Alex","Caffi",36,"Dallara Ford","12",14,78,0,"2","2","2","1:12.970",NA,"1:11.211",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Yannick","Dalmas",29,"Lola Ford","13",19,78,0,"2","2","2","1:13.968",NA,"1:11.747",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Stefano","Modena",33,"Euro Brun Ford","14",20,77,0,"3","3","3","1:14.319",NA,"1:12.007",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Pierluigi","Martini",23,"Minardi Ford","15",22,77,0,"3","3","3","1:14.551",NA,"1:12.268",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Luis","Perez-Sala",24,"Minardi Ford","NC",25,70,0,"1","1","1","1:14.198",NA,"1:12.525",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Oscar","Larrauri",32,"Euro Brun Ford","NC",26,64,0,NA,NA,NA,"1:15.487",NA,"1:12.538",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Nicola","Larini",21,"Osella","NC",24,56,0,NA,NA,NA,"1:14.741",NA,"1:12.406",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Bernd","Schneider",10,"Zakspeed","NC",21,55,0,NA,NA,NA,"1:13.844",NA,"1:12.026",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Nigel","Mansell",5,"Williams Judd","NC",9,48,0,NA,NA,NA,"1:13.671",NA,"1:10.337",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Philippe","Alliot",30,"Lola Ford","NC",18,46,0,NA,NA,NA,"1:14.594",NA,"1:11.511",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Jonathan","Palmer",3,"Tyrrell Ford","NC",23,40,0,NA,NA,NA,"1:15.490",NA,"1:12.316",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Riccardo","Patrese",6,"Williams Judd","NC",15,35,0,NA,NA,NA,"1:15.014",NA,"1:11.286",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Thierry","Boutsen",20,"Benetton Ford","NC",5,28,0,NA,NA,NA,"1:13.669",NA,"1:09.587",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Philippe","Streiff",14,"AGS Ford","NC",17,20,0,NA,NA,NA,"1:14.800",NA,"1:11.466",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1988,"03 Jul 1988","Derek","Warwick",17,"Arrows Megatron","NC",11,11,0,NA,NA,NA,"1:14.197",NA,"1:10.634",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Ayrton","Senna",12,"McLaren Honda","1",3,65,9,"1:33:16.367",NA,NA,"1:23.595",NA,"1:10.616",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Nigel","Mansell",5,"Williams Judd","2",11,65,6,"1:33:39.711","23.344","23.3439998626709","1:23.308",NA,"1:12.885",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Alessandro","Nannini",19,"Benetton Ford","3",8,65,4,"1:34:07.581","51.214","27.8700001239777","1:24.176",NA,"1:12.737",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Mauricio","Gugelmin",15,"March Judd","4",5,65,3,"1:34:27.745","71.378","20.1639997959137","1:23.823",NA,"1:11.745",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Nelson","Piquet",1,"Lotus Honda","5",7,65,2,"1:34:37.202","80.835","9.45700001716614","1:23.452",NA,"1:12.040",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Derek","Warwick",17,"Arrows Megatron","6",9,64,1,"1","1","1","1:23.588",NA,"1:12.843",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Eddie","Cheever",18,"Arrows Megatron","7",13,64,0,"1","1","1","1:23.778",NA,"1:12.984",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Riccardo","Patrese",6,"Williams Judd","8",15,64,0,"1","1","1","1:23.783",NA,"1:13.677",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Gerhard","Berger",28,"Ferrari","9",1,64,0,"1","1","1","1:24.242",NA,"1:10.133",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Satoru","Nakajima",2,"Lotus Honda","10",10,64,0,"1","1","1","1:23.655",NA,"1:12.862",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Alex","Caffi",36,"Dallara Ford","11",21,64,0,"1","1","1","1:25.319",NA,"1:14.924",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Stefano","Modena",33,"Euro Brun Ford","12",20,64,0,"1","1","1","1:24.920",NA,"1:14.888",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Yannick","Dalmas",29,"Lola Ford","13",23,63,0,"2","2","2","1:24.780",NA,"1:15.004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Philippe","Alliot",30,"Lola Ford","14",22,63,0,"2","2","2","1:24.160",NA,"1:14.992",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Pierluigi","Martini",23,"Minardi Ford","15",19,63,0,"2","2","2","1:24.370",NA,"1:14.732",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Julian","Bailey",4,"Tyrrell Ford","16",24,63,0,"2","2","2","1:25.758",NA,"1:15.135",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Michele","Alboreto",27,"Ferrari","17",2,62,0,NA,NA,NA,"1:26.100",NA,"1:10.332",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Rene","Arnoux",25,"Ligier Judd","18",25,62,0,"3","3","3","1:27.117",NA,"1:15.374",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Nicola","Larini",21,"Osella","19",26,60,0,NA,NA,NA,"1:24.729",NA,"1:15.527",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Thierry","Boutsen",20,"Benetton Ford","NC",12,38,0,NA,NA,NA,"1:25.301",NA,"1:12.960",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Ivan","Capelli",16,"March Judd","NC",6,34,0,NA,NA,NA,"1:26.752",NA,"1:12.006",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Alain","Prost",11,"McLaren Honda","NC",4,24,0,NA,NA,NA,"1:27.456",NA,"1:10.736",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Jonathan","Palmer",3,"Tyrrell Ford","NC",17,14,0,NA,NA,NA,"1:32.972",NA,"1:14.451",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Andrea","deCesaris",22,"Rial Ford","NC",14,9,0,NA,NA,NA,"1:31.101",NA,"1:13.438",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1988,"10 Jul 1988","Philippe","Streiff",14,"AGS Ford","NC",16,8,0,NA,NA,NA,"1:31.315",NA,"1:14.260",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Ayrton","Senna",12,"McLaren Honda","1",1,44,9,"1:32:54.188",NA,NA,"2:05.001",NA,"1:44.596",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Alain","Prost",11,"McLaren Honda","2",2,44,6,"1:33:07.796","13.609","13.6080000400543","2:04.888",NA,"1:44.873",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Gerhard","Berger",28,"Ferrari","3",3,44,4,"1:33:46.282","52.095","38.4860000610352","2:05.735",NA,"1:46.115",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Michele","Alboreto",27,"Ferrari","4",4,44,3,"1:34:35.099","100.912","48.816999912262","2:05.704",NA,"1:47.154",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Ivan","Capelli",16,"March Judd","5",7,44,2,"1:34:43.793","109.606","8.69400000572205","2:06.833",NA,"1:48.703",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Thierry","Boutsen",20,"Benetton Ford","6",9,43,1,"1","1","1","2:07.273",NA,"1:48.837",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Derek","Warwick",17,"Arrows Megatron","7",12,43,0,"1","1","1","2:07.545",NA,"1:50.459",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Mauricio","Gugelmin",15,"March Judd","8",10,43,0,"1","1","1","2:06.946",NA,"1:49.511",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Satoru","Nakajima",2,"Lotus Honda","9",8,43,0,"1","1","1","2:07.242",NA,"1:48.781",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Eddie","Cheever",18,"Arrows Megatron","10",15,43,0,"1","1","1","2:07.388",NA,"1:51.171",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Jonathan","Palmer",3,"Tyrrell Ford","11",24,43,0,"1","1","1","2:08.507",NA,"1:52.908",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Bernd","Schneider",10,"Zakspeed","12",22,43,0,"1","1","1","2:09.142",NA,"1:52.664",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Andrea","deCesaris",22,"Rial Ford","13",14,42,0,"2","2","2","2:05.413",NA,"1:51.004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Piercarlo","Ghinzani",9,"Zakspeed","14",23,42,0,"2","2","2","2:10.425",NA,"1:52.674",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Alex","Caffi",36,"Dallara Ford","15",19,42,0,"2","2","2","2:06.814",NA,"1:52.277",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Oscar","Larrauri",32,"Euro Brun Ford","16",26,42,0,"2","2","2","2:09.754",NA,"1:53.043",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Rene","Arnoux",25,"Ligier Judd","17",17,41,0,"3","3","3","2:11.241",NA,"1:52.080",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Alessandro","Nannini",19,"Benetton Ford","18",6,40,0,"4","4","4","2:03.032",NA,"1:48.208",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Yannick","Dalmas",29,"Lola Ford","19",21,39,0,"5","5","5","2:09.545",NA,"1:52.436",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Philippe","Streiff",14,"AGS Ford","NC",16,38,0,NA,NA,NA,"2:08.812",NA,"1:51.642",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Riccardo","Patrese",6,"Williams Judd","NC",13,34,0,NA,NA,NA,"2:08.191",NA,"1:50.719",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Nicola","Larini",21,"Osella","NC",18,27,0,NA,NA,NA,"2:09.715",NA,"1:52.168",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Nigel","Mansell",5,"Williams Judd","NC",11,16,0,NA,NA,NA,"2:06.317",NA,"1:49.880",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Stefano","Modena",33,"Euro Brun Ford","NC",25,15,0,NA,NA,NA,"2:13.447",NA,"1:52.998",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Philippe","Alliot",30,"Lola Ford","NC",20,8,0,NA,NA,NA,"2:11.403",NA,"1:52.293",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1988,"24 Jul 1988","Nelson","Piquet",1,"Lotus Honda","NC",5,1,0,NA,NA,NA,"3:39.605",NA,"1:47.681",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Ayrton","Senna",12,"McLaren Honda","1",1,76,9,"1:57:47.081",NA,NA,"1:30.964",NA,"1:27.635",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Alain","Prost",11,"McLaren Honda","2",7,76,6,"1:57:47.610","0.529","0.528999805450439","1:30.639",NA,"1:28.778",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Thierry","Boutsen",20,"Benetton Ford","3",3,76,4,"1:58:18.491","31.410","30.8810000419617","1:31.272",NA,"1:27.970",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Gerhard","Berger",28,"Ferrari","4",9,76,3,"1:59:15.751","88.670","57.2599999904633","1:32.241",NA,"1:29.244",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Mauricio","Gugelmin",15,"March Judd","5",8,75,2,"1","1","1","1:32.235",NA,"1:29.099",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Riccardo","Patrese",6,"Williams Judd","6",6,75,1,"1","1","1","1:32.569",NA,"1:28.569",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Satoru","Nakajima",2,"Lotus Honda","7",19,73,0,"3","3","3","1:34.138",NA,"1:31.646",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Nelson","Piquet",1,"Lotus Honda","8",13,73,0,"3","3","3","1:32.783",NA,"1:30.405",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Yannick","Dalmas",29,"Lola Ford","9",17,73,0,"3","3","3","1:34.120",NA,"1:31.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Luis","Perez-Sala",24,"Minardi Ford","10",11,72,0,"4","4","4","1:33.615",NA,"1:30.103",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Stefano","Modena",33,"Euro Brun Ford","11",26,72,0,"4","4","4","1:35.536",NA,"1:32.614",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Philippe","Alliot",30,"Lola Ford","12",20,72,0,"4","4","4","1:35.432",NA,"1:31.719",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Gabriele","Tarquini",31,"Coloni Ford","13",22,71,0,"5","5","5","1:36.008",NA,"1:32.160",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Derek","Warwick",17,"Arrows Megatron","NC",12,65,0,NA,NA,NA,"1:34.078",NA,"1:30.185",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Nigel","Mansell",5,"Williams Judd","NC",2,60,0,NA,NA,NA,"1:31.735",NA,"1:27.743",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Eddie","Cheever",18,"Arrows Megatron","NC",14,55,0,NA,NA,NA,"1:34.226",NA,"1:30.908",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Michele","Alboreto",27,"Ferrari","NC",15,40,0,NA,NA,NA,"1:33.080",NA,"1:31.052",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Rene","Arnoux",25,"Ligier Judd","NC",25,32,0,NA,NA,NA,"1:35.940",NA,"1:32.477",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Andrea","deCesaris",22,"Rial Ford","NC",18,28,0,NA,NA,NA,"1:33.529",NA,"1:31.523",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Alessandro","Nannini",19,"Benetton Ford","NC",5,24,0,NA,NA,NA,"1:32.564",NA,"1:28.493",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Alex","Caffi",36,"Dallara Ford","NC",10,22,0,NA,NA,NA,"1:33.761",NA,"1:29.891",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Stefan","Johansson",26,"Ligier Judd","NC",24,19,0,NA,NA,NA,"1:35.759",NA,"1:32.342",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Pierluigi","Martini",23,"Minardi Ford","NC",16,8,0,NA,NA,NA,"1:34.897",NA,"1:31.123",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Philippe","Streiff",14,"AGS Ford","NC",23,8,0,NA,NA,NA,"1:36.339",NA,"1:32.265",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Ivan","Capelli",16,"March Judd","NC",4,5,0,NA,NA,NA,"1:44.982",NA,"1:28.350",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1988,"07 Aug 1988","Jonathan","Palmer",3,"Tyrrell Ford","NC",21,3,0,NA,NA,NA,"1:36.660",NA,"1:31.741",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Ayrton","Senna",12,"McLaren Honda","1",1,43,9,"1:28:00.549",NA,NA,"2:01.061",NA,"1:53.718",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Alain","Prost",11,"McLaren Honda","2",2,43,6,"1:28:31.019","30.470","30.4700000286102","2:01.702",NA,"1:54.128",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Thierry","Boutsen",20,"Benetton Ford","DQ",6,43,0,"1:29:00.230","59.681","29.2109999656677","2:02.849",NA,"1:57.455",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Alessandro","Nannini",19,"Benetton Ford","DQ",7,43,0,"1:29:09.143","68.594","8.91299986839294","2:02.298",NA,"1:57.535",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Ivan","Capelli",16,"March Judd","3",14,43,4,"1:29:16.316","75.768","7.17300009727478","2:02.302",NA,"1:59.439",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Nelson","Piquet",1,"Lotus Honda","4",9,43,3,"1:29:24.177","83.628","7.86100006103516","2:02.598",NA,"1:57.821",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Derek","Warwick",17,"Arrows Megatron","5",10,43,2,"1:29:25.904","85.355","1.72699999809265","2:03.002",NA,"1:57.925",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Eddie","Cheever",18,"Arrows Megatron","6",11,42,1,"1","1","1","2:03.653",NA,"1:57.980",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Martin","Brundle",5,"Williams Judd","7",12,42,0,"1","1","1","2:04.088",NA,"1:58.206",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Alex","Caffi",36,"Dallara Ford","8",15,42,0,"1","1","1","2:04.475",NA,"1:59.776",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Philippe","Alliot",30,"Lola Ford","9",16,42,0,"1","1","1","2:05.083",NA,"1:59.906",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Philippe","Streiff",14,"AGS Ford","10",18,42,0,"1","1","1","2:05.028",NA,"2:00.410",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Stefan","Johansson",26,"Ligier Judd","11",20,39,0,NA,NA,NA,"2:05.681",NA,"2:00.857",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Jonathan","Palmer",3,"Tyrrell Ford","12",21,39,0,NA,NA,NA,"2:05.525",NA,"2:01.078",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Bernd","Schneider",10,"Zakspeed","13",25,38,0,NA,NA,NA,"2:06.810",NA,"2:01.938",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Gabriele","Tarquini",31,"Coloni Ford","NC",22,36,0,"7","7","7","2:04.589",NA,"2:01.359",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Michele","Alboreto",27,"Ferrari","NC",4,35,0,NA,NA,NA,"2:01.924",NA,"1:55.665",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Riccardo","Patrese",6,"Williams Judd","NC",5,30,0,NA,NA,NA,"2:03.220",NA,"1:57.138",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Mauricio","Gugelmin",15,"March Judd","NC",13,29,0,NA,NA,NA,"2:02.255",NA,"1:58.361",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Piercarlo","Ghinzani",9,"Zakspeed","NC",24,25,0,NA,NA,NA,"2:06.653",NA,"2:01.899",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Satoru","Nakajima",2,"Lotus Honda","NC",8,22,0,NA,NA,NA,"2:03.448",NA,"1:57.616",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Nicola","Larini",21,"Osella","NC",26,14,0,NA,NA,NA,"2:06.514",NA,"2:02.029",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Gerhard","Berger",28,"Ferrari","NC",3,11,0,NA,NA,NA,"2:00.772",NA,"1:54.581",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Yannick","Dalmas",29,"Lola Ford","NC",23,9,0,NA,NA,NA,"2:07.497",NA,"2:01.467",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Andrea","deCesaris",22,"Rial Ford","NC",19,2,0,NA,NA,NA,"2:08.821",NA,"2:00.521",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1988,"28 Aug 1988","Rene","Arnoux",25,"Ligier Judd","NC",17,2,0,NA,NA,NA,"2:07.978",NA,"2:00.037",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Gerhard","Berger",28,"Ferrari","1",3,51,9,"1:17:39.744",NA,NA,"1:29.113",NA,"1:26.654",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Michele","Alboreto",27,"Ferrari","2",4,51,6,"1:17:40.246","0.502","0.502000093460083","1:29.070",NA,"1:26.988",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Eddie","Cheever",18,"Arrows Megatron","3",5,51,4,"1:18:15.276","35.532","35.0299999713898","1:30.452",NA,"1:27.660",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Derek","Warwick",17,"Arrows Megatron","4",6,51,3,"1:18:15.858","36.114","0.582000017166138","1:30.504",NA,"1:27.815",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Ivan","Capelli",16,"March Judd","5",11,51,2,"1:18:32.266","52.522","16.4079999923706","1:30.971",NA,"1:29.513",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Thierry","Boutsen",20,"Benetton Ford","6",8,51,1,"1:18:39.621","59.878","7.35500001907349","1:31.543",NA,"1:28.870",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Riccardo","Patrese",6,"Williams Judd","7",10,51,0,"1:18:54.486","74.743","14.8650000095367","1:31.704",NA,"1:29.435",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Mauricio","Gugelmin",15,"March Judd","8",13,51,0,"1:19:12.309","92.566","17.8229999542236","1:31.832",NA,"1:30.035",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Alessandro","Nannini",19,"Benetton Ford","9",9,50,0,"1","1","1","1:30.248",NA,"1:28.958",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Ayrton","Senna",12,"McLaren Honda","10",1,49,0,NA,NA,NA,"1:29.569",NA,"1:25.974",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","JeanLouis","Schlesser",5,"Williams Judd","11",22,49,0,"2","2","2","1:33.179",NA,"1:31.548",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Julian","Bailey",4,"Tyrrell Ford","12",26,49,0,"2","2","2","1:33.203",NA,"1:32.290",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Rene","Arnoux",25,"Ligier Judd","13",24,49,0,"2","2","2","1:33.486",NA,"1:32.049",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Alain","Prost",11,"McLaren Honda","NC",2,34,0,NA,NA,NA,"1:29.642",NA,"1:26.277",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Philippe","Alliot",30,"Lola Ford","NC",20,33,0,NA,NA,NA,"1:33.581",NA,"1:30.962",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Philippe","Streiff",14,"AGS Ford","NC",23,31,0,NA,NA,NA,"1:33.898",NA,"1:31.676",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Bernd","Schneider",10,"Zakspeed","NC",15,28,0,NA,NA,NA,"1:32.054",NA,"1:30.161",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Andrea","deCesaris",22,"Rial Ford","NC",18,27,0,NA,NA,NA,"1:33.007",NA,"1:30.560",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Piercarlo","Ghinzani",9,"Zakspeed","NC",16,25,0,NA,NA,NA,"1:33.476",NA,"1:30.476",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Alex","Caffi",36,"Dallara Ford","NC",21,24,0,NA,NA,NA,"1:32.735",NA,"1:30.989",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Yannick","Dalmas",29,"Lola Ford","NC",25,17,0,NA,NA,NA,"1:34.723",NA,"1:32.164",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Pierluigi","Martini",23,"Minardi Ford","NC",14,15,0,NA,NA,NA,"1:34.420",NA,"1:30.125",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Satoru","Nakajima",2,"Lotus Honda","NC",12,14,0,NA,NA,NA,"1:32.804",NA,"1:29.541",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Luis","Perez-Sala",24,"Minardi Ford","NC",19,12,0,NA,NA,NA,"1:35.020",NA,"1:30.698",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Nelson","Piquet",1,"Lotus Honda","NC",7,11,0,NA,NA,NA,"1:31.803",NA,"1:28.044",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1988,"11 Sep 1988","Nicola","Larini",21,"Osella","NC",17,2,0,NA,NA,NA,"1:38.570",NA,"1:30.481",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Alain","Prost",11,"McLaren Honda","1",1,70,9,"1:37:40.958",NA,NA,"1:22.063",NA,"1:17.411",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Ivan","Capelli",16,"March Judd","2",3,70,6,"1:37:50.510","9.553","9.55200004577637","1:22.074",NA,"1:18.812",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Thierry","Boutsen",20,"Benetton Ford","3",13,70,4,"1:38:25.576","44.619","35.0659999847412","1:21.992",NA,"1:20.314",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Derek","Warwick",17,"Arrows Megatron","4",10,70,3,"1:38:48.376","67.419","22.7999999523163","1:23.043",NA,"1:19.603",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Michele","Alboreto",27,"Ferrari","5",7,70,2,"1:38:52.842","71.884","4.46600008010864","1:22.123",NA,"1:19.372",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Ayrton","Senna",12,"McLaren Honda","6",2,70,1,"1:38:59.226","78.269","6.3840000629425","1:22.852",NA,"1:17.869",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Alex","Caffi",36,"Dallara Ford","7",17,69,0,"1","1","1","1:22.960",NA,"1:20.922",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Luis","Perez-Sala",24,"Minardi Ford","8",19,68,0,"2","2","2","1:24.301",NA,"1:21.094",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Philippe","Streiff",14,"AGS Ford","9",21,68,0,"2","2","2","1:24.785",NA,"1:21.418",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Rene","Arnoux",25,"Ligier Judd","10",23,68,0,"2","2","2","1:24.954",NA,"1:21.790",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Gabriele","Tarquini",31,"Coloni Ford","11",26,65,0,"5","5","5","1:25.291",NA,"1:22.170",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Nicola","Larini",21,"Osella","12",25,63,0,"7","7","7","1:23.715",NA,"1:22.119",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Mauricio","Gugelmin",15,"March Judd","NC",5,59,0,NA,NA,NA,"1:23.138",NA,"1:19.045",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Nigel","Mansell",5,"Williams Judd","NC",6,54,0,NA,NA,NA,"1:22.581",NA,"1:19.131",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Jonathan","Palmer",3,"Tyrrell Ford","NC",22,53,0,NA,NA,NA,"1:24.950",NA,"1:21.788",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Alessandro","Nannini",19,"Benetton Ford","NC",9,52,0,NA,NA,NA,"1:22.563",NA,"1:19.572",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Gerhard","Berger",28,"Ferrari","NC",4,35,0,NA,NA,NA,"1:21.961",NA,"1:18.903",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Nelson","Piquet",1,"Lotus Honda","NC",8,34,0,NA,NA,NA,"1:23.362",NA,"1:19.551",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Riccardo","Patrese",6,"Williams Judd","NC",11,29,0,NA,NA,NA,"1:23.907",NA,"1:19.797",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Pierluigi","Martini",23,"Minardi Ford","NC",14,27,0,NA,NA,NA,"1:23.918",NA,"1:20.741",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Yannick","Dalmas",29,"Lola Ford","NC",15,20,0,NA,NA,NA,"1:24.647",NA,"1:20.748",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Satoru","Nakajima",2,"Lotus Honda","NC",16,16,0,NA,NA,NA,"1:26.094",NA,"1:20.783",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Andrea","deCesaris",22,"Rial Ford","NC",12,11,0,NA,NA,NA,"1:24.390",NA,"1:19.940",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Eddie","Cheever",18,"Arrows Megatron","NC",18,10,0,NA,NA,NA,"1:25.073",NA,"1:20.965",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Philippe","Alliot",30,"Lola Ford","NC",20,7,0,NA,NA,NA,"1:26.109",NA,"1:21.096",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1988,"25 Sep 1988","Stefan","Johansson",26,"Ligier Judd","NC",24,4,0,NA,NA,NA,"1:26.153",NA,"1:22.035",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Alain","Prost",11,"McLaren Honda","1",2,72,9,"1:48:43.851",NA,NA,"1:27.845",NA,"1:24.134",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Nigel","Mansell",5,"Williams Judd","2",3,72,6,"1:49:10.083","26.232","26.231999874115","1:27.999",NA,"1:24.269",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Alessandro","Nannini",19,"Benetton Ford","3",5,72,4,"1:49:19.297","35.446","9.21399998664856","1:28.576",NA,"1:25.032",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Ayrton","Senna",12,"McLaren Honda","4",1,72,3,"1:49:30.561","46.710","11.2640001773834","1:28.273",NA,"1:24.067",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Riccardo","Patrese",6,"Williams Judd","5",7,72,2,"1:49:31.281","47.430","0.71999979019165","1:28.861",NA,"1:25.217",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Gerhard","Berger",28,"Ferrari","6",8,72,1,"1:49:35.664","51.813","4.38300013542175","1:28.716",NA,"1:25.466",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Mauricio","Gugelmin",15,"March Judd","7",11,72,0,"1:49:59.815","75.964","24.1510000228882","1:29.890",NA,"1:26.578",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Nelson","Piquet",1,"Lotus Honda","8",9,72,0,"1:50:01.160","77.309","1.34500002861023","1:29.304",NA,"1:25.648",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Thierry","Boutsen",20,"Benetton Ford","9",4,72,0,"1:50:01.506","77.655","0.345999956130981","1:28.711",NA,"1:24.904",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Alex","Caffi",36,"Dallara Ford","10",18,71,0,"1","1","1","1:30.039",NA,"1:27.350",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Yannick","Dalmas",29,"Lola Ford","11",16,71,0,"1","1","1","1:31.063",NA,"1:27.187",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Luis","Perez-Sala",24,"Minardi Ford","12",24,70,0,"2","2","2","1:31.246",NA,"1:27.833",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Stefano","Modena",33,"Euro Brun Ford","13",26,70,0,"2","2","2","1:32.263",NA,"1:27.977",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Philippe","Alliot",30,"Lola Ford","14",12,69,0,"3","3","3","1:30.366",NA,"1:26.832",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Stefan","Johansson",26,"Ligier Judd","NC",21,62,0,NA,NA,NA,"1:31.511",NA,"1:27.474",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Eddie","Cheever",18,"Arrows Megatron","NC",25,60,0,NA,NA,NA,"1:30.186",NA,"1:27.859",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Ivan","Capelli",16,"March Judd","NC",6,45,0,NA,NA,NA,"1:29.197",NA,"1:25.115",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Derek","Warwick",17,"Arrows Megatron","NC",17,41,0,NA,NA,NA,"1:30.390",NA,"1:27.240",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Andrea","deCesaris",22,"Rial Ford","NC",23,37,0,NA,NA,NA,"1:30.363",NA,"1:27.798",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Philippe","Streiff",14,"AGS Ford","NC",13,16,0,NA,NA,NA,"1:31.853",NA,"1:26.971",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Michele","Alboreto",27,"Ferrari","NC",10,15,0,NA,NA,NA,"1:31.310",NA,"1:26.447",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Pierluigi","Martini",23,"Minardi Ford","NC",20,15,0,NA,NA,NA,"1:32.017",NA,"1:27.407",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Satoru","Nakajima",2,"Lotus Honda","NC",15,14,0,NA,NA,NA,"1:32.296",NA,"1:27.171",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Nicola","Larini",21,"Osella","NC",14,9,0,NA,NA,NA,"1:32.303",NA,"1:27.012",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1988,"02 Oct 1988","Jonathan","Palmer",3,"Tyrrell Ford","NC",22,4,0,NA,NA,NA,"1:32.315",NA,"1:27.548",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Ayrton","Senna",12,"McLaren Honda","1",1,51,9,"1:33:26.173",NA,NA,"1:46.326",NA,"1:41.853",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Alain","Prost",11,"McLaren Honda","2",2,51,6,"1:33:39.536","13.363","13.3629999160767","1:46.482",NA,"1:42.177",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Thierry","Boutsen",20,"Benetton Ford","3",10,51,4,"1:34:02.282","36.109","22.7460000514984","1:47.161",NA,"1:44.499",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Gerhard","Berger",28,"Ferrari","4",3,51,3,"1:34:52.887","86.714","50.6050000190735","1:48.655",NA,"1:43.353",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Alessandro","Nannini",19,"Benetton Ford","5",12,51,2,"1:34:56.776","90.603","3.88899993896484","1:47.991",NA,"1:44.611",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Riccardo","Patrese",6,"Williams Judd","6",11,51,1,"1:35:03.788","97.615","7.01200008392334","1:48.289",NA,"1:44.555",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Satoru","Nakajima",2,"Lotus Honda","7",6,50,0,"1","1","1","1:48.660",NA,"1:43.693",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Philippe","Streiff",14,"AGS Ford","8",18,50,0,"1","1","1","1:49.218",NA,"1:46.486",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Philippe","Alliot",30,"Lola Ford","9",19,50,0,"1","1","1","1:48.913",NA,"1:46.521",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Mauricio","Gugelmin",15,"March Judd","10",13,50,0,"1","1","1","1:48.780",NA,"1:45.138",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Michele","Alboreto",27,"Ferrari","11",9,50,0,"1","1","1","1:49.014",NA,"1:43.972",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Jonathan","Palmer",3,"Tyrrell Ford","12",16,50,0,"1","1","1","1:48.138",NA,"1:45.916",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Pierluigi","Martini",23,"Minardi Ford","13",17,49,0,"2","2","2","1:50.483",NA,"1:46.449",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Julian","Bailey",4,"Tyrrell Ford","14",26,49,0,"2","2","2","1:51.638",NA,"1:48.589",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Luis","Perez-Sala",24,"Minardi Ford","15",22,49,0,"2","2","2","1:50.553",NA,"1:47.134",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Aguri","Suzuki",29,"Lola Ford","16",20,48,0,"3","3","3","1:50.642",NA,"1:46.920",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Rene","Arnoux",25,"Ligier Judd","17",23,48,0,"3","3","3","1:52.062",NA,"1:47.193",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Andrea","deCesaris",22,"Rial Ford","NC",14,36,0,NA,NA,NA,"1:49.478",NA,"1:45.558",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Eddie","Cheever",18,"Arrows Megatron","NC",15,35,0,NA,NA,NA,"1:48.734",NA,"1:45.845",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Nicola","Larini",21,"Osella","NC",24,34,0,NA,NA,NA,"1:51.570",NA,"1:47.547",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Nelson","Piquet",1,"Lotus Honda","NC",5,34,0,NA,NA,NA,"1:48.402",NA,"1:43.693",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Nigel","Mansell",5,"Williams Judd","NC",8,24,0,NA,NA,NA,"1:48.317",NA,"1:43.893",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Alex","Caffi",36,"Dallara Ford","NC",21,22,0,NA,NA,NA,"1:50.762",NA,"1:46.982",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Ivan","Capelli",16,"March Judd","NC",4,19,0,NA,NA,NA,"1:47.375",NA,"1:43.605",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Derek","Warwick",17,"Arrows Megatron","NC",7,16,0,NA,NA,NA,"1:50.583",NA,"1:43.816",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1988,"30 Oct 1988","Bernd","Schneider",10,"Zakspeed","NC",25,14,0,NA,NA,NA,"1:51.435",NA,"1:47.599",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Alain","Prost",11,"McLaren Honda","1",2,82,9,"1:53:14.676",NA,NA,"1:21.216",NA,"1:17.880",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Ayrton","Senna",12,"McLaren Honda","2",1,82,6,"1:53:51.463","36.787","36.7869999408722","1:21.668",NA,"1:17.748",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Nelson","Piquet",1,"Lotus Honda","3",5,82,4,"1:54:02.222","47.546","10.7589998245239","1:21.502",NA,"1:19.535",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Riccardo","Patrese",6,"Williams Judd","4",6,82,3,"1:54:34.764","80.088","32.5420000553131","1:21.948",NA,"1:19.925",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Thierry","Boutsen",20,"Benetton Ford","5",10,81,2,"1","1","1","1:21.793",NA,"1:20.486",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Ivan","Capelli",16,"March Judd","6",9,81,1,"1","1","1","1:21.526",NA,"1:20.459",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Pierluigi","Martini",23,"Minardi Ford","7",14,80,0,"2","2","2","1:22.888",NA,"1:21.133",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Andrea","deCesaris",22,"Rial Ford","8",15,77,0,NA,NA,NA,"1:21.677",NA,"1:21.164",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Stefan","Johansson",26,"Ligier Judd","9",22,76,0,NA,NA,NA,"1:22.433",NA,"1:21.988",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Philippe","Alliot",30,"Lola Ford","10",24,75,0,NA,NA,NA,"1:22.506",NA,"1:22.211",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Philippe","Streiff",14,"AGS Ford","11",16,73,0,NA,NA,NA,"1:22.288",NA,"1:21.262",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Piercarlo","Ghinzani",9,"Zakspeed","NC",26,69,0,NA,NA,NA,"1:26.100",NA,"1:22.348",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Nigel","Mansell",5,"Williams Judd","NC",3,65,0,NA,NA,NA,"1:21.713",NA,"1:19.427",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Alessandro","Nannini",19,"Benetton Ford","NC",8,63,0,NA,NA,NA,"1:22.467",NA,"1:20.182",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Stefano","Modena",33,"Euro Brun Ford","NC",20,63,0,NA,NA,NA,"1:22.935",NA,"1:21.856",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Derek","Warwick",17,"Arrows Megatron","NC",7,52,0,NA,NA,NA,"1:24.064",NA,"1:20.086",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Eddie","Cheever",18,"Arrows Megatron","NC",18,51,0,NA,NA,NA,"1:23.529",NA,"1:21.393",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Mauricio","Gugelmin",15,"March Judd","NC",19,46,0,NA,NA,NA,"1:23.727",NA,"1:21.554",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Satoru","Nakajima",2,"Lotus Honda","NC",13,45,0,NA,NA,NA,"1:23.500",NA,"1:20.852",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Luis","Perez-Sala",24,"Minardi Ford","NC",21,41,0,NA,NA,NA,"1:23.195",NA,"1:21.893",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Alex","Caffi",36,"Dallara Ford","NC",11,32,0,NA,NA,NA,"1:23.847",NA,"1:20.781",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Gerhard","Berger",28,"Ferrari","NC",4,25,0,NA,NA,NA,"1:21.900",NA,"1:19.517",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Rene","Arnoux",25,"Ligier Judd","NC",23,24,0,NA,NA,NA,"1:25.095",NA,"1:22.028",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Jonathan","Palmer",3,"Tyrrell Ford","NC",17,16,0,NA,NA,NA,"1:24.726",NA,"1:21.307",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1988,"13 Nov 1988","Oscar","Larrauri",32,"Euro Brun Ford","NC",25,12,0,NA,NA,NA,"1:24.777",NA,"1:22.213",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

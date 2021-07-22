@@ -1,0 +1,394 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Ayrton","Senna",27,"McLaren Honda","1",5,72,9,"1:52:32.829",NA,NA,"1:32.178",NA,"1:29.431",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Jean","Alesi",4,"Tyrrell Ford","2",4,72,6,"1:52:41.513","8.685","8.68400001525879","1:32.221",NA,"1:29.408",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Thierry","Boutsen",5,"Williams Renault","3",9,72,4,"1:53:26.908","54.080","45.3949999809265","1:32.915",NA,"1:30.059",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Nelson","Piquet",20,"Benetton Ford","4",6,72,3,"1:53:41.187","68.358","14.279000043869","1:32.865",NA,"1:29.862",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Stefano","Modena",8,"Brabham Judd","5",10,72,2,"1:53:42.332","69.503","1.14499998092651","1:33.147",NA,"1:30.127",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Satoru","Nakajima",3,"Tyrrell Ford","6",11,71,1,"1","1","1","1:32.707",NA,"1:30.130",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Pierluigi","Martini",23,"Minardi Ford","7",2,71,0,"1","1","1","1:31.568",NA,"1:28.731",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Eric","Bernard",29,"Lola Lamborghini","8",15,71,0,"1","1","1","1:32.681",NA,"1:31.226",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Riccardo","Patrese",6,"Williams Renault","9",12,71,0,"1","1","1","1:32.222",NA,"1:30.213",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Michele","Alboreto",9,"Arrows Ford","10",21,70,0,"2","2","2","1:34.517",NA,"1:31.948",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Alessandro","Nannini",19,"Benetton Ford","11",22,70,0,"2","2","2","1:32.694",NA,"1:31.984",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Bernd","Schneider",10,"Arrows Ford","12",20,70,0,"2","2","2","1:33.573",NA,"1:31.892",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Roberto","Moreno",33,"Euro Brun Judd","13",16,67,0,"5","5","5","1:35.446",NA,"1:31.247",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Mauricio","Gugelmin",15,"Leyton House Judd","14",25,66,0,"6","6","6","1:37.058",NA,"1:32.904",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Paolo","Barilla",24,"Minardi Ford","NC",14,54,0,NA,NA,NA,"1:34.265",NA,"1:31.194",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Aguri","Suzuki",30,"Lola Lamborghini","NC",18,53,0,NA,NA,NA,"1:33.819",NA,"1:31.414",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Nigel","Mansell",2,"Ferrari","NC",17,49,0,NA,NA,NA,"1:32.814",NA,"1:31.363",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Gerhard","Berger",28,"McLaren Honda","NC",1,44,0,NA,NA,NA,"1:31.050",NA,"1:28.664",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Gregor","Foitek",7,"Brabham Judd","NC",23,39,0,NA,NA,NA,"1:34.156",NA,"1:32.398",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Olivier","Grouillard",14,"Osella Ford","NC",8,39,0,NA,NA,NA,"1:35.350",NA,"1:29.947",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Andrea","deCesaris",22,"Dallara Ford","NC",3,25,0,NA,NA,NA,"1:34.067",NA,"1:29.019",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Alain","Prost",1,"Ferrari","NC",7,21,0,NA,NA,NA,"1:33.170",NA,"1:29.910",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Ivan","Capelli",16,"Leyton House Judd","NC",26,20,0,NA,NA,NA,"1:35.598",NA,"1:33.044",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Derek","Warwick",11,"Lotus Lamborghini","NC",24,6,0,NA,NA,NA,"1:35.396",NA,"1:32.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Phoenix Street Circuit, United States",1990,"11 Mar 1990","Nicola","Larini",25,"Ligier Ford","NC",13,4,0,NA,NA,NA,"1:36.971",NA,"1:30.424",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Alain","Prost",1,"Ferrari","1",6,71,9,"1:37:21.258",NA,NA,"1:20.010",NA,"1:18.631",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Gerhard","Berger",28,"McLaren Honda","2",2,71,6,"1:37:34.821","13.564","13.563000202179","1:19.899",NA,"1:17.888",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Ayrton","Senna",27,"McLaren Honda","3",1,71,4,"1:37:58.979","37.722","24.1579999923706","1:20.067",NA,"1:17.277",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Nigel","Mansell",2,"Ferrari","4",5,71,3,"1:38:08.523","47.266","9.54399991035461","1:20.389",NA,"1:18.509",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Thierry","Boutsen",5,"Williams Renault","5",3,70,2,"1","1","1","1:20.089",NA,"1:18.150",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Nelson","Piquet",20,"Benetton Ford","6",13,70,1,"1","1","1","1:20.650",NA,"1:19.629",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Jean","Alesi",4,"Tyrrell Ford","7",7,70,0,"1","1","1","1:22.536",NA,"1:18.923",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Satoru","Nakajima",3,"Tyrrell Ford","8",19,70,0,"1","1","1","1:22.398",NA,"1:20.568",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Pierluigi","Martini",23,"Minardi Ford","9",8,69,0,"2","2","2","1:21.799",NA,"1:19.039",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Alessandro","Nannini",19,"Benetton Ford","10",15,68,0,NA,NA,NA,"1:21.820",NA,"1:20.055",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Nicola","Larini",25,"Ligier Ford","11",20,68,0,"3","3","3","1:22.649",NA,"1:20.650",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Philippe","Alliot",26,"Ligier Ford","12",10,68,0,"3","3","3","1:23.115",NA,"1:19.309",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Riccardo","Patrese",6,"Williams Renault","13",4,65,0,NA,NA,NA,"1:20.132",NA,"1:18.288",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Gianni","Morbidelli",21,"Dallara Ford","14",16,64,0,"7","7","7","1:22.987",NA,"1:20.164",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Alex","Caffi",10,"Arrows Ford","NC",25,49,0,NA,NA,NA,"1:23.671",NA,"1:21.065",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Martin","Donnelly",12,"Lotus Lamborghini","NC",14,43,0,NA,NA,NA,"1:22.899",NA,"1:20.032",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Stefano","Modena",8,"Brabham Judd","NC",12,39,0,NA,NA,NA,"1:23.255",NA,"1:19.425",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Paolo","Barilla",24,"Minardi Ford","NC",17,38,0,NA,NA,NA,"1:24.177",NA,"1:20.282",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Yannick","Dalmas",18,"AGS Ford","NC",26,28,0,NA,NA,NA,"1:22.948",NA,"1:21.087",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Derek","Warwick",11,"Lotus Lamborghini","NC",24,25,0,NA,NA,NA,"1:23.390",NA,"1:20.998",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Aguri","Suzuki",30,"Lola Lamborghini","NC",18,24,0,NA,NA,NA,"1:23.491",NA,"1:20.557",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Michele","Alboreto",9,"Arrows Ford","NC",23,24,0,NA,NA,NA,"1:23.292",NA,"1:20.920",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Gregor","Foitek",7,"Brabham Judd","NC",22,14,0,NA,NA,NA,"1:24.922",NA,"1:20.902",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Eric","Bernard",29,"Lola Lamborghini","NC",11,13,0,NA,NA,NA,"1:24.658",NA,"1:19.406",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brazil","Autódromo José Carlos Pace, Brazil",1990,"25 Mar 1990","Olivier","Grouillard",14,"Osella Ford","NC",21,8,0,NA,NA,NA,"1:25.308",NA,"1:20.884",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Riccardo","Patrese",6,"Williams Renault","1",3,61,9,"1:30:55.478",NA,NA,"1:27.475",NA,"1:24.444",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Gerhard","Berger",28,"McLaren Honda","2",2,61,6,"1:31:00.595","5.117","5.11700010299683","1:27.636",NA,"1:23.781",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Alessandro","Nannini",19,"Benetton Ford","3",9,61,4,"1:31:01.717","6.240","1.12199997901917","1:27.156",NA,"1:26.042",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Alain","Prost",1,"Ferrari","4",6,61,3,"1:31:02.320","6.843","0.602999925613403","1:27.164",NA,"1:25.179",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Nelson","Piquet",20,"Benetton Ford","5",8,61,2,"1:31:48.589","53.112","46.2690000534058","1:28.558",NA,"1:25.761",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Jean","Alesi",4,"Tyrrell Ford","6",7,60,1,"1","1","1","1:29.144",NA,"1:25.230",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Derek","Warwick",11,"Lotus Lamborghini","7",10,60,0,"1","1","1","1:29.829",NA,"1:26.682",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Martin","Donnelly",12,"Lotus Lamborghini","8",11,60,0,"1","1","1","1:29.527",NA,"1:26.714",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Philippe","Alliot",26,"Ligier Ford","9",16,60,0,"1","1","1","1:29.813",NA,"1:27.214",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Nicola","Larini",25,"Ligier Ford","10",20,59,0,"2","2","2","1:30.461",NA,"1:27.564",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Paolo","Barilla",24,"Minardi Ford","11",26,59,0,"2","2","2","1:30.848",NA,"1:28.667",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Jyrki","Jarvilehto",36,"Onyx Ford","12",25,59,0,"2","2","2","1:31.374",NA,"1:28.625",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Eric","Bernard",29,"Lola Lamborghini","13",13,56,0,NA,NA,NA,"1:29.731",NA,"1:26.838",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Olivier","Grouillard",14,"Osella Ford","NC",22,52,0,NA,NA,NA,"1:32.011",NA,"1:28.009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Nigel","Mansell",2,"Ferrari","NC",5,38,0,NA,NA,NA,"1:27.626",NA,"1:25.095",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Gregor","Foitek",35,"Onyx Ford","NC",23,35,0,NA,NA,NA,"1:31.964",NA,"1:28.111",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Stefano","Modena",8,"Brabham Judd","NC",14,31,0,NA,NA,NA,"1:31.661",NA,"1:27.008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Andrea","deCesaris",22,"Dallara Ford","NC",17,29,0,NA,NA,NA,"1:32.125",NA,"1:27.217",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Mauricio","Gugelmin",15,"Leyton House Judd","NC",12,24,0,NA,NA,NA,"1:32.547",NA,"1:26.836",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Thierry","Boutsen",5,"Williams Renault","NC",4,17,0,NA,NA,NA,"1:28.840",NA,"1:25.039",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Aguri","Suzuki",30,"Lola Lamborghini","NC",15,17,0,NA,NA,NA,"1:31.136",NA,"1:27.068",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Ayrton","Senna",27,"McLaren Honda","NC",1,3,0,NA,NA,NA,"1:30.615",NA,"1:23.220",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"San Marino","Autodromo Enzo e Dino Ferrari, San Marino",1990,"13 May 1990","Emanuele","Pirro",21,"Dallara Ford","NC",21,2,0,NA,NA,NA,"1:34.266",NA,"1:27.613",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Ayrton","Senna",27,"McLaren Honda","1",1,78,9,"1:52:46.982",NA,NA,"1:24.468",NA,"1:21.314",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Jean","Alesi",4,"Tyrrell Ford","2",3,78,6,"1:52:48.069","1.087","1.08699989318848","1:25.353",NA,"1:21.801",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Gerhard","Berger",28,"McLaren Honda","3",5,78,4,"1:52:49.055","2.073","0.986000061035156","1:25.021",NA,"1:22.682",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Thierry","Boutsen",5,"Williams Renault","4",6,77,3,"1","1","1","1:26.366",NA,"1:22.691",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Alex","Caffi",10,"Arrows Ford","5",22,76,2,"2","2","2","1:26.421",NA,"1:25.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Eric","Bernard",29,"Lola Lamborghini","6",24,76,1,"2","2","2","1:26.635",NA,"1:25.398",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Gregor","Foitek",35,"Onyx Ford","7",20,72,0,NA,NA,NA,"1:27.296",NA,"1:24.367",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Derek","Warwick",11,"Lotus Lamborghini","NC",13,66,0,NA,NA,NA,"1:27.339",NA,"1:23.656",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Nigel","Mansell",2,"Ferrari","NC",7,63,0,NA,NA,NA,"1:24.971",NA,"1:22.733",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Paolo","Barilla",24,"Minardi Ford","NC",19,52,0,NA,NA,NA,"1:27.539",NA,"1:24.334",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Jyrki","Jarvilehto",36,"Onyx Ford","NC",26,52,0,NA,NA,NA,"1:28.587",NA,"1:25.508",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Philippe","Alliot",26,"Ligier Ford","NC",18,47,0,NA,NA,NA,"1:28.265",NA,"1:24.294",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Riccardo","Patrese",6,"Williams Renault","NC",4,41,0,NA,NA,NA,"1:26.255",NA,"1:22.026",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Andrea","deCesaris",22,"Dallara Ford","NC",12,38,0,NA,NA,NA,"1:26.931",NA,"1:23.613",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Satoru","Nakajima",3,"Tyrrell Ford","NC",21,36,0,NA,NA,NA,"1:27.557",NA,"1:24.371",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Alain","Prost",1,"Ferrari","NC",2,30,0,NA,NA,NA,"1:25.888",NA,"1:21.776",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Alessandro","Nannini",19,"Benetton Ford","NC",16,20,0,NA,NA,NA,"1:27.542",NA,"1:24.139",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","David","Brabham",7,"Brabham Judd","NC",25,16,0,NA,NA,NA,"1:31.639",NA,"1:25.420",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Ivan","Capelli",16,"Leyton House Judd","NC",23,13,0,NA,NA,NA,"1:29.374",NA,"1:25.020",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Nicola","Larini",25,"Ligier Ford","NC",17,12,0,NA,NA,NA,"1:29.165",NA,"1:24.206",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Aguri","Suzuki",30,"Lola Lamborghini","NC",15,11,0,NA,NA,NA,"1:28.872",NA,"1:24.023",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Pierluigi","Martini",23,"Minardi Ford","NC",8,7,0,NA,NA,NA,"1:28.700",NA,"1:23.149",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Martin","Donnelly",12,"Lotus Lamborghini","NC",11,6,0,NA,NA,NA,"1:28.366",NA,"1:23.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1990,"27 May 1990","Stefano","Modena",8,"Brabham Judd","NC",14,3,0,NA,NA,NA,"1:32.072",NA,"1:23.920",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Ayrton","Senna",27,"McLaren Honda","1",1,70,9,"1:42:56.400",NA,NA,"1:23.375",NA,"1:20.399",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Nelson","Piquet",20,"Benetton Ford","2",5,70,6,"1:43:06.897","10.497","10.4969999790192","1:22.854",NA,"1:21.568",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Nigel","Mansell",2,"Ferrari","3",7,70,4,"1:43:09.785","13.385","2.88800001144409","1:22.839",NA,"1:21.641",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Gerhard","Berger",28,"McLaren Honda","4",2,70,3,"1:43:11.254","14.854","1.4689998626709","1:22.077",NA,"1:20.465",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Alain","Prost",1,"Ferrari","5",3,70,2,"1:43:12.220","15.820","0.966000080108643","1:23.078",NA,"1:20.826",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Derek","Warwick",11,"Lotus Lamborghini","6",11,68,1,"2","2","2","1:24.948",NA,"1:22.673",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Stefano","Modena",8,"Brabham Judd","7",10,68,0,"2","2","2","1:25.693",NA,"1:22.660",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Alex","Caffi",10,"Arrows Ford","8",26,68,0,"2","2","2","1:24.770",NA,"1:25.113",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Eric","Bernard",29,"Lola Lamborghini","9",23,67,0,"3","3","3","1:25.571",NA,"1:24.451",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Ivan","Capelli",16,"Leyton House Judd","10",24,67,0,"3","3","3","1:25.846",NA,"1:24.554",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Satoru","Nakajima",3,"Tyrrell Ford","11",13,67,0,"3","3","3","1:26.703",NA,"1:23.605",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Aguri","Suzuki",30,"Lola Lamborghini","12",18,66,0,NA,NA,NA,"1:24.678",NA,"1:23.915",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Olivier","Grouillard",14,"Osella Ford","13",15,65,0,NA,NA,NA,"1:28.108",NA,"1:23.779",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Martin","Donnelly",12,"Lotus Lamborghini","NC",12,57,0,NA,NA,NA,"1:25.430",NA,"1:22.703",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Gregor","Foitek",35,"Onyx Ford","NC",21,53,0,NA,NA,NA,"1:26.177",NA,"1:24.397",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Andrea","deCesaris",22,"Dallara Ford","NC",25,50,0,NA,NA,NA,"1:26.158",NA,"1:24.621",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Jyrki","Jarvilehto",36,"Onyx Ford","NC",22,46,0,NA,NA,NA,"1:29.032",NA,"1:24.425",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Riccardo","Patrese",6,"Williams Renault","NC",9,44,0,NA,NA,NA,"1:25.566",NA,"1:22.018",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Philippe","Alliot",26,"Ligier Ford","NC",17,34,0,NA,NA,NA,"1:27.373",NA,"1:23.899",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Jean","Alesi",4,"Tyrrell Ford","NC",8,26,0,NA,NA,NA,"1:24.781",NA,"1:21.748",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Alessandro","Nannini",19,"Benetton Ford","NC",4,21,0,NA,NA,NA,"1:25.545",NA,"1:21.302",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Thierry","Boutsen",5,"Williams Renault","NC",6,19,0,NA,NA,NA,"1:26.486",NA,"1:21.599",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Nicola","Larini",25,"Ligier Ford","NC",20,18,0,NA,NA,NA,"1:34.545",NA,"1:24.285",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Emanuele","Pirro",21,"Dallara Ford","NC",19,11,0,NA,NA,NA,"1:40.699",NA,"1:24.269",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Canada","Circuit Gilles-Villeneuve, Canada",1990,"10 Jun 1990","Michele","Alboreto",9,"Arrows Ford","NC",14,11,0,NA,NA,NA,"1:39.464",NA,"1:23.744",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Alain","Prost",1,"Ferrari","1",13,69,9,"1:32:35.783",NA,NA,"1:17.958",NA,"1:19.026",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Nigel","Mansell",2,"Ferrari","2",4,69,6,"1:33:01.134","25.351","25.3510000705719","1:18.487",NA,"1:17.732",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Gerhard","Berger",28,"McLaren Honda","3",1,69,4,"1:33:01.312","25.530","0.177999973297119","1:18.223",NA,"1:17.227",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Alessandro","Nannini",19,"Benetton Ford","4",14,69,3,"1:33:16.881","41.099","15.569000005722","1:19.378",NA,"1:19.227",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Thierry","Boutsen",5,"Williams Renault","5",5,69,2,"1:33:22.451","46.669","5.5699999332428","1:19.525",NA,"1:17.883",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Nelson","Piquet",20,"Benetton Ford","6",8,69,1,"1:33:22.726","46.943","0.275000095367432","1:18.365",NA,"1:18.561",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Jean","Alesi",4,"Tyrrell Ford","7",6,69,0,"1:33:24.859","49.077","2.13299989700317","1:19.474",NA,"1:18.282",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Martin","Donnelly",12,"Lotus Lamborghini","8",12,69,0,"1:33:41.924","66.142","17.0650000572205","1:19.508",NA,"1:18.994",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Riccardo","Patrese",6,"Williams Renault","9",2,69,0,"1:33:45.700","69.918","3.77600002288818","1:18.653",NA,"1:17.498",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Derek","Warwick",11,"Lotus Lamborghini","10",11,68,0,"1","1","1","1:19.932",NA,"1:18.951",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Stefano","Modena",8,"Brabham Judd","11",10,68,0,"1","1","1","1:20.355",NA,"1:18.592",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Pierluigi","Martini",23,"Minardi Ford","12",7,68,0,"1","1","1","1:20.230",NA,"1:18.526",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Andrea","deCesaris",22,"Dallara Ford","13",15,68,0,"1","1","1","1:20.601",NA,"1:19.865",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Paolo","Barilla",24,"Minardi Ford","14",16,67,0,"2","2","2","1:20.789",NA,"1:19.897",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Gregor","Foitek",35,"Onyx Ford","15",23,67,0,"2","2","2","1:21.408",NA,"1:21.012",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Nicola","Larini",25,"Ligier Ford","16",24,67,0,"2","2","2","1:21.235",NA,"1:21.116",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Michele","Alboreto",9,"Arrows Ford","17",17,66,0,"3","3","3","1:22.082",NA,"1:19.941",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Philippe","Alliot",26,"Ligier Ford","18",22,66,0,"3","3","3","1:21.467",NA,"1:20.657",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Olivier","Grouillard",14,"Osella Ford","19",20,65,0,"4","4","4","1:22.779",NA,"1:20.274",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Ayrton","Senna",27,"McLaren Honda","20",3,63,0,NA,NA,NA,"1:19.062",NA,"1:17.670",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Jyrki","Jarvilehto",36,"Onyx Ford","NC",26,26,0,NA,NA,NA,"1:23.816",NA,"1:21.519",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Eric","Bernard",29,"Lola Lamborghini","NC",25,12,0,NA,NA,NA,"1:22.636",NA,"1:21.273",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Aguri","Suzuki",30,"Lola Lamborghini","NC",19,11,0,NA,NA,NA,"1:22.936",NA,"1:20.268",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Satoru","Nakajima",3,"Tyrrell Ford","NC",9,11,0,NA,NA,NA,"1:21.736",NA,"1:18.575",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","David","Brabham",7,"Brabham Judd","NC",21,11,0,NA,NA,NA,"1:26.487",NA,"1:20.447",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mexico","Autódromo Hermanos Rodríguez, Mexico",1990,"24 Jun 1990","Emanuele","Pirro",21,"Dallara Ford","NC",18,10,0,NA,NA,NA,"1:23.476",NA,"1:20.044",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Alain","Prost",1,"Ferrari","1",4,80,9,"1:33:29.606",NA,NA,"1:08.212",NA,"1:04.781",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Ivan","Capelli",16,"Leyton House Judd","2",7,80,6,"1:33:38.231","8.626","8.625","1:08.373",NA,"1:05.369",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Ayrton","Senna",27,"McLaren Honda","3",3,80,4,"1:33:41.211","11.606","2.98000001907349","1:08.573",NA,"1:04.549",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Nelson","Piquet",20,"Benetton Ford","4",9,80,3,"1:34:10.812","41.207","29.6010000705719","1:09.135",NA,"1:05.640",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Gerhard","Berger",28,"McLaren Honda","5",2,80,2,"1:34:11.825","42.219","1.01300001144409","1:09.206",NA,"1:04.512",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Riccardo","Patrese",6,"Williams Renault","6",6,80,1,"1:34:38.957","69.351","27.1319999694824","1:08.922",NA,"1:05.059",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Aguri","Suzuki",30,"Lola Lamborghini","7",14,79,0,"1","1","1","1:09.720",NA,"1:06.100",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Eric","Bernard",29,"Lola Lamborghini","8",11,79,0,"1","1","1","1:09.895",NA,"1:05.852",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Philippe","Alliot",26,"Ligier Ford","9",12,79,0,"1","1","1","1:09.752",NA,"1:05.986",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Michele","Alboreto",9,"Arrows Ford","10",18,79,0,"1","1","1","1:09.314",NA,"1:06.847",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Derek","Warwick",11,"Lotus Lamborghini","11",16,79,0,"1","1","1","1:08.882",NA,"1:06.624",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Martin","Donnelly",12,"Lotus Lamborghini","12",17,79,0,"1","1","1","1:08.023",NA,"1:06.647",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Stefano","Modena",8,"Brabham Judd","13",20,78,0,"2","2","2","1:09.934",NA,"1:06.937",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Nicola","Larini",25,"Ligier Ford","14",19,78,0,"2","2","2","1:10.374",NA,"1:06.856",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Andrea","deCesaris",22,"Dallara Ford","15",21,78,0,"2","2","2","1:09.583",NA,"1:07.137",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","David","Brabham",7,"Brabham Judd","16",25,77,0,"3","3","3","1:11.110",NA,"1:07.733",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Alessandro","Nannini",19,"Benetton Ford","17",5,75,0,NA,NA,NA,"1:08.214",NA,"1:05.009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Yannick","Dalmas",18,"AGS Ford","18",26,75,0,"5","5","5","1:09.877",NA,"1:07.926",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Nigel","Mansell",2,"Ferrari","19",1,72,0,NA,NA,NA,"1:08.012",NA,"1:04.402",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Satoru","Nakajima",3,"Tyrrell Ford","NC",15,63,0,NA,NA,NA,"1:08.916",NA,"1:06.563",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Mauricio","Gugelmin",15,"Leyton House Judd","NC",10,58,0,NA,NA,NA,"1:08.983",NA,"1:05.818",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Pierluigi","Martini",23,"Minardi Ford","NC",23,40,0,NA,NA,NA,"1:11.406",NA,"1:07.315",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Jean","Alesi",4,"Tyrrell Ford","NC",13,23,0,NA,NA,NA,"1:10.265",NA,"1:06.084",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Alex","Caffi",10,"Arrows Ford","NC",22,22,0,NA,NA,NA,"1:11.242",NA,"1:07.207",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Thierry","Boutsen",5,"Williams Renault","NC",8,8,0,NA,NA,NA,"1:10.837",NA,"1:05.446",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit Paul Ricard, France",1990,"08 Jul 1990","Emanuele","Pirro",21,"Dallara Ford","NC",24,7,0,NA,NA,NA,"1:12.275",NA,"1:07.687",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Alain","Prost",1,"Ferrari","1",5,64,9,"1:18:30.999",NA,NA,"1:11.526",NA,"1:08.336",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Thierry","Boutsen",5,"Williams Renault","2",4,64,6,"1:19:10.091","39.092","39.0920000076294","1:12.879",NA,"1:08.291",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Ayrton","Senna",27,"McLaren Honda","3",2,64,4,"1:19:14.087","43.088","3.99599981307983","1:12.250",NA,"1:08.071",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Eric","Bernard",29,"Lola Lamborghini","4",8,64,3,"1:19:46.301","75.302","32.2140002250671","1:13.088",NA,"1:09.003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Nelson","Piquet",20,"Benetton Ford","5",11,64,2,"1:19:55.002","84.003","8.70099997520447","1:12.723",NA,"1:09.407",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Aguri","Suzuki",30,"Lola Lamborghini","6",9,63,1,"1","1","1","1:12.227",NA,"1:09.243",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Alex","Caffi",10,"Arrows Ford","7",17,63,0,"1","1","1","1:13.573",NA,"1:10.110",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Jean","Alesi",4,"Tyrrell Ford","8",6,63,0,"1","1","1","1:12.639",NA,"1:08.370",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Stefano","Modena",8,"Brabham Judd","9",20,62,0,"2","2","2","1:13.338",NA,"1:11.070",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Nicola","Larini",25,"Ligier Ford","10",21,62,0,"2","2","2","1:14.953",NA,"1:11.180",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Emanuele","Pirro",21,"Dallara Ford","11",19,62,0,"2","2","2","1:13.731",NA,"1:10.847",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Paolo","Barilla",24,"Minardi Ford","12",24,62,0,"2","2","2","1:15.607",NA,"1:11.387",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Philippe","Alliot",26,"Ligier Ford","13",22,61,0,"3","3","3","1:14.848",NA,"1:11.215",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Gerhard","Berger",28,"McLaren Honda","14",3,60,0,NA,NA,NA,"1:12.393",NA,"1:08.246",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Nigel","Mansell",2,"Ferrari","NC",1,55,0,NA,NA,NA,"1:11.291",NA,"1:07.428",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Ivan","Capelli",16,"Leyton House Judd","NC",10,48,0,NA,NA,NA,"1:11.712",NA,"1:09.308",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Martin","Donnelly",12,"Lotus Lamborghini","NC",14,48,0,NA,NA,NA,"1:13.204",NA,"1:09.741",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Derek","Warwick",11,"Lotus Lamborghini","NC",16,46,0,NA,NA,NA,"1:14.416",NA,"1:10.092",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Gabriele","Tarquini",17,"AGS Ford","NC",26,41,0,NA,NA,NA,"1:15.889",NA,"1:11.681",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Michele","Alboreto",9,"Arrows Ford","NC",25,37,0,NA,NA,NA,"1:13.932",NA,"1:11.562",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Riccardo","Patrese",6,"Williams Renault","NC",7,26,0,NA,NA,NA,"1:14.130",NA,"1:08.677",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Satoru","Nakajima",3,"Tyrrell Ford","NC",12,20,0,NA,NA,NA,"1:15.192",NA,"1:09.608",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Alessandro","Nannini",19,"Benetton Ford","NC",13,15,0,NA,NA,NA,"1:13.405",NA,"1:09.641",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Andrea","deCesaris",22,"Dallara Ford","NC",23,12,0,NA,NA,NA,"1:16.039",NA,"1:11.234",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1990,"15 Jul 1990","Pierluigi","Martini",23,"Minardi Ford","NC",18,3,0,NA,NA,NA,"1:17.827",NA,"1:10.303",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Ayrton","Senna",27,"McLaren Honda","1",1,45,9,"1:20:47.164",NA,NA,"1:45.711",NA,"1:40.198",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Alessandro","Nannini",19,"Benetton Ford","2",9,45,6,"1:20:53.684","6.520","6.51999998092651","1:46.146",NA,"1:43.594",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Gerhard","Berger",28,"McLaren Honda","3",2,45,4,"1:20:55.717","8.553","2.03299999237061","1:46.098",NA,"1:40.434",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Alain","Prost",1,"Ferrari","4",3,45,3,"1:21:32.434","45.270","36.7170000076294","1:46.839",NA,"1:41.732",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Riccardo","Patrese",6,"Williams Renault","5",5,45,2,"1:21:35.192","48.028","2.75799989700317","1:46.891",NA,"1:42.195",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Thierry","Boutsen",5,"Williams Renault","6",6,45,1,"1:22:08.654","81.491","33.4620001316071","1:45.602",NA,"1:42.380",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Ivan","Capelli",16,"Leyton House Judd","7",10,44,0,"1","1","1","1:48.799",NA,"1:44.349",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Derek","Warwick",11,"Lotus Lamborghini","8",16,44,0,"1","1","1","1:48.547",NA,"1:45.244",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Alex","Caffi",10,"Arrows Ford","9",18,44,0,"1","1","1","1:49.054",NA,"1:45.604",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Nicola","Larini",25,"Ligier Ford","10",22,43,0,"2","2","2","1:48.502",NA,"1:46.187",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Jean","Alesi",4,"Tyrrell Ford","11",8,40,0,NA,NA,NA,"1:48.421",NA,"1:43.255",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Jyrki","Jarvilehto",36,"Onyx Ford","NC",25,39,0,"6","6","6","1:50.173",NA,"1:46.857",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Eric","Bernard",29,"Lola Lamborghini","NC",12,35,0,NA,NA,NA,"1:49.071",NA,"1:44.496",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Aguri","Suzuki",30,"Lola Lamborghini","NC",11,33,0,NA,NA,NA,"1:49.128",NA,"1:44.363",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Satoru","Nakajima",3,"Tyrrell Ford","NC",13,24,0,NA,NA,NA,"1:49.896",NA,"1:44.650",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Nelson","Piquet",20,"Benetton Ford","NC",7,23,0,NA,NA,NA,"1:46.949",NA,"1:42.872",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Pierluigi","Martini",23,"Minardi Ford","NC",15,20,0,NA,NA,NA,"1:51.326",NA,"1:45.237",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Gregor","Foitek",35,"Onyx Ford","NC",26,19,0,NA,NA,NA,"1:51.456",NA,"1:47.209",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Nigel","Mansell",2,"Ferrari","NC",4,15,0,NA,NA,NA,"1:47.268",NA,"1:42.057",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Mauricio","Gugelmin",15,"Leyton House Judd","NC",14,12,0,NA,NA,NA,"1:50.255",NA,"1:45.193",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","David","Brabham",7,"Brabham Judd","NC",21,12,0,NA,NA,NA,"1:52.018",NA,"1:46.110",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Michele","Alboreto",9,"Arrows Ford","NC",19,10,0,NA,NA,NA,"1:52.041",NA,"1:45.755",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Germany","Hockenheimring, Germany",1990,"29 Jul 1990","Martin","Donnelly",12,"Lotus Lamborghini","NC",20,1,0,NA,NA,NA,"2:07.152",NA,"1:45.790",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Thierry","Boutsen",5,"Williams Renault","1",1,77,9,"1:49:30.597",NA,NA,"1:23.934",NA,"1:17.919",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Ayrton","Senna",27,"McLaren Honda","2",4,77,6,"1:49:30.884","0.288","0.287000179290771","1:22.577",NA,"1:18.162",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Nelson","Piquet",20,"Benetton Ford","3",9,77,4,"1:49:58.489","27.893","27.6050000190735","1:23.164",NA,"1:19.453",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Riccardo","Patrese",6,"Williams Renault","4",2,77,3,"1:50:02.429","31.833","3.93999981880188","1:22.058",NA,"1:17.955",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Derek","Warwick",11,"Lotus Lamborghini","5",11,77,2,"1:50:44.840","74.244","42.4110000133514","1:24.140",NA,"1:19.839",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Eric","Bernard",29,"Lola Lamborghini","6",12,77,1,"1:50:54.904","84.308","10.0640001296997","1:23.864",NA,"1:19.963",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Martin","Donnelly",12,"Lotus Lamborghini","7",18,76,0,"1","1","1","1:22.561",NA,"1:20.602",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Mauricio","Gugelmin",15,"Leyton House Judd","8",17,76,0,"1","1","1","1:24.062",NA,"1:20.397",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Alex","Caffi",10,"Arrows Ford","9",26,76,0,"1","1","1","1:24.388",NA,"1:22.126",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Emanuele","Pirro",21,"Dallara Ford","10",13,76,0,"1","1","1","1:24.765",NA,"1:19.970",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Nicola","Larini",25,"Ligier Ford","11",25,76,0,"1","1","1","1:23.147",NA,"1:22.078",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Michele","Alboreto",9,"Arrows Ford","12",22,75,0,"2","2","2","1:24.418",NA,"1:21.758",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Gabriele","Tarquini",17,"AGS Ford","13",24,74,0,"3","3","3","1:24.921",NA,"1:21.964",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Philippe","Alliot",26,"Ligier Ford","14",21,74,0,"3","3","3","1:24.073",NA,"1:21.003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Paolo","Barilla",24,"Minardi Ford","15",23,74,0,"3","3","3","1:25.710",NA,"1:21.849",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Gerhard","Berger",28,"McLaren Honda","16",3,72,0,NA,NA,NA,"1:22.122",NA,"1:18.127",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Nigel","Mansell",2,"Ferrari","17",5,71,0,NA,NA,NA,"1:22.235",NA,"1:18.719",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Alessandro","Nannini",19,"Benetton Ford","NC",7,64,0,NA,NA,NA,"1:22.639",NA,"1:18.901",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Ivan","Capelli",16,"Leyton House Judd","NC",16,56,0,NA,NA,NA,"1:24.245",NA,"1:20.385",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Aguri","Suzuki",30,"Lola Lamborghini","NC",19,37,0,NA,NA,NA,"1:25.209",NA,"1:20.619",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Alain","Prost",1,"Ferrari","NC",8,36,0,NA,NA,NA,"1:24.214",NA,"1:19.029",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Jean","Alesi",4,"Tyrrell Ford","NC",6,36,0,NA,NA,NA,"1:24.414",NA,"1:18.726",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Stefano","Modena",8,"Brabham Judd","NC",20,35,0,NA,NA,NA,"1:26.474",NA,"1:20.715",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Pierluigi","Martini",23,"Minardi Ford","NC",14,35,0,NA,NA,NA,"1:25.930",NA,"1:20.197",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Andrea","deCesaris",22,"Dallara Ford","NC",10,22,0,NA,NA,NA,"1:25.523",NA,"1:19.675",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hungary","Hungaroring, Hungary",1990,"12 Aug 1990","Satoru","Nakajima",3,"Tyrrell Ford","NC",15,9,0,NA,NA,NA,"1:27.900",NA,"1:20.202",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Ayrton","Senna",27,"McLaren Honda","1",1,44,9,"1:26:31.997",NA,NA,"1:55.132",NA,"1:50.365",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Alain","Prost",1,"Ferrari","2",3,44,6,"1:26:35.546","3.550","3.54900002479553","1:55.087",NA,"1:51.043",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Gerhard","Berger",28,"McLaren Honda","3",2,44,4,"1:27:00.458","28.462","24.9119999408722","1:55.531",NA,"1:50.948",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Alessandro","Nannini",19,"Benetton Ford","4",6,44,3,"1:27:21.333","49.337","20.875","1:55.650",NA,"1:52.648",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Nelson","Piquet",20,"Benetton Ford","5",8,44,2,"1:28:01.647","89.650","40.3140001296997","1:57.036",NA,"1:52.853",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Mauricio","Gugelmin",15,"Leyton House Judd","6",14,44,1,"1:28:20.848","108.851","19.2009999752045","1:58.163",NA,"1:54.120",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Ivan","Capelli",16,"Leyton House Judd","7",12,43,0,"1","1","1","1:58.351",NA,"1:53.783",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Jean","Alesi",4,"Tyrrell Ford","8",9,43,0,"1","1","1","1:58.531",NA,"1:52.885",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Eric","Bernard",29,"Lola Lamborghini","9",15,43,0,"1","1","1","1:56.531",NA,"1:54.251",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Alex","Caffi",10,"Arrows Ford","10",19,43,0,"1","1","1","2:00.610",NA,"1:55.199",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Derek","Warwick",11,"Lotus Lamborghini","11",18,43,0,"1","1","1","1:59.081",NA,"1:55.068",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Martin","Donnelly",12,"Lotus Lamborghini","12",22,43,0,"1","1","1","1:58.330",NA,"1:55.304",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Michele","Alboreto",9,"Arrows Ford","13",26,43,0,"1","1","1","2:00.671",NA,"1:56.055",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Nicola","Larini",25,"Ligier Ford","14",21,42,0,"2","2","2","1:59.956",NA,"1:55.278",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Pierluigi","Martini",23,"Minardi Ford","15",16,42,0,"2","2","2","2:00.157",NA,"1:54.312",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Olivier","Grouillard",14,"Osella Ford","16",23,42,0,"2","2","2","2:00.886",NA,"1:55.334",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Stefano","Modena",8,"Brabham Judd","17",13,39,0,NA,NA,NA,"1:59.415",NA,"1:53.916",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","David","Brabham",7,"Brabham Judd","NC",24,36,0,NA,NA,NA,"2:01.959",NA,"1:55.668",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Andrea","deCesaris",22,"Dallara Ford","NC",20,27,0,NA,NA,NA,"2:02.225",NA,"1:55.261",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Thierry","Boutsen",5,"Williams Renault","NC",4,21,0,NA,NA,NA,"1:58.199",NA,"1:51.902",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Nigel","Mansell",2,"Ferrari","NC",5,19,0,NA,NA,NA,"1:59.767",NA,"1:52.267",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Riccardo","Patrese",6,"Williams Renault","NC",7,18,0,NA,NA,NA,"1:58.666",NA,"1:52.703",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Emanuele","Pirro",21,"Dallara Ford","NC",17,5,0,NA,NA,NA,"2:03.152",NA,"1:54.595",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1990,"26 Aug 1990","Satoru","Nakajima",3,"Tyrrell Ford","NC",10,4,0,NA,NA,NA,"2:14.599",NA,"1:53.468",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Ayrton","Senna",27,"McLaren Honda","1",1,53,9,"1:17:57.878",NA,NA,"1:26.254",NA,"1:22.533",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Alain","Prost",1,"Ferrari","2",2,53,6,"1:18:03.931","6.054","6.05299997329712","1:26.376",NA,"1:22.935",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Gerhard","Berger",28,"McLaren Honda","3",3,53,4,"1:18:05.282","7.404","1.3510000705719","1:26.650",NA,"1:22.936",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Nigel","Mansell",2,"Ferrari","4",4,53,3,"1:18:54.097","56.219","48.8149998188019","1:27.776",NA,"1:23.141",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Riccardo","Patrese",6,"Williams Renault","5",7,53,2,"1:19:23.151","85.274","29.0540001392365","1:28.608",NA,"1:24.253",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Satoru","Nakajima",3,"Tyrrell Ford","6",14,52,1,"1","1","1","1:28.777",NA,"1:26.081",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Nelson","Piquet",20,"Benetton Ford","7",9,52,0,"1","1","1","1:27.882",NA,"1:24.699",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Alessandro","Nannini",19,"Benetton Ford","8",8,52,0,"1","1","1","1:28.483",NA,"1:24.583",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Alex","Caffi",10,"Arrows Ford","9",21,51,0,"2","2","2","1:29.820",NA,"1:27.410",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Andrea","deCesaris",22,"Dallara Ford","10",25,51,0,"2","2","2","1:29.750",NA,"1:27.749",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Nicola","Larini",25,"Ligier Ford","11",26,51,0,"2","2","2","1:30.640",NA,"1:27.937",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Michele","Alboreto",9,"Arrows Ford","12",22,50,0,NA,NA,NA,"1:30.348",NA,"1:27.448",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Philippe","Alliot",26,"Ligier Ford","13",20,50,0,"3","3","3","1:32.881",NA,"1:27.043",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Yannick","Dalmas",18,"AGS Ford","NC",24,45,0,"8","8","8","1:29.868",NA,"1:27.673",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Ivan","Capelli",16,"Leyton House Judd","NC",16,36,0,NA,NA,NA,"1:29.112",NA,"1:26.712",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Aguri","Suzuki",30,"Lola Lamborghini","NC",18,36,0,NA,NA,NA,"1:29.138",NA,"1:26.962",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Olivier","Grouillard",14,"Osella Ford","NC",23,27,0,NA,NA,NA,"1:31.523",NA,"1:27.541",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Mauricio","Gugelmin",15,"Leyton House Judd","NC",10,24,0,NA,NA,NA,"1:29.298",NA,"1:25.556",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Stefano","Modena",8,"Brabham Judd","NC",17,21,0,NA,NA,NA,"1:32.025",NA,"1:26.950",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Thierry","Boutsen",5,"Williams Renault","NC",6,18,0,NA,NA,NA,"1:28.672",NA,"1:23.984",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Derek","Warwick",11,"Lotus Lamborghini","NC",12,15,0,NA,NA,NA,"1:30.521",NA,"1:25.677",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Emanuele","Pirro",21,"Dallara Ford","NC",19,14,0,NA,NA,NA,"1:31.668",NA,"1:26.964",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Martin","Donnelly",12,"Lotus Lamborghini","NC",11,13,0,NA,NA,NA,"1:29.876",NA,"1:25.629",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Eric","Bernard",29,"Lola Lamborghini","NC",13,10,0,NA,NA,NA,"1:29.949",NA,"1:25.927",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Pierluigi","Martini",23,"Minardi Ford","NC",15,7,0,NA,NA,NA,"1:31.740",NA,"1:26.330",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1990,"09 Sep 1990","Jean","Alesi",4,"Tyrrell Ford","NC",5,4,0,NA,NA,NA,"1:29.386",NA,"1:23.526",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Nigel","Mansell",2,"Ferrari","1",1,61,9,"1:22:11.014",NA,NA,"1:18.577",NA,"1:13.557",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Ayrton","Senna",27,"McLaren Honda","2",3,61,6,"1:22:13.822","2.808","2.80800008773804","1:18.936",NA,"1:13.601",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Alain","Prost",1,"Ferrari","3",2,61,4,"1:22:15.202","4.189","1.37999987602234","1:18.396",NA,"1:13.595",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Gerhard","Berger",28,"McLaren Honda","4",4,61,3,"1:22:16.909","5.896","1.70700001716614","1:18.438",NA,"1:14.292",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Nelson","Piquet",20,"Benetton Ford","5",6,61,2,"1:23:08.431","57.418","51.5220000743866","1:19.713",NA,"1:14.728",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Alessandro","Nannini",19,"Benetton Ford","6",9,61,1,"1:23:09.263","58.249","0.832000017166138","1:18.355",NA,"1:15.411",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Riccardo","Patrese",6,"Williams Renault","7",5,60,0,"1","1","1","1:18.306",NA,"1:14.723",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Jean","Alesi",4,"Tyrrell Ford","8",8,60,0,"1","1","1","1:20.916",NA,"1:15.122",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Michele","Alboreto",9,"Arrows Ford","9",19,60,0,"1","1","1","1:20.792",NA,"1:17.081",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Nicola","Larini",25,"Ligier Ford","10",22,59,0,"2","2","2","1:20.958",NA,"1:17.269",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Pierluigi","Martini",23,"Minardi Ford","11",16,59,0,"2","2","2","1:21.186",NA,"1:16.795",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Mauricio","Gugelmin",15,"Leyton House Judd","12",14,59,0,"2","2","2","1:21.894",NA,"1:16.296",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Alex","Caffi",10,"Arrows Ford","13",17,58,0,NA,NA,NA,"1:21.843",NA,"1:16.946",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Aguri","Suzuki",30,"Lola Lamborghini","14",11,58,0,NA,NA,NA,"1:20.349",NA,"1:16.012",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Emanuele","Pirro",21,"Dallara Ford","15",13,58,0,"3","3","3","1:22.231",NA,"1:16.290",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Philippe","Alliot",26,"Ligier Ford","NC",20,52,0,NA,NA,NA,"1:20.914",NA,"1:17.120",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","David","Brabham",7,"Brabham Judd","NC",25,52,0,NA,NA,NA,"1:22.275",NA,"1:17.715",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Ivan","Capelli",16,"Leyton House Judd","NC",12,51,0,NA,NA,NA,"1:21.623",NA,"1:16.284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Thierry","Boutsen",5,"Williams Renault","NC",7,30,0,NA,NA,NA,"1:20.575",NA,"1:14.934",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Eric","Bernard",29,"Lola Lamborghini","NC",10,24,0,NA,NA,NA,"1:22.434",NA,"1:15.673",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Stefano","Modena",8,"Brabham Judd","NC",23,21,0,NA,NA,NA,"1:23.232",NA,"1:17.341",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Martin","Donnelly",12,"Lotus Lamborghini","NC",15,14,0,NA,NA,NA,"1:22.625",NA,"1:16.762",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Derek","Warwick",11,"Lotus Lamborghini","NC",21,5,0,NA,NA,NA,"1:23.510",NA,"1:17.259",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Autódromo do Estoril, Portugal",1990,"23 Sep 1990","Yannick","Dalmas",18,"AGS Ford","NC",24,3,0,NA,NA,NA,"1:24.879",NA,"1:17.621",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Alain","Prost",1,"Ferrari","1",2,73,9,"1:48:01.461",NA,NA,"1:25.177",NA,"1:18.824",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Nigel","Mansell",2,"Ferrari","2",3,73,6,"1:48:23.524","22.064","22.0629999637604","1:26.957",NA,"1:19.106",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Alessandro","Nannini",19,"Benetton Ford","3",9,73,4,"1:48:36.335","34.874","12.8110001087189","1:26.599",NA,"1:20.367",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Thierry","Boutsen",5,"Williams Renault","4",7,73,3,"1:48:44.756","43.296","8.4210000038147","1:27.206",NA,"1:19.689",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Riccardo","Patrese",6,"Williams Renault","5",6,73,2,"1:48:58.990","57.530","14.2339999675751","1:24.513",NA,"1:19.647",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Aguri","Suzuki",30,"Lola Lamborghini","6",15,73,1,"1:49:05.188","63.728","6.19799995422363","1:27.158",NA,"1:21.244",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Nicola","Larini",25,"Ligier Ford","7",20,72,0,"1","1","1","1:26.104",NA,"1:21.996",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Mauricio","Gugelmin",15,"Leyton House Judd","8",12,72,0,"1","1","1","1:26.773",NA,"1:21.167",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Yannick","Dalmas",18,"AGS Ford","9",23,72,0,"1","1","1","1:27.710",NA,"1:22.716",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Michele","Alboreto",9,"Arrows Ford","10",25,71,0,"2","2","2","1:28.712",NA,"1:23.161",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Derek","Warwick",11,"Lotus Lamborghini","NC",10,63,0,NA,NA,NA,"1:26.252",NA,"1:20.610",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Ivan","Capelli",16,"Leyton House Judd","NC",19,59,0,NA,NA,NA,"1:28.436",NA,"1:21.910",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Gerhard","Berger",28,"McLaren Honda","NC",5,56,0,NA,NA,NA,"1:26.250",NA,"1:19.618",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Ayrton","Senna",27,"McLaren Honda","NC",1,53,0,NA,NA,NA,"1:27.430",NA,"1:18.387",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Nelson","Piquet",20,"Benetton Ford","NC",8,47,0,NA,NA,NA,"1:25.095",NA,"1:19.700",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Andrea","deCesaris",22,"Dallara Ford","NC",17,47,0,NA,NA,NA,"1:28.471",NA,"1:21.467",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Olivier","Grouillard",14,"Osella Ford","NC",21,45,0,NA,NA,NA,"1:29.692",NA,"1:22.288",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Pierluigi","Martini",23,"Minardi Ford","NC",11,41,0,NA,NA,NA,"1:28.314",NA,"1:21.060",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Philippe","Alliot",26,"Ligier Ford","NC",13,22,0,NA,NA,NA,"1:29.329",NA,"1:21.170",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Eric","Bernard",29,"Lola Lamborghini","NC",18,20,0,NA,NA,NA,"1:29.296",NA,"1:21.551",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Satoru","Nakajima",3,"Tyrrell Ford","NC",14,13,0,NA,NA,NA,"1:30.347",NA,"1:21.215",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Gabriele","Tarquini",17,"AGS Ford","NC",22,5,0,NA,NA,NA,"1:31.062",NA,"1:22.466",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Spain","Circuito Permanente de Jerez, Spain",1990,"30 Sep 1990","Stefano","Modena",8,"Brabham Judd","NC",24,5,0,NA,NA,NA,"1:31.467",NA,"1:23.133",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Nelson","Piquet",20,"Benetton Ford","1",6,53,9,"1:34:36.824",NA,NA,"1:45.114",NA,"1:40.049",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Roberto","Moreno",19,"Benetton Ford","2",8,53,6,"1:34:44.046","7.223","7.22200012207031","1:45.539",NA,"1:40.579",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Aguri","Suzuki",30,"Lola Lamborghini","3",9,53,4,"1:34:59.292","22.469","15.2460000514984","1:44.850",NA,"1:40.888",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Riccardo","Patrese",6,"Williams Renault","4",7,53,3,"1:35:13.081","36.258","13.7890000343323","1:44.233",NA,"1:40.355",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Thierry","Boutsen",5,"Williams Renault","5",5,53,2,"1:35:23.707","46.884","10.6259999275208","1:45.706",NA,"1:39.324",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Satoru","Nakajima",3,"Tyrrell Ford","6",13,53,1,"1:35:49.173","72.350","25.4660000801086","1:45.887",NA,"1:41.078",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Nicola","Larini",25,"Ligier Ford","7",17,52,0,"1","1","1","1:46.681",NA,"1:42.339",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Pierluigi","Martini",23,"Minardi Ford","8",10,52,0,"1","1","1","1:46.897",NA,"1:40.899",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Alex","Caffi",10,"Arrows Ford","9",23,52,0,"1","1","1","1:46.849",NA,"1:43.270",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Philippe","Alliot",26,"Ligier Ford","10",20,52,0,"1","1","1","1:46.106",NA,"1:42.593",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Derek","Warwick",11,"Lotus Lamborghini","NC",11,38,0,NA,NA,NA,"1:46.042",NA,"1:41.024",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Johnny","Herbert",12,"Lotus Lamborghini","NC",14,31,0,NA,NA,NA,"1:46.463",NA,"1:41.558",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Michele","Alboreto",9,"Arrows Ford","NC",24,28,0,NA,NA,NA,"1:47.094",NA,"1:43.304",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Nigel","Mansell",2,"Ferrari","NC",3,26,0,NA,NA,NA,"1:46.272",NA,"1:37.719",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Emanuele","Pirro",21,"Dallara Ford","NC",18,24,0,NA,NA,NA,"1:48.506",NA,"1:42.361",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Eric","Bernard",29,"Lola Lamborghini","NC",16,24,0,NA,NA,NA,"1:47.518",NA,"1:41.709",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Gianni","Morbidelli",24,"Minardi Ford","NC",19,18,0,NA,NA,NA,"1:48.865",NA,"1:42.364",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Ivan","Capelli",16,"Leyton House Judd","NC",12,16,0,NA,NA,NA,"1:48.035",NA,"1:41.033",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Andrea","deCesaris",22,"Dallara Ford","NC",25,13,0,NA,NA,NA,"1:49.761",NA,"1:43.601",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Mauricio","Gugelmin",15,"Leyton House Judd","NC",15,5,0,NA,NA,NA,"1:49.471",NA,"1:41.698",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","David","Brabham",7,"Brabham Judd","NC",22,2,0,NA,NA,NA,"1:54.765",NA,"1:43.156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Japan","Suzuka International Racing Course, Japan",1990,"21 Oct 1990","Gerhard","Berger",28,"McLaren Honda","NC",4,1,0,NA,NA,NA,"1:49.573",NA,"1:38.118",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Nelson","Piquet",20,"Benetton Ford","1",7,81,9,"1:49:44.570",NA,NA,"1:18.527",NA,"1:17.173",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Nigel","Mansell",2,"Ferrari","2",3,81,6,"1:49:47.698","3.129","3.12800002098083","1:18.203",NA,"1:16.352",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Alain","Prost",1,"Ferrari","3",4,81,4,"1:50:21.828","37.259","34.1300001144409","1:19.434",NA,"1:16.365",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Gerhard","Berger",28,"McLaren Honda","4",2,81,3,"1:50:31.431","46.862","9.6029999256134","1:20.025",NA,"1:16.244",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Thierry","Boutsen",5,"Williams Renault","5",9,81,2,"1:51:35.730","111.160","1.07165000041326","1:19.717",NA,"1:17.596",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Riccardo","Patrese",6,"Williams Renault","6",6,80,1,"1","1","1","1:19.818",NA,"1:17.156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Roberto","Moreno",19,"Benetton Ford","7",8,80,0,"1","1","1","1:19.707",NA,"1:17.437",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Jean","Alesi",4,"Tyrrell Ford","8",5,80,0,"1","1","1","1:19.732",NA,"1:16.837",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Pierluigi","Martini",23,"Minardi Ford","9",10,79,0,"2","2","2","1:21.257",NA,"1:17.827",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Nicola","Larini",25,"Ligier Ford","10",12,79,0,"2","2","2","1:21.209",NA,"1:18.730",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Philippe","Alliot",26,"Ligier Ford","11",19,78,0,"3","3","3","1:21.921",NA,"1:19.202",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Stefano","Modena",8,"Brabham Judd","12",17,77,0,"4","4","4","1:22.693",NA,"1:18.886",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Olivier","Grouillard",14,"Osella Ford","13",22,74,0,"7","7","7","1:25.642",NA,"1:19.722",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Emanuele","Pirro",21,"Dallara Ford","NC",21,68,0,NA,NA,NA,"1:22.505",NA,"1:19.476",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Ayrton","Senna",27,"McLaren Honda","NC",1,61,0,NA,NA,NA,"1:19.302",NA,"1:15.671",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Gabriele","Tarquini",17,"AGS Ford","NC",26,58,0,NA,NA,NA,"1:23.147",NA,"1:20.296",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Johnny","Herbert",12,"Lotus Lamborghini","NC",18,57,0,NA,NA,NA,"1:22.142",NA,"1:19.091",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Satoru","Nakajima",3,"Tyrrell Ford","NC",13,53,0,NA,NA,NA,"1:21.713",NA,"1:18.738",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Ivan","Capelli",16,"Leyton House Judd","NC",14,46,0,NA,NA,NA,"1:22.583",NA,"1:18.843",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Derek","Warwick",11,"Lotus Lamborghini","NC",11,43,0,NA,NA,NA,"1:22.524",NA,"1:18.351",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Mauricio","Gugelmin",15,"Leyton House Judd","NC",16,27,0,NA,NA,NA,"1:22.200",NA,"1:18.860",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Andrea","deCesaris",22,"Dallara Ford","NC",15,23,0,NA,NA,NA,"1:23.897",NA,"1:18.858",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Eric","Bernard",29,"Lola Lamborghini","NC",23,21,0,NA,NA,NA,"1:23.272",NA,"1:19.858",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Gianni","Morbidelli",24,"Minardi Ford","NC",20,20,0,NA,NA,NA,"1:24.272",NA,"1:19.347",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","David","Brabham",7,"Brabham Judd","NC",25,18,0,NA,NA,NA,"1:25.703",NA,"1:20.218",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Australia","Adelaide Street Circuit, Australia",1990,"04 Nov 1990","Aguri","Suzuki",30,"Lola Lamborghini","NC",24,6,0,NA,NA,NA,"1:24.007",NA,"1:19.970",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

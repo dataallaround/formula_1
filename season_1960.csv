@@ -1,0 +1,207 @@
+"race","circuit","season","date","driver_name","driver","number","car","position","starting_grid","laps","points","time_total","time_from_leader","time_from_previous","fastest_lap","average_speed","qualify_time","qualify_lap","stop_total","stop_lap_1","stop_lap_2","stop_lap_3","stop_lap_4","stop_lap_5","stop_lap_6","stop_time_1","stop_time_2","stop_time_3","stop_time_4","stop_time_5","stop_time_6"
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Bruce","McLaren",16,"Cooper Climax","1",13,80,8,"2:17:49.500",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Cliff","Allison",24,"Ferrari","2",7,80,6,"2:18:15.799","26.300","26.2990000247955",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Maurice","Trintignant",38,"Cooper Climax","3",8,NA,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Maurice","Trintignant",38,"Cooper Climax","3",8,NA,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Stirling","Moss",38,"Cooper Climax","3",8,80,0,"2:18:26.400","36.900",NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Stirling","Moss",38,"Cooper Climax","3",8,80,0,"2:18:26.400","36.900","0",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Carlos","Menditeguy",6,"Cooper Maserati","4",12,80,3,"2:18:42.799","53.300","16.3989999294281",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Wolfgang","vonTrips",30,"Ferrari","5",5,79,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Innes","Ireland",20,"Lotus Climax","6",2,79,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Jo","Bonnier",40,"BRM","7",4,79,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Phil","Hill",26,"Ferrari","8",6,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Alberto","RodriguezLarreta",46,"Lotus Climax","9",15,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","JoseFroilan","Gonzalez",32,"Ferrari","10",11,77,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Roberto","Bonomi",4,"Cooper Maserati","11",17,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Masten","Gregory",2,"Behra-Porsche","12",16,76,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Gino","Munaron",14,"Maserati","13",19,72,0,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Nasif","Estefano",10,"Maserati","14",20,70,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Harry","Schell",34,"Cooper Climax","NC",9,63,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Jack","Brabham",18,"Cooper Climax","NC",10,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Stirling","Moss",36,"Cooper Climax","NC",1,40,0,NA,NA,NA,"1:38.900",NA,"1:36.900",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Graham","Hill",42,"BRM","NC",3,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Alan","Stacey",22,"Lotus Climax","NC",14,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Ettore","Chimeri",44,"Maserati","NC",21,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Antonio","Creus",12,"Maserati","NC",22,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Argentina","Autódromo Juan y Oscar Gálvez, Argentina",1960,"07 Feb 1960","Giorgio","Scarlatti",8,"Maserati","NC",18,10,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Stirling","Moss",28,"Lotus Climax","1",1,100,8,"2:53:45.500",NA,NA,NA,NA,"1:36.300",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Bruce","McLaren",10,"Cooper Climax","2",11,100,6,"2:54:37.599","52.100","52.0989999771118","1:36.200",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Phil","Hill",36,"Ferrari","3",10,100,4,"2:54:47.400","61.900","9.80100011825562",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Tony","Brooks",18,"Cooper Climax","4",3,99,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Jo","Bonnier",2,"BRM","5",5,83,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Richie","Ginther",34,"Ferrari","6",9,70,1,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Graham","Hill",6,"BRM","7",6,66,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Wolfgang","vonTrips",38,"Ferrari","8",8,61,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Innes","Ireland",22,"Lotus Climax","9",7,56,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Dan","Gurney",4,"BRM","NC",14,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Jack","Brabham",8,"Cooper Climax","DQ",2,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Roy","Salvadori",14,"Cooper Climax","NC",12,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Alan","Stacey",24,"Lotus Climax","NC",13,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","John","Surtees",26,"Lotus Climax","NC",15,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Chris","Bristow",16,"Cooper Climax","NC",4,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Monaco","Circuit de Monaco, Monaco",1960,"29 May 1960","Maurice","Trintignant",44,"Cooper Maserati","NC",16,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Jim","Rathmann",4,"Watson Offenhauser","1",2,200,8,"3:36:11.360",NA,NA,"1:01.590",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Rodger","Ward",1,"Watson Offenhauser","2",3,200,6,"3:36:24.108","12.749","12.7480001449585",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Paul","Goldsmith",99,"Epperly Offenhauser","3",26,200,4,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Don","Branson",7,"Phillips Offenhauser","4",8,200,3,"0","0","0",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Johnny","Thomson",3,"Lesovsky Offenhauser","5",17,200,2,"0","0","0",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Eddie","Johnson",22,"Trevis Offenhauser","6",7,200,1,"0","0","0",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Lloyd","Ruby",98,"Watson Offenhauser","7",12,200,0,"0","0","0",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Bob","Veith",44,"Meskowski Offenhauser","8",25,200,0,"0","0","0",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Bud","Tingelstad",18,"Trevis Offenhauser","9",28,200,0,"0","0","0",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Bob","Christie",38,"Kurtis Kraft Offenhauser","10",14,200,0,"0","0","0",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Red","Amick",27,"Epperly Offenhauser","11",22,200,0,"0","0","0",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Duane","Carter",17,"Kuzma Offenhauser","12",27,200,0,"0","0","0",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Bill","Homeier",39,"Kuzma Offenhauser","13",31,200,0,"0","0","0",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Gene","Hartley",48,"Kurtis Kraft Offenhauser","14",24,196,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Chuck","Stevenson",65,"Watson Offenhauser","15",9,196,0,"4","4","4",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Bobby","Grim",14,"Meskowski Offenhauser","16",21,194,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Shorty","Templeman",26,"Kurtis Kraft Offenhauser","17",19,191,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Jim","Hurtubise",56,"Christensen Offenhauser","18",23,185,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Jimmy","Bryan",10,"Epperly Offenhauser","19",10,152,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Troy","Ruttman",28,"Watson Offenhauser","20",6,134,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Eddie","Sachs",6,"Ewing Offenhauser","21",1,132,0,NA,NA,NA,NA,NA,"1:01.395",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Don","Freeland",73,"Kurtis Kraft Offenhauser","22",11,129,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Tony","Bettenhausen",2,"Watson Offenhauser","23",18,125,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Wayne","Weiler",32,"Epperly Offenhauser","24",15,103,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","AnthonyJoseph","Foyt",5,"Kurtis Kraft Offenhauser","25",16,90,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Eddie","Russo",46,"Kurtis Kraft Offenhauser","26",29,84,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Johnny","Boyd",8,"Epperly Offenhauser","27",13,77,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Gene","Force",37,"Kurtis Kraft Offenhauser","28",20,74,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Jim","McWithey",16,"Epperly Offenhauser","29",32,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Len","Sutton",9,"Watson Offenhauser","30",5,47,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Dick","Rathmann",97,"Watson Offenhauser","31",4,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Al","Herman",76,"Ewing Offenhauser","32",30,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indianapolis 500","Indianapolis Motor Speedway, United States",1960,"30 May 1960","Dempsey","Wilson",23,"Kurtis Kraft Offenhauser","33",33,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Jack","Brabham",11,"Cooper Climax","1",2,75,8,"2:01:47.200",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Innes","Ireland",4,"Lotus Climax","2",3,75,6,"2:02:11.200","24.000","24",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Graham","Hill",16,"BRM","3",5,75,4,"2:02:43.799","56.600","32.5989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Stirling","Moss",7,"Lotus Climax","4",1,75,3,"2:02:44.900","57.700","1.1010000705719","1:33.800",NA,"1:33.200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Wolfgang","vonTrips",2,"Ferrari","5",15,74,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Richie","Ginther",3,"Ferrari","6",12,74,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Henry","Taylor",10,"Cooper Climax","7",14,70,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","CarelGodin","deBeaufort",20,"Cooper Climax","8",17,69,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Alan","Stacey",5,"Lotus Climax","NC",8,57,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Phil","Hill",1,"Ferrari","NC",13,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Jo","Bonnier",14,"BRM","NC",4,54,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Jim","Clark",6,"Lotus Climax","NC",11,42,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Maurice","Trintignant",18,"Cooper Maserati","NC",16,39,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Dan","Gurney",15,"BRM","NC",6,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Chris","Bristow",8,"Cooper Climax","NC",7,9,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Bruce","McLaren",12,"Cooper Climax","NC",9,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Netherlands","Circuit Park Zandvoort, Netherlands",1960,"06 Jun 1960","Tony","Brooks",9,"Cooper Climax","NC",10,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Jack","Brabham",2,"Cooper Climax","1",1,36,8,"2:21:37.300",NA,NA,"3:51.900",NA,"3:50.000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Bruce","McLaren",4,"Cooper Climax","2",13,36,6,"2:22:40.599","63.300","1.05498333374659",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Graham","Hill",10,"BRM","NC",5,35,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Olivier","Gendebien",34,"Cooper Climax","3",4,35,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Phil","Hill",24,"Ferrari","4",3,35,3,"1","1","1","3:51.900",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Jim","Clark",18,"Lotus Climax","5",9,34,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Lucien","Bianchi",32,"Cooper Climax","6",14,28,1,"8","8","8",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Alan","Stacey",16,"Lotus Climax","NC",16,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Willy","Mairesse",22,"Ferrari","NC",12,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Wolfgang","vonTrips",26,"Ferrari","NC",10,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Chris","Bristow",36,"Cooper Climax","NC",8,19,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Chuck","Daigh",30,"Scarab","NC",17,16,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Jo","Bonnier",6,"BRM","NC",6,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Innes","Ireland",14,"Lotus Climax","NC",7,13,0,NA,NA,NA,"3:51.900",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Dan","Gurney",8,"BRM","NC",11,4,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Tony","Brooks",38,"Cooper Climax","NC",2,2,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Belgium","Circuit de Spa-Francorchamps, Belgium",1960,"19 Jun 1960","Lance","Reventlow",28,"Scarab","NC",15,1,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Jack","Brabham",16,"Cooper Climax","1",1,50,8,"1:57:24.900",NA,NA,"2:17.500",NA,"2:16.800",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Olivier","Gendebien",44,"Cooper Climax","2",11,50,6,"1:58:13.200","48.300","48.2999999523163",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Bruce","McLaren",18,"Cooper Climax","3",9,50,4,"1:58:16.800","51.900","3.59999990463257",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Henry","Taylor",46,"Cooper Climax","4",13,49,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Jim","Clark",24,"Lotus Climax","5",12,49,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Ron","Flockhart",22,"Lotus Climax","6",8,49,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Innes","Ireland",20,"Lotus Climax","7",4,43,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Bruce","Halford",48,"Cooper Climax","8",16,40,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Masten","Gregory",40,"Cooper Maserati","9",17,37,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Ian","Burgess",42,"Cooper Maserati","10",20,36,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Wolfgang","vonTrips",4,"Ferrari","11",6,31,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Phil","Hill",2,"Ferrari","12",2,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Jo","Bonnier",8,"BRM","NC",10,22,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Lucien","Bianchi",36,"Cooper Climax","NC",15,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Dan","Gurney",10,"BRM","NC",7,17,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Gino","Munaron",30,"Cooper Castellotti","NC",19,15,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Willy","Mairesse",6,"Ferrari","NC",5,14,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Tony","Brooks",14,"Vanwall","NC",14,7,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Maurice","Trintignant",38,"Cooper Maserati","NC",18,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"France","Circuit de Reims-Gueux, France",1960,"03 Jul 1960","Graham","Hill",12,"BRM","NC",3,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Jack","Brabham",1,"Cooper Climax","1",1,77,8,"2:04:24.600",NA,NA,NA,NA,"1:34.600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","John","Surtees",9,"Lotus Climax","2",11,77,6,"2:05:14.199","49.600","49.5989999771118",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Innes","Ireland",7,"Lotus Climax","3",5,77,4,"2:05:54.199","89.600","40",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Bruce","McLaren",2,"Cooper Climax","4",3,76,3,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Tony","Brooks",12,"Cooper Climax","5",9,76,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Wolfgang","vonTrips",11,"Ferrari","6",7,75,1,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Phil","Hill",10,"Ferrari","7",10,75,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Henry","Taylor",15,"Cooper Climax","8",16,74,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Olivier","Gendebien",14,"Cooper Climax","9",12,74,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Dan","Gurney",5,"BRM","10",6,74,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Maurice","Trintignant",19,"Aston Martin","11",21,72,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","David","Piper",26,"Lotus Climax","12",23,72,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Brian","Naylor",25,"JBW Maserati","13",18,72,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Graham","Hill",4,"BRM","NC",2,71,0,NA,NA,NA,"1:34.400",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Masten","Gregory",16,"Cooper Maserati","14",14,71,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Gino","Munaron",21,"Cooper Castellotti","15",24,68,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Jim","Clark",8,"Lotus Climax","16",8,68,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Lucien","Bianchi",24,"Cooper Climax","NC",17,60,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Jo","Bonnier",6,"BRM","NC",4,59,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Chuck","Daigh",3,"Cooper Climax","NC",19,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Ian","Burgess",17,"Cooper Maserati","NC",20,56,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Jack","Fairman",23,"Cooper Climax","NC",15,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Roy","Salvadori",18,"Aston Martin","NC",13,44,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Great Britain","Silverstone Circuit, Great Britain",1960,"16 Jul 1960","Keith","Greene",22,"Cooper Maserati","NC",22,12,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Jack","Brabham",2,"Cooper Climax","1",3,55,8,"2:19:00.030",NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Bruce","McLaren",4,"Cooper Climax","2",6,55,6,"2:19:58.000","57.970","57.9700000286102",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Jim","Clark",14,"Lotus Climax","3",8,55,4,"2:20:53.259","113.230","55.2590000629425",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Wolfgang","vonTrips",28,"Ferrari","4",9,55,3,"2:20:58.839","118.810","5.57999992370605",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Stirling","Moss",12,"Lotus Climax","DQ",4,50,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Tony","Brooks",6,"Cooper Climax","5",12,49,2,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Innes","Ireland",16,"Lotus Climax","6",7,48,1,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Olivier","Gendebien",8,"Cooper Climax","7",14,46,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Mario","deAraujoCabral",32,"Cooper Maserati","NC",15,37,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","John","Surtees",18,"Lotus Climax","NC",1,36,0,NA,NA,NA,"2:27.530",NA,"2:25.560",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Phil","Hill",26,"Ferrari","NC",10,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Dan","Gurney",24,"BRM","NC",2,24,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Masten","Gregory",30,"Cooper Maserati","NC",11,21,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Graham","Hill",22,"BRM","NC",5,8,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Portugal","Circuit da Boavista, Portugal",1960,"14 Aug 1960","Jo","Bonnier",20,"BRM","NC",13,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Phil","Hill",20,"Ferrari","1",1,50,8,"2:21:09.200",NA,NA,"2:43.600",NA,"2:41.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Richie","Ginther",18,"Ferrari","2",2,50,6,"2:23:36.799","147.600","2.45998333295186",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Willy","Mairesse",16,"Ferrari","3",3,49,4,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Giulio","Cabianca",2,"Cooper Castellotti","4",4,48,3,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Wolfgang","vonTrips",22,"Ferrari","5",6,48,2,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Hans","Herrmann",26,"Porsche","6",10,47,1,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Edgar","Barth",24,"Porsche","7",12,47,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Piero","Drogo",12,"Cooper Climax","8",15,45,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Wolfgang","Seidel",10,"Cooper Climax","9",13,44,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Fred","Gamble",28,"Behra-Porsche","10",14,41,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Brian","Naylor",6,"JBW Maserati","NC",7,41,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Alfonso","Thiele",34,"Cooper Maserati","NC",9,32,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Gino","Munaron",4,"Cooper Castellotti","NC",8,27,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Giorgio","Scarlatti",36,"Cooper Maserati","NC",5,26,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Vic","Wilson",30,"Cooper Climax","NC",16,23,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Italy","Autodromo Nazionale Monza, Italy",1960,"04 Sep 1960","Arthur","Owen",8,"Cooper Climax","NC",11,0,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Stirling","Moss",5,"Lotus Climax","1",1,75,8,"2:28:52.200",NA,NA,NA,NA,"1:54.400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Innes","Ireland",10,"Lotus Climax","2",7,75,6,"2:29:30.200","38.000","38",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Bruce","McLaren",3,"Cooper Climax","3",10,75,4,"2:30:14.200","82.000","44",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Jack","Brabham",2,"Cooper Climax","4",2,74,3,"1","1","1","1:56.300",NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Jo","Bonnier",15,"BRM","5",4,74,2,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Phil","Hill",9,"Cooper Climax","6",13,74,1,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Jim","Hall",24,"Lotus Climax","7",12,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Roy","Salvadori",14,"Cooper Climax","8",15,73,0,"2","2","2",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Wolfgang","vonTrips",26,"Cooper Maserati","9",16,72,0,"3","3","3",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Chuck","Daigh",23,"Scarab","10",18,70,0,"5","5","5",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Pete","Lovely",25,"Cooper Castellotti","11",20,69,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Olivier","Gendebien",7,"Cooper Climax","12",8,69,0,"6","6","6",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Bob","Drake",20,"Maserati","13",22,68,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Henry","Taylor",8,"Cooper Climax","14",14,68,0,"7","7","7",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Maurice","Trintignant",18,"Cooper Maserati","15",19,66,0,"9","9","9",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Jim","Clark",12,"Lotus Climax","16",5,61,0,"1","1","1",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Graham","Hill",17,"BRM","NC",11,34,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Ian","Burgess",19,"Cooper Maserati","NC",23,29,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Brian","Naylor",21,"JBW Maserati","NC",17,20,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Dan","Gurney",16,"BRM","NC",3,18,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Ron","Flockhart",4,"Cooper Climax","NC",21,11,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","Tony","Brooks",6,"Cooper Climax","NC",9,6,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"United States","Riverside International Raceway, United States",1960,"20 Nov 1960","John","Surtees",11,"Lotus Climax","NC",6,3,0,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
